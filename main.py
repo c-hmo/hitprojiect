@@ -68,7 +68,7 @@ def get_ai_desc(repo_name, raw_desc):
         print(f"❌ 网络请求报错: {e}")
         return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 网络超时。"
 
-def fetch_list(url_suffix, section_title, history, today_str, max_items=5):
+def fetch_list(url_suffix, section_title, history, today_str, max_items):
     url = f'https://github.com/trending{url_suffix}'
     res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(res.text, 'html.parser')
@@ -92,7 +92,7 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items=5):
         print(f"正在处理: {name} (连榜: {streak})")
         ai_analysis = get_ai_desc(name, raw_desc)
         
-        # 究极护盾：强制休息 15 秒！完美破解谷歌的“1分钟5次”限流魔法
+        # 强制休息 15 秒，完美避开谷歌的频率限制
         time.sleep(15) 
         
         html_items += f"""
@@ -112,8 +112,9 @@ def send_email_report():
     today_str = datetime.now().strftime("%Y-%m-%d")
     history = load_history()
     
-    daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 5)
-    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 5)
+    # 核心修改：飙升榜调整为 10 个，热门榜调整为 15 个
+    daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 10)
+    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 15)
     
     save_history(history)
     
