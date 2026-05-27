@@ -54,7 +54,7 @@ def get_ai_desc(repo_name, raw_desc):
         f"请用中文精炼分析 GitHub 项目 '{repo_name}'。\n原始英文简介：{raw_desc}\n\n"
         f"请严格用 HTML 换行符 <br> 分隔返回两行（勿用Markdown星号）：\n"
         f"<b>【是什么】</b>[一句话大白话解释它是干嘛的]\n"
-        f"<b>【怎么用】</b>[核心功能或适用场景]"
+        f"<b><b>【怎么用】</b></b>[核心功能或适用场景]"
     )
     try:
         res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=10)
@@ -92,7 +92,7 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items):
         print(f"正在处理: {name} (连榜: {streak})")
         ai_analysis = get_ai_desc(name, raw_desc)
         
-        # 强制休息 15 秒，完美避开谷歌的频率限制
+        # 究极睡眠护盾：每次请求休息 15 秒，稳稳绕过每分钟 5 次的频率限制
         time.sleep(15) 
         
         html_items += f"""
@@ -112,9 +112,9 @@ def send_email_report():
     today_str = datetime.now().strftime("%Y-%m-%d")
     history = load_history()
     
-    # 核心修改：飙升榜调整为 10 个，热门榜调整为 15 个
+    # 核心微调：飙升榜 10 个，热门榜 8 个（总数 18 个，完美避开 20 次日限额）
     daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 10)
-    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 15)
+    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 8)
     
     save_history(history)
     
