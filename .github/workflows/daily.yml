@@ -1,0 +1,24 @@
+name: Daily GitHub Email
+on:
+  schedule:
+    - cron: '30 23 * * *' # 每天早上 7:30 运行 (北京时间)
+  workflow_dispatch:      # 允许我们在网页上手动点击运行测试
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    - name: Run Email Script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        SENDER_PASS: ${{ secrets.SENDER_PASS }}
+        RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+      run: python main.py
