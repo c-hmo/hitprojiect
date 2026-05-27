@@ -1,7 +1,7 @@
 import os
 import json
 import smtplib
-import time  # 新增：引入时间模块，用来控制请求节奏
+import time
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
 from email.header import Header
@@ -51,8 +51,8 @@ def get_ai_desc(repo_name, raw_desc):
     if not AI_API_KEY or AI_API_KEY == "123": 
         return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> 暂无配置 AI 解析。"
         
-    # 更换为最稳定的 v1 官方接口版本
-    url = f"https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key={AI_API_KEY}"
+    # 核心修复：更新为 2026 年最新且绝对生效的 gemini-3.5-flash 模型
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={AI_API_KEY}"
     prompt = (
         f"请用中文精炼分析 GitHub 项目 '{repo_name}'。\n原始英文简介：{raw_desc}\n\n"
         f"请严格用 HTML 换行符 <br> 分隔返回两行（勿用Markdown星号）：\n"
@@ -65,7 +65,6 @@ def get_ai_desc(repo_name, raw_desc):
         if 'candidates' in data:
             return data['candidates'][0]['content']['parts'][0]['text'].strip()
         else:
-            # 找回丢失的黑匣子，如果谷歌再拒绝，后台就能看到原因了
             print(f"⚠️ 谷歌大模型报错啦: {data}")
             return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 接口返回异常，请查看 Actions 日志。"
     except Exception as e:
@@ -97,7 +96,7 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items=5):
         print(f"正在处理: {name} (连榜: {streak})")
         ai_analysis = get_ai_desc(name, raw_desc)
         
-        # 新增核心护盾：每次请求完毕，强行休息 2.5 秒，完美避开并发拦截！
+        # 强制休息 2.5 秒，完美避开高并发拦截
         time.sleep(2.5) 
         
         html_items += f"""
