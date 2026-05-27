@@ -2,6 +2,7 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
+from email.utils import formataddr  # 新增：专门对付 QQ 邮箱的安检
 import requests
 from bs4 import BeautifulSoup
 
@@ -61,13 +62,14 @@ def send_email_report():
 
     print("准备发送邮件...")
     msg = MIMEText(email_content, 'html', 'utf-8')
-    msg['From'] = Header(f"GitHub 情报局 <{SENDER_EMAIL}>")
-    msg['To'] = Header(RECEIVER_EMAIL)
+    
+    # 核心修复：分离中文昵称和邮箱地址，满足 QQ 邮箱的变态要求
+    msg['From'] = formataddr((Header("GitHub 情报局", 'utf-8').encode(), SENDER_EMAIL))
+    msg['To'] = RECEIVER_EMAIL
     msg['Subject'] = Header("🚀 今天的 GitHub 飙升项目已经送达！", 'utf-8')
 
     try:
-        # QQ 或 163 邮箱的专用发信配置 (SMTP_SSL)
-        smtp_server = "smtp.qq.com"  # 默认使用 QQ 邮箱
+        smtp_server = "smtp.qq.com" 
         port = 465 
         server = smtplib.SMTP_SSL(smtp_server, port) 
         server.login(SENDER_EMAIL, SENDER_PASS)
