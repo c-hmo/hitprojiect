@@ -18,7 +18,6 @@ def get_ai_desc(repo_name, raw_desc):
         
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={AI_API_KEY}"
     
-    # 重新定制的强约束提示词，让 AI 严格按结构输出 HTML 换行
     prompt = (
         f"请用中文精炼分析 GitHub 热门项目 '{repo_name}'。\n"
         f"项目的原始英文简介为：{raw_desc}\n\n"
@@ -29,10 +28,16 @@ def get_ai_desc(repo_name, raw_desc):
     
     try:
         res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=10)
-        ai_text = res.json()['candidates'][0]['content']['parts'][0]['text'].strip()
-        return ai_text
+        data = res.json()
+        
+        # 增加一道防线：看看谷歌到底返回了什么
+        if 'candidates' in data:
+            return data['candidates'][0]['content']['parts'][0]['text'].strip()
+        else:
+            print(f"⚠️ 谷歌大模型报错啦: {data}")
+            return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 接口返回异常，请查看日志。"
     except Exception as e:
-        print(f"AI 解析出错: {e}")
+        print(f"❌ AI 解析网络出错: {e}")
         return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 提炼时发生网络波动。"
 
 def send_email_report():
