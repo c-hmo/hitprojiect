@@ -65,9 +65,9 @@ def send_email_report():
     msg['To'] = Header(RECEIVER_EMAIL)
     msg['Subject'] = Header("🚀 今天的 GitHub 飙升项目已经送达！", 'utf-8')
 
-       try:
-        # QQ 或 163 邮箱的专用发信配置
-        smtp_server = "smtp.qq.com"  # 如果是163，改成 smtp.163.com
+    try:
+        # QQ 或 163 邮箱的专用发信配置 (SMTP_SSL)
+        smtp_server = "smtp.qq.com"  # 默认使用 QQ 邮箱
         port = 465 
         server = smtplib.SMTP_SSL(smtp_server, port) 
         server.login(SENDER_EMAIL, SENDER_PASS)
@@ -76,3 +76,6 @@ def send_email_report():
         print("🎉 邮件发送成功！")
     except Exception as e:
         print(f"❌ 邮件发送失败: {e}")
+
+if __name__ == "__main__":
+    send_email_report()
