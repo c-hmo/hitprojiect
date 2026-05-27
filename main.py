@@ -16,7 +16,6 @@ RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL")
 
 HISTORY_FILE = "history.json"
 
-# --- 记忆读取与更新模块 ---
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
@@ -46,12 +45,10 @@ def update_and_get_streak(repo_name, history, today_str):
     history[repo_name] = {"streak": streak, "last_seen": today_str}
     return streak
 
-# --- AI 提炼模块 ---
 def get_ai_desc(repo_name, raw_desc):
     if not AI_API_KEY or AI_API_KEY == "123": 
         return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> 暂无配置 AI 解析。"
         
-    # 核心修复：更新为 2026 年最新且绝对生效的 gemini-3.5-flash 模型
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={AI_API_KEY}"
     prompt = (
         f"请用中文精炼分析 GitHub 项目 '{repo_name}'。\n原始英文简介：{raw_desc}\n\n"
@@ -71,7 +68,6 @@ def get_ai_desc(repo_name, raw_desc):
         print(f"❌ 网络请求报错: {e}")
         return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 网络超时。"
 
-# --- 数据抓取与排版模块 ---
 def fetch_list(url_suffix, section_title, history, today_str, max_items=5):
     url = f'https://github.com/trending{url_suffix}'
     res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -96,8 +92,8 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items=5):
         print(f"正在处理: {name} (连榜: {streak})")
         ai_analysis = get_ai_desc(name, raw_desc)
         
-        # 强制休息 2.5 秒，完美避开高并发拦截
-        time.sleep(2.5) 
+        # 究极护盾：强制休息 15 秒！完美破解谷歌的“1分钟5次”限流魔法
+        time.sleep(15) 
         
         html_items += f"""
         <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eaecef;">
