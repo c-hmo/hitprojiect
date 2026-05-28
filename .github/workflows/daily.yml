@@ -1,34 +1,43 @@
-name: Daily GitHub Email
+name: GitHub Trending Daily Bot
+
 on:
   schedule:
+    # 每天早上定时运行 (根据你自己的时间调)
     - cron: '30 23 * * *' 
-  workflow_dispatch:      
+  workflow_dispatch: # 允许手动点击运行
+
+# 🚨 极其关键的一步：赋予机器人写入代码库的权限
+permissions:
+  contents: write
 
 jobs:
-  send-report:
+  build-and-run:
     runs-on: ubuntu-latest
-    # 这一句非常关键：给机器人赋予把历史数据保存回仓库的权限
-    permissions:
-      contents: write 
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-    - name: Install dependencies
-      run: pip install requests beautifulsoup4
-    - name: Run Email Script
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-        SENDER_PASS: ${{ secrets.SENDER_PASS }}
-        RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
-      run: python main.py
-    - name: Commit and push history
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add history.json
-        # 如果文件有更新，就把它提交保存进仓库里
-        git diff --quiet && git diff --staged --quiet || (git commit -m "📝 更新项目上榜历史记录" && git push)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests # 如果你有其他依赖，一并写在这里
+          # pip install google-generativeai 等等
+
+      - name: Run Trending Bot
+        run: python main.py # 替换成你实际的 Python 文件名
+        env:
+          # 确保这里的密钥是你刚刚换上去的那把付费新钥匙
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} 
+
+      # 🚨 极其关键的一步：让机器人把缓存文件推送到仓库
+      - name: Commit and push cache
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add translation_cache.json
+          # 如果文件有变动就提交，没有变动就跳过，防止报错中断
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 更新每日翻译缓存与霸榜天数" && git push)
