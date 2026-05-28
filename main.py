@@ -47,26 +47,31 @@ def update_and_get_streak(repo_name, history, today_str):
 
 def get_ai_desc(repo_name, raw_desc):
     if not AI_API_KEY or AI_API_KEY == "123": 
-        return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> 暂无配置 AI 解析。"
+        return f"<b>【是什么】</b> 暂无配置 AI 解析。<br><b>【怎么用】</b> 请检查 API 密钥。"
         
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={AI_API_KEY}"
     prompt = (
         f"请用中文精炼分析 GitHub 项目 '{repo_name}'。\n原始英文简介：{raw_desc}\n\n"
         f"请严格用 HTML 换行符 <br> 分隔返回两行（勿用Markdown星号）：\n"
         f"<b>【是什么】</b>[一句话大白话解释它是干嘛的]\n"
-        f"<b><b>【怎么用】</b></b>[核心功能或适用场景]"
+        f"<b>【怎么用】</b>[核心功能或适用场景]"
     )
-    try:
-        res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=10)
-        data = res.json()
-        if 'candidates' in data:
-            return data['candidates'][0]['content']['parts'][0]['text'].strip()
-        else:
-            print(f"⚠️ 谷歌大模型报错啦: {data}")
-            return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 接口返回异常，请查看 Actions 日志。"
-    except Exception as e:
-        print(f"❌ 网络请求报错: {e}")
-        return f"<b>【是什么】</b> {raw_desc}<br><b>【怎么用】</b> AI 网络超时。"
+    
+    # 最多重试 3 次，绝不空转死循环
+    for attempt in range(3):
+        try:
+            res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=30)
+            data = res.json()
+            if 'candidates' in data:
+                return data['candidates'][0]['content']['parts'][0]['text'].strip()
+            else:
+                print(f"⚠️ 谷歌大模型报错啦: {data}")
+                return f"<b>【是什么】</b> AI 接口返回异常<br><b>【怎么用】</b> 请查看 Actions 日志。"
+        except Exception as e:
+            print(f"⚠️ 第 {attempt + 1} 次网络请求失败，正在重试... ({e})")
+            time.sleep(3) 
+            
+    return f"<b>【是什么】</b> AI 网络持续超时<br><b>【怎么用】</b> 多次重试均失败，请检查网络。"
 
 def fetch_list(url_suffix, section_title, history, today_str, max_items):
     url = f'https://github.com/trending{url_suffix}'
@@ -92,9 +97,10 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items):
         print(f"正在处理: {name} (连榜: {streak})")
         ai_analysis = get_ai_desc(name, raw_desc)
         
-        # 究极睡眠护盾：每次请求休息 15 秒，稳稳绕过每分钟 5 次的频率限制
+        # 强制休息 15 秒，防并发拦截
         time.sleep(15) 
         
+        # 核心修改：排版升级，上方中文AI解析，下方虚线隔开保留英文原版
         html_items += f"""
         <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eaecef;">
             <h3 style="color: #0366d6; margin-bottom: 8px; font-size: 16px;">
@@ -103,6 +109,9 @@ def fetch_list(url_suffix, section_title, history, today_str, max_items):
             </h3>
             <div style="color: #24292e; background: #fafbfc; padding: 12px; border-radius: 6px; border: 1px solid #e1e4e8; margin: 5px 0; font-size: 14px; line-height: 1.6;">
                 {ai_analysis}
+                <div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #d1d5da; color: #6a737d; font-size: 13px;">
+                    📝 <b>原始简介 (Original):</b> <i>{raw_desc}</i>
+                </div>
             </div>
         </div>
         """
@@ -112,9 +121,9 @@ def send_email_report():
     today_str = datetime.now().strftime("%Y-%m-%d")
     history = load_history()
     
-    # 核心微调：飙升榜 10 个，热门榜 8 个（总数 18 个，完美避开 20 次日限额）
-    daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 10)
-    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 8)
+    # 核心修改：飙升榜拉满到 20 个，热门榜拉满到 15 个，总计 35 个黑马项目！
+    daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 20)
+    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 15)
     
     save_history(history)
     
