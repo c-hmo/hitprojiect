@@ -1,159 +1,66 @@
-import os
 import json
-import smtplib
-import time
-from datetime import datetime, timedelta
-from email.mime.text import MIMEText
-from email.header import Header
-from email.utils import formataddr
-import requests
-from bs4 import BeautifulSoup
+import os
+from datetime import datetime
 
-AI_API_KEY = os.getenv("GEMINI_API_KEY")
-SENDER_EMAIL = os.getenv("SENDER_EMAIL")     
-SENDER_PASS = os.getenv("SENDER_PASS")       
-RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL") 
+# --- 1. 初始化和加载缓存 ---
+CACHE_FILE = 'translation_cache.json'
+today_str = datetime.now().strftime("%Y-%m-%d")
 
-HISTORY_FILE = "history.json"
+# 尝试读取昨天的记忆
+if os.path.exists(CACHE_FILE):
+    with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+        cache_data = json.load(f)
+else:
+    cache_data = {}
 
-def load_history():
-    if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
+# 准备一个空列表，用来装今天要发送的完整 35 个项目数据
+final_email_projects = []
 
-def save_history(history):
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(history, f, ensure_ascii=False, indent=2)
-
-def update_and_get_streak(repo_name, history, today_str):
-    today_date = datetime.strptime(today_str, "%Y-%m-%d").date()
+# --- 2. 核心遍历与拦截逻辑 ---
+# 假设 today_35_projects 是你刚刚抓取下来的 35 个项目的列表
+for project in today_35_projects:
+    repo_name = project['repo_name']
+    original_desc = project['description']
+    project_url = project['url']
     
-    if repo_name in history:
-        last_seen_str = history[repo_name]["last_seen"]
-        last_seen_date = datetime.strptime(last_seen_str, "%Y-%m-%d").date()
+    # 默认上榜天数为 1
+    days_on_list = 1
+    
+    # 💥 判断：如果项目昨天翻译过了（在缓存里）
+    if repo_name in cache_data:
+        print(f"✅ 命中缓存 (免 Token): {repo_name}")
+        translated_desc = cache_data[repo_name]['translation']
+        # 天数累加
+        days_on_list = cache_data[repo_name].get('days_on_list', 1) + 1
         
-        if last_seen_date == today_date - timedelta(days=1):
-            streak = history[repo_name]["streak"] + 1
-        elif last_seen_date == today_date:
-            streak = history[repo_name]["streak"] 
-        else:
-            streak = 1 
+    # 💥 判断：如果是今天刚冒出来的新项目
     else:
-        streak = 1
+        print(f"🚀 新项目上榜 (调用 Gemini): {repo_name}")
         
-    history[repo_name] = {"streak": streak, "last_seen": today_str}
-    return streak
-
-def get_ai_desc(repo_name, raw_desc):
-    if not AI_API_KEY or AI_API_KEY == "123": 
-        return f"<b>【是什么】</b> 暂无配置 AI 解析。<br><b>【怎么用】</b> 请检查 API 密钥。"
-        
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={AI_API_KEY}"
-    prompt = (
-        f"请用中文精炼分析 GitHub 项目 '{repo_name}'。\n原始英文简介：{raw_desc}\n\n"
-        f"请严格用 HTML 换行符 <br> 分隔返回两行（勿用Markdown星号）：\n"
-        f"<b>【是什么】</b>[一句话大白话解释它是干嘛的]\n"
-        f"<b>【怎么用】</b>[核心功能或适用场景]"
-    )
+        # ⬇️ 【把你原来调用 Gemini API 的那段代码放在这里】 ⬇️
+        # translated_desc = call_gemini_api(original_desc) 
+        # ⬆️ ------------------------------------------- ⬆️
     
-    # 最多重试 3 次，绝不空转死循环
-    for attempt in range(3):
-        try:
-            res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=30)
-            data = res.json()
-            if 'candidates' in data:
-                return data['candidates'][0]['content']['parts'][0]['text'].strip()
-            else:
-                print(f"⚠️ 谷歌大模型报错啦: {data}")
-                return f"<b>【是什么】</b> AI 接口返回异常<br><b>【怎么用】</b> 请查看 Actions 日志。"
-        except Exception as e:
-            print(f"⚠️ 第 {attempt + 1} 次网络请求失败，正在重试... ({e})")
-            time.sleep(3) 
-            
-    return f"<b>【是什么】</b> AI 网络持续超时<br><b>【怎么用】</b> 多次重试均失败，请检查网络。"
-
-def fetch_list(url_suffix, section_title, history, today_str, max_items):
-    url = f'https://github.com/trending{url_suffix}'
-    res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-    soup = BeautifulSoup(res.text, 'html.parser')
-    articles = soup.find_all('article', class_='Box-row')
+    # 更新缓存字典，准备下班前保存
+    cache_data[repo_name] = {
+        'translation': translated_desc,
+        'days_on_list': days_on_list,
+        'last_seen': today_str
+    }
     
-    html_items = f"""
-    <div style="background-color: #f6f8fa; padding: 10px 15px; border-left: 5px solid #d73a49; margin: 30px 0 15px 0;">
-        <h2 style="color: #24292e; margin: 0; font-size: 18px;">{section_title}</h2>
-    </div>
-    """
-    
-    for idx, article in enumerate(articles[:max_items], 1):
-        title_box = article.find('h2', class_='h3')
-        name = "".join(title_box.text.split()) if title_box else "Unknown"
-        desc_box = article.find('p', class_='col-9')
-        raw_desc = desc_box.text.strip() if desc_box else "No description available"
-        
-        streak = update_and_get_streak(name, history, today_str)
-        streak_badge = f"<span style='background:#ffd33d; color:#24292e; padding:2px 8px; border-radius:12px; font-size:12px; font-weight:bold; margin-left:10px; vertical-align: middle;'>🔥 连续上榜 {streak} 天</span>" if streak > 1 else ""
-        
-        print(f"正在处理: {name} (连榜: {streak})")
-        ai_analysis = get_ai_desc(name, raw_desc)
-        
-        # 强制休息 15 秒，防并发拦截
-        time.sleep(15) 
-        
-        # 核心修改：排版升级，上方中文AI解析，下方虚线隔开保留英文原版
-        html_items += f"""
-        <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eaecef;">
-            <h3 style="color: #0366d6; margin-bottom: 8px; font-size: 16px;">
-                {idx}. <a href="https://github.com/{name}" style="color: #0366d6; text-decoration: none;">{name}</a>
-                {streak_badge}
-            </h3>
-            <div style="color: #24292e; background: #fafbfc; padding: 12px; border-radius: 6px; border: 1px solid #e1e4e8; margin: 5px 0; font-size: 14px; line-height: 1.6;">
-                {ai_analysis}
-                <div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #d1d5da; color: #6a737d; font-size: 13px;">
-                    📝 <b>原始简介 (Original):</b> <i>{raw_desc}</i>
-                </div>
-            </div>
-        </div>
-        """
-    return html_items
+    # 把处理好的完美数据，塞进最终要发邮件的列表里
+    final_email_projects.append({
+        'repo_name': repo_name,
+        'description': translated_desc,
+        'days_on_list': days_on_list,
+        'url': project_url
+    })
 
-def send_email_report():
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    history = load_history()
-    
-    # 核心修改：飙升榜拉满到 20 个，热门榜拉满到 15 个，总计 35 个黑马项目！
-    daily_html = fetch_list("?since=daily", "🚀 今日飙升榜 (Daily)", history, today_str, 20)
-    weekly_html = fetch_list("?since=weekly", "🌟 本周热门榜 (Weekly)", history, today_str, 15)
-    
-    save_history(history)
-    
-    email_content = f"""
-    <html>
-    <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; max-width: 650px; margin: 0 auto; padding: 20px;">
-        <h1 style="color: #24292e; border-bottom: 2px solid #0076ff; padding-bottom: 10px; text-align: center;">📊 GitHub 技术情报局</h1>
-        <p style="text-align: center; color: #586069; font-size: 14px;">{today_str} · AI 深度提炼版</p>
-        {daily_html}
-        {weekly_html}
-    </body>
-    </html>
-    """
+# --- 3. 运行结束前，将新记忆存回本地文件 ---
+with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+    json.dump(cache_data, f, ensure_ascii=False, indent=2)
+    print("💾 翻译缓存与霸榜天数已成功覆盖保存！")
 
-    print("准备发送邮件...")
-    msg = MIMEText(email_content, 'html', 'utf-8')
-    msg['From'] = formataddr((Header("GitHub 情报局", 'utf-8').encode(), SENDER_EMAIL))
-    msg['To'] = RECEIVER_EMAIL
-    msg['Subject'] = Header(f"🚀 {today_str} GitHub 飙升与热门项目送达！", 'utf-8')
-
-    try:
-        smtp_server = "smtp.qq.com" 
-        port = 465 
-        server = smtplib.SMTP_SSL(smtp_server, port) 
-        server.login(SENDER_EMAIL, SENDER_PASS)
-        server.sendmail(SENDER_EMAIL, [RECEIVER_EMAIL], msg.as_string())
-        server.quit()
-        print("🎉 邮件发送成功！")
-    except Exception as e:
-        print(f"❌ 邮件发送失败: {e}")
-
-if __name__ == "__main__":
-    send_email_report()
+# ---------------------------------------------------------
+# 接下来的代码，你就直接循环 final_email_projects 这个列表，
+# 把它拼接成 HTML 或者文本邮件发出去就行了！
