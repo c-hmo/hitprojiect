@@ -2,12 +2,11 @@ name: Daily GitHub Trending & AI Summary
 
 on:
   schedule:
-    # 每天北京时间早上 8 点运行 (UTC 0:00)
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动在网页端点击运行
+  workflow_dispatch:
 
 permissions:
-  contents: write # 必须：允许将修改后的 history.json 推送回仓库
+  contents: write
 
 jobs:
   build_and_send:
@@ -20,12 +19,13 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        python-version: '3.12'  # 升级到最新的稳定版本 3.12
 
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 google-generativeai
+        # 替换为了全新的 google-genai 包
+        pip install requests beautifulsoup4 google-genai
 
     - name: Run Main Script
       env:
