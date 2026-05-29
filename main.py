@@ -8,7 +8,8 @@ from datetime import datetime, timedelta
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # 配置区
 HISTORY_FILE = "history.json"
@@ -46,12 +47,11 @@ def get_github_trending(since, limit):
     return repos
 
 def call_gemini_with_retry(name, description):
-    """调用 Gemini API 并严格限制频率防封"""
+    """调用 Gemini API (使用最新的 google-genai 库) 并严格限制频率防封"""
     if not GEMINI_API_KEY:
         return {"what_it_does": "未配置API Key", "configuration": "未配置API Key"}
         
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.Client(api_key=GEMINI_API_KEY)
     
     prompt = f"""
     分析以下GitHub项目：
@@ -69,10 +69,14 @@ def call_gemini_with_retry(name, description):
     for attempt in range(3):
         try:
             print(f"[{name}] 请求 Gemini API...")
-            response = model.generate_content(
-                prompt,
-                generation_config={"response_mime_type": "application/json"}
+            response = client.models.generate_content(
+                model='gemini-1.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json"
+                )
             )
+            # 解析返回的 JSON 文本
             return json.loads(response.text.strip())
         except Exception as e:
             print(f"请求失败 (尝试 {attempt+1}/3): {e}")
@@ -85,17 +89,23 @@ def process_repos(hot_repos, surging_repos):
     today_str = datetime.now().strftime("%Y-%m-%d")
     yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     
-    # 加载历史记录
+    # 增加容错机制：尝试加载 JSON，如果文件为空或格式错误，则使用默认结构
+    db = {"last_run_date": "", "repos": {}}
     if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            db = json.load(f)
-    else:
-        db = {"last_run_date": "", "repos": {}}
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content:  # 确保文件不是完全空白的
+                    db = json.loads(content)
+        except json.JSONDecodeError:
+            print("⚠️ history.json 格式错误或为空，已自动初始化为默认结构。")
 
     all_current_repos = hot_repos + surging_repos
-    
-    # 避免在同一天多次运行导致连榜天数错误增加
-    is_new_day = (db["last_run_date"] != today_str)
+    is_new_day = (db.get("last_run_date") != today_str)
+
+    # 确保 db 中有 repos 键
+    if "repos" not in db:
+        db["repos"] = {}
 
     for repo in all_current_repos:
         name = repo["name"]
@@ -108,9 +118,9 @@ def process_repos(hot_repos, surging_repos):
             if is_new_day and last_seen == yesterday_str:
                 repo["streak"] = current_streak + 1
             elif not is_new_day:
-                repo["streak"] = current_streak # 今天已经跑过了，天数不变
+                repo["streak"] = current_streak
             else:
-                repo["streak"] = 1 # 断更了，重新计算
+                repo["streak"] = 1 
         else:
             repo["streak"] = 1
 
@@ -120,7 +130,7 @@ def process_repos(hot_repos, surging_repos):
             repo["summary"] = db["repos"][name]["summary"]
         else:
             repo["summary"] = call_gemini_with_retry(name, repo["description"])
-            # 成功调用API后，强制休眠 5 秒，防止被谷歌识别为恶意攻击拦截
+            # 成功调用API后，强制休眠 5 秒防封
             time.sleep(5)
             
         # 3. 更新数据库内容
@@ -142,7 +152,7 @@ def build_html_email(hot_repos, surging_repos):
     def build_cards(repos, badge_color, badge_text):
         html = ""
         for repo in repos:
-            streak = repo['streak']
+            streak = repo.get('streak', 1)
             streak_badge = f'<span style="background:{badge_color}; color:#fff; padding:2px 6px; border-radius:4px; font-size:12px;">上榜 {streak} 天</span>'
             html += f"""
             <div style="border:1px solid #ddd; padding:15px; margin-bottom:15px; border-radius:8px;">
@@ -185,8 +195,6 @@ def send_email(html_content):
     msg['To'] = RECEIVER_EMAIL
     msg.attach(MIMEText(html_content, 'html'))
     
-    # 这里默认使用 Outlook (若用其他如 QQ/Gmail 可行修改)
-    # QQ邮箱使用 smtp.qq.com, 465, smtplib.SMTP_SSL
     try:
         domain = SENDER_EMAIL.split('@')[-1].lower()
         if 'qq.com' in domain:
