@@ -1,43 +1,44 @@
-name: GitHub Trending Daily Bot
+name: Daily GitHub Trending & AI Summary
 
 on:
   schedule:
-    # 每天早上定时运行 (根据你自己的时间调)
-    - cron: '30 23 * * *' 
-  workflow_dispatch: # 允许手动点击运行
+    # 每天北京时间早上 8 点运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动在网页端点击运行
 
-# 🚨 极其关键的一步：赋予机器人写入代码库的权限
 permissions:
-  contents: write
+  contents: write # 必须：允许将修改后的 history.json 推送回仓库
 
 jobs:
-  build-and-run:
+  build_and_send:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout Code
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install requests # 如果你有其他依赖，一并写在这里
-          # pip install google-generativeai 等等
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 google-generativeai
 
-      - name: Run Trending Bot
-        run: python main.py # 替换成你实际的 Python 文件名
-        env:
-          # 确保这里的密钥是你刚刚换上去的那把付费新钥匙
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} 
+    - name: Run Main Script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        SENDER_PASS: ${{ secrets.SENDER_PASS }}
+        RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+      run: python main.py
 
-      # 🚨 极其关键的一步：让机器人把缓存文件推送到仓库
-      - name: Commit and push cache
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add translation_cache.json
-          # 如果文件有变动就提交，没有变动就跳过，防止报错中断
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 更新每日翻译缓存与霸榜天数" && git push)
+    - name: Commit and Push History
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add history.json
+        git commit -m "Update trending history and AI cache [skip ci]" || echo "No changes to commit"
+        git push
