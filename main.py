@@ -233,10 +233,13 @@ def send_email(html_content):
         print("未配置邮件环境变量，跳过发送。")
         return
         
+    # 【核心修改】将逗号分隔的字符串切割成邮箱列表，并自动去除多余空格
+    receiver_list = [email.strip() for email in RECEIVER_EMAIL.split(',')]
+        
     msg = MIMEMultipart('alternative')
     msg['Subject'] = f"🚀 GitHub 极客情报: 热门与飙升项目 AI 总结 ({datetime.now().strftime('%m-%d')})"
     msg['From'] = f"GitHub Trends <{SENDER_EMAIL}>"
-    msg['To'] = RECEIVER_EMAIL
+    msg['To'] = RECEIVER_EMAIL  # 邮件头上显示的收件人可以直接用原字符串
     msg.attach(MIMEText(html_content, 'html'))
     
     try:
@@ -251,9 +254,11 @@ def send_email(html_content):
             server.starttls()
             
         server.login(SENDER_EMAIL, SENDER_PASS)
-        server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, msg.as_string())
+        
+        # 【核心修改】这里传入切割好的 receiver_list 列表，实现群发
+        server.sendmail(SENDER_EMAIL, receiver_list, msg.as_string())
         server.quit()
-        print("邮件发送成功！")
+        print(f"邮件发送成功！已成功投递给 {len(receiver_list)} 个收件人。")
     except Exception as e:
         print(f"邮件发送失败: {e}")
 
