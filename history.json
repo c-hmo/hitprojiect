@@ -5,40 +5,40 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "将任何代码库转化为可交互的知识图谱，方便用户进行探索、搜索和问答。该项目旨在帮助开发者更直观地理解代码逻辑，并支持与 Claude Code、Cursor、Copilot、Gemini CLI 等多种 AI 工具协同工作。",
+        "configuration": "配置该项目通常需要以下条件：\n1. 运行环境：支持 Node.js 或 Python 运行环境（具体取决于项目底层的实现语言）。\n2. 外部集成：需配合主流 AI 辅助工具或终端（如 Claude Code, Cursor, Copilot, Gemini CLI 等）。\n3. API 密钥：需要相关大语言模型（如 Anthropic Claude, OpenAI, Gemini）的 API Key 来驱动代码分析和问答功能。\n4. 浏览器环境：用于展示和交互生成的知识图谱。"
       }
     },
     "colbymchenry/codegraph": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "anthropics/knowledge-work-plugins": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "harry0703/MoneyPrinterTurbo": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "presenton/presenton": {
@@ -53,8 +53,8 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "ruvnet/RuView": {
@@ -77,16 +77,16 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "twentyhq/twenty": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "DigitalPlatDev/FreeDomain": {
@@ -101,16 +101,16 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "microsoft/markitdown": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "obra/superpowers": {
@@ -157,32 +157,32 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "anthropics/claude-code": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "cursor/plugins": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "run-llama/liteparse": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "galilai-group/stable-worldmodel": {
@@ -197,16 +197,16 @@
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     },
     "Crosstalk-Solutions/project-nomad": {
       "streak": 1,
       "last_seen_date": "2026-05-29",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "AI提取失败（由于API请求受限）",
+        "configuration": "AI提取失败（由于API请求受限）"
       }
     }
   }
