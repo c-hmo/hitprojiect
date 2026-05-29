@@ -136,6 +136,78 @@
         "what_it_does": "AI提取失败",
         "configuration": "AI提取失败"
       }
+    },
+    "anthropics/claude-plugins-official": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
+        "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
+      }
+    },
+    "mukul975/Anthropic-Cybersecurity-Skills": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "该项目为AI Agent提供了754个结构化的网络安全技能。这些技能覆盖26个安全领域，并映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF等五大安全与AI风险框架，旨在让Claude Code、GitHub Copilot、Cursor等AI工具能够理解并执行专业的网络安全任务。",
+        "configuration": "作为一套结构化的技能定义数据集（符合agentskills.io标准），其配置与使用需要：1. 支持工具调用或自定义技能导入的AI客户端/开发平台（如Claude Code, Cursor, Gemini CLI等）；2. 用于解析、导入和集成这些技能的编程语言环境（如Python、Node.js等）；3. 无特定硬件要求，主要取决于所对接的AI平台或API的运行环境。"
+      }
+    },
+    "EveryInc/compound-engineering-plugin": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
+    },
+    "anthropics/claude-code": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
+    },
+    "cursor/plugins": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
+    },
+    "run-llama/liteparse": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
+    },
+    "galilai-group/stable-worldmodel": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "一个专注于可复现世界模型（World Models）研究与评估的平台，旨在为强化学习和人工智能研究人员提供标准化的基准测试、算法实现和评估工具，以推动世界模型领域的学术研究和复现工作。",
+        "configuration": "通常需要 Python 3.8+ 运行环境，主流深度学习框架（如 PyTorch），强化学习环境库（如 Gymnasium 等），以及用于支持深度学习模型训练和高效评估的 NVIDIA GPU 显卡及相应的 CUDA 驱动。"
+      }
+    },
+    "Biohub/esm": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
+    },
+    "Crosstalk-Solutions/project-nomad": {
+      "streak": 1,
+      "last_seen_date": "2026-05-29",
+      "summary": {
+        "what_it_does": "AI提取失败",
+        "configuration": "AI提取失败"
+      }
     }
   }
 }
