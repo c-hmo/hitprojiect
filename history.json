@@ -43,10 +43,10 @@
     },
     "presenton/presenton": {
       "streak": 1,
-      "last_seen_date": "2026-05-29",
+      "last_seen_date": "2026-05-30",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个开源的 AI 演示文稿（PPT）生成器及 API 接口，作为 Gamma、Beautiful AI 和 Decktopus 等商业工具的开源替代方案，帮助用户快速通过 AI 生成精美的演示幻灯片。",
+        "configuration": "通常需要 Node.js 运行环境（用于前端与后端 API），配置相关的 AI 模型服务（如 OpenAI、Claude 等）的 API 密钥，以及可能需要的数据库（如 PostgreSQL 或 MongoDB）来存储用户数据。"
       }
     },
     "hardikpandya/stop-slop": {
@@ -67,10 +67,10 @@
     },
     "affaan-m/ECC": {
       "streak": 1,
-      "last_seen_date": "2026-05-29",
+      "last_seen_date": "2026-05-30",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
+        "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
       }
     },
     "Leonxlnx/taste-skill": {
@@ -91,10 +91,10 @@
     },
     "DigitalPlatDev/FreeDomain": {
       "streak": 1,
-      "last_seen_date": "2026-05-29",
+      "last_seen_date": "2026-05-30",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个致力于为所有人提供免费域名申请与托管服务的平台系统，简化了免费二级域名的分发、解析和管理流程。",
+        "configuration": "需要基本的 Web 服务器环境（如 Node.js、Go、Python 或 PHP），并需配置 DNS 服务商（如 Cloudflare）的 API 凭证以实现域名的自动解析与管理，同时需要数据库用于存储用户和域名数据。"
       }
     },
     "byoungd/English-level-up-tips": {
@@ -131,10 +131,10 @@
     },
     "codecrafters-io/build-your-own-x": {
       "streak": 1,
-      "last_seen_date": "2026-05-29",
+      "last_seen_date": "2026-05-30",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个极具名气的开源教程汇总库，通过引导用户从零开始重新构建自己常用的技术（如 Git、Docker、Redis、SQLite 等）来掌握和精通编程。",
+        "configuration": "该项目本身是一个文档和教程集合，无需特殊系统配置。具体实践时，需要根据所选的重构项目和自己偏好的编程语言，安装对应的开发环境（如 Go、Rust、Python、C 等编译器/解释器）以及基本的终端和 Git 工具。"
       }
     },
     "anthropics/claude-plugins-official": {
@@ -207,6 +207,14 @@
       "summary": {
         "what_it_does": "一个独立且离线的生存计算机系统项目（Project N.O.M.A.D），集成了关键工具、知识库和离线 AI，确保在无网环境下也能提供信息和算力支持。",
         "configuration": "需要特定的硬件设备（如单板计算机树莓派或 Mini PC）、Linux 操作系统、离线 AI 大模型及相关离线工具集。"
+      }
+    },
+    "DataTalksClub/data-engineering-zoomcamp": {
+      "streak": 1,
+      "last_seen_date": "2026-05-30",
+      "summary": {
+        "what_it_does": "一个为期 9 周的免费开源数据工程训练营教程，旨在指导学习者如何构建生产环境级别的数据管道（Data Pipelines）。",
+        "configuration": "该项目主要为教学内容和动手实验，配置学习环境需要安装 Docker、Docker Compose、Terraform、Python 运行环境，以及注册云服务商（推荐 GCP，亦可使用 AWS 或 Azure）的免费账户以搭建数据流转组件（如 Spark, Kafka, Postgres）。"
       }
     }
   }
