@@ -1,41 +1,41 @@
 {
-  "last_run_date": "2026-05-31",
+  "last_run_date": "2026-06-01",
   "repos": {
     "Lum1104/Understand-Anything": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "将任何代码库转化为可交互的知识图谱，方便用户进行探索、搜索和问答。该项目旨在帮助开发者更直观地理解代码逻辑，并支持与 Claude Code、Cursor、Copilot、Gemini CLI 等多种 AI 工具协同工作。",
         "configuration": "配置该项目通常需要以下条件：\n1. 运行环境：支持 Node.js 或 Python 运行环境（具体取决于项目底层的实现语言）。\n2. 外部集成：需配合主流 AI 辅助工具或终端（如 Claude Code, Cursor, Copilot, Gemini CLI 等）。\n3. API 密钥：需要相关大语言模型（如 Anthropic Claude, OpenAI, Gemini）的 API Key 来驱动代码分析和问答功能。\n4. 浏览器环境：用于展示和交互生成的知识图谱。"
       }
     },
     "colbymchenry/codegraph": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "为 Claude Code, Codex, Gemini, Cursor 等 AI 助手提供预索引的代码知识图谱，通过 100% 本地运行来减少 Token 消耗和工具调用。",
         "configuration": "需要本地开发环境以及兼容的 AI 辅助编程客户端或代理工具。"
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -50,8 +50,8 @@
       }
     },
     "hardikpandya/stop-slop": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个技能文件，用于在生成文本中去除 AI 常见的套话、废话和机器腔调，提升文本的自然度与可读性。",
         "configuration": "需要支持加载该技能文件的 AI 客户端、Agent 框架或 API 环境。"
@@ -66,16 +66,16 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 2,
-      "last_seen_date": "2026-05-31",
+      "streak": 3,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -122,16 +122,16 @@
       }
     },
     "revfactory/harness": {
-      "streak": 1,
-      "last_seen_date": "2026-05-31",
+      "streak": 2,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个元技能（meta-skill）工具，旨在设计特定领域的智能体（Agent）团队，定义专业化智能体，并生成它们所需的技能。",
         "configuration": "Python 运行环境，需要配置大语言模型（LLM）API 密钥，以及相关的 Agent 框架依赖项。"
       }
     },
     "codecrafters-io/build-your-own-x": {
-      "streak": 2,
-      "last_seen_date": "2026-05-31",
+      "streak": 3,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个极具名气的开源教程汇总库，通过引导用户从零开始重新构建自己常用的技术（如 Git、Docker、Redis、SQLite 等）来掌握和精通编程。",
         "configuration": "该项目本身是一个文档和教程集合，无需特殊系统配置。具体实践时，需要根据所选的重构项目和自己偏好的编程语言，安装对应的开发环境（如 Go、Rust、Python、C 等编译器/解释器）以及基本的终端和 Git 工具。"
@@ -146,24 +146,24 @@
       }
     },
     "mukul975/Anthropic-Cybersecurity-Skills": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "该项目为AI Agent提供了754个结构化的网络安全技能。这些技能覆盖26个安全领域，并映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF等五大安全与AI风险框架，旨在让Claude Code、GitHub Copilot、Cursor等AI工具能够理解并执行专业的网络安全任务。",
         "configuration": "作为一套结构化的技能定义数据集（符合agentskills.io标准），其配置与使用需要：1. 支持工具调用或自定义技能导入的AI客户端/开发平台（如Claude Code, Cursor, Gemini CLI等）；2. 用于解析、导入和集成这些技能的编程语言环境（如Python、Node.js等）；3. 无特定硬件要求，主要取决于所对接的AI平台或API的运行环境。"
       }
     },
     "EveryInc/compound-engineering-plugin": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "官方提供的 Compound Engineering 插件，适用于 Claude Code、Codex、Cursor 等多款 AI 编程辅助工具。",
         "configuration": "需要安装有 Claude Code、Cursor 等支持该插件规范的 AI 编辑器或开发工具。"
       }
     },
     "anthropics/claude-code": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -202,8 +202,8 @@
       }
     },
     "Crosstalk-Solutions/project-nomad": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 4,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个独立且离线的生存计算机系统项目（Project N.O.M.A.D），集成了关键工具、知识库和离线 AI，确保在无网环境下也能提供信息和算力支持。",
         "configuration": "需要特定的硬件设备（如单板计算机树莓派或 Mini PC）、Linux 操作系统、离线 AI 大模型及相关离线工具集。"
@@ -218,8 +218,8 @@
       }
     },
     "OpenBMB/VoxCPM": {
-      "streak": 1,
-      "last_seen_date": "2026-05-31",
+      "streak": 2,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "VoxCPM2 是一款无 Tokenizer 的文本转语音（TTS）模型，支持多语言语音生成、创意声音设计和高逼真度声音克隆。",
         "configuration": "Python 环境，深度学习框架（如 PyTorch），需要支持 CUDA 的高性能 GPU 以进行模型推理和训练，以及音频处理相关依赖库。"
@@ -234,8 +234,8 @@
       }
     },
     "FareedKhan-dev/train-llm-from-scratch": {
-      "streak": 1,
-      "last_seen_date": "2026-05-31",
+      "streak": 2,
+      "last_seen_date": "2026-06-01",
       "summary": {
         "what_it_does": "一个直观的大语言模型（LLM）从零训练指南和代码库，涵盖从下载数据集到最终文本生成的完整训练流程。",
         "configuration": "Python 环境，PyTorch 深度学习框架，Transformers 和 Datasets 等库，强烈建议配备 GPU（如 NVIDIA 显卡）以加速训练。"
@@ -263,6 +263,54 @@
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
+      }
+    },
+    "D4Vinci/Scrapling": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "一个自适应网页爬虫框架，能够高效处理从单个 HTTP 请求到大规模并发网络爬取的各种数据抓取需求。",
+        "configuration": "需要 Python 运行环境及相关的依赖库。大规模爬取时，需要稳定的网络连接、适当的带宽，以及可能需要的代理 IP 支持。"
+      }
+    },
+    "nesquena/hermes-webui": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "Hermes Agent 的 Web 客户端界面，方便用户通过电脑浏览器或手机移动端轻松访问和使用 Hermes 智能代理服务。",
+        "configuration": "需要 Node.js 运行环境用于构建或运行 Web 服务，并且需要配置连接到已运行的 Hermes Agent 实例 API。"
+      }
+    },
+    "github/docs": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "GitHub 官方文档网站（docs.github.com）的开源代码及内容仓库，用于文档的日常维护和展示。",
+        "configuration": "需要 Node.js 环境、npm 或 yarn 包管理器来安装项目依赖并运行本地开发服务器，以便预览文档修改。"
+      }
+    },
+    "supermemoryai/supermemory": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "一个极速、可扩展的记忆引擎和应用程序，旨在为 AI 时代提供长期记忆与知识检索的“记忆 API”。",
+        "configuration": "需要 Node.js/TypeScript 运行环境、向量数据库或关系型数据库支持，以及配置对接主流大模型（如 OpenAI 等）的 API 密钥。"
+      }
+    },
+    "nicobailon/pi-subagents": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "一个 Pi 扩展工具，用于实现异步子代理（subagent）的委派和管理，支持文本截断、工件生成以及会话状态共享。",
+        "configuration": "需要 Python 环境、异步编程库支持，以及 Pi 开发框架或相关的 AI Agent 运行环境依赖。"
+      }
+    },
+    "emmabostian/developer-portfolios": {
+      "streak": 1,
+      "last_seen_date": "2026-06-01",
+      "summary": {
+        "what_it_does": "一个精选的优秀开发者个人网站和作品集列表，用于为想要设计自己作品集的开发者提供灵感。",
+        "configuration": "纯文本/Markdown 资源列表项目。无需特殊运行环境和硬件，直接使用浏览器查看或通过 Git 克隆即可。"
       }
     }
   }
