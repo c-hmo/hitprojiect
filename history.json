@@ -317,56 +317,56 @@
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
+        "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
       }
     },
     "p-e-w/heretic": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "用于自动移除大语言模型（LLM）安全审查和对齐限制的工具，使用户能够获取无过滤、无阻碍的模型输出。",
+        "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及能够运行本地开源大模型（如 Llama 等）的 GPU 显卡硬件支持。"
       }
     },
     "TauricResearch/TradingAgents": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
+        "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
       }
     },
     "godotengine/godot": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一款功能强大、免费开源且跨平台的 2D 和 3D 游戏引擎，支持主流平台的开发与发布。",
+        "configuration": "可在 Windows、macOS 或 Linux 系统上运行，需支持 Vulkan, OpenGL 或 Direct3D 的显卡；编写游戏可使用 GDScript 或 C#。若需从源码编译，则需 C++ 编译器和 SCons 构建工具。"
       }
     },
     "can1357/oh-my-pi": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "这是一个运行在终端的 AI 编程助手（Coding Agent），支持哈希锚定编辑、优化的工具套件、LSP（语言服务器协议）、Python 执行、浏览器交互及子代理协同等功能。",
+        "configuration": "需要终端环境和 Python 运行环境，通常需要配置大语言模型的 API 密钥，并可能需要支持 LSP 的编辑器环境。"
       }
     },
     "stefan-jansen/machine-learning-for-trading": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "《机器学习算法交易（第二版）》的配套开源代码库，涵盖了利用机器学习构建、测试和部署量化交易策略的完整实例。",
+        "configuration": "需要 Python 3 环境，建议使用 Jupyter Notebook。依赖包括 pandas、numpy、scikit-learn、TensorFlow、PyTorch 等常用数据科学与深度学习库，并需要配置相关的金融数据源。"
       }
     },
     "dmtrKovalenko/fff": {
       "streak": 1,
       "last_seen_date": "2026-06-02",
       "summary": {
-        "what_it_does": "AI提取失败",
-        "configuration": "AI提取失败"
+        "what_it_does": "一个极速且高精度的文件搜索工具包，专为 AI 智能体、Neovim 编辑器以及 Rust、C、NodeJS 开发环境而设计。",
+        "configuration": "根据集成方式，可能需要 Rust 工具链（Cargo 编译）、Node.js 运行环境或 C 语言编译环境，也可以作为 Neovim 插件进行配置安装。"
       }
     }
   }
