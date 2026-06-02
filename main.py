@@ -46,54 +46,82 @@ def get_github_trending(since):
         print(f"抓取 {since} 失败: {e}")
     return repos
 
-def batch_call_gemini(repos_to_process):
-    """批量打包请求大模型"""
+def batch_call_gemini(repos_to_process, chunk_size=4):
+    """
+    分批次请求大模型 (避免单次请求过大触发 503 或免费额度限制)
+    chunk_size: 每批次处理的项目数量，推荐 3-5 个
+    """
     if not GEMINI_API_KEY or not repos_to_process:
         return {}
         
     client = genai.Client(api_key=GEMINI_API_KEY)
+    all_results = {}
     
-    input_data = {}
-    for repo in repos_to_process:
-        input_data[repo["name"]] = repo["description"]
+    # 将项目列表按 chunk_size 进行切分
+    for i in range(0, len(repos_to_process), chunk_size):
+        chunk = repos_to_process[i:i + chunk_size]
+        input_data = {repo["name"]: repo["description"] for repo in chunk}
         
-    prompt = f"""
-    你需要分析以下一组 GitHub 项目，并为每个项目生成中文总结。
+        prompt = f"""
+        你需要分析以下一组 GitHub 项目，并为每个项目生成中文总结。
 
-    项目输入（JSON格式）：
-    {json.dumps(input_data, ensure_ascii=False)}
+        项目输入（JSON格式）：
+        {json.dumps(input_data, ensure_ascii=False)}
 
-    请为每个项目用中文简明扼要地总结：
-    1. 它是干嘛的（核心功能）
-    2. 配置它需要些啥（运行环境、语言、依赖、硬件要求等）
+        请为每个项目用中文简明扼要地总结：
+        1. 它是干嘛的（核心功能）
+        2. 配置它需要些啥（运行环境、语言、依赖、硬件要求等）
 
-    你必须返回一个严格的 JSON 对象。键必须与输入的项目名完全一致。
-    格式示例：
-    {{
-        "owner/repo1": {{
-            "what_it_does": "核心功能...",
-            "configuration": "配置需求..."
+        你必须返回一个严格的 JSON 对象。键必须与输入的项目名完全一致。
+        格式示例：
+        {{
+            "owner/repo1": {{
+                "what_it_does": "核心功能...",
+                "configuration": "配置需求..."
+            }}
         }}
-    }}
-    只返回纯 JSON，不要 markdown 标记。
-    """
-    
-    for attempt in range(3):
-        try:
-            print(f"🚀 正在批量打包请求 Gemini API ({len(repos_to_process)}个项目同时处理)...")
-            response = client.models.generate_content(
-                model='gemini-3.5-flash',
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
+        只返回纯 JSON，不要 markdown 标记。
+        """
+        
+        batch_num = (i // chunk_size) + 1
+        total_batches = (len(repos_to_process) + chunk_size - 1) // chunk_size
+        
+        chunk_success = False
+        for attempt in range(3):
+            try:
+                print(f"🚀 正在处理第 {batch_num}/{total_batches} 批次 (包含 {len(chunk)} 个项目)...")
+                response = client.models.generate_content(
+                    model='gemini-3.5-flash',  # 严格使用你跑通的 3.5 版本
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json"
+                    )
                 )
-            )
-            return json.loads(response.text.strip())
-        except Exception as e:
-            print(f"批量请求失败 (尝试 {attempt+1}/3): {e}")
-            time.sleep(15) 
-            
-    return {}
+                
+                # 解析并合并结果
+                batch_result = json.loads(response.text.strip())
+                all_results.update(batch_result)
+                chunk_success = True
+                
+                print(f"✅ 第 {batch_num} 批次处理成功！")
+                
+                # 如果不是最后一个批次，成功后休息 10 秒，避免触发免费档 API 速率限制
+                if batch_num < total_batches:
+                    print("⏳ 休息 10 秒以平滑 API 速率...")
+                    time.sleep(10)
+                break
+                
+            except Exception as e:
+                # 失败时使用递增延迟退避：15秒, 30秒, 45秒
+                wait_time = 15 * (attempt + 1)
+                print(f"❌ 批次 {batch_num} 请求失败 (尝试 {attempt+1}/3): {e}")
+                print(f"⏳ 等待 {wait_time} 秒后重试...")
+                time.sleep(wait_time) 
+                
+        if not chunk_success:
+            print(f"⚠️ 第 {batch_num} 批次经历 3 次尝试均失败，已跳过。")
+
+    return all_results
 
 def process_repos(hot_repos, surging_repos):
     """处理历史记录、缓存复用、计算上榜天数及批量 AI 请求"""
@@ -149,15 +177,16 @@ def process_repos(hot_repos, surging_repos):
             repos_needing_summary.append(repo)
 
     if repos_needing_summary:
-        print(f"\n📦 共收集到 {len(repos_needing_summary)} 个新项目，准备进行批量 API 请求...")
-        batch_results = batch_call_gemini(repos_needing_summary)
+        print(f"\n📦 共收集到 {len(repos_needing_summary)} 个新项目，准备进行分批 API 请求...")
+        # 调用重写后的批量请求函数
+        batch_results = batch_call_gemini(repos_needing_summary, chunk_size=4)
         
         for repo in repos_needing_summary:
             name = repo["name"]
             if name in batch_results:
                 repo["summary"] = batch_results[name]
             else:
-                repo["summary"] = {"what_it_does": "AI提取失败", "configuration": "AI提取失败"}
+                repo["summary"] = {"what_it_does": "AI提取失败，请检查运行日志", "configuration": "无"}
     else:
         print("\n🎉 今天所有的项目都在缓存里，无需调用任何 API！")
 
