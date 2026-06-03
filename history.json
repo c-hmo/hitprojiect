@@ -1,25 +1,25 @@
 {
-  "last_run_date": "2026-06-02",
+  "last_run_date": "2026-06-03",
   "repos": {
     "Lum1104/Understand-Anything": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "将任何代码库转化为可交互的知识图谱，方便用户进行探索、搜索和问答。该项目旨在帮助开发者更直观地理解代码逻辑，并支持与 Claude Code、Cursor、Copilot、Gemini CLI 等多种 AI 工具协同工作。",
         "configuration": "配置该项目通常需要以下条件：\n1. 运行环境：支持 Node.js 或 Python 运行环境（具体取决于项目底层的实现语言）。\n2. 外部集成：需配合主流 AI 辅助工具或终端（如 Claude Code, Cursor, Copilot, Gemini CLI 等）。\n3. API 密钥：需要相关大语言模型（如 Anthropic Claude, OpenAI, Gemini）的 API Key 来驱动代码分析和问答功能。\n4. 浏览器环境：用于展示和交互生成的知识图谱。"
       }
     },
     "colbymchenry/codegraph": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "为 Claude Code, Codex, Gemini, Cursor 等 AI 助手提供预索引的代码知识图谱，通过 100% 本地运行来减少 Token 消耗和工具调用。",
         "configuration": "需要本地开发环境以及兼容的 AI 辅助编程客户端或代理工具。"
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -50,8 +50,8 @@
       }
     },
     "hardikpandya/stop-slop": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个技能文件，用于在生成文本中去除 AI 常见的套话、废话和机器腔调，提升文本的自然度与可读性。",
         "configuration": "需要支持加载该技能文件的 AI 客户端、Agent 框架或 API 环境。"
@@ -66,16 +66,16 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 3,
-      "last_seen_date": "2026-06-01",
+      "streak": 1,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -122,8 +122,8 @@
       }
     },
     "revfactory/harness": {
-      "streak": 3,
-      "last_seen_date": "2026-06-02",
+      "streak": 4,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个元技能（meta-skill）工具，旨在设计特定领域的智能体（Agent）团队，定义专业化智能体，并生成它们所需的技能。",
         "configuration": "Python 运行环境，需要配置大语言模型（LLM）API 密钥，以及相关的 Agent 框架依赖项。"
@@ -146,8 +146,8 @@
       }
     },
     "mukul975/Anthropic-Cybersecurity-Skills": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 6,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "该项目为AI Agent提供了754个结构化的网络安全技能。这些技能覆盖26个安全领域，并映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF等五大安全与AI风险框架，旨在让Claude Code、GitHub Copilot、Cursor等AI工具能够理解并执行专业的网络安全任务。",
         "configuration": "作为一套结构化的技能定义数据集（符合agentskills.io标准），其配置与使用需要：1. 支持工具调用或自定义技能导入的AI客户端/开发平台（如Claude Code, Cursor, Gemini CLI等）；2. 用于解析、导入和集成这些技能的编程语言环境（如Python、Node.js等）；3. 无特定硬件要求，主要取决于所对接的AI平台或API的运行环境。"
@@ -218,8 +218,8 @@
       }
     },
     "OpenBMB/VoxCPM": {
-      "streak": 3,
-      "last_seen_date": "2026-06-02",
+      "streak": 4,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "VoxCPM2 是一款无 Tokenizer 的文本转语音（TTS）模型，支持多语言语音生成、创意声音设计和高逼真度声音克隆。",
         "configuration": "Python 环境，深度学习框架（如 PyTorch），需要支持 CUDA 的高性能 GPU 以进行模型推理和训练，以及音频处理相关依赖库。"
@@ -266,16 +266,16 @@
       }
     },
     "D4Vinci/Scrapling": {
-      "streak": 2,
-      "last_seen_date": "2026-06-02",
+      "streak": 3,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个自适应网页爬虫框架，能够高效处理从单个 HTTP 请求到大规模并发网络爬取的各种数据抓取需求。",
         "configuration": "需要 Python 运行环境及相关的依赖库。大规模爬取时，需要稳定的网络连接、适当的带宽，以及可能需要的代理 IP 支持。"
       }
     },
     "nesquena/hermes-webui": {
-      "streak": 2,
-      "last_seen_date": "2026-06-02",
+      "streak": 3,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "Hermes Agent 的 Web 客户端界面，方便用户通过电脑浏览器或手机移动端轻松访问和使用 Hermes 智能代理服务。",
         "configuration": "需要 Node.js 运行环境用于构建或运行 Web 服务，并且需要配置连接到已运行的 Hermes Agent 实例 API。"
@@ -290,8 +290,8 @@
       }
     },
     "supermemoryai/supermemory": {
-      "streak": 2,
-      "last_seen_date": "2026-06-02",
+      "streak": 3,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "一个极速、可扩展的记忆引擎和应用程序，旨在为 AI 时代提供长期记忆与知识检索的“记忆 API”。",
         "configuration": "需要 Node.js/TypeScript 运行环境、向量数据库或关系型数据库支持，以及配置对接主流大模型（如 OpenAI 等）的 API 密钥。"
@@ -354,8 +354,8 @@
       }
     },
     "stefan-jansen/machine-learning-for-trading": {
-      "streak": 1,
-      "last_seen_date": "2026-06-02",
+      "streak": 2,
+      "last_seen_date": "2026-06-03",
       "summary": {
         "what_it_does": "《机器学习算法交易（第二版）》的配套开源代码库，涵盖了利用机器学习构建、测试和部署量化交易策略的完整实例。",
         "configuration": "需要 Python 3 环境，建议使用 Jupyter Notebook。依赖包括 pandas、numpy、scikit-learn、TensorFlow、PyTorch 等常用数据科学与深度学习库，并需要配置相关的金融数据源。"
@@ -367,6 +367,38 @@
       "summary": {
         "what_it_does": "一个极速且高精度的文件搜索工具包，专为 AI 智能体、Neovim 编辑器以及 Rust、C、NodeJS 开发环境而设计。",
         "configuration": "根据集成方式，可能需要 Rust 工具链（Cargo 编译）、Node.js 运行环境或 C 语言编译环境，也可以作为 Neovim 插件进行配置安装。"
+      }
+    },
+    "chopratejas/headroom": {
+      "streak": 1,
+      "last_seen_date": "2026-06-03",
+      "summary": {
+        "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
+        "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
+      }
+    },
+    "reconurge/flowsint": {
+      "streak": 1,
+      "last_seen_date": "2026-06-03",
+      "summary": {
+        "what_it_does": "一个专为网络安全分析师和调查人员设计的、基于图（Graph）的可视化网络安全调查与分析平台，具有高度的灵活性和可扩展性。",
+        "configuration": "需要 Web 前端运行环境、后端服务环境（通常为 Docker、Node.js 或 Python 运行环境）以及用于存储和查询图数据的数据库支持。"
+      }
+    },
+    "jamwithai/production-agentic-rag-course": {
+      "streak": 1,
+      "last_seen_date": "2026-06-03",
+      "summary": {
+        "what_it_does": "一个关于如何构建和部署生产级、智能体检索增强生成（Agentic RAG）系统的实战教学课程项目。",
+        "configuration": "需要 Python 3.x 开发环境、Jupyter Notebook 运行环境、相关的 RAG 与智能体框架依赖（如 LangChain、LlamaIndex、LangGraph），以及主流大语言模型（如 OpenAI）的 API 密钥。"
+      }
+    },
+    "Open-LLM-VTuber/Open-LLM-VTuber": {
+      "streak": 1,
+      "last_seen_date": "2026-06-03",
+      "summary": {
+        "what_it_does": "一个开源的虚拟主播（VTuber）对话系统。支持免提语音交互、语音打断，并能在跨平台本地运行的同时驱动 Live2D 虚拟形象与任意大语言模型（LLM）进行对话。",
+        "configuration": "需要 Python 运行环境、麦克风和扬声器等音频硬件、Live2D 渲染前端环境（浏览器或客户端），以及本地运行大语言模型所需的硬件（如支持 CUDA 的 NVIDIA GPU）或主流 LLM 的 API 密钥。"
       }
     }
   }
