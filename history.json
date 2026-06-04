@@ -1,17 +1,17 @@
 {
-  "last_run_date": "2026-06-03",
+  "last_run_date": "2026-06-04",
   "repos": {
     "Lum1104/Understand-Anything": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "将任何代码库转化为可交互的知识图谱，方便用户进行探索、搜索和问答。该项目旨在帮助开发者更直观地理解代码逻辑，并支持与 Claude Code、Cursor、Copilot、Gemini CLI 等多种 AI 工具协同工作。",
         "configuration": "配置该项目通常需要以下条件：\n1. 运行环境：支持 Node.js 或 Python 运行环境（具体取决于项目底层的实现语言）。\n2. 外部集成：需配合主流 AI 辅助工具或终端（如 Claude Code, Cursor, Copilot, Gemini CLI 等）。\n3. API 密钥：需要相关大语言模型（如 Anthropic Claude, OpenAI, Gemini）的 API Key 来驱动代码分析和问答功能。\n4. 浏览器环境：用于展示和交互生成的知识图谱。"
       }
     },
     "colbymchenry/codegraph": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "为 Claude Code, Codex, Gemini, Cursor 等 AI 助手提供预索引的代码知识图谱，通过 100% 本地运行来减少 Token 消耗和工具调用。",
         "configuration": "需要本地开发环境以及兼容的 AI 辅助编程客户端或代理工具。"
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -50,8 +50,8 @@
       }
     },
     "hardikpandya/stop-slop": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个技能文件，用于在生成文本中去除 AI 常见的套话、废话和机器腔调，提升文本的自然度与可读性。",
         "configuration": "需要支持加载该技能文件的 AI 客户端、Agent 框架或 API 环境。"
@@ -66,16 +66,16 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 1,
-      "last_seen_date": "2026-06-03",
+      "streak": 2,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 7,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -122,8 +122,8 @@
       }
     },
     "revfactory/harness": {
-      "streak": 4,
-      "last_seen_date": "2026-06-03",
+      "streak": 5,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个元技能（meta-skill）工具，旨在设计特定领域的智能体（Agent）团队，定义专业化智能体，并生成它们所需的技能。",
         "configuration": "Python 运行环境，需要配置大语言模型（LLM）API 密钥，以及相关的 Agent 框架依赖项。"
@@ -154,8 +154,8 @@
       }
     },
     "EveryInc/compound-engineering-plugin": {
-      "streak": 5,
-      "last_seen_date": "2026-06-02",
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "官方提供的 Compound Engineering 插件，适用于 Claude Code、Codex、Cursor 等多款 AI 编程辅助工具。",
         "configuration": "需要安装有 Claude Code、Cursor 等支持该插件规范的 AI 编辑器或开发工具。"
@@ -266,16 +266,16 @@
       }
     },
     "D4Vinci/Scrapling": {
-      "streak": 3,
-      "last_seen_date": "2026-06-03",
+      "streak": 4,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个自适应网页爬虫框架，能够高效处理从单个 HTTP 请求到大规模并发网络爬取的各种数据抓取需求。",
         "configuration": "需要 Python 运行环境及相关的依赖库。大规模爬取时，需要稳定的网络连接、适当的带宽，以及可能需要的代理 IP 支持。"
       }
     },
     "nesquena/hermes-webui": {
-      "streak": 3,
-      "last_seen_date": "2026-06-03",
+      "streak": 4,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "Hermes Agent 的 Web 客户端界面，方便用户通过电脑浏览器或手机移动端轻松访问和使用 Hermes 智能代理服务。",
         "configuration": "需要 Node.js 运行环境用于构建或运行 Web 服务，并且需要配置连接到已运行的 Hermes Agent 实例 API。"
@@ -290,8 +290,8 @@
       }
     },
     "supermemoryai/supermemory": {
-      "streak": 3,
-      "last_seen_date": "2026-06-03",
+      "streak": 4,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个极速、可扩展的记忆引擎和应用程序，旨在为 AI 时代提供长期记忆与知识检索的“记忆 API”。",
         "configuration": "需要 Node.js/TypeScript 运行环境、向量数据库或关系型数据库支持，以及配置对接主流大模型（如 OpenAI 等）的 API 密钥。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 1,
-      "last_seen_date": "2026-06-03",
+      "streak": 2,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -394,11 +394,67 @@
       }
     },
     "Open-LLM-VTuber/Open-LLM-VTuber": {
-      "streak": 1,
-      "last_seen_date": "2026-06-03",
+      "streak": 2,
+      "last_seen_date": "2026-06-04",
       "summary": {
         "what_it_does": "一个开源的虚拟主播（VTuber）对话系统。支持免提语音交互、语音打断，并能在跨平台本地运行的同时驱动 Live2D 虚拟形象与任意大语言模型（LLM）进行对话。",
         "configuration": "需要 Python 运行环境、麦克风和扬声器等音频硬件、Live2D 渲染前端环境（浏览器或客户端），以及本地运行大语言模型所需的硬件（如支持 CUDA 的 NVIDIA GPU）或主流 LLM 的 API 密钥。"
+      }
+    },
+    "aquasecurity/trivy": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一款全面的安全扫描工具，用于在容器、Kubernetes、代码仓库、云平台等环境中检测安全漏洞、配置错误、敏感信息（Secrets）并生成软件物料清单（SBOM）。",
+        "configuration": "作为用 Go 语言编写的单二进制文件，它支持跨平台（Linux, macOS, Windows）运行，无需复杂的运行时依赖，也可以通过 Docker 镜像或主流包管理器直接部署。"
+      }
+    },
+    "NousResearch/hermes-agent": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
+        "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
+      }
+    },
+    "opendataloader-project/opendataloader-pdf": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个开源的 PDF 解析器，专门用于将 PDF 文档转换为适合 AI 处理的数据，并能自动实现 PDF 的无障碍性（Accessibility）处理。",
+        "configuration": "需要 Python 运行环境，依赖 PDF 处理和可能的 OCR（光学字符识别）相关库，适合在标准的 Python 依赖管理工具（如 pip）下进行安装和配置。"
+      }
+    },
+    "odoo/odoo": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个开源的企业资源规划（ERP）和客户关系管理（CRM）套件，涵盖销售、财务、库存、人力资源和制造等多种业务应用。",
+        "configuration": "基于 Python 开发，必须依赖 PostgreSQL 数据库。配置时需要 Python 3.x 运行环境、多项 Python 库依赖（可通过 requirements.txt 安装）以及配置好的 PostgreSQL 服务。"
+      }
+    },
+    "jwasham/coding-interview-university": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个完整的计算机科学学习计划，旨在帮助自学开发者或计算机专业学生进行系统性的技术面试准备，最终成为软件工程师。",
+        "configuration": "该项目本身为纯文本学习指南，不需要特殊的运行环境或硬件配置。阅读和实践需要浏览器或 Markdown 阅读器，以及用于练习算法的任意主流编程语言的本地 IDE/开发环境。"
+      }
+    },
+    "lyogavin/airllm": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
+        "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
+      }
+    },
+    "HKUDS/Vibe-Trading": {
+      "streak": 1,
+      "last_seen_date": "2026-06-04",
+      "summary": {
+        "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
+        "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
       }
     }
   }
