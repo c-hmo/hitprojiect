@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-05",
+  "last_run_date": "2026-06-06",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 8,
-      "last_seen_date": "2026-06-05",
+      "streak": 9,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -50,8 +50,8 @@
       }
     },
     "hardikpandya/stop-slop": {
-      "streak": 8,
-      "last_seen_date": "2026-06-05",
+      "streak": 9,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个技能文件，用于在生成文本中去除 AI 常见的套话、废话和机器腔调，提升文本的自然度与可读性。",
         "configuration": "需要支持加载该技能文件的 AI 客户端、Agent 框架或 API 环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 3,
-      "last_seen_date": "2026-06-05",
+      "streak": 4,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 8,
-      "last_seen_date": "2026-06-05",
+      "streak": 9,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -122,8 +122,8 @@
       }
     },
     "revfactory/harness": {
-      "streak": 6,
-      "last_seen_date": "2026-06-05",
+      "streak": 7,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个元技能（meta-skill）工具，旨在设计特定领域的智能体（Agent）团队，定义专业化智能体，并生成它们所需的技能。",
         "configuration": "Python 运行环境，需要配置大语言模型（LLM）API 密钥，以及相关的 Agent 框架依赖项。"
@@ -154,8 +154,8 @@
       }
     },
     "EveryInc/compound-engineering-plugin": {
-      "streak": 2,
-      "last_seen_date": "2026-06-05",
+      "streak": 3,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "官方提供的 Compound Engineering 插件，适用于 Claude Code、Codex、Cursor 等多款 AI 编程辅助工具。",
         "configuration": "需要安装有 Claude Code、Cursor 等支持该插件规范的 AI 编辑器或开发工具。"
@@ -178,8 +178,8 @@
       }
     },
     "run-llama/liteparse": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一款快速、实用且开源的文档解析工具，常用于检索增强生成（RAG）中的文档结构化处理。",
         "configuration": "需要 Python 运行环境及相关的文本/PDF 解析底层库。"
@@ -290,8 +290,8 @@
       }
     },
     "supermemoryai/supermemory": {
-      "streak": 5,
-      "last_seen_date": "2026-06-05",
+      "streak": 6,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个极速、可扩展的记忆引擎和应用程序，旨在为 AI 时代提供长期记忆与知识检索的“记忆 API”。",
         "configuration": "需要 Node.js/TypeScript 运行环境、向量数据库或关系型数据库支持，以及配置对接主流大模型（如 OpenAI 等）的 API 密钥。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 3,
-      "last_seen_date": "2026-06-05",
+      "streak": 4,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -394,24 +394,24 @@
       }
     },
     "Open-LLM-VTuber/Open-LLM-VTuber": {
-      "streak": 3,
-      "last_seen_date": "2026-06-05",
+      "streak": 4,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个开源的虚拟主播（VTuber）对话系统。支持免提语音交互、语音打断，并能在跨平台本地运行的同时驱动 Live2D 虚拟形象与任意大语言模型（LLM）进行对话。",
         "configuration": "需要 Python 运行环境、麦克风和扬声器等音频硬件、Live2D 渲染前端环境（浏览器或客户端），以及本地运行大语言模型所需的硬件（如支持 CUDA 的 NVIDIA GPU）或主流 LLM 的 API 密钥。"
       }
     },
     "aquasecurity/trivy": {
-      "streak": 2,
-      "last_seen_date": "2026-06-05",
+      "streak": 3,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一款全面的安全扫描工具，用于在容器、Kubernetes、代码仓库、云平台等环境中检测安全漏洞、配置错误、敏感信息（Secrets）并生成软件物料清单（SBOM）。",
         "configuration": "作为用 Go 语言编写的单二进制文件，它支持跨平台（Linux, macOS, Windows）运行，无需复杂的运行时依赖，也可以通过 Docker 镜像或主流包管理器直接部署。"
       }
     },
     "NousResearch/hermes-agent": {
-      "streak": 2,
-      "last_seen_date": "2026-06-05",
+      "streak": 3,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
         "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
@@ -434,8 +434,8 @@
       }
     },
     "jwasham/coding-interview-university": {
-      "streak": 2,
-      "last_seen_date": "2026-06-05",
+      "streak": 3,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个完整的计算机科学学习计划，旨在帮助自学开发者或计算机专业学生进行系统性的技术面试准备，最终成为软件工程师。",
         "configuration": "该项目本身为纯文本学习指南，不需要特殊的运行环境或硬件配置。阅读和实践需要浏览器或 Markdown 阅读器，以及用于练习算法的任意主流编程语言的本地 IDE/开发环境。"
@@ -458,8 +458,8 @@
       }
     },
     "PaddlePaddle/PaddleOCR": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个功能强大且轻量级的 OCR（光学字符识别）工具包，旨在将任何 PDF 或图像文档转换为适用于 AI 的结构化数据，支持 100 多种语言，并搭建了图像/PDF 与大语言模型（LLM）之间的桥梁。",
         "configuration": "需要 Python 运行环境（建议 Python 3.7+）、PaddlePaddle（飞桨）深度学习框架，以及相关的 Python 依赖库（如 Shapely、scikit-image 等）。为了获得最佳推理性能，建议配置支持 CUDA 的 NVIDIA GPU 硬件。"
@@ -474,43 +474,91 @@
       }
     },
     "NVIDIA/cosmos": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个由世界模型、数据集和工具组成的开放平台，旨在帮助开发者为机器人、自动驾驶汽车、智能基础设施等构建物理人工智能（Physical AI）。",
         "configuration": "需要高端 NVIDIA GPU（如 Tensor Core GPU）、最新 NVIDIA 驱动、CUDA Toolkit、Python 运行环境、PyTorch 深度学习框架，以及 NVIDIA Cosmos 相关的 SDK 和工具链。"
       }
     },
     "lfnovo/open-notebook": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "谷歌 NotebookLM 的开源实现版本，提供了更高的灵活性和更多自定义功能，用于对文档进行智能化整理、分析和内容交互。",
         "configuration": "需要 Python 运行环境、大语言模型 API 密钥（如 OpenAI、Anthropic 等，或本地运行的 LLM 实例）、Node.js（若涉及前端界面构建），以及项目指定的 Python 依赖包。"
       }
     },
     "github/copilot-sdk": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个多平台的 SDK，用于帮助开发者将 GitHub Copilot Agent（智能体）功能无缝集成到各种第三方应用程序和服务中。",
         "configuration": "需要支持跨平台开发的编程语言运行环境（如 Node.js 或其他支持的 runtime），以及访问 GitHub Copilot API 的授权凭证和网络环境。"
       }
     },
     "openclaw/openclaw-windows-node": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "OpenClaw 的 Windows 客户端配套套件，包含了系统托盘应用、共享库、Node 服务以及 PowerToys 快捷命令面板（Command Palette）扩展。",
         "configuration": "需要 Windows 操作系统，安装有 Node.js 运行环境，若要使用快捷面板扩展则需要安装 Microsoft PowerToys，并配置与 OpenClaw 主服务的网络连接。"
       }
     },
     "mvanhorn/last30days-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "streak": 2,
+      "last_seen_date": "2026-06-06",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
+      }
+    },
+    "CopilotKit/CopilotKit": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "一个为 AI Agent 和生成式用户界面（Generative UI）设计的前端开发框架，支持 React 和 Angular，旨在简化应用中嵌入 AI 协同和动态交互界面的过程。",
+        "configuration": "需要 Node.js 开发环境，支持 React 或 Angular 框架，通过 npm/yarn/pnpm 安装相关的依赖包。"
+      }
+    },
+    "Panniantong/Agent-Reach": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
+        "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
+      }
+    },
+    "666ghj/MiroFish": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "一个简洁且通用的群体智能（Swarm Intelligence）引擎，旨在通过群体协同算法来进行各种事件和数据的预测。",
+        "configuration": "需要 Python 运行环境，以及相关的数学计算、数据处理或机器学习依赖库（如 NumPy、Pandas 等）。"
+      }
+    },
+    "openai/plugins": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
+        "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
+      }
+    },
+    "MemPalace/mempalace": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "一个开源、免费且性能极佳的 AI 记忆系统，旨在为大语言模型或 AI 智能体（Agent）提供高效的长期记忆和上下文管理功能。",
+        "configuration": "通常需要 Python 运行环境，可能需要配置向量数据库（如 Qdrant、Chroma 等）以及主流大语言模型（如 OpenAI API 或本地部署模型）的连接与硬件支持。"
+      }
+    },
+    "withastro/flue": {
+      "streak": 1,
+      "last_seen_date": "2026-06-06",
+      "summary": {
+        "what_it_does": "一个用于构建和运行沙盒智能体（Sandbox Agent）的开发框架，支持在隔离的安全环境中执行和测试 AI 代理的行为。",
+        "configuration": "通常需要 Node.js 或 JavaScript/TypeScript 开发环境，可能依赖 Docker 或其他轻量级容器化技术来实现安全的沙盒隔离环境。"
       }
     }
   }
