@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-10",
+  "last_run_date": "2026-06-11",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 12,
-      "last_seen_date": "2026-06-09",
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -59,7 +59,7 @@
     },
     "ruvnet/RuView": {
       "streak": 1,
-      "last_seen_date": "2026-05-31",
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
@@ -74,8 +74,8 @@
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 4,
-      "last_seen_date": "2026-06-10",
+      "streak": 5,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 13,
-      "last_seen_date": "2026-06-10",
+      "streak": 14,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -115,7 +115,7 @@
     },
     "obra/superpowers": {
       "streak": 1,
-      "last_seen_date": "2026-06-07",
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -234,8 +234,8 @@
       }
     },
     "FareedKhan-dev/train-llm-from-scratch": {
-      "streak": 3,
-      "last_seen_date": "2026-06-02",
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个直观的大语言模型（LLM）从零训练指南和代码库，涵盖从下载数据集到最终文本生成的完整训练流程。",
         "configuration": "Python 环境，PyTorch 深度学习框架，Transformers 和 Datasets 等库，强烈建议配备 GPU（如 NVIDIA 显卡）以加速训练。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 8,
-      "last_seen_date": "2026-06-10",
+      "streak": 9,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -394,8 +394,8 @@
       }
     },
     "Open-LLM-VTuber/Open-LLM-VTuber": {
-      "streak": 8,
-      "last_seen_date": "2026-06-10",
+      "streak": 9,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个开源的虚拟主播（VTuber）对话系统。支持免提语音交互、语音打断，并能在跨平台本地运行的同时驱动 Live2D 虚拟形象与任意大语言模型（LLM）进行对话。",
         "configuration": "需要 Python 运行环境、麦克风和扬声器等音频硬件、Live2D 渲染前端环境（浏览器或客户端），以及本地运行大语言模型所需的硬件（如支持 CUDA 的 NVIDIA GPU）或主流 LLM 的 API 密钥。"
@@ -411,7 +411,7 @@
     },
     "NousResearch/hermes-agent": {
       "streak": 1,
-      "last_seen_date": "2026-06-08",
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
         "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
@@ -482,8 +482,8 @@
       }
     },
     "lfnovo/open-notebook": {
-      "streak": 1,
-      "last_seen_date": "2026-06-10",
+      "streak": 2,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "谷歌 NotebookLM 的开源实现版本，提供了更高的灵活性和更多自定义功能，用于对文档进行智能化整理、分析和内容交互。",
         "configuration": "需要 Python 运行环境、大语言模型 API 密钥（如 OpenAI、Anthropic 等，或本地运行的 LLM 实例）、Node.js（若涉及前端界面构建），以及项目指定的 Python 依赖包。"
@@ -506,8 +506,8 @@
       }
     },
     "mvanhorn/last30days-skill": {
-      "streak": 6,
-      "last_seen_date": "2026-06-10",
+      "streak": 7,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 2,
-      "last_seen_date": "2026-06-10",
+      "streak": 3,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -538,8 +538,8 @@
       }
     },
     "openai/plugins": {
-      "streak": 5,
-      "last_seen_date": "2026-06-10",
+      "streak": 6,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
         "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
@@ -682,8 +682,8 @@
       }
     },
     "refactoringhq/tolaria": {
-      "streak": 3,
-      "last_seen_date": "2026-06-10",
+      "streak": 4,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一款用于管理和组织 Markdown 知识库的桌面客户端应用程序。",
         "configuration": "适用于常见桌面操作系统（Windows, macOS 或 Linux）。如果是从源码构建，通常需要 Node.js 及相关的包管理器（npm/yarn）。"
@@ -707,15 +707,15 @@
     },
     "google/skills": {
       "streak": 1,
-      "last_seen_date": "2026-06-09",
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
       }
     },
     "phuryn/pm-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-06-10",
+      "streak": 3,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个产品经理（PM）AI 技能市场，提供 100 多个用于智能体的技能、命令和插件，覆盖产品从探索、战略、执行、发布到增长的全生命周期。",
         "configuration": "需要支持集成外部技能或插件的 AI Agent 开发环境，通常涉及 Python/Node.js 运行环境、相关的 Agent 框架依赖，以及调用大语言模型的 API 密钥。"
@@ -730,8 +730,8 @@
       }
     },
     "roboflow/supervision": {
-      "streak": 2,
-      "last_seen_date": "2026-06-10",
+      "streak": 3,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个用于计算机视觉（CV）的可重用工具库，旨在简化目标检测、跟踪、区域计数、图像标注以及数据集流转等视觉任务的开发流程。",
         "configuration": "需要 Python 3.8 或更高版本环境，通过 pip 安装 `supervision` 库，依赖 OpenCV、NumPy 等基础图像处理库。若需运行关联的目标检测模型（如 YOLO），建议配置支持 CUDA 的 GPU 硬件加速。"
@@ -739,23 +739,23 @@
     },
     "luongnv89/claude-howto": {
       "streak": 1,
-      "last_seen_date": "2026-06-09",
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "这是一个关于 Claude Code 的可视化、实例驱动的使用指南。它涵盖了从基础概念到高级智能体（Agents）的构建，并提供了可以直接复制粘贴使用的实用模板。",
         "configuration": "该项目主要为文档和模板指南，阅读无需特殊环境配置。若要实际运行和测试其中的 Claude Code 模板，通常需要安装 Node.js 运行环境、Claude Code 命令行工具以及配置 Anthropic API 密钥。"
       }
     },
     "x1xhlol/system-prompts-and-models-of-ai-tools": {
-      "streak": 1,
-      "last_seen_date": "2026-06-10",
+      "streak": 2,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "收集并整理了各种主流 AI 辅助工具（如 Cursor, Claude Code, Devin, Manus, v0 等）的系统提示词（System Prompts）、内部工具接口以及其背后使用的 AI 模型信息。",
         "configuration": "该项目为资源文档库，无需特殊运行环境。只需浏览器或任意支持 Markdown 的文本阅读器即可查看。"
       }
     },
     "maziyarpanahi/openmed": {
-      "streak": 1,
-      "last_seen_date": "2026-06-10",
+      "streak": 2,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "一个开源的医疗健康领域人工智能（AI）项目，旨在提供医学大语言模型及相关的医疗 AI 解决方案。",
         "configuration": "需要 Python 3.10+ 运行环境，PyTorch、Transformers 等深度学习框架，以及具备足够显存的 GPU 硬件（如 NVIDIA A100/H100 或消费级高端显卡）以运行大模型。"
@@ -770,11 +770,43 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-06-10",
+      "streak": 2,
+      "last_seen_date": "2026-06-11",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
+      }
+    },
+    "soxoj/maigret": {
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
+      "summary": {
+        "what_it_does": "根据用户名在 3000 多个网站上搜集并生成该用户的个人公开信息档案（OSINT 开源情报工具）。",
+        "configuration": "需要 Python 3.8+ 运行环境，通过 pip 安装依赖库，运行过程中需要稳定的互联网连接以进行多网站异步请求。"
+      }
+    },
+    "masterking32/MasterDnsVPN": {
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
+      "summary": {
+        "what_it_does": "一款用于绕过网络审查的高级 DNS 隧道 VPN，支持低开销 ARQ、解析器负载均衡，并在高丢包网络环境下保持稳定和高速。",
+        "configuration": "需要一台具有公网 IP 的 Linux 服务器（用于运行服务端）、一个可自由配置 NS 记录的域名、Go 语言编译/运行环境以及相应的客户端程序。"
+      }
+    },
+    "activeloopai/hivemind": {
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
+      "summary": {
+        "what_it_does": "为所有 AI 智能体（Agents）提供统一的“大脑”，实现多智能体之间的状态管理、知识共享与协同工作。",
+        "configuration": "需要 Python 开发环境，安装相关依赖库，并需要配置大语言模型（如 OpenAI 等）的 API 密钥及可能的向量数据库支持。"
+      }
+    },
+    "apple/container": {
+      "streak": 1,
+      "last_seen_date": "2026-06-11",
+      "summary": {
+        "what_it_does": "在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器的工具，专为 Apple 芯片（Apple Silicon）进行了优化。",
+        "configuration": "需要基于 macOS 的硬件环境（推荐 Apple Silicon M系列芯片），安装有 Swift 编译环境（如 Xcode），并支持 macOS Virtualization 框架。"
       }
     }
   }
