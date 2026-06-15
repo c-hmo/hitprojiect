@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-14",
+  "last_run_date": "2026-06-15",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -74,8 +74,8 @@
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 8,
-      "last_seen_date": "2026-06-14",
+      "streak": 9,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 12,
-      "last_seen_date": "2026-06-14",
+      "streak": 13,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -506,8 +506,8 @@
       }
     },
     "mvanhorn/last30days-skill": {
-      "streak": 10,
-      "last_seen_date": "2026-06-14",
+      "streak": 11,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 6,
-      "last_seen_date": "2026-06-14",
+      "streak": 7,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -538,8 +538,8 @@
       }
     },
     "openai/plugins": {
-      "streak": 9,
-      "last_seen_date": "2026-06-14",
+      "streak": 10,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
         "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
@@ -682,8 +682,8 @@
       }
     },
     "refactoringhq/tolaria": {
-      "streak": 6,
-      "last_seen_date": "2026-06-13",
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一款用于管理和组织 Markdown 知识库的桌面客户端应用程序。",
         "configuration": "适用于常见桌面操作系统（Windows, macOS 或 Linux）。如果是从源码构建，通常需要 Node.js 及相关的包管理器（npm/yarn）。"
@@ -714,8 +714,8 @@
       }
     },
     "phuryn/pm-skills": {
-      "streak": 6,
-      "last_seen_date": "2026-06-14",
+      "streak": 7,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个产品经理（PM）AI 技能市场，提供 100 多个用于智能体的技能、命令和插件，覆盖产品从探索、战略、执行、发布到增长的全生命周期。",
         "configuration": "需要支持集成外部技能或插件的 AI Agent 开发环境，通常涉及 Python/Node.js 运行环境、相关的 Agent 框架依赖，以及调用大语言模型的 API 密钥。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 5,
-      "last_seen_date": "2026-06-14",
+      "streak": 6,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -802,16 +802,16 @@
       }
     },
     "apple/container": {
-      "streak": 4,
-      "last_seen_date": "2026-06-14",
+      "streak": 5,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器的工具，专为 Apple 芯片（Apple Silicon）进行了优化。",
         "configuration": "需要基于 macOS 的硬件环境（推荐 Apple Silicon M系列芯片），安装有 Swift 编译环境（如 Xcode），并支持 macOS Virtualization 框架。"
       }
     },
     "NVIDIA/SkillSpector": {
-      "streak": 1,
-      "last_seen_date": "2026-06-14",
+      "streak": 2,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "专门用于 AI 智能体（Agent）技能的安全扫描工具，旨在检测漏洞、恶意代码模式以及其他潜在的安全风险。",
         "configuration": "通常需要 Python 运行环境，相关的安全扫描依赖库，以及可能需要配置与特定 AI Agent 框架或 LLM 服务对接的环境。"
@@ -834,8 +834,8 @@
       }
     },
     "chatwoot/chatwoot": {
-      "streak": 1,
-      "last_seen_date": "2026-06-14",
+      "streak": 2,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个开源的实时聊天、邮件支持和全渠道客服沟通平台，旨在作为 Intercom、Zendesk 和 Salesforce Service Cloud 等商业客服系统的开源替代方案。",
         "configuration": "主要基于 Ruby on Rails（后端）和 Vue.js（前端）构建。运行需要 PostgreSQL 数据库、Redis 缓存服务、Ruby 运行环境以及 Node.js 环境，推荐使用 Docker / Docker Compose 进行快速部署和配置。"
@@ -882,16 +882,16 @@
       }
     },
     "music-assistant/server": {
-      "streak": 2,
-      "last_seen_date": "2026-06-14",
+      "streak": 3,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个免费开源的媒体库管理器，用于连接和统一管理各种流媒体服务以及联网扬声器设备。",
         "configuration": "需要运行在常开设备上（如树莓派、NAS、Intel NUC 或类似硬件），通常需要 Python 或 Docker 部署环境。"
       }
     },
     "iptv-org/iptv": {
-      "streak": 2,
-      "last_seen_date": "2026-06-14",
+      "streak": 3,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "收集并维护全球各地公开可用的免费 IPTV 频道播放列表。",
         "configuration": "无需特殊硬件配置，只需支持播放 M3U 格式的网络媒体播放器（如 VLC、PotPlayer、Kodi 等）和网络连接。"
@@ -914,19 +914,91 @@
       }
     },
     "andrewyng/aisuite": {
-      "streak": 1,
-      "last_seen_date": "2026-06-14",
+      "streak": 2,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "提供一个简单、统一的接口来调用多个生成式人工智能（Generative AI）服务商的 API，允许开发者用统一的代码格式在不同的 LLM（如 OpenAI、Anthropic、Google Gemini 等）之间无缝切换和对比测试。",
         "configuration": "需要 Python 3.8+ 运行环境，通过 pip 安装 `aisuite` 库，并需要准备和配置你所计划调用的各个 AI 服务商的 API Key（环境变量）。"
       }
     },
     "swc-project/swc": {
-      "streak": 1,
-      "last_seen_date": "2026-06-14",
+      "streak": 2,
+      "last_seen_date": "2026-06-15",
       "summary": {
         "what_it_does": "一个基于 Rust 编写的高性能 Web 开发工具链平台，主要用作极速的 JavaScript 和 TypeScript 编译与打包器（通常用作 Babel 的超快替代品）。",
         "configuration": "日常使用通常需要 Node.js 运行环境以通过 npm 安装和集成 `@swc/core`。若要进行二次开发或从源码构建，则需要安装 Rust 编译工具链（Cargo 及 rustc）。"
+      }
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "一个免费学习编程、数学和计算机科学的开源平台及课程库，提供互动式的编程练习和项目实践。",
+        "configuration": "需要 Node.js (推荐 LTS 版本)、MongoDB (或 Docker 运行数据库)、Git 以及现代浏览器。由于代码库庞大，本地运行建议至少有 8GB 内存。"
+      }
+    },
+    "pytest-dev/pytest": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "一个功能强大且易于使用的 Python 测试框架，支持编写简易的单元测试，也能扩展用于复杂的集成和功能测试。",
+        "configuration": "需要 Python 运行环境（支持 Python 3.8 及以上版本），通过 pip 包管理器进行安装，无特殊硬件要求。"
+      }
+    },
+    "meshery/meshery": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "一个云原生基础设施及服务网格（Service Mesh）管理平台，用于设计、配置和管理多服务网格环境。",
+        "configuration": "需要 Go 语言环境、Docker 或 Kubernetes 集群。可以使用 mesheryctl 命令行工具进行安装和配置。"
+      }
+    },
+    "cypress-io/cypress": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "一个现代化的前端测试工具，专门用于对运行在浏览器中的任何内容进行快速、简单且可靠的端到端（E2E）和组件测试。",
+        "configuration": "需要 Node.js 环境（通过 npm, yarn 或 pnpm 安装）。兼容 macOS、Windows 和 Linux 操作系统，并需要安装主流浏览器（如 Chrome, Firefox, Edge）。"
+      }
+    },
+    "GorvGoyl/Clone-Wars": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "汇总了100多个知名网站（如Airbnb、Netflix、TikTok、Spotify等）的开源克隆与仿制项目，提供了源码链接、在线演示、技术栈和GitHub星数等信息。",
+        "configuration": "该项目本身是一个资源列表，无需运行环境。但如果需要运行其中的具体克隆项目，需要根据其使用的技术栈配置相应的环境（如 Node.js、Python、React、Vue 等）。"
+      }
+    },
+    "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "关于自主机器人（Autonomous Robots）的开源教材与导论，涵盖了机器人学的核心算法和基础理论知识。",
+        "configuration": "阅读此电子书/教程需要 PDF 阅读器、Web 浏览器或 Markdown 阅览工具。若包含配套的代码示例，通常需要 Python、C++ 或 ROS（机器人操作系统）环境。"
+      }
+    },
+    "shiyu-coder/Kronos": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
+        "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
+      }
+    },
+    "Free-TV/IPTV": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "提供免费电视频道的 M3U 播放列表，收集并整合了世界各地的免费网络电视直播源。",
+        "configuration": "无需特殊的开发环境。只需要安装支持 M3U 播放列表的媒体播放器（如 VLC Media Player、PotPlayer、Kodi 或专门的 IPTV 播放应用），并保持良好的网络连接。"
+      }
+    },
+    "puppeteer/puppeteer": {
+      "streak": 1,
+      "last_seen_date": "2026-06-15",
+      "summary": {
+        "what_it_does": "提供了一个高级 JavaScript API，用于通过 DevTools 协议或 WebDriver BiDi 控制 Chrome 或 Firefox 浏览器。常用于自动化测试、网页截图、生成 PDF、网络爬虫以及单页应用（SPA）的预渲染。",
+        "configuration": "需要 Node.js 运行环境（建议 LTS 版本）。通过 npm 或 yarn 进行安装，默认安装时会自动下载匹配的 Chromium 浏览器。在 Linux 环境下运行可能需要手动安装一些系统级的浏览器依赖库。"
       }
     }
   }
