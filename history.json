@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-15",
+  "last_run_date": "2026-06-16",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 6,
-      "last_seen_date": "2026-06-03",
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 13,
-      "last_seen_date": "2026-06-15",
+      "streak": 14,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -434,8 +434,8 @@
       }
     },
     "jwasham/coding-interview-university": {
-      "streak": 3,
-      "last_seen_date": "2026-06-06",
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个完整的计算机科学学习计划，旨在帮助自学开发者或计算机专业学生进行系统性的技术面试准备，最终成为软件工程师。",
         "configuration": "该项目本身为纯文本学习指南，不需要特殊的运行环境或硬件配置。阅读和实践需要浏览器或 Markdown 阅读器，以及用于练习算法的任意主流编程语言的本地 IDE/开发环境。"
@@ -506,8 +506,8 @@
       }
     },
     "mvanhorn/last30days-skill": {
-      "streak": 11,
-      "last_seen_date": "2026-06-15",
+      "streak": 12,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 7,
-      "last_seen_date": "2026-06-15",
+      "streak": 8,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -666,8 +666,8 @@
       }
     },
     "RyanCodrai/turbovec": {
-      "streak": 3,
-      "last_seen_date": "2026-06-10",
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个基于 TurboQuant 构建的高性能向量索引库，采用 Rust 语言编写并提供 Python 接口绑定，用于高效的向量相似度检索。",
         "configuration": "需要 Rust 编译环境（Cargo）以及 Python 运行环境（建议 Python 3.8+）来编译和运行 Python 绑定。"
@@ -682,8 +682,8 @@
       }
     },
     "refactoringhq/tolaria": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一款用于管理和组织 Markdown 知识库的桌面客户端应用程序。",
         "configuration": "适用于常见桌面操作系统（Windows, macOS 或 Linux）。如果是从源码构建，通常需要 Node.js 及相关的包管理器（npm/yarn）。"
@@ -714,8 +714,8 @@
       }
     },
     "phuryn/pm-skills": {
-      "streak": 7,
-      "last_seen_date": "2026-06-15",
+      "streak": 8,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个产品经理（PM）AI 技能市场，提供 100 多个用于智能体的技能、命令和插件，覆盖产品从探索、战略、执行、发布到增长的全生命周期。",
         "configuration": "需要支持集成外部技能或插件的 AI Agent 开发环境，通常涉及 Python/Node.js 运行环境、相关的 Agent 框架依赖，以及调用大语言模型的 API 密钥。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 6,
-      "last_seen_date": "2026-06-15",
+      "streak": 7,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -802,16 +802,16 @@
       }
     },
     "apple/container": {
-      "streak": 5,
-      "last_seen_date": "2026-06-15",
+      "streak": 6,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器的工具，专为 Apple 芯片（Apple Silicon）进行了优化。",
         "configuration": "需要基于 macOS 的硬件环境（推荐 Apple Silicon M系列芯片），安装有 Swift 编译环境（如 Xcode），并支持 macOS Virtualization 框架。"
       }
     },
     "NVIDIA/SkillSpector": {
-      "streak": 2,
-      "last_seen_date": "2026-06-15",
+      "streak": 3,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "专门用于 AI 智能体（Agent）技能的安全扫描工具，旨在检测漏洞、恶意代码模式以及其他潜在的安全风险。",
         "configuration": "通常需要 Python 运行环境，相关的安全扫描依赖库，以及可能需要配置与特定 AI Agent 框架或 LLM 服务对接的环境。"
@@ -834,8 +834,8 @@
       }
     },
     "chatwoot/chatwoot": {
-      "streak": 2,
-      "last_seen_date": "2026-06-15",
+      "streak": 3,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个开源的实时聊天、邮件支持和全渠道客服沟通平台，旨在作为 Intercom、Zendesk 和 Salesforce Service Cloud 等商业客服系统的开源替代方案。",
         "configuration": "主要基于 Ruby on Rails（后端）和 Vue.js（前端）构建。运行需要 PostgreSQL 数据库、Redis 缓存服务、Ruby 运行环境以及 Node.js 环境，推荐使用 Docker / Docker Compose 进行快速部署和配置。"
@@ -882,16 +882,16 @@
       }
     },
     "music-assistant/server": {
-      "streak": 3,
-      "last_seen_date": "2026-06-15",
+      "streak": 4,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个免费开源的媒体库管理器，用于连接和统一管理各种流媒体服务以及联网扬声器设备。",
         "configuration": "需要运行在常开设备上（如树莓派、NAS、Intel NUC 或类似硬件），通常需要 Python 或 Docker 部署环境。"
       }
     },
     "iptv-org/iptv": {
-      "streak": 3,
-      "last_seen_date": "2026-06-15",
+      "streak": 4,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "收集并维护全球各地公开可用的免费 IPTV 频道播放列表。",
         "configuration": "无需特殊硬件配置，只需支持播放 M3U 格式的网络媒体播放器（如 VLC、PotPlayer、Kodi 等）和网络连接。"
@@ -930,8 +930,8 @@
       }
     },
     "freeCodeCamp/freeCodeCamp": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个免费学习编程、数学和计算机科学的开源平台及课程库，提供互动式的编程练习和项目实践。",
         "configuration": "需要 Node.js (推荐 LTS 版本)、MongoDB (或 Docker 运行数据库)、Git 以及现代浏览器。由于代码库庞大，本地运行建议至少有 8GB 内存。"
@@ -946,8 +946,8 @@
       }
     },
     "meshery/meshery": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一个云原生基础设施及服务网格（Service Mesh）管理平台，用于设计、配置和管理多服务网格环境。",
         "configuration": "需要 Go 语言环境、Docker 或 Kubernetes 集群。可以使用 mesheryctl 命令行工具进行安装和配置。"
@@ -970,24 +970,24 @@
       }
     },
     "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "关于自主机器人（Autonomous Robots）的开源教材与导论，涵盖了机器人学的核心算法和基础理论知识。",
         "configuration": "阅读此电子书/教程需要 PDF 阅读器、Web 浏览器或 Markdown 阅览工具。若包含配套的代码示例，通常需要 Python、C++ 或 ROS（机器人操作系统）环境。"
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
       }
     },
     "Free-TV/IPTV": {
-      "streak": 1,
-      "last_seen_date": "2026-06-15",
+      "streak": 2,
+      "last_seen_date": "2026-06-16",
       "summary": {
         "what_it_does": "提供免费电视频道的 M3U 播放列表，收集并整合了世界各地的免费网络电视直播源。",
         "configuration": "无需特殊的开发环境。只需要安装支持 M3U 播放列表的媒体播放器（如 VLC Media Player、PotPlayer、Kodi 或专门的 IPTV 播放应用），并保持良好的网络连接。"
@@ -999,6 +999,54 @@
       "summary": {
         "what_it_does": "提供了一个高级 JavaScript API，用于通过 DevTools 协议或 WebDriver BiDi 控制 Chrome 或 Firefox 浏览器。常用于自动化测试、网页截图、生成 PDF、网络爬虫以及单页应用（SPA）的预渲染。",
         "configuration": "需要 Node.js 运行环境（建议 LTS 版本）。通过 npm 或 yarn 进行安装，默认安装时会自动下载匹配的 Chromium 浏览器。在 Linux 环境下运行可能需要手动安装一些系统级的浏览器依赖库。"
+      }
+    },
+    "teslamate-org/teslamate": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "一个自托管的特斯拉（Tesla）车辆数据记录仪，用于自动收集并展示车辆的行驶、充电、能耗、电池状态等详细历史数据。",
+        "configuration": "需要支持 Docker 和 Docker Compose 的运行环境（如 NAS、树莓派或云服务器），依赖 PostgreSQL 数据库存储数据，并使用 Grafana 进行数据可视化展示。"
+      }
+    },
+    "krahets/hello-algo": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "一套通过动画图解、可一键运行的数据结构与算法教程，支持多国语言，并提供了 Python, Java, C++, Go, Rust 等十多种主流编程语言的代码实现。",
+        "configuration": "作为教程项目，配置需求极低。阅读只需现代浏览器；若要本地运行代码，需安装对应编程语言的运行环境（如 Python, JDK, GCC 等）及相关代码编辑器。"
+      }
+    },
+    "trycua/cua": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "一个用于开发、训练和评估“计算机使用代理（Computer-Use Agents）”的开源基础设施，提供沙箱、SDK 和基准测试工具，使 AI 智能体能够控制完整的桌面系统（macOS, Linux, Windows）。",
+        "configuration": "需要支持运行安全沙箱（如 Docker 或虚拟机容器）的主机环境，兼容 macOS、Linux 和 Windows 系统，以及用于集成代理的 Python 或相关语言的 SDK 开发环境。"
+      }
+    },
+    "Raphire/Win11Debloat": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "一个简单轻量级的 PowerShell 脚本，旨在帮用户卸载 Windows 预装的应用（Bloatware）、禁用后台隐私遥测收集，并进行各种系统优化以净化和定制 Windows 体验。",
+        "configuration": "需要 Windows 10 或 Windows 11 操作系统，以及管理员权限的 PowerShell 运行环境，无需安装额外的第三方依赖。"
+      }
+    },
+    "mikeroyal/Self-Hosting-Guide": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "这是一个全面的自托管（Self-Hosting）指南，旨在帮助个人和组织学习如何在本地（私有服务器或本地物理设备）部署和管理各种软件应用，涵盖云计算、大语言模型（LLM）、WireGuard VPN、自动化工具、Home Assistant 智能家居平台以及网络配置等多个领域。",
+        "configuration": "该项目为文档与知识库性质，不需要特定的编程运行环境。要实践指南中的内容，用户需要准备用于托管的硬件设备（如服务器、树莓派或个人电脑）、Linux 或 Docker 等操作系统/容器环境，以及基础的网络管理和系统运维知识。"
+      }
+    },
+    "itsfatduck/optimizerDuck": {
+      "streak": 1,
+      "last_seen_date": "2026-06-16",
+      "summary": {
+        "what_it_does": "一款免费且开源的 Windows 系统优化工具，旨在通过精简设置、保护隐私以及调整系统参数来提升 Windows 电脑的运行性能与流畅度。",
+        "configuration": "适用于 Windows 操作系统环境（如 Windows 10 或 Windows 11）。运行该工具通常需要管理员权限（Administrator），具体可能依赖于 .NET Framework 等 Windows 运行库，无需特殊的硬件配置。"
       }
     }
   }
