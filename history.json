@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-20",
+  "last_run_date": "2026-06-21",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -82,8 +82,8 @@
       }
     },
     "twentyhq/twenty": {
-      "streak": 2,
-      "last_seen_date": "2026-05-30",
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个专为 AI 时代设计的开源 CRM（客户关系管理）系统，旨在作为 Salesforce 的开源替代方案。",
         "configuration": "需要 Node.js 运行环境、PostgreSQL 数据库，推荐使用 Docker 进行本地部署和配置。"
@@ -370,8 +370,8 @@
       }
     },
     "chopratejas/headroom": {
-      "streak": 18,
-      "last_seen_date": "2026-06-20",
+      "streak": 19,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 分块）发送给 LLM 之前进行智能压缩，在保持回答质量不变的前提下减少 60-95% 的 Token 消耗。提供库、代理（Proxy）和 MCP 服务器三种形式。",
         "configuration": "需要支持 LLM 应用开发的编程环境（如 Node.js 或 Python）。如果作为代理或 MCP（Model Context Protocol）服务器运行，需要配置网络代理环境和相兼容的 MCP 客户端。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 12,
-      "last_seen_date": "2026-06-20",
+      "streak": 13,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -554,8 +554,8 @@
       }
     },
     "withastro/flue": {
-      "streak": 2,
-      "last_seen_date": "2026-06-20",
+      "streak": 3,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个用于构建和运行沙盒智能体（Sandbox Agent）的开发框架，支持在隔离的安全环境中执行和测试 AI 代理的行为。",
         "configuration": "通常需要 Node.js 或 JavaScript/TypeScript 开发环境，可能依赖 Docker 或其他轻量级容器化技术来实现安全的沙盒隔离环境。"
@@ -714,8 +714,8 @@
       }
     },
     "phuryn/pm-skills": {
-      "streak": 12,
-      "last_seen_date": "2026-06-20",
+      "streak": 13,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个产品经理（PM）AI 技能市场，提供 100 多个用于智能体的技能、命令和插件，覆盖产品从探索、战略、执行、发布到增长的全生命周期。",
         "configuration": "需要支持集成外部技能或插件的 AI Agent 开发环境，通常涉及 Python/Node.js 运行环境、相关的 Agent 框架依赖，以及调用大语言模型的 API 密钥。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 11,
-      "last_seen_date": "2026-06-20",
+      "streak": 12,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -810,8 +810,8 @@
       }
     },
     "NVIDIA/SkillSpector": {
-      "streak": 7,
-      "last_seen_date": "2026-06-20",
+      "streak": 8,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "专门用于 AI 智能体（Agent）技能的安全扫描工具，旨在检测漏洞、恶意代码模式以及其他潜在的安全风险。",
         "configuration": "通常需要 Python 运行环境，相关的安全扫描依赖库，以及可能需要配置与特定 AI Agent 框架或 LLM 服务对接的环境。"
@@ -890,8 +890,8 @@
       }
     },
     "iptv-org/iptv": {
-      "streak": 8,
-      "last_seen_date": "2026-06-20",
+      "streak": 9,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "收集并维护全球各地公开可用的免费 IPTV 频道播放列表。",
         "configuration": "无需特殊硬件配置，只需支持播放 M3U 格式的网络媒体播放器（如 VLC、PotPlayer、Kodi 等）和网络连接。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 1,
-      "last_seen_date": "2026-06-20",
+      "streak": 2,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1082,24 +1082,24 @@
       }
     },
     "n0-computer/iroh": {
-      "streak": 4,
-      "last_seen_date": "2026-06-20",
+      "streak": 5,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个使用 Rust 编写的模块化点对点（P2P）网络协议栈。它通过公钥（拨号密钥）而非传统的 IP 地址来进行节点连接和寻址，旨在解决 IP 地址变动及 NAT 穿透带来的连接中断问题。",
         "configuration": "需要 Rust 编译和运行环境（Rust 工具链），支持 Linux、macOS、Windows 等主流操作系统，以及基本的网络连接环境。"
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 3,
-      "last_seen_date": "2026-06-20",
+      "streak": 4,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
       }
     },
     "google-research/timesfm": {
-      "streak": 3,
-      "last_seen_date": "2026-06-20",
+      "streak": 4,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "由谷歌研究院（Google Research）开发的时间序列基础模型（TimesFM），用于零样本（zero-shot）时间序列预测任务。",
         "configuration": "需要 Python 运行环境（建议 3.10+），依赖 PyTorch 或 JAX 深度学习框架及 Hugging Face 库，推荐配备 GPU/TPU 以进行高效推理。"
@@ -1122,8 +1122,8 @@
       }
     },
     "penpot/penpot": {
-      "streak": 1,
-      "last_seen_date": "2026-06-20",
+      "streak": 2,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个开源的矢量设计和原型协作平台，旨在连接设计师与开发人员，支持团队进行实时协作设计与代码对接。",
         "configuration": "推荐通过 Docker 和 Docker Compose 进行部署。运行环境基于 Clojure（后端）和 ClojureScript（前端），依赖 PostgreSQL 数据库和 Redis 缓存。服务器建议配置至少双核 CPU 及 2GB 内存。"
@@ -1131,7 +1131,7 @@
     },
     "mattpocock/skills": {
       "streak": 1,
-      "last_seen_date": "2026-06-18",
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1162,8 +1162,8 @@
       }
     },
     "calesthio/OpenMontage": {
-      "streak": 1,
-      "last_seen_date": "2026-06-20",
+      "streak": 2,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1203,15 +1203,15 @@
     },
     "Kilo-Org/kilocode": {
       "streak": 1,
-      "last_seen_date": "2026-06-19",
+      "last_seen_date": "2026-06-21",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "一个一体化的智能体（Agentic）工程平台，内置流行的开源编程智能体，帮助开发者快速构建、部署和迭代代码。",
+        "configuration": "需要 Node.js/Python 基础环境，可能需要 Docker 用于代码的安全隔离执行，同时需要配置大语言模型（如 OpenAI、Anthropic 等）的 API 密钥。"
       }
     },
     "Kong/insomnia": {
-      "streak": 2,
-      "last_seen_date": "2026-06-20",
+      "streak": 3,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个开源、跨平台的 API 客户端，用于调试、测试和设计 GraphQL、REST、WebSockets、SSE 和 gRPC 接口，支持云端、本地和 Git 存储。 ",
         "configuration": "作为桌面应用程序，可直接下载适用于 Windows、macOS 或 Linux 的安装包运行。如需从源码构建，则需要 Node.js、Git 以及相关的包管理器（如 npm 或 Yarn）。"
@@ -1227,7 +1227,7 @@
     },
     "owainlewis/awesome-artificial-intelligence": {
       "streak": 1,
-      "last_seen_date": "2026-06-19",
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一个精心整理的人工智能（AI）学习资源列表，包含课程、书籍、视频讲座和学术论文等。",
         "configuration": "无需任何代码配置或硬件要求，只需通过浏览器或 Markdown 阅读器直接浏览即可。"
@@ -1250,8 +1250,8 @@
       }
     },
     "palmier-io/palmier-pro": {
-      "streak": 1,
-      "last_seen_date": "2026-06-20",
+      "streak": 2,
+      "last_seen_date": "2026-06-21",
       "summary": {
         "what_it_does": "一款专为人工智能（AI）设计的 macOS 视频剪辑软件，旨在利用 AI 技术简化和加速视频编辑流程。",
         "configuration": "需要 macOS 操作系统，建议配备 Apple Silicon（M系列）芯片以获得最佳的本地 AI 模型运行性能。"
@@ -1279,6 +1279,46 @@
       "summary": {
         "what_it_does": "一个用于构建“智能体原生”（agent-native）应用程序的开发框架，简化了围绕 AI Agent 核心构建应用的过程。",
         "configuration": "需要 Node.js 或 JavaScript/TypeScript 运行环境，并需要配置用于连接大语言模型（LLM）的 API 密钥。"
+      }
+    },
+    "tursodatabase/turso": {
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
+      "summary": {
+        "what_it_does": "一个与 SQLite 兼容的进程内分布式 SQL 数据库，专为边缘计算和超低延迟数据访问而设计。",
+        "configuration": "需要安装 Turso CLI，支持 Rust、Go、TypeScript、Python 等主流语言 SDK，可选择在本地运行 libsql 引擎或连接其云端服务。"
+      }
+    },
+    "tw93/Pake": {
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
+      "summary": {
+        "what_it_does": "一个利用 Rust Tauri 框架，将任意网页一键打包成轻量级桌面端应用（支持 Mac、Windows 和 Linux）的工具。",
+        "configuration": "需要安装 Node.js、Rust 编译环境，以及各系统对应的构建工具（如 macOS 的 Xcode 命令工具、Windows 的 C++ 生成工具、Linux 的 WebKit2GTK 等）。"
+      }
+    },
+    "jamiepine/voicebox": {
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
+      "summary": {
+        "what_it_does": "一个开源的 AI 语音工作室，支持声音克隆、语音听写和 AI 音频内容创作。",
+        "configuration": "需要 Node.js 运行环境、Python 运行环境及 PyTorch 等深度学习依赖，推荐配备支持 CUDA 的 NVIDIA 显卡以进行本地模型推理。"
+      }
+    },
+    "pppscn/SmsForwarder": {
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
+      "summary": {
+        "what_it_does": "监控 Android 手机的短信、来电及 APP 通知，并根据自定义规则自动转发到钉钉、企业微信、飞书、邮箱、Telegram、Webhook、bark 等多种渠道，同时支持远程控制发送短信、查询通话记录和电量等功能。",
+        "configuration": "需要运行 Android 系统的手机物理机或虚拟机（安装其 APK 客户端），授予短信读取、通话记录和通知访问等相关权限，并需要配置接收端（如各平台的 API 密钥、Webhook 地址或邮箱 SMTP 服务）及网络连接。"
+      }
+    },
+    "1jehuang/jcode": {
+      "streak": 1,
+      "last_seen_date": "2026-06-21",
+      "summary": {
+        "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
+        "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
       }
     }
   }
