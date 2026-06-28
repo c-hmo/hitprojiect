@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-27",
+  "last_run_date": "2026-06-28",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -451,7 +451,7 @@
     },
     "HKUDS/Vibe-Trading": {
       "streak": 1,
-      "last_seen_date": "2026-06-04",
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 19,
-      "last_seen_date": "2026-06-27",
+      "streak": 20,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -739,7 +739,7 @@
     },
     "luongnv89/claude-howto": {
       "streak": 1,
-      "last_seen_date": "2026-06-11",
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "这是一个关于 Claude Code 的可视化、实例驱动的使用指南。它涵盖了从基础概念到高级智能体（Agents）的构建，并提供了可以直接复制粘贴使用的实用模板。",
         "configuration": "该项目主要为文档和模板指南，阅读无需特殊环境配置。若要实际运行和测试其中的 Claude Code 模板，通常需要安装 Node.js 运行环境、Claude Code 命令行工具以及配置 Anthropic API 密钥。"
@@ -906,8 +906,8 @@
       }
     },
     "microsoft/PowerToys": {
-      "streak": 2,
-      "last_seen_date": "2026-06-14",
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "微软官方推出的 Windows 系统实用工具集，用于提升系统操作效率和进行个性化自定义。",
         "configuration": "需要 Windows 10 或 Windows 11 操作系统环境，下载并安装对应的官方安装包即可运行。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 10,
-      "last_seen_date": "2026-06-27",
+      "streak": 11,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1122,8 +1122,8 @@
       }
     },
     "penpot/penpot": {
-      "streak": 8,
-      "last_seen_date": "2026-06-27",
+      "streak": 9,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个开源的矢量设计和原型协作平台，旨在连接设计师与开发人员，支持团队进行实时协作设计与代码对接。",
         "configuration": "推荐通过 Docker 和 Docker Compose 进行部署。运行环境基于 Clojure（后端）和 ClojureScript（前端），依赖 PostgreSQL 数据库和 Redis 缓存。服务器建议配置至少双核 CPU 及 2GB 内存。"
@@ -1162,8 +1162,8 @@
       }
     },
     "calesthio/OpenMontage": {
-      "streak": 8,
-      "last_seen_date": "2026-06-27",
+      "streak": 9,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1298,8 +1298,8 @@
       }
     },
     "jamiepine/voicebox": {
-      "streak": 5,
-      "last_seen_date": "2026-06-27",
+      "streak": 6,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个开源的 AI 语音工作室，支持声音克隆、语音听写和 AI 音频内容创作。",
         "configuration": "需要 Node.js 运行环境、Python 运行环境及 PyTorch 等深度学习依赖，推荐配备支持 CUDA 的 NVIDIA 显卡以进行本地模型推理。"
@@ -1322,8 +1322,8 @@
       }
     },
     "ZhuLinsen/daily_stock_analysis": {
-      "streak": 6,
-      "last_seen_date": "2026-06-27",
+      "streak": 7,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情获取、实时新闻分析、可视化决策看板以及自动化通知推送。",
         "configuration": "需要 Python 运行环境、LLM（大语言模型）API 密钥，以及用于接收推送的配置。支持利用 GitHub Actions 进行免服务器的零成本定时运行。"
@@ -1355,7 +1355,7 @@
     },
     "topoteretes/cognee": {
       "streak": 1,
-      "last_seen_date": "2026-06-22",
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "Cognee 是一个为 AI 智能体（Agents）打造的开源记忆平台，通过自托管的知识图谱引擎，为 AI 提供跨会话的持久化长期记忆能力。",
         "configuration": "需要 Python 3.10+ 运行环境，支持图数据库/向量数据库（如 Neo4j、Qdrant 等），以及大语言模型（LLM）的 API 密钥（如 OpenAI API）用于知识提取和图谱构建。"
@@ -1370,8 +1370,8 @@
       }
     },
     "garrytan/gstack": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 3,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一套由 Garry Tan 整理并推荐的 Claude Code 配置与工具集，包含23个特定用途的自动化工具，可在 AI 开发流程中扮演 CEO、设计师、工程经理、文档工程师和 QA 等多种角色。",
         "configuration": "需要安装并配置 Anthropic 的 Claude Code 命令行工具，具备 Node.js 运行环境，以及对应的 Anthropic API 密钥。"
@@ -1394,8 +1394,8 @@
       }
     },
     "JCodesMore/ai-website-cloner-template": {
-      "streak": 5,
-      "last_seen_date": "2026-06-27",
+      "streak": 6,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "利用 AI 编码智能体，支持通过单条命令克隆任何网站，用于快速生成和复制网页模板。",
         "configuration": "需要 Node.js 运行环境、Git，以及配置相关的 AI 服务（如 OpenAI、Anthropic 等）的 API 密钥。"
@@ -1411,7 +1411,7 @@
     },
     "interviewstreet/hiring-agent": {
       "streak": 1,
-      "last_seen_date": "2026-06-25",
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
@@ -1442,8 +1442,8 @@
       }
     },
     "google-labs-code/design.md": {
-      "streak": 3,
-      "last_seen_date": "2026-06-27",
+      "streak": 4,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一种用于向 AI 编程智能体描述视觉规范和设计系统的格式规范（DESIGN.md），旨在让 AI 对设计系统有持久且结构化的理解。",
         "configuration": "无需特殊的运行环境或硬件支持，仅需要一个支持 Markdown 的文本编辑器，以及能够读取并应用该格式规范的 AI 编程辅助工具。"
@@ -1458,8 +1458,8 @@
       }
     },
     "kunchenguid/no-mistakes": {
-      "streak": 1,
-      "last_seen_date": "2026-06-27",
+      "streak": 2,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个用于在执行 `git push` 时进行安全检查、防止误操作和错误提交的辅助工具。",
         "configuration": "需要 Git 命令行环境。通常需要基础的 Shell 运行环境，无特殊硬件要求。"
@@ -1474,8 +1474,8 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 3,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
@@ -1491,7 +1491,7 @@
     },
     "every-app/open-seo": {
       "streak": 1,
-      "last_seen_date": "2026-06-26",
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
@@ -1514,8 +1514,8 @@
       }
     },
     "IceWhaleTech/CasaOS": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 3,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个简单、易用且美观的开源个人云系统。它提供了一个可视化的 Web 界面，使用户能够轻松管理本地文件、监控系统状态，并通过 Docker 一键安装和运行各种智能家居及个人云端应用。",
         "configuration": "支持运行在基于 Linux 的系统（如 Debian、Ubuntu、Raspbian 等）上，兼容 x86_64 和 ARM 架构硬件（如普通 PC、树莓派、NAS 等）。运行需要 Docker 环境支持（安装脚本通常会自动配置），核心由 Go 语言编写。"
@@ -1530,24 +1530,24 @@
       }
     },
     "NanmiCoder/MediaCrawler": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 3,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一款多平台社交媒体爬虫工具，支持抓取小红书、抖音、快手、B站、微博、贴吧、知乎等平台的视频、帖子、文章及评论数据。",
         "configuration": "需要 Python 3.10+ 运行环境，安装 Playwright 依赖（及对应的浏览器内核），并需要配置各社交平台对应的登录 Cookie 以规避反爬限制。"
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 1,
-      "last_seen_date": "2026-06-27",
+      "streak": 2,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
       }
     },
     "commaai/openpilot": {
-      "streak": 1,
-      "last_seen_date": "2026-06-27",
+      "streak": 2,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个开源的机器人操作系统，主要用于升级和改进 300 多种受支持车型的自动驾驶辅助功能（如车道保持、自适应巡航等）。",
         "configuration": "需要专门的 comma 硬件设备（如 Comma 3X）、兼容的汽车及对应的线束；软件层面基于 Linux 系统，涉及 Python 和 C++ 运行环境。"
@@ -1562,11 +1562,59 @@
       }
     },
     "ripienaar/free-for-dev": {
-      "streak": 1,
-      "last_seen_date": "2026-06-27",
+      "streak": 2,
+      "last_seen_date": "2026-06-28",
       "summary": {
         "what_it_does": "一个专门为 DevOps 和基础设施开发人员整理的、提供免费服务额度的 SaaS、PaaS 和 IaaS 平台与工具的资源列表。",
         "configuration": "该项目是一个纯文本文档（Markdown 格式），不需要任何特殊的运行环境、编程语言或硬件配置，直接通过浏览器或 Markdown 阅读器查看即可。"
+      }
+    },
+    "hugohe3/ppt-master": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "Anil-matcha/Open-Generative-AI": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "dbt-labs/dbt-core": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "anomalyco/opencode": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "Fission-AI/OpenSpec": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "keycloak/keycloak": {
+      "streak": 1,
+      "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
       }
     }
   }
