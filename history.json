@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-28",
+  "last_run_date": "2026-06-29",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "streak": 2,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 11,
-      "last_seen_date": "2026-06-28",
+      "streak": 12,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1162,8 +1162,8 @@
       }
     },
     "calesthio/OpenMontage": {
-      "streak": 9,
-      "last_seen_date": "2026-06-28",
+      "streak": 10,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1250,8 +1250,8 @@
       }
     },
     "palmier-io/palmier-pro": {
-      "streak": 5,
-      "last_seen_date": "2026-06-24",
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一款专为人工智能（AI）设计的 macOS 视频剪辑软件，旨在利用 AI 技术简化和加速视频编辑流程。",
         "configuration": "需要 macOS 操作系统，建议配备 Apple Silicon（M系列）芯片以获得最佳的本地 AI 模型运行性能。"
@@ -1322,8 +1322,8 @@
       }
     },
     "ZhuLinsen/daily_stock_analysis": {
-      "streak": 7,
-      "last_seen_date": "2026-06-28",
+      "streak": 8,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情获取、实时新闻分析、可视化决策看板以及自动化通知推送。",
         "configuration": "需要 Python 运行环境、LLM（大语言模型）API 密钥，以及用于接收推送的配置。支持利用 GitHub Actions 进行免服务器的零成本定时运行。"
@@ -1394,8 +1394,8 @@
       }
     },
     "JCodesMore/ai-website-cloner-template": {
-      "streak": 6,
-      "last_seen_date": "2026-06-28",
+      "streak": 7,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "利用 AI 编码智能体，支持通过单条命令克隆任何网站，用于快速生成和复制网页模板。",
         "configuration": "需要 Node.js 运行环境、Git，以及配置相关的 AI 服务（如 OpenAI、Anthropic 等）的 API 密钥。"
@@ -1410,8 +1410,8 @@
       }
     },
     "interviewstreet/hiring-agent": {
-      "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "streak": 2,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
@@ -1435,15 +1435,15 @@
     },
     "stablyai/orca": {
       "streak": 1,
-      "last_seen_date": "2026-06-27",
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
       }
     },
     "google-labs-code/design.md": {
-      "streak": 4,
-      "last_seen_date": "2026-06-28",
+      "streak": 5,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一种用于向 AI 编程智能体描述视觉规范和设计系统的格式规范（DESIGN.md），旨在让 AI 对设计系统有持久且结构化的理解。",
         "configuration": "无需特殊的运行环境或硬件支持，仅需要一个支持 Markdown 的文本编辑器，以及能够读取并应用该格式规范的 AI 编程辅助工具。"
@@ -1458,8 +1458,8 @@
       }
     },
     "kunchenguid/no-mistakes": {
-      "streak": 2,
-      "last_seen_date": "2026-06-28",
+      "streak": 3,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个用于在执行 `git push` 时进行安全检查、防止误操作和错误提交的辅助工具。",
         "configuration": "需要 Git 命令行环境。通常需要基础的 Shell 运行环境，无特殊硬件要求。"
@@ -1474,8 +1474,8 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 3,
-      "last_seen_date": "2026-06-28",
+      "streak": 4,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
@@ -1522,8 +1522,8 @@
       }
     },
     "opendatalab/MinerU": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一款高效的文档解析工具，能将 PDF、Office 等复杂文档转换为适用于大语言模型（LLM）和智能体（Agent）工作流的 Markdown 或 JSON 格式。",
         "configuration": "需要 Python 3.9+ 运行环境，以及 PyTorch 等深度学习依赖库；为了获得更好的 OCR 和解析性能，建议配置带有 GPU 的硬件环境。"
@@ -1538,16 +1538,16 @@
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 2,
-      "last_seen_date": "2026-06-28",
+      "streak": 3,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
       }
     },
     "commaai/openpilot": {
-      "streak": 2,
-      "last_seen_date": "2026-06-28",
+      "streak": 3,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个开源的机器人操作系统，主要用于升级和改进 300 多种受支持车型的自动驾驶辅助功能（如车道保持、自适应巡航等）。",
         "configuration": "需要专门的 comma 硬件设备（如 Comma 3X）、兼容的汽车及对应的线束；软件层面基于 Linux 系统，涉及 Python 和 C++ 运行环境。"
@@ -1562,8 +1562,8 @@
       }
     },
     "ripienaar/free-for-dev": {
-      "streak": 2,
-      "last_seen_date": "2026-06-28",
+      "streak": 3,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "一个专门为 DevOps 和基础设施开发人员整理的、提供免费服务额度的 SaaS、PaaS 和 IaaS 平台与工具的资源列表。",
         "configuration": "该项目是一个纯文本文档（Markdown 格式），不需要任何特殊的运行环境、编程语言或硬件配置，直接通过浏览器或 Markdown 阅读器查看即可。"
@@ -1612,6 +1612,54 @@
     "keycloak/keycloak": {
       "streak": 1,
       "last_seen_date": "2026-06-28",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "Robbyant/lingbot-map": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "cupy/cupy": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "altic-dev/FluidVoice": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "ByteByteGoHq/system-design-101": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "usestrix/strix": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "browser-use/video-use": {
+      "streak": 1,
+      "last_seen_date": "2026-06-29",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
