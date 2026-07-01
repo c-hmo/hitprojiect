@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-06-30",
+  "last_run_date": "2026-07-01",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 3,
-      "last_seen_date": "2026-06-20",
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 3,
-      "last_seen_date": "2026-06-30",
+      "streak": 4,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -730,8 +730,8 @@
       }
     },
     "roboflow/supervision": {
-      "streak": 3,
-      "last_seen_date": "2026-06-11",
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个用于计算机视觉（CV）的可重用工具库，旨在简化目标检测、跟踪、区域计数、图像标注以及数据集流转等视觉任务的开发流程。",
         "configuration": "需要 Python 3.8 或更高版本环境，通过 pip 安装 `supervision` 库，依赖 OpenCV、NumPy 等基础图像处理库。若需运行关联的目标检测模型（如 YOLO），建议配置支持 CUDA 的 GPU 硬件加速。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 1,
-      "last_seen_date": "2026-06-30",
+      "streak": 2,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 13,
-      "last_seen_date": "2026-06-30",
+      "streak": 14,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1162,8 +1162,8 @@
       }
     },
     "calesthio/OpenMontage": {
-      "streak": 11,
-      "last_seen_date": "2026-06-30",
+      "streak": 12,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1322,8 +1322,8 @@
       }
     },
     "ZhuLinsen/daily_stock_analysis": {
-      "streak": 9,
-      "last_seen_date": "2026-06-30",
+      "streak": 10,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情获取、实时新闻分析、可视化决策看板以及自动化通知推送。",
         "configuration": "需要 Python 运行环境、LLM（大语言模型）API 密钥，以及用于接收推送的配置。支持利用 GitHub Actions 进行免服务器的零成本定时运行。"
@@ -1394,8 +1394,8 @@
       }
     },
     "JCodesMore/ai-website-cloner-template": {
-      "streak": 8,
-      "last_seen_date": "2026-06-30",
+      "streak": 9,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "利用 AI 编码智能体，支持通过单条命令克隆任何网站，用于快速生成和复制网页模板。",
         "configuration": "需要 Node.js 运行环境、Git，以及配置相关的 AI 服务（如 OpenAI、Anthropic 等）的 API 密钥。"
@@ -1434,16 +1434,16 @@
       }
     },
     "stablyai/orca": {
-      "streak": 2,
-      "last_seen_date": "2026-06-30",
+      "streak": 3,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
       }
     },
     "google-labs-code/design.md": {
-      "streak": 6,
-      "last_seen_date": "2026-06-30",
+      "streak": 7,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一种用于向 AI 编程智能体描述视觉规范和设计系统的格式规范（DESIGN.md），旨在让 AI 对设计系统有持久且结构化的理解。",
         "configuration": "无需特殊的运行环境或硬件支持，仅需要一个支持 Markdown 的文本编辑器，以及能够读取并应用该格式规范的 AI 编程辅助工具。"
@@ -1458,8 +1458,8 @@
       }
     },
     "kunchenguid/no-mistakes": {
-      "streak": 4,
-      "last_seen_date": "2026-06-30",
+      "streak": 5,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个用于在执行 `git push` 时进行安全检查、防止误操作和错误提交的辅助工具。",
         "configuration": "需要 Git 命令行环境。通常需要基础的 Shell 运行环境，无特殊硬件要求。"
@@ -1474,16 +1474,16 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 5,
-      "last_seen_date": "2026-06-30",
+      "streak": 6,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
       }
     },
     "mauriceboe/TREK": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个自托管的旅行和行程规划平台，支持多人实时协作、交互式地图、PWA（渐进式Web应用）、单点登录（SSO）、预算管理及行李打包清单等功能。",
         "configuration": "需要 Docker 或 Docker Compose 运行环境（或 Node.js 运行环境与数据库支持），以及用于地图服务和单点登录（SSO）的相关 API 密钥与配置。"
@@ -1507,10 +1507,10 @@
     },
     "alibaba/page-agent": {
       "streak": 1,
-      "last_seen_date": "2026-06-26",
+      "last_seen_date": "2026-07-01",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "一个运行在网页内部的 JavaScript GUI 智能体（Agent），允许用户通过自然语言直接交互并控制网页界面。",
+        "configuration": "需要现代 Web 浏览器环境或 Node.js 环境，用于集成到前端项目中，且通常需要配置大语言模型（LLM）的 API 接入权限。"
       }
     },
     "IceWhaleTech/CasaOS": {
@@ -1538,8 +1538,8 @@
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 4,
-      "last_seen_date": "2026-06-30",
+      "streak": 5,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
@@ -1562,8 +1562,8 @@
       }
     },
     "ripienaar/free-for-dev": {
-      "streak": 4,
-      "last_seen_date": "2026-06-30",
+      "streak": 5,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一个专门为 DevOps 和基础设施开发人员整理的、提供免费服务额度的 SaaS、PaaS 和 IaaS 平台与工具的资源列表。",
         "configuration": "该项目是一个纯文本文档（Markdown 格式），不需要任何特殊的运行环境、编程语言或硬件配置，直接通过浏览器或 Markdown 阅读器查看即可。"
@@ -1619,10 +1619,10 @@
     },
     "Robbyant/lingbot-map": {
       "streak": 1,
-      "last_seen_date": "2026-06-29",
+      "last_seen_date": "2026-07-01",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "一个前馈式 3D 基础模型，专门用于从实时流式数据中进行快速的 3D 场景重建。",
+        "configuration": "需要支持深度学习的 Python 环境（如 PyTorch）、支持 CUDA 的 NVIDIA 显卡（硬件要求较高），以及用于处理 3D 数据和图像流的相关依赖库。"
       }
     },
     "cupy/cupy": {
@@ -1634,8 +1634,8 @@
       }
     },
     "altic-dev/FluidVoice": {
-      "streak": 2,
-      "last_seen_date": "2026-06-30",
+      "streak": 3,
+      "last_seen_date": "2026-07-01",
       "summary": {
         "what_it_does": "一款极速的 macOS 离线语音转文字（听写）应用，完全在本地运行，无需网络连接。",
         "configuration": "需要 macOS 操作系统，建议使用配备 Apple Silicon（M系列）芯片的 Mac 设备以获得最佳本地 AI 推理性能。"
@@ -1651,18 +1651,18 @@
     },
     "usestrix/strix": {
       "streak": 1,
-      "last_seen_date": "2026-06-29",
+      "last_seen_date": "2026-07-01",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
+        "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
       }
     },
     "browser-use/video-use": {
-      "streak": 2,
-      "last_seen_date": "2026-06-30",
+      "streak": 3,
+      "last_seen_date": "2026-07-01",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
+        "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
       }
     },
     "logto-io/logto": {
@@ -1695,6 +1695,70 @@
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
+      }
+    },
+    "hasaneyldrm/exercises-dataset": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个包含 433 种健身动作的综合数据集，每个动作包含名称、分类、目标肌群、所需器材、动作指导、缩略图及动画视频等详细信息。",
+        "configuration": "作为静态数据集，无需特殊的运行环境或硬件配置。只需使用支持 JSON 格式解析的编程语言（如 JavaScript、Python 等）进行读取，并需要网络连接以加载图片和视频资源。"
+      }
+    },
+    "diegosouzapw/OmniRoute": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
+        "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
+      }
+    },
+    "Mebus/cupp": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "通用用户密码分析器（CUPP），一种社会工程学密码字典生成工具。它通过交互式问答（如目标人物的姓名、生日、配偶、宠物等信息）来自动生成高度定制化的候选密码字典。",
+        "configuration": "极低配置要求。仅需 Python 3 运行环境，无需额外的第三方库，可在任何支持 Python 的操作系统（Linux、Windows、macOS）终端中直接运行。"
+      }
+    },
+    "google/agents-cli": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个命令行工具（CLI）和技能库，旨在将任何编程助手（如 Cursor、VS Code Copilot 等）转变为在 Google Cloud 上创建、评估和部署 AI 智能体（Agents）的专家。",
+        "configuration": "需要 Node.js 运行环境（通常为 v18+），Google Cloud 账号、gcloud CLI 以及相应的云服务权限和 API 凭证，同时需要配置支持技能导入的 AI 编程助手。"
+      }
+    },
+    "ogulcancelik/herdr": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
+        "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
+      }
+    },
+    "CoreBunch/Instatic": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个现代化、开箱即用的自托管可视化内容管理系统（CMS），旨在让用户在极短时间内快速部署和运行。",
+        "configuration": "需要支持 Node.js 的运行环境或 Docker 环境进行自托管部署，基础的 Web 服务器和数据库配置。"
+      }
+    },
+    "microsoft/AI-For-Beginners": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
+        "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
+      }
+    },
+    "facebook/astryx": {
+      "streak": 1,
+      "last_seen_date": "2026-07-01",
+      "summary": {
+        "what_it_does": "一个开源、完全可定制且对 AI 智能体（Agent）友好的设计系统，用于构建现代化用户界面。",
+        "configuration": "需要 Node.js 开发环境（及 npm/yarn/pnpm 包管理器），适用于 React 等主流前端框架的集成开发。"
       }
     }
   }
