@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-02",
+  "last_run_date": "2026-07-03",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -67,7 +67,7 @@
     },
     "affaan-m/ECC": {
       "streak": 1,
-      "last_seen_date": "2026-06-24",
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -115,7 +115,7 @@
     },
     "obra/superpowers": {
       "streak": 1,
-      "last_seen_date": "2026-07-01",
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 5,
-      "last_seen_date": "2026-07-02",
+      "streak": 6,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -594,8 +594,8 @@
       }
     },
     "santifer/career-ops": {
-      "streak": 2,
-      "last_seen_date": "2026-06-10",
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个基于 Claude Code 核心构建的 AI 驱动求职系统。它支持 14 种技能模式、提供 Go 语言编写的控制台、PDF 简历生成以及求职申请的批量处理功能。",
         "configuration": "需要 Go 语言环境（用于运行 Dashboard）、Node.js 或 Python（用于 Claude Code 交互），以及 Anthropic (Claude) 的 API 密钥。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 3,
-      "last_seen_date": "2026-07-02",
+      "streak": 4,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 15,
-      "last_seen_date": "2026-07-02",
+      "streak": 16,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1162,8 +1162,8 @@
       }
     },
     "calesthio/OpenMontage": {
-      "streak": 13,
-      "last_seen_date": "2026-07-02",
+      "streak": 14,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1394,8 +1394,8 @@
       }
     },
     "JCodesMore/ai-website-cloner-template": {
-      "streak": 10,
-      "last_seen_date": "2026-07-02",
+      "streak": 11,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "利用 AI 编码智能体，支持通过单条命令克隆任何网站，用于快速生成和复制网页模板。",
         "configuration": "需要 Node.js 运行环境、Git，以及配置相关的 AI 服务（如 OpenAI、Anthropic 等）的 API 密钥。"
@@ -1442,8 +1442,8 @@
       }
     },
     "google-labs-code/design.md": {
-      "streak": 8,
-      "last_seen_date": "2026-07-02",
+      "streak": 9,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一种用于向 AI 编程智能体描述视觉规范和设计系统的格式规范（DESIGN.md），旨在让 AI 对设计系统有持久且结构化的理解。",
         "configuration": "无需特殊的运行环境或硬件支持，仅需要一个支持 Markdown 的文本编辑器，以及能够读取并应用该格式规范的 AI 编程辅助工具。"
@@ -1458,8 +1458,8 @@
       }
     },
     "kunchenguid/no-mistakes": {
-      "streak": 6,
-      "last_seen_date": "2026-07-02",
+      "streak": 7,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个用于在执行 `git push` 时进行安全检查、防止误操作和错误提交的辅助工具。",
         "configuration": "需要 Git 命令行环境。通常需要基础的 Shell 运行环境，无特殊硬件要求。"
@@ -1474,8 +1474,8 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 7,
-      "last_seen_date": "2026-07-02",
+      "streak": 8,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
@@ -1538,8 +1538,8 @@
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 6,
-      "last_seen_date": "2026-07-02",
+      "streak": 7,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
@@ -1562,8 +1562,8 @@
       }
     },
     "ripienaar/free-for-dev": {
-      "streak": 6,
-      "last_seen_date": "2026-07-02",
+      "streak": 7,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个专门为 DevOps 和基础设施开发人员整理的、提供免费服务额度的 SaaS、PaaS 和 IaaS 平台与工具的资源列表。",
         "configuration": "该项目是一个纯文本文档（Markdown 格式），不需要任何特殊的运行环境、编程语言或硬件配置，直接通过浏览器或 Markdown 阅读器查看即可。"
@@ -1618,8 +1618,8 @@
       }
     },
     "Robbyant/lingbot-map": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 3,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个前馈式 3D 基础模型，专门用于从实时流式数据中进行快速的 3D 场景重建。",
         "configuration": "需要支持深度学习的 Python 环境（如 PyTorch）、支持 CUDA 的 NVIDIA 显卡（硬件要求较高），以及用于处理 3D 数据和图像流的相关依赖库。"
@@ -1650,16 +1650,16 @@
       }
     },
     "usestrix/strix": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 3,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
       }
     },
     "browser-use/video-use": {
-      "streak": 4,
-      "last_seen_date": "2026-07-02",
+      "streak": 5,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
         "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
@@ -1698,8 +1698,8 @@
       }
     },
     "hasaneyldrm/exercises-dataset": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 3,
+      "last_seen_date": "2026-07-03",
       "summary": {
         "what_it_does": "一个包含 433 种健身动作的综合数据集，每个动作包含名称、分类、目标肌群、所需器材、动作指导、缩略图及动画视频等详细信息。",
         "configuration": "作为静态数据集，无需特殊的运行环境或硬件配置。只需使用支持 JSON 格式解析的编程语言（如 JavaScript、Python 等）进行读取，并需要网络连接以加载图片和视频资源。"
@@ -1783,6 +1783,78 @@
       "summary": {
         "what_it_does": "为 AI Agent（智能体）提供即时、高并发、安全且轻量级的代码执行沙箱环境，用于安全地运行和隔离不可信代码。",
         "configuration": "需要 Linux 操作系统（支持 Cgroups 和 Namespaces 等内核隔离特性），通常需要 Go 语言环境以及 Docker 或相关容器运行时的支持，硬件配置视并发任务量而定。"
+      }
+    },
+    "JuliusBrussee/caveman": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
+        "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
+      }
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
+        "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
+      }
+    },
+    "actions/checkout": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "GitHub Actions 的官方核心插件，用于在工作流执行时检出（下载）当前 GitHub 仓库的代码，以便后续的构建、测试、部署等步骤能够访问代码。",
+        "configuration": "无需本地环境配置，只需在 GitHub 仓库的 `.github/workflows/` 工作流 YAML 配置文件中声明使用该 Action 即可。"
+      }
+    },
+    "agentskills/agentskills": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "用于定义和标准化 AI 智能体（Agent）所具备技能（Skills）与工具调用能力的规范和文档库，旨在帮助开发者统一 Agent 的技能开发标准。",
+        "configuration": "无特定的硬性运行环境，通常需要 Python、Node.js 等开发环境来集成、实现该规范中所定义的 API 或协议。"
+      }
+    },
+    "openai/codex-plugin-cc": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
+        "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
+      }
+    },
+    "langflow-ai/langflow": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "一个用于构建、设计和部署 AI 智能体（Agents）以及大语言模型（LLM）工作流的强大可视化低代码工具。",
+        "configuration": "需要 Python 3.10 - 3.12 运行环境，可通过 pip 安装。运行特定的 AI 工作流时，通常需要配置相应的大模型 API 密钥（如 OpenAI、Hugging Face 等）。"
+      }
+    },
+    "pytorch/pytorch": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "一个广泛应用于学术和工业界的开源深度学习框架，提供强大的 GPU 加速张量计算以及基于 Python 的动态神经网络构建能力。",
+        "configuration": "需要 Python 环境（建议 3.8 及以上），支持 Windows、Linux 和 macOS 系统。若需启用强力的 GPU 加速，则需要 NVIDIA GPU 硬件支持以及对应的 CUDA 和 cuDNN 驱动程序。"
+      }
+    },
+    "harvard-edge/cs249r_book": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "哈佛大学 CS249r（机器学习系统，Machine Learning Systems）课程的配套开源书籍、讲义及学习资源。",
+        "configuration": "作为电子书和文档库，阅读只需 PDF 阅读器、浏览器或 Markdown 编辑器。如果涉及书中代码示例的运行，通常需要 Python 编程环境及 Jupyter Notebook 等工具。"
+      }
+    },
+    "ryanmcdermott/clean-code-javascript": {
+      "streak": 1,
+      "last_seen_date": "2026-07-03",
+      "summary": {
+        "what_it_does": "该项目将经典著作《代码整洁之道》（Clean Code）中的软件工程原则和最佳实践适配到 JavaScript 语言中，通过对比“坏代码”和“好代码”的实例，帮助开发者编写出可读性强、可复用且易于重构的 JavaScript 代码。",
+        "configuration": "该项目主要是一个文档指南，无需特殊的硬件配置。只需一个浏览器或 Markdown 阅读器即可查看内容。若要尝试运行其中的代码示例，需要安装 Node.js 环境或直接在现代浏览器的控制台（Console）中执行。"
       }
     }
   }
