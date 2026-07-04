@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-03",
+  "last_run_date": "2026-07-04",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 4,
-      "last_seen_date": "2026-06-01",
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 4,
-      "last_seen_date": "2026-07-03",
+      "streak": 5,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 16,
-      "last_seen_date": "2026-07-03",
+      "streak": 17,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1355,7 +1355,7 @@
     },
     "topoteretes/cognee": {
       "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "Cognee 是一个为 AI 智能体（Agents）打造的开源记忆平台，通过自托管的知识图谱引擎，为 AI 提供跨会话的持久化长期记忆能力。",
         "configuration": "需要 Python 3.10+ 运行环境，支持图数据库/向量数据库（如 Neo4j、Qdrant 等），以及大语言模型（LLM）的 API 密钥（如 OpenAI API）用于知识提取和图谱构建。"
@@ -1394,8 +1394,8 @@
       }
     },
     "JCodesMore/ai-website-cloner-template": {
-      "streak": 11,
-      "last_seen_date": "2026-07-03",
+      "streak": 12,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "利用 AI 编码智能体，支持通过单条命令克隆任何网站，用于快速生成和复制网页模板。",
         "configuration": "需要 Node.js 运行环境、Git，以及配置相关的 AI 服务（如 OpenAI、Anthropic 等）的 API 密钥。"
@@ -1474,8 +1474,8 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 8,
-      "last_seen_date": "2026-07-03",
+      "streak": 9,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
@@ -1538,8 +1538,8 @@
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 7,
-      "last_seen_date": "2026-07-03",
+      "streak": 8,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
@@ -1618,8 +1618,8 @@
       }
     },
     "Robbyant/lingbot-map": {
-      "streak": 3,
-      "last_seen_date": "2026-07-03",
+      "streak": 4,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个前馈式 3D 基础模型，专门用于从实时流式数据中进行快速的 3D 场景重建。",
         "configuration": "需要支持深度学习的 Python 环境（如 PyTorch）、支持 CUDA 的 NVIDIA 显卡（硬件要求较高），以及用于处理 3D 数据和图像流的相关依赖库。"
@@ -1650,16 +1650,16 @@
       }
     },
     "usestrix/strix": {
-      "streak": 3,
-      "last_seen_date": "2026-07-03",
+      "streak": 4,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
       }
     },
     "browser-use/video-use": {
-      "streak": 5,
-      "last_seen_date": "2026-07-03",
+      "streak": 6,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
         "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1754,8 +1754,8 @@
       }
     },
     "facebook/astryx": {
-      "streak": 2,
-      "last_seen_date": "2026-07-02",
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个开源、完全可定制且对 AI 智能体（Agent）友好的设计系统，用于构建现代化用户界面。",
         "configuration": "需要 Node.js 开发环境（及 npm/yarn/pnpm 包管理器），适用于 React 等主流前端框架的集成开发。"
@@ -1779,47 +1779,47 @@
     },
     "TencentCloud/CubeSandbox": {
       "streak": 1,
-      "last_seen_date": "2026-07-02",
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "为 AI Agent（智能体）提供即时、高并发、安全且轻量级的代码执行沙箱环境，用于安全地运行和隔离不可信代码。",
         "configuration": "需要 Linux 操作系统（支持 Cgroups 和 Namespaces 等内核隔离特性），通常需要 Go 语言环境以及 Docker 或相关容器运行时的支持，硬件配置视并发任务量而定。"
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
       }
     },
     "ChromeDevTools/chrome-devtools-mcp": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
       }
     },
     "actions/checkout": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "GitHub Actions 的官方核心插件，用于在工作流执行时检出（下载）当前 GitHub 仓库的代码，以便后续的构建、测试、部署等步骤能够访问代码。",
         "configuration": "无需本地环境配置，只需在 GitHub 仓库的 `.github/workflows/` 工作流 YAML 配置文件中声明使用该 Action 即可。"
       }
     },
     "agentskills/agentskills": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "用于定义和标准化 AI 智能体（Agent）所具备技能（Skills）与工具调用能力的规范和文档库，旨在帮助开发者统一 Agent 的技能开发标准。",
         "configuration": "无特定的硬性运行环境，通常需要 Python、Node.js 等开发环境来集成、实现该规范中所定义的 API 或协议。"
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1834,16 +1834,16 @@
       }
     },
     "pytorch/pytorch": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "一个广泛应用于学术和工业界的开源深度学习框架，提供强大的 GPU 加速张量计算以及基于 Python 的动态神经网络构建能力。",
         "configuration": "需要 Python 环境（建议 3.8 及以上），支持 Windows、Linux 和 macOS 系统。若需启用强力的 GPU 加速，则需要 NVIDIA GPU 硬件支持以及对应的 CUDA 和 cuDNN 驱动程序。"
       }
     },
     "harvard-edge/cs249r_book": {
-      "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "streak": 2,
+      "last_seen_date": "2026-07-04",
       "summary": {
         "what_it_does": "哈佛大学 CS249r（机器学习系统，Machine Learning Systems）课程的配套开源书籍、讲义及学习资源。",
         "configuration": "作为电子书和文档库，阅读只需 PDF 阅读器、浏览器或 Markdown 编辑器。如果涉及书中代码示例的运行，通常需要 Python 编程环境及 Jupyter Notebook 等工具。"
@@ -1855,6 +1855,46 @@
       "summary": {
         "what_it_does": "该项目将经典著作《代码整洁之道》（Clean Code）中的软件工程原则和最佳实践适配到 JavaScript 语言中，通过对比“坏代码”和“好代码”的实例，帮助开发者编写出可读性强、可复用且易于重构的 JavaScript 代码。",
         "configuration": "该项目主要是一个文档指南，无需特殊的硬件配置。只需一个浏览器或 Markdown 阅读器即可查看内容。若要尝试运行其中的代码示例，需要安装 Node.js 环境或直接在现代浏览器的控制台（Console）中执行。"
+      }
+    },
+    "elastic/elasticsearch": {
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
+      "summary": {
+        "what_it_does": "一个免费开源的分布式 RESTful 搜索引擎，主要用于全文检索、日志分析、指标监控和实时数据分析。",
+        "configuration": "需要 Java 运行环境（通常自带捆绑的 JDK），推荐 4GB 以上的物理内存（需合理配置 JVM 堆内存），支持 Linux、Windows 和 macOS 操作系统。"
+      }
+    },
+    "ansible/ansible": {
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
+      "summary": {
+        "what_it_does": "一个极简的 IT 自动化平台，用于应用部署、系统维护、配置管理和云端管理。它采用无代理架构，使用类英语的 YAML 语言通过 SSH 运行。",
+        "configuration": "控制端（Master）需要安装 Python（3.x 版本以上）及相关依赖包；受控端（Nodes）仅需开启 SSH 服务并安装有 Python 环境，无需安装任何客户端代理。"
+      }
+    },
+    "rommapp/romm": {
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
+      "summary": {
+        "what_it_does": "一个界面美观、功能强大的自托管 ROM（游戏镜像）管理器和网页端模拟器，允许用户在浏览器中管理和畅玩复古游戏。",
+        "configuration": "推荐使用 Docker 和 Docker Compose 进行部署；需要配置存储游戏 ROM 的磁盘空间，支持通过 MariaDB/MySQL 数据库存储元数据，并通过现代 Web 浏览器进行访问。"
+      }
+    },
+    "apache/maven": {
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
+      "summary": {
+        "what_it_does": "Apache Maven 的核心，是一个基于项目对象模型（POM）的 Java 项目管理和构建自动化工具，负责管理项目依赖、编译、测试和打包发布。",
+        "configuration": "需要安装 Java 开发工具包（JDK，版本需与 Maven 版本匹配），并配置 `JAVA_HOME` 环境变量；可选配置 `settings.xml` 以自定义本地仓库路径和 Maven 镜像源。"
+      }
+    },
+    "supabase/supabase": {
+      "streak": 1,
+      "last_seen_date": "2026-07-04",
+      "summary": {
+        "what_it_does": "一个开源的 Firebase 替代方案和 Postgres 开发平台。它为开发者提供专用的 PostgreSQL 数据库、身份验证、自动生成的 RESTful API、实时订阅、存储服务和边缘函数，用于快速构建 Web、移动和 AI 应用程序。",
+        "configuration": "本地运行与开发需要安装 Docker 和 Docker Compose，以及 Node.js 环境。应用集成需要对应语言的 SDK（支持 JavaScript/TypeScript, Python, Go, Flutter 等）。自托管部署需要 Linux 服务器环境以及适当的硬件配置（建议至少 1 核 2GB 内存起步）。"
       }
     }
   }
