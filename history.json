@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-04",
+  "last_run_date": "2026-07-05",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 7,
-      "last_seen_date": "2026-06-26",
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1090,8 +1090,8 @@
       }
     },
     "DeusData/codebase-memory-mcp": {
-      "streak": 17,
-      "last_seen_date": "2026-07-04",
+      "streak": 18,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一款高性能的代码智能 MCP 服务器，能将代码库快速（毫秒级）索引为持久性知识图谱。支持 158 种语言，提供亚毫秒级查询，可减少 99% 的 Token 消耗。",
         "configuration": "提供单静态二进制文件，零外部依赖，开箱即用，适用于各种主流操作系统环境。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-06-23",
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1474,8 +1474,8 @@
       }
     },
     "xbtlin/ai-berkshire": {
-      "streak": 9,
-      "last_seen_date": "2026-07-04",
+      "streak": 10,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "基于 Claude Code 构建的价值投资研究框架，融合了巴菲特、芒格、段永平、李录四位大师的投资方法论，采用多 Agent 并行与对抗分析来进行深度投资研究。",
         "configuration": "需要 Python 运行环境、Claude Code 命令行工具、Anthropic (Claude) API 密钥以及相关的 Python 依赖库。"
@@ -1507,7 +1507,7 @@
     },
     "alibaba/page-agent": {
       "streak": 1,
-      "last_seen_date": "2026-07-01",
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个运行在网页内部的 JavaScript GUI 智能体（Agent），允许用户通过自然语言直接交互并控制网页界面。",
         "configuration": "需要现代 Web 浏览器环境或 Node.js 环境，用于集成到前端项目中，且通常需要配置大语言模型（LLM）的 API 接入权限。"
@@ -1538,8 +1538,8 @@
       }
     },
     "simplex-chat/simplex-chat": {
-      "streak": 8,
-      "last_seen_date": "2026-07-04",
+      "streak": 9,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个完全不使用任何用户标识符（如手机号、邮箱等）的去中心化即时通讯网络和聊天应用，主打 100% 的隐私保护，支持 iOS、Android 和桌面端。",
         "configuration": "客户端直接安装运行需要 iOS、Android 移动设备或主流桌面操作系统。如果需要自行编译或部署服务器，则通常需要 Haskell 运行环境及相关构建工具（如 GHC、Cabal）。"
@@ -1618,8 +1618,8 @@
       }
     },
     "Robbyant/lingbot-map": {
-      "streak": 4,
-      "last_seen_date": "2026-07-04",
+      "streak": 5,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个前馈式 3D 基础模型，专门用于从实时流式数据中进行快速的 3D 场景重建。",
         "configuration": "需要支持深度学习的 Python 环境（如 PyTorch）、支持 CUDA 的 NVIDIA 显卡（硬件要求较高），以及用于处理 3D 数据和图像流的相关依赖库。"
@@ -1650,16 +1650,16 @@
       }
     },
     "usestrix/strix": {
-      "streak": 4,
-      "last_seen_date": "2026-07-04",
+      "streak": 5,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
       }
     },
     "browser-use/video-use": {
-      "streak": 6,
-      "last_seen_date": "2026-07-04",
+      "streak": 7,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
         "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
@@ -1667,7 +1667,7 @@
     },
     "logto-io/logto": {
       "streak": 1,
-      "last_seen_date": "2026-07-02",
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "专为 SaaS 和 AI 应用设计的身份验证和授权基础设施，基于 OIDC 和 OAuth 2.1 协议，提供多租户、单点登录（SSO）和基于角色的访问控制（RBAC）等功能。",
         "configuration": "需要 Node.js 运行环境以及 PostgreSQL 数据库，支持通过 Docker 容器化快速部署。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 1,
-      "last_seen_date": "2026-07-04",
+      "streak": 2,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 1,
-      "last_seen_date": "2026-07-04",
+      "streak": 2,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1786,16 +1786,16 @@
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 3,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
       }
     },
     "ChromeDevTools/chrome-devtools-mcp": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 3,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
@@ -1810,16 +1810,16 @@
       }
     },
     "agentskills/agentskills": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 3,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "用于定义和标准化 AI 智能体（Agent）所具备技能（Skills）与工具调用能力的规范和文档库，旨在帮助开发者统一 Agent 的技能开发标准。",
         "configuration": "无特定的硬性运行环境，通常需要 Python、Node.js 等开发环境来集成、实现该规范中所定义的 API 或协议。"
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 3,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1842,8 +1842,8 @@
       }
     },
     "harvard-edge/cs249r_book": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 3,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "哈佛大学 CS249r（机器学习系统，Machine Learning Systems）课程的配套开源书籍、讲义及学习资源。",
         "configuration": "作为电子书和文档库，阅读只需 PDF 阅读器、浏览器或 Markdown 编辑器。如果涉及书中代码示例的运行，通常需要 Python 编程环境及 Jupyter Notebook 等工具。"
@@ -1874,8 +1874,8 @@
       }
     },
     "rommapp/romm": {
-      "streak": 1,
-      "last_seen_date": "2026-07-04",
+      "streak": 2,
+      "last_seen_date": "2026-07-05",
       "summary": {
         "what_it_does": "一个界面美观、功能强大的自托管 ROM（游戏镜像）管理器和网页端模拟器，允许用户在浏览器中管理和畅玩复古游戏。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行部署；需要配置存储游戏 ROM 的磁盘空间，支持通过 MariaDB/MySQL 数据库存储元数据，并通过现代 Web 浏览器进行访问。"
@@ -1895,6 +1895,70 @@
       "summary": {
         "what_it_does": "一个开源的 Firebase 替代方案和 Postgres 开发平台。它为开发者提供专用的 PostgreSQL 数据库、身份验证、自动生成的 RESTful API、实时订阅、存储服务和边缘函数，用于快速构建 Web、移动和 AI 应用程序。",
         "configuration": "本地运行与开发需要安装 Docker 和 Docker Compose，以及 Node.js 环境。应用集成需要对应语言的 SDK（支持 JavaScript/TypeScript, Python, Go, Flutter 等）。自托管部署需要 Linux 服务器环境以及适当的硬件配置（建议至少 1 核 2GB 内存起步）。"
+      }
+    },
+    "Starmel/OpenSuperWhisper": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一款 macOS 平台上的本地语音输入（听写）应用，利用 Whisper 模型实现高精度的语音转文字功能，保护用户隐私。",
+        "configuration": "需要 macOS 操作系统，推荐使用配备 Apple Silicon（M系列芯片）的 Mac 以获取硬件加速支持，且需要下载相应的 Whisper 模型文件。"
+      }
+    },
+    "Zackriya-Solutions/meetily": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一款隐私优先、100% 本地运行的 AI 会议助手。支持 4 倍速的 Parakeet/Whisper 实时语音转文字、发言人识别（Diarization），并利用 Ollama 进行会议内容总结。",
+        "configuration": "支持 macOS 和 Windows 操作系统。基于 Rust 开发，本地需安装并运行 Ollama 从而进行 AI 总结，同时对本地 CPU/GPU 和内存有一定要求以运行语音识别和语言模型。"
+      }
+    },
+    "dotnet/skills": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一个提供“技能”（Skills）的仓库，旨在帮助 AI 编程代理（Coding Agents）更好地处理 .NET 和 C# 相关的开发任务。",
+        "configuration": "需要 .NET 运行环境、C# 语言支持，以及能够集成和调用这些技能的 AI 代理框架（如 Semantic Kernel）。"
+      }
+    },
+    "immich-app/immich": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一款高性能的自托管（Self-hosted）照片与视频管理解决方案，功能类似于私有部署的 Google Photos。",
+        "configuration": "推荐使用 Docker 和 Docker Compose 进行部署。依赖 PostgreSQL (带有 pgvector 扩展) 和 Redis。进行人脸识别和目标检测等 AI 任务时，需要一定的 CPU/GPU 计算资源。"
+      }
+    },
+    "chthollyphile/folia-major": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一个专注于炫酷歌词动画效果的播放器，支持播放本地音乐、Navidrome 音乐服务器音频以及第三方网易云音乐源。",
+        "configuration": "需要支持该客户端运行的桌面或移动系统环境，如需在线功能则需配置 Navidrome 服务器连接或网易云 API 接口。"
+      }
+    },
+    "CoplayDev/unity-mcp": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "作为 AI 助手与 Unity 编辑器之间的桥梁（基于 MCP 协议），允许大语言模型（LLM）直接管理资源、控制场景、编辑脚本并自动执行 Unity 内部的任务。",
+        "configuration": "需要 Unity 编辑器开发环境、支持 MCP（模型上下文协议）的 AI 客户端，以及用于连接双方的配置。"
+      }
+    },
+    "alirezarezvani/claude-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "为 Claude Code、Cursor、Gemini CLI 等 10 多种 AI 编码助手提供超过 330 个技能、70 多个自定义命令和 30 多个 Agent 插件，涵盖开发、市场、财务等多领域。",
+        "configuration": "需要已安装的兼容 AI 编码工具（如 Claude Code、Cursor ），以及用于执行自定义脚本和命令的相应运行时环境。"
+      }
+    },
+    "crynta/terax-ai": {
+      "streak": 1,
+      "last_seen_date": "2026-07-05",
+      "summary": {
+        "what_it_does": "一个超轻量级（仅 7MB）、以终端为中心的 AI 原生开发工作空间。",
+        "configuration": "需要终端运行环境（支持主流操作系统），并需要配置相应大模型（如 OpenAI、Anthropic 等）的 API 密钥以启用 AI 功能。"
       }
     }
   }
