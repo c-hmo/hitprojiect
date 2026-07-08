@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-07",
+  "last_run_date": "2026-07-08",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -58,8 +58,8 @@
       }
     },
     "ruvnet/RuView": {
-      "streak": 2,
-      "last_seen_date": "2026-07-07",
+      "streak": 3,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "streak": 2,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 3,
-      "last_seen_date": "2026-07-07",
+      "streak": 4,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1506,8 +1506,8 @@
       }
     },
     "alibaba/page-agent": {
-      "streak": 3,
-      "last_seen_date": "2026-07-07",
+      "streak": 4,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个运行在网页内部的 JavaScript GUI 智能体（Agent），允许用户通过自然语言直接交互并控制网页界面。",
         "configuration": "需要现代 Web 浏览器环境或 Node.js 环境，用于集成到前端项目中，且通常需要配置大语言模型（LLM）的 API 接入权限。"
@@ -1634,8 +1634,8 @@
       }
     },
     "altic-dev/FluidVoice": {
-      "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "streak": 2,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一款极速的 macOS 离线语音转文字（听写）应用，完全在本地运行，无需网络连接。",
         "configuration": "需要 macOS 操作系统，建议使用配备 Apple Silicon（M系列）芯片的 Mac 设备以获得最佳本地 AI 推理性能。"
@@ -1650,8 +1650,8 @@
       }
     },
     "usestrix/strix": {
-      "streak": 7,
-      "last_seen_date": "2026-07-07",
+      "streak": 8,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
@@ -1698,16 +1698,16 @@
       }
     },
     "hasaneyldrm/exercises-dataset": {
-      "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "streak": 2,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个包含 433 种健身动作的综合数据集，每个动作包含名称、分类、目标肌群、所需器材、动作指导、缩略图及动画视频等详细信息。",
         "configuration": "作为静态数据集，无需特殊的运行环境或硬件配置。只需使用支持 JSON 格式解析的编程语言（如 JavaScript、Python 等）进行读取，并需要网络连接以加载图片和视频资源。"
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 4,
-      "last_seen_date": "2026-07-07",
+      "streak": 5,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 4,
-      "last_seen_date": "2026-07-07",
+      "streak": 5,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1779,7 +1779,7 @@
     },
     "TencentCloud/CubeSandbox": {
       "streak": 1,
-      "last_seen_date": "2026-07-04",
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "为 AI Agent（智能体）提供即时、高并发、安全且轻量级的代码执行沙箱环境，用于安全地运行和隔离不可信代码。",
         "configuration": "需要 Linux 操作系统（支持 Cgroups 和 Namespaces 等内核隔离特性），通常需要 Go 语言环境以及 Docker 或相关容器运行时的支持，硬件配置视并发任务量而定。"
@@ -1818,8 +1818,8 @@
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 5,
-      "last_seen_date": "2026-07-07",
+      "streak": 6,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1906,16 +1906,16 @@
       }
     },
     "Zackriya-Solutions/meetily": {
-      "streak": 3,
-      "last_seen_date": "2026-07-07",
+      "streak": 4,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一款隐私优先、100% 本地运行的 AI 会议助手。支持 4 倍速的 Parakeet/Whisper 实时语音转文字、发言人识别（Diarization），并利用 Ollama 进行会议内容总结。",
         "configuration": "支持 macOS 和 Windows 操作系统。基于 Rust 开发，本地需安装并运行 Ollama 从而进行 AI 总结，同时对本地 CPU/GPU 和内存有一定要求以运行语音识别和语言模型。"
       }
     },
     "dotnet/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-07-06",
+      "streak": 1,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个提供“技能”（Skills）的仓库，旨在帮助 AI 编程代理（Coding Agents）更好地处理 .NET 和 C# 相关的开发任务。",
         "configuration": "需要 .NET 运行环境、C# 语言支持，以及能够集成和调用这些技能的 AI 代理框架（如 Semantic Kernel）。"
@@ -1963,7 +1963,7 @@
     },
     "hesreallyhim/awesome-claude-code": {
       "streak": 1,
-      "last_seen_date": "2026-07-06",
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "精选收集了关于 Anthropic 开发的 Claude Code 编程助手的优质资源、优秀工具、插件、技能和状态栏配置的 Awesome 列表。",
         "configuration": "作为信息聚合列表，本身不需要任何特殊的运行环境、语言或硬件配置，只需使用浏览器或 Markdown 阅读器查看即可。"
@@ -1994,16 +1994,16 @@
       }
     },
     "steipete/CodexBar": {
-      "streak": 2,
-      "last_seen_date": "2026-07-07",
+      "streak": 3,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "一个无需登录即可查看和显示 OpenAI Codex 以及 Claude Code 使用统计数据的工具（通常作为 macOS 菜单栏应用）。",
         "configuration": "适用于 macOS 操作系统，需要本地运行环境，并可能需要配置本地 CLI 工具的访问路径或相关 API 凭证。"
       }
     },
     "bradautomates/claude-video": {
-      "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "streak": 2,
+      "last_seen_date": "2026-07-08",
       "summary": {
         "what_it_does": "让 Claude 具备分析视频的能力。该项目通过自动下载视频、提取视频帧、转录音频，并将这些多媒体信息整合后发送给 Claude 进行理解和交互。",
         "configuration": "需要 Python 运行环境、多媒体处理工具 FFmpeg（用于提取帧和转录音频）以及 Anthropic (Claude) 的 API 密钥。"
@@ -2023,6 +2023,38 @@
       "summary": {
         "what_it_does": "一个汇集了各种有趣、实用技术主题的高质量精选资源列表（Awesome list）导航仓库。",
         "configuration": "作为一个纯 Markdown 静态内容仓库，无需任何运行环境、依赖或特定硬件，只需浏览器或 Markdown 阅读器即可浏览。"
+      }
+    },
+    "MadsLorentzen/ai-job-search": {
+      "streak": 1,
+      "last_seen_date": "2026-07-08",
+      "summary": {
+        "what_it_does": "基于 Claude Code 打造的 AI 辅助求职框架，可自动评估招聘需求、定制个人简历、撰写求职信并协助进行面试准备。",
+        "configuration": "需要 Node.js 环境、Claude Code 命令行工具、Claude API 密钥以及 Git。"
+      }
+    },
+    "AhmadIbrahiim/Website-downloader": {
+      "streak": 1,
+      "last_seen_date": "2026-07-08",
+      "summary": {
+        "what_it_does": "使用 Node.js 下载任何网站的完整源代码，包括 JavaScript、CSS 样式表和图像等所有静态资源。",
+        "configuration": "需要 Node.js 运行环境及相关的 npm 依赖包。"
+      }
+    },
+    "iOfficeAI/OfficeCLI": {
+      "streak": 1,
+      "last_seen_date": "2026-07-08",
+      "summary": {
+        "what_it_does": "专为 AI Agent 设计的 Office 命令行工具，用于读取、编辑和自动化处理 Word、Excel 和 PowerPoint 文件，无需安装 Office 软件。",
+        "configuration": "单个独立二进制文件，无需安装 Microsoft Office，下载对应系统的可执行文件即可直接运行。"
+      }
+    },
+    "kyutai-labs/pocket-tts": {
+      "streak": 1,
+      "last_seen_date": "2026-07-08",
+      "summary": {
+        "what_it_does": "一款极轻量级的文本转语音（TTS）引擎，专为在普通 CPU 和便携式低算力设备上运行而设计。",
+        "configuration": "仅需普通 CPU 硬件支持（无需 GPU），以及相应的轻量级模型文件和运行环境。"
       }
     }
   }
