@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-08",
+  "last_run_date": "2026-07-09",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -58,8 +58,8 @@
       }
     },
     "ruvnet/RuView": {
-      "streak": 3,
-      "last_seen_date": "2026-07-08",
+      "streak": 4,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 2,
-      "last_seen_date": "2026-07-04",
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -507,7 +507,7 @@
     },
     "mvanhorn/last30days-skill": {
       "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-07-08",
+      "streak": 3,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 4,
-      "last_seen_date": "2026-07-08",
+      "streak": 5,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1067,7 +1067,7 @@
     },
     "alibaba/zvec": {
       "streak": 1,
-      "last_seen_date": "2026-07-07",
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个轻量级、极速的进程内（in-process）向量数据库，用于在应用程序内部高效存储和检索向量数据。",
         "configuration": "需要 C/C++ 编译与开发环境，或支持相应绑定的编程语言环境。在支持 AVX-512/AVX2 等向量化指令集的现代 CPU 硬件上运行效果更佳。"
@@ -1506,8 +1506,8 @@
       }
     },
     "alibaba/page-agent": {
-      "streak": 4,
-      "last_seen_date": "2026-07-08",
+      "streak": 5,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个运行在网页内部的 JavaScript GUI 智能体（Agent），允许用户通过自然语言直接交互并控制网页界面。",
         "configuration": "需要现代 Web 浏览器环境或 Node.js 环境，用于集成到前端项目中，且通常需要配置大语言模型（LLM）的 API 接入权限。"
@@ -1650,8 +1650,8 @@
       }
     },
     "usestrix/strix": {
-      "streak": 8,
-      "last_seen_date": "2026-07-08",
+      "streak": 9,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 5,
-      "last_seen_date": "2026-07-08",
+      "streak": 6,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 5,
-      "last_seen_date": "2026-07-08",
+      "streak": 6,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1755,7 +1755,7 @@
     },
     "facebook/astryx": {
       "streak": 1,
-      "last_seen_date": "2026-07-06",
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个开源、完全可定制且对 AI 智能体（Agent）友好的设计系统，用于构建现代化用户界面。",
         "configuration": "需要 Node.js 开发环境（及 npm/yarn/pnpm 包管理器），适用于 React 等主流前端框架的集成开发。"
@@ -1778,8 +1778,8 @@
       }
     },
     "TencentCloud/CubeSandbox": {
-      "streak": 1,
-      "last_seen_date": "2026-07-08",
+      "streak": 2,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "为 AI Agent（智能体）提供即时、高并发、安全且轻量级的代码执行沙箱环境，用于安全地运行和隔离不可信代码。",
         "configuration": "需要 Linux 操作系统（支持 Cgroups 和 Namespaces 等内核隔离特性），通常需要 Go 语言环境以及 Docker 或相关容器运行时的支持，硬件配置视并发任务量而定。"
@@ -1818,8 +1818,8 @@
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 6,
-      "last_seen_date": "2026-07-08",
+      "streak": 7,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1906,8 +1906,8 @@
       }
     },
     "Zackriya-Solutions/meetily": {
-      "streak": 4,
-      "last_seen_date": "2026-07-08",
+      "streak": 5,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "一款隐私优先、100% 本地运行的 AI 会议助手。支持 4 倍速的 Parakeet/Whisper 实时语音转文字、发言人识别（Diarization），并利用 Ollama 进行会议内容总结。",
         "configuration": "支持 macOS 和 Windows 操作系统。基于 Rust 开发，本地需安装并运行 Ollama 从而进行 AI 总结，同时对本地 CPU/GPU 和内存有一定要求以运行语音识别和语言模型。"
@@ -2002,8 +2002,8 @@
       }
     },
     "bradautomates/claude-video": {
-      "streak": 2,
-      "last_seen_date": "2026-07-08",
+      "streak": 3,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "让 Claude 具备分析视频的能力。该项目通过自动下载视频、提取视频帧、转录音频，并将这些多媒体信息整合后发送给 Claude 进行理解和交互。",
         "configuration": "需要 Python 运行环境、多媒体处理工具 FFmpeg（用于提取帧和转录音频）以及 Anthropic (Claude) 的 API 密钥。"
@@ -2042,8 +2042,8 @@
       }
     },
     "iOfficeAI/OfficeCLI": {
-      "streak": 1,
-      "last_seen_date": "2026-07-08",
+      "streak": 2,
+      "last_seen_date": "2026-07-09",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的 Office 命令行工具，用于读取、编辑和自动化处理 Word、Excel 和 PowerPoint 文件，无需安装 Office 软件。",
         "configuration": "单个独立二进制文件，无需安装 Microsoft Office，下载对应系统的可执行文件即可直接运行。"
@@ -2055,6 +2055,62 @@
       "summary": {
         "what_it_does": "一款极轻量级的文本转语音（TTS）引擎，专为在普通 CPU 和便携式低算力设备上运行而设计。",
         "configuration": "仅需普通 CPU 硬件支持（无需 GPU），以及相应的轻量级模型文件和运行环境。"
+      }
+    },
+    "huggingface/speech-to-speech": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "使用开源大模型在本地构建实时语音交互智能体（Voice Agents），实现低延迟的语音到语音直接转换。",
+        "configuration": "需要 Python 开发环境，PyTorch 等深度学习框架，支持 CUDA 的 GPU 硬件加速以运行本地语音和语言模型，以及音频输入输出相关的依赖库。"
+      }
+    },
+    "TencentCloud/TencentDB-Agent-Memory": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
+        "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
+      }
+    },
+    "prisma/prisma": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "适用于 Node.js 和 TypeScript 的下一代 ORM 框架，用于简化数据库查询与 schema 管理，支持 PostgreSQL、MySQL、SQLite、MongoDB 等多种数据库。",
+        "configuration": "需要 Node.js 运行环境（支持 npm/yarn/pnpm 包管理器），TypeScript 或 JavaScript 项目环境，以及一个可连接的受支持数据库实例。"
+      }
+    },
+    "argoproj/argo-cd": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "专为 Kubernetes 打造的声明式、GitOps 模式的持续交付（CD）工具，实现 K8s 集群状态与 Git 仓库配置的自动同步。",
+        "configuration": "需要一个运行中的 Kubernetes 集群（具有管理权限），kubectl 客户端工具，以及用于托管 Kubernetes 声明式清单的 Git 仓库。"
+      }
+    },
+    "Diolinux/PhotoGIMP": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "一个针对 GIMP 3+ 的补丁和配置文件集合，旨在调整 GIMP 的界面布局、快捷键和工具设置，使其操作体验和视觉风格高度接近 Adobe Photoshop，帮助 Photoshop 用户无缝迁移。",
+        "configuration": "需要预先安装 GIMP 3+ 软件；适用于 Windows、macOS 和 Linux 系统；配置过程主要是将补丁文件复制并覆盖到 GIMP 的用户配置目录中。"
+      }
+    },
+    "wonderwhy-er/DesktopCommanderMCP": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "一个为 Claude 准备的 MCP（Model Context Protocol，模型上下文协议）服务器，允许 Claude 获得终端控制权、执行文件系统搜索以及进行文件的差异（diff）对比编辑。",
+        "configuration": "需要支持 MCP 协议的客户端（如 Claude Desktop 客户端），以及 Node.js 运行环境来启动和运行该 MCP 服务端。"
+      }
+    },
+    "huxingyi/autoremesher": {
+      "streak": 1,
+      "last_seen_date": "2026-07-09",
+      "summary": {
+        "what_it_does": "一个自动化的三维模型四边形网格重构（Quad Remeshing）工具，能够将输入的任意 3D 网格自动转换为结构清晰、流向合理的四边形网格。",
+        "configuration": "需要 C++ 编译环境、CMake 构建工具，依赖 Qt 框架进行图形界面渲染，并需要支持 OpenGL 的显卡及相应驱动，可在 Windows、Linux 和 macOS 上编译运行。"
       }
     }
   }
