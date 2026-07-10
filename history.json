@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-09",
+  "last_run_date": "2026-07-10",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-07-09",
+      "streak": 4,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 5,
-      "last_seen_date": "2026-07-09",
+      "streak": 6,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1506,8 +1506,8 @@
       }
     },
     "alibaba/page-agent": {
-      "streak": 5,
-      "last_seen_date": "2026-07-09",
+      "streak": 6,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个运行在网页内部的 JavaScript GUI 智能体（Agent），允许用户通过自然语言直接交互并控制网页界面。",
         "configuration": "需要现代 Web 浏览器环境或 Node.js 环境，用于集成到前端项目中，且通常需要配置大语言模型（LLM）的 API 接入权限。"
@@ -1650,8 +1650,8 @@
       }
     },
     "usestrix/strix": {
-      "streak": 9,
-      "last_seen_date": "2026-07-09",
+      "streak": 10,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 6,
-      "last_seen_date": "2026-07-09",
+      "streak": 7,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 6,
-      "last_seen_date": "2026-07-09",
+      "streak": 7,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1754,8 +1754,8 @@
       }
     },
     "facebook/astryx": {
-      "streak": 1,
-      "last_seen_date": "2026-07-09",
+      "streak": 2,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个开源、完全可定制且对 AI 智能体（Agent）友好的设计系统，用于构建现代化用户界面。",
         "configuration": "需要 Node.js 开发环境（及 npm/yarn/pnpm 包管理器），适用于 React 等主流前端框架的集成开发。"
@@ -1818,8 +1818,8 @@
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 7,
-      "last_seen_date": "2026-07-09",
+      "streak": 8,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1906,8 +1906,8 @@
       }
     },
     "Zackriya-Solutions/meetily": {
-      "streak": 5,
-      "last_seen_date": "2026-07-09",
+      "streak": 6,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一款隐私优先、100% 本地运行的 AI 会议助手。支持 4 倍速的 Parakeet/Whisper 实时语音转文字、发言人识别（Diarization），并利用 Ollama 进行会议内容总结。",
         "configuration": "支持 macOS 和 Windows 操作系统。基于 Rust 开发，本地需安装并运行 Ollama 从而进行 AI 总结，同时对本地 CPU/GPU 和内存有一定要求以运行语音识别和语言模型。"
@@ -2002,8 +2002,8 @@
       }
     },
     "bradautomates/claude-video": {
-      "streak": 3,
-      "last_seen_date": "2026-07-09",
+      "streak": 4,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "让 Claude 具备分析视频的能力。该项目通过自动下载视频、提取视频帧、转录音频，并将这些多媒体信息整合后发送给 Claude 进行理解和交互。",
         "configuration": "需要 Python 运行环境、多媒体处理工具 FFmpeg（用于提取帧和转录音频）以及 Anthropic (Claude) 的 API 密钥。"
@@ -2027,7 +2027,7 @@
     },
     "MadsLorentzen/ai-job-search": {
       "streak": 1,
-      "last_seen_date": "2026-07-08",
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "基于 Claude Code 打造的 AI 辅助求职框架，可自动评估招聘需求、定制个人简历、撰写求职信并协助进行面试准备。",
         "configuration": "需要 Node.js 环境、Claude Code 命令行工具、Claude API 密钥以及 Git。"
@@ -2042,8 +2042,8 @@
       }
     },
     "iOfficeAI/OfficeCLI": {
-      "streak": 2,
-      "last_seen_date": "2026-07-09",
+      "streak": 3,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的 Office 命令行工具，用于读取、编辑和自动化处理 Word、Excel 和 PowerPoint 文件，无需安装 Office 软件。",
         "configuration": "单个独立二进制文件，无需安装 Microsoft Office，下载对应系统的可执行文件即可直接运行。"
@@ -2051,7 +2051,7 @@
     },
     "kyutai-labs/pocket-tts": {
       "streak": 1,
-      "last_seen_date": "2026-07-08",
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一款极轻量级的文本转语音（TTS）引擎，专为在普通 CPU 和便携式低算力设备上运行而设计。",
         "configuration": "仅需普通 CPU 硬件支持（无需 GPU），以及相应的轻量级模型文件和运行环境。"
@@ -2074,8 +2074,8 @@
       }
     },
     "prisma/prisma": {
-      "streak": 1,
-      "last_seen_date": "2026-07-09",
+      "streak": 2,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "适用于 Node.js 和 TypeScript 的下一代 ORM 框架，用于简化数据库查询与 schema 管理，支持 PostgreSQL、MySQL、SQLite、MongoDB 等多种数据库。",
         "configuration": "需要 Node.js 运行环境（支持 npm/yarn/pnpm 包管理器），TypeScript 或 JavaScript 项目环境，以及一个可连接的受支持数据库实例。"
@@ -2098,19 +2098,67 @@
       }
     },
     "wonderwhy-er/DesktopCommanderMCP": {
-      "streak": 1,
-      "last_seen_date": "2026-07-09",
+      "streak": 2,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个为 Claude 准备的 MCP（Model Context Protocol，模型上下文协议）服务器，允许 Claude 获得终端控制权、执行文件系统搜索以及进行文件的差异（diff）对比编辑。",
         "configuration": "需要支持 MCP 协议的客户端（如 Claude Desktop 客户端），以及 Node.js 运行环境来启动和运行该 MCP 服务端。"
       }
     },
     "huxingyi/autoremesher": {
-      "streak": 1,
-      "last_seen_date": "2026-07-09",
+      "streak": 2,
+      "last_seen_date": "2026-07-10",
       "summary": {
         "what_it_does": "一个自动化的三维模型四边形网格重构（Quad Remeshing）工具，能够将输入的任意 3D 网格自动转换为结构清晰、流向合理的四边形网格。",
         "configuration": "需要 C++ 编译环境、CMake 构建工具，依赖 Qt 框架进行图形界面渲染，并需要支持 OpenGL 的显卡及相应驱动，可在 Windows、Linux 和 macOS 上编译运行。"
+      }
+    },
+    "SmartlyDressedGames/U3-SDK": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "提供免费开放世界僵尸生存沙盒游戏《Unturned》（未转变者）的源代码和SDK，主要用于游戏模组（Mod）开发和自定义地图/内容的制作。",
+        "configuration": "需要 Unity 游戏引擎（特定版本）、C# 开发环境（如 Visual Studio 或 VS Code）、.NET SDK 以及安装有《Unturned》游戏客户端的系统。"
+      }
+    },
+    "VoltAgent/awesome-design-md": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "收集并分析了各大主流品牌设计系统的 DESIGN.md 规范文件。开发者可以直接将这些规范文件放入项目中，让 AI 编程助手（如 Cursor 等）根据规范自动生成相匹配的 UI 界面。",
+        "configuration": "支持 Markdown 的文本编辑器，以及集成了 AI 编程助手（如 GitHub Copilot、Cursor、Claude Dev 等）的软件开发环境，无需特殊硬件支持。"
+      }
+    },
+    "anthropics/claude-cookbooks": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "Anthropic 官方提供的 Claude AI 模型使用指南和示例代码库，通过 Jupyter Notebook 实例展示如何高效、有趣地应用 Claude 模型的各种功能与 API。",
+        "configuration": "Python 3.x 运行环境、Jupyter Notebook 运行环境、Anthropic API 密钥（API Key）以及 `anthropic` 等相关 Python 依赖库。"
+      }
+    },
+    "vxcontrol/pentagi": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "一个全自动的 AI 智能体（Agents）系统，能够自主执行复杂的网络渗透测试和系统安全评估任务。",
+        "configuration": "Python 运行环境、大语言模型（LLM）API 接口及密钥（如 OpenAI、Claude 或本地部署的 LLM）、网络渗透测试工具链（如 Nmap、Metasploit 等），建议在隔离的安全沙箱或 Docker 容器环境中部署运行。"
+      }
+    },
+    "unclecode/crawl4ai": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "一个开源的、对大语言模型（LLM）友好的网页爬虫和数据抓取工具，专门用于高效提取网页内容并将其转化为适合 LLM 输入和分析的格式。",
+        "configuration": "需要 Python 3.9+ 运行环境。依赖相关 Python 库（如 Playwright 用于抓取动态网页），以及用于处理 HTML 和文本解析的依赖项。"
+      }
+    },
+    "imthenachoman/How-To-Secure-A-Linux-Server": {
+      "streak": 1,
+      "last_seen_date": "2026-07-10",
+      "summary": {
+        "what_it_does": "一份持续更新的 Linux 服务器安全加固指南，提供了详细的步骤和最佳实践，帮助系统管理员保护服务器免受各种安全威胁。",
+        "configuration": "该项目本身是文档指南，无需特定运行环境或软件配置。但实践该指南需要一台安装了 Linux 操作系统（如 Ubuntu、Debian、CentOS 等）的服务器、SSH 终端访问工具以及 root 或 sudo 管理员权限。"
       }
     }
   }
