@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-12",
+  "last_run_date": "2026-07-13",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -203,7 +203,7 @@
     },
     "Crosstalk-Solutions/project-nomad": {
       "streak": 1,
-      "last_seen_date": "2026-06-08",
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个独立且离线的生存计算机系统项目（Project N.O.M.A.D），集成了关键工具、知识库和离线 AI，确保在无网环境下也能提供信息和算力支持。",
         "configuration": "需要特定的硬件设备（如单板计算机树莓派或 Mini PC）、Linux 操作系统、离线 AI 大模型及相关离线工具集。"
@@ -227,7 +227,7 @@
     },
     "chen08209/FlClash": {
       "streak": 1,
-      "last_seen_date": "2026-05-31",
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "基于 ClashMeta 内核的多平台代理客户端，开源、无广告，且简单易用。",
         "configuration": "支持 Windows, macOS, Linux, Android, iOS 等主流操作系统，开发或编译需要 Flutter/Dart 环境，运行只需下载对应平台安装包。"
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 6,
-      "last_seen_date": "2026-07-03",
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 8,
-      "last_seen_date": "2026-07-12",
+      "streak": 9,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 4,
-      "last_seen_date": "2026-07-02",
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 9,
-      "last_seen_date": "2026-07-12",
+      "streak": 10,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1730,8 +1730,8 @@
       }
     },
     "ogulcancelik/herdr": {
-      "streak": 9,
-      "last_seen_date": "2026-07-12",
+      "streak": 10,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个运行在终端中的 AI 智能体多路复用器（Multiplexer），允许用户在同一个终端界面中同时管理、协调、并并发与多个 AI 智能体进行交互和任务分配。",
         "configuration": "需要 Node.js/npm 运行环境，兼容的终端模拟器，以及连接大语言模型服务（如 OpenAI、Anthropic 或本地 Ollama）所需的 API 密钥或服务地址。"
@@ -1778,8 +1778,8 @@
       }
     },
     "TencentCloud/CubeSandbox": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 3,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "为 AI Agent（智能体）提供即时、高并发、安全且轻量级的代码执行沙箱环境，用于安全地运行和隔离不可信代码。",
         "configuration": "需要 Linux 操作系统（支持 Cgroups 和 Namespaces 等内核隔离特性），通常需要 Go 语言环境以及 Docker 或相关容器运行时的支持，硬件配置视并发任务量而定。"
@@ -1818,8 +1818,8 @@
       }
     },
     "openai/codex-plugin-cc": {
-      "streak": 10,
-      "last_seen_date": "2026-07-12",
+      "streak": 11,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个用于 Claude Code 的插件，旨在通过 Claude Code 调用 Codex 来进行代码审查或分配和委派编程任务。",
         "configuration": "需要安装并配置 Claude Code 命令行环境，具备 Node.js 运行环境，并需要配置相应的 API 密钥（如 OpenAI API 密钥）。"
@@ -1906,8 +1906,8 @@
       }
     },
     "Zackriya-Solutions/meetily": {
-      "streak": 8,
-      "last_seen_date": "2026-07-12",
+      "streak": 9,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一款隐私优先、100% 本地运行的 AI 会议助手。支持 4 倍速的 Parakeet/Whisper 实时语音转文字、发言人识别（Diarization），并利用 Ollama 进行会议内容总结。",
         "configuration": "支持 macOS 和 Windows 操作系统。基于 Rust 开发，本地需安装并运行 Ollama 从而进行 AI 总结，同时对本地 CPU/GPU 和内存有一定要求以运行语音识别和语言模型。"
@@ -2002,8 +2002,8 @@
       }
     },
     "bradautomates/claude-video": {
-      "streak": 6,
-      "last_seen_date": "2026-07-12",
+      "streak": 7,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "让 Claude 具备分析视频的能力。该项目通过自动下载视频、提取视频帧、转录音频，并将这些多媒体信息整合后发送给 Claude 进行理解和交互。",
         "configuration": "需要 Python 运行环境、多媒体处理工具 FFmpeg（用于提取帧和转录音频）以及 Anthropic (Claude) 的 API 密钥。"
@@ -2098,8 +2098,8 @@
       }
     },
     "wonderwhy-er/DesktopCommanderMCP": {
-      "streak": 4,
-      "last_seen_date": "2026-07-12",
+      "streak": 5,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个为 Claude 准备的 MCP（Model Context Protocol，模型上下文协议）服务器，允许 Claude 获得终端控制权、执行文件系统搜索以及进行文件的差异（diff）对比编辑。",
         "configuration": "需要支持 MCP 协议的客户端（如 Claude Desktop 客户端），以及 Node.js 运行环境来启动和运行该 MCP 服务端。"
@@ -2130,8 +2130,8 @@
       }
     },
     "anthropics/claude-cookbooks": {
-      "streak": 1,
-      "last_seen_date": "2026-07-12",
+      "streak": 2,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "Anthropic 官方提供的 Claude AI 模型使用指南和示例代码库，通过 Jupyter Notebook 实例展示如何高效、有趣地应用 Claude 模型的各种功能与 API。",
         "configuration": "Python 3.x 运行环境、Jupyter Notebook 运行环境、Anthropic API 密钥（API Key）以及 `anthropic` 等相关 Python 依赖库。"
@@ -2170,8 +2170,8 @@
       }
     },
     "abseil/abseil-cpp": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 3,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "由 Google 维护的 C++ 常用基础库集合，旨在作为 C++ 标准库的补充，提供更高效和向后兼容的工具与容器。",
         "configuration": "需要支持 C++14 或更高标准的编译器（如 GCC、Clang、MSVC），以及 CMake 或 Bazel 构建系统。"
@@ -2210,8 +2210,8 @@
       }
     },
     "davila7/claude-code-templates": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 3,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个用于配置和监控 Claude Code（Anthropic 的代码辅助工具）的命令行（CLI）工具。",
         "configuration": "需要 Node.js 运行环境，以及在本地安装并配置 Claude Code 与相关的 API 访问凭证。"
@@ -2266,8 +2266,8 @@
       }
     },
     "home-assistant/core": {
-      "streak": 1,
-      "last_seen_date": "2026-07-12",
+      "streak": 2,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "一个开源的智能家居自动化系统，专注于本地控制和用户隐私保护，支持接入和统一管理各类智能家居设备。",
         "configuration": "需要 Python 运行环境（建议最新稳定版）或通过 Docker 容器部署。硬件上推荐使用树莓派（Raspberry Pi）、NAS 或其他各类主机，并需要网络连接以进行设备发现与控制。"
@@ -2282,11 +2282,83 @@
       }
     },
     "malisper/pgrust": {
-      "streak": 1,
-      "last_seen_date": "2026-07-12",
+      "streak": 2,
+      "last_seen_date": "2026-07-13",
       "summary": {
         "what_it_does": "使用 Rust 语言重写的 PostgreSQL 数据库，目前已 100% 通过了 PostgreSQL 官方的回归测试（regression tests）。",
         "configuration": "需要 Rust 编译器及工具链（Cargo），相应的 C/C++ 编译工具（用以支持兼容性和测试运行），适用于 Linux 或 macOS 等开发运行环境。"
+      }
+    },
+    "Dicklesworthstone/destructive_command_guard": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "用于拦截和阻止 AI Agent 或自动化脚本执行危险的 git 和 shell 命令，防止破坏性指令被执行。",
+        "configuration": "需要 Python 3.x 运行环境，安装项目所需的依赖，并配置相应的命令行代理或安全规则。"
+      }
+    },
+    "PrefectHQ/prefect": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "一个 Python 工作流编排框架，用于构建、观察和维护具有高弹性（容错性）的数据管道。",
+        "configuration": "需要 Python 3.8 或更高版本，通过 pip 安装 `prefect` 包；本地部署需要 SQLite 或 PostgreSQL 数据库，也可以连接 Prefect Cloud 托管服务。"
+      }
+    },
+    "Shubhamsaboo/awesome-llm-apps": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "一个收录了 100 多个 AI Agent 和 RAG（检索增强生成）应用的开源集合，可供开发者直接克隆、自定义和部署运行。",
+        "configuration": "通常需要 Python 运行环境及各自应用目录下的依赖项（通过 pip 安装），并且需要主流大模型（如 OpenAI, Anthropic 等）的 API 密钥。"
+      }
+    },
+    "ColeMurray/background-agents": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "一个开源的后台 Agent 编码系统，允许 AI 代理在后台自主运行以执行代码编写和开发任务。",
+        "configuration": "需要 Python 运行环境、相关的代理框架依赖，以及配置用于调用 AI 能力的大语言模型 API 密钥。"
+      }
+    },
+    "k1tbyte/Wand-Enhancer": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "针对 Wand (WeMod) 应用程序的高级用户体验（UX）和互操作性扩展插件，旨在增强界面交互并提升与其他软件的协同能力。",
+        "configuration": "需要安装有 Wand (WeMod) 客户端，运行环境通常为 Windows，可能需要特定的插件加载器或脚本管理工具。"
+      }
+    },
+    "pingdotgg/t3code": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
+        "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
+      }
+    },
+    "virattt/ai-hedge-fund": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "一个基于 AI 的虚拟对冲基金团队系统，通过模拟多个不同分工的 AI 智能体（如分析师、风控经理等）协作进行股票分析和投资决策。",
+        "configuration": "需要 Python 3.10+ 开发环境，大语言模型（如 OpenAI 或 Anthropic）的 API 密钥，以及相关的量化金融数据 API 权限。"
+      }
+    },
+    "par274/sharpemu": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "一个实验性的 PlayStation 5 (PS5) 游戏主机模拟器项目。",
+        "configuration": "通常需要高性能的计算机硬件（现代多核 CPU 和强劲显卡），基于 .NET (C#) 运行环境，且可能需要用户自行准备 PS5 固件及系统相关解密文件。"
+      }
+    },
+    "Nutlope/hallmark": {
+      "streak": 1,
+      "last_seen_date": "2026-07-13",
+      "summary": {
+        "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
+        "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
       }
     }
   }
