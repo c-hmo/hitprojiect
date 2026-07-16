@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-15",
+  "last_run_date": "2026-07-16",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 3,
-      "last_seen_date": "2026-07-15",
+      "streak": 4,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-07-15",
+      "streak": 2,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 1,
-      "last_seen_date": "2026-07-15",
+      "streak": 2,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1466,8 +1466,8 @@
       }
     },
     "OpenCut-app/OpenCut": {
-      "streak": 2,
-      "last_seen_date": "2026-07-15",
+      "streak": 3,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -1698,8 +1698,8 @@
       }
     },
     "hasaneyldrm/exercises-dataset": {
-      "streak": 2,
-      "last_seen_date": "2026-07-15",
+      "streak": 3,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个包含 433 种健身动作的综合数据集，每个动作包含名称、分类、目标肌群、所需器材、动作指导、缩略图及动画视频等详细信息。",
         "configuration": "作为静态数据集，无需特殊的运行环境或硬件配置。只需使用支持 JSON 格式解析的编程语言（如 JavaScript、Python 等）进行读取，并需要网络连接以加载图片和视频资源。"
@@ -1971,7 +1971,7 @@
     },
     "coreyhaines31/marketingskills": {
       "streak": 1,
-      "last_seen_date": "2026-07-14",
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "为 Claude Code 和其他 AI 智能体提供营销技能工具包，涵盖转化率优化（CRO）、文案写作、SEO、数据分析和增长工程等领域。",
         "configuration": "需要运行 Claude Code 或兼容的 AI 智能体环境，可能需要 Node.js 开发环境来集成这些技能，以及配置相应的 API 凭证。"
@@ -2042,8 +2042,8 @@
       }
     },
     "iOfficeAI/OfficeCLI": {
-      "streak": 2,
-      "last_seen_date": "2026-07-15",
+      "streak": 3,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的 Office 命令行工具，用于读取、编辑和自动化处理 Word、Excel 和 PowerPoint 文件，无需安装 Office 软件。",
         "configuration": "单个独立二进制文件，无需安装 Microsoft Office，下载对应系统的可执行文件即可直接运行。"
@@ -2098,8 +2098,8 @@
       }
     },
     "wonderwhy-er/DesktopCommanderMCP": {
-      "streak": 7,
-      "last_seen_date": "2026-07-15",
+      "streak": 8,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个为 Claude 准备的 MCP（Model Context Protocol，模型上下文协议）服务器，允许 Claude 获得终端控制权、执行文件系统搜索以及进行文件的差异（diff）对比编辑。",
         "configuration": "需要支持 MCP 协议的客户端（如 Claude Desktop 客户端），以及 Node.js 运行环境来启动和运行该 MCP 服务端。"
@@ -2162,16 +2162,16 @@
       }
     },
     "oven-sh/bun": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个极快的、全能型 JavaScript 和 TypeScript 运行时，集成了打包器、测试运行器和包管理器功能，旨在替代 Node.js。",
         "configuration": "支持 macOS、Linux 以及 Windows（WSL 或原生实验性支持）。适用于 x64 或 ARM64 架构，无特殊硬件要求。"
       }
     },
     "abseil/abseil-cpp": {
-      "streak": 5,
-      "last_seen_date": "2026-07-15",
+      "streak": 6,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "由 Google 维护的 C++ 常用基础库集合，旨在作为 C++ 标准库的补充，提供更高效和向后兼容的工具与容器。",
         "configuration": "需要支持 C++14 或更高标准的编译器（如 GCC、Clang、MSVC），以及 CMake 或 Bazel 构建系统。"
@@ -2202,8 +2202,8 @@
       }
     },
     "chriskohlhoff/asio": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个用于网络和底层 I/O 编程的跨平台 C++ 库，提供了强大的异步 I/O 模型，是 Boost.Asio 的非 Boost 独立版本。",
         "configuration": "需要支持 C++ 的编译器及主流操作系统（Windows, Linux, macOS 等）。可以作为 header-only 库直接引入，无需额外依赖。"
@@ -2234,8 +2234,8 @@
       }
     },
     "google-labs-code/stitch-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "专为 Stitch MCP（模型上下文协议）服务器设计的 Agent 技能库，遵循 Agent Skills 开放标准，用于增强 Cursor、Claude Code、Gemini CLI 等 AI 编程助手的工具调用能力。",
         "configuration": "需要 Stitch MCP 运行环境，兼容的 AI 编程 Agent（如 Cursor），以及 Node.js/TypeScript 或 Python 的基础开发与运行环境。"
@@ -2290,8 +2290,8 @@
       }
     },
     "Dicklesworthstone/destructive_command_guard": {
-      "streak": 1,
-      "last_seen_date": "2026-07-15",
+      "streak": 2,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "用于拦截和阻止 AI Agent 或自动化脚本执行危险的 git 和 shell 命令，防止破坏性指令被执行。",
         "configuration": "需要 Python 3.x 运行环境，安装项目所需的依赖，并配置相应的命令行代理或安全规则。"
@@ -2306,8 +2306,8 @@
       }
     },
     "Shubhamsaboo/awesome-llm-apps": {
-      "streak": 3,
-      "last_seen_date": "2026-07-15",
+      "streak": 4,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个收录了 100 多个 AI Agent 和 RAG（检索增强生成）应用的开源集合，可供开发者直接克隆、自定义和部署运行。",
         "configuration": "通常需要 Python 运行环境及各自应用目录下的依赖项（通过 pip 安装），并且需要主流大模型（如 OpenAI, Anthropic 等）的 API 密钥。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 3,
-      "last_seen_date": "2026-07-15",
+      "streak": 4,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2363,7 +2363,7 @@
     },
     "moeru-ai/airi": {
       "streak": 1,
-      "last_seen_date": "2026-07-14",
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个自托管的虚拟 AI 伴侣系统，支持实时语音聊天，并能够自主游玩《我的世界》和《异星工厂》等游戏。",
         "configuration": "支持 Web、macOS 和 Windows 系统。需要自托管服务器/容器运行环境，配置大语言模型（LLM）的 API 密钥，以及语音输入输出设备。"
@@ -2394,11 +2394,43 @@
       }
     },
     "HenryNdubuaku/maths-cs-ai-compendium": {
-      "streak": 1,
-      "last_seen_date": "2026-07-15",
+      "streak": 2,
+      "last_seen_date": "2026-07-16",
       "summary": {
         "what_it_does": "一个旨在帮助开发者成长为顶尖 AI/ML 研究工程师的综合学习路线与资源汇总，涵盖数学、计算机科学和人工智能领域的关键知识体系。",
         "configuration": "该项目属于文档和资源库，阅读及查阅无特殊硬件要求，仅需浏览器或 Markdown 阅读器。若需实践其中的配套代码，则需配置 Python 运行环境以及相关的机器学习/深度学习库（如 PyTorch、NumPy、Jupyter 等）。"
+      }
+    },
+    "tt-a1i/archify": {
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
+      "summary": {
+        "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
+        "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
+      }
+    },
+    "openinterpreter/openinterpreter": {
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
+      "summary": {
+        "what_it_does": "一个为低成本大语言模型设计的代码执行 Agent，允许 AI 在本地安全地编写并运行代码（如 Python、JavaScript、Shell 等）以解决任务。",
+        "configuration": "需要 Python 3.x 运行环境，通过 pip 安装相关依赖，并需配置 API Key（如 OpenAI API）或本地开源模型环境。"
+      }
+    },
+    "HKUDS/DeepTutor": {
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
+      "summary": {
+        "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
+        "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
+      }
+    },
+    "YimMenu/YimMenuV2": {
+      "streak": 1,
+      "last_seen_date": "2026-07-16",
+      "summary": {
+        "what_it_does": "《侠盗猎车手5》（GTA 5）的实验性增强版辅助/修改菜单，用于在游戏中实现各种功能拓展和安全保护。",
+        "configuration": "需要 Windows 操作系统、正版《GTA 5》游戏客户端，以及用于注入 DLL 的注入器。源码编译需要 C++ 开发环境（如 Visual Studio）。"
       }
     }
   }
