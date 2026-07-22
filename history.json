@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-21",
+  "last_run_date": "2026-07-22",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -450,8 +450,8 @@
       }
     },
     "HKUDS/Vibe-Trading": {
-      "streak": 9,
-      "last_seen_date": "2026-07-21",
+      "streak": 10,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个基于 AI 的个人交易代理系统，利用大语言模型（LLM）和相关技术来分析市场情绪并进行量化/辅助交易决策。",
         "configuration": "需要 Python 3.10+ 环境、PyTorch 及相关的金融数据分析与机器学习依赖库。此外，还需要配置大语言模型 API 密钥（如 OpenAI API）或本地 GPU 推理环境，以及交易所/交易平台的 API 密钥用于执行交易。"
@@ -1258,8 +1258,8 @@
       }
     },
     "koala73/worldmonitor": {
-      "streak": 4,
-      "last_seen_date": "2026-06-27",
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个实时全球情报仪表盘，通过统一的态势感知界面，提供 AI 驱动的新闻聚合、地缘政治监控和关键基础设施跟踪。",
         "configuration": "通常需要前端与后端运行环境（如 Node.js 或 Python 堆栈）、数据库支持，以及对接 AI 逻辑的大模型 API 密钥。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 2,
-      "last_seen_date": "2026-07-21",
+      "streak": 3,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1466,8 +1466,8 @@
       }
     },
     "OpenCut-app/OpenCut": {
-      "streak": 8,
-      "last_seen_date": "2026-07-21",
+      "streak": 9,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -1490,8 +1490,8 @@
       }
     },
     "every-app/open-seo": {
-      "streak": 1,
-      "last_seen_date": "2026-07-21",
+      "streak": 2,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个开源的搜索引擎优化（SEO）工具，旨在作为 Semrush 和 Ahrefs 的免费开源替代品，用于网站审计、关键词分析和数据追踪。",
         "configuration": "需要 Node.js 运行环境、数据库（通常为 PostgreSQL）以及可能需要的第三方 SEO 数据 API 接口或代理服务器。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 1,
-      "last_seen_date": "2026-07-21",
+      "streak": 2,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -2306,8 +2306,8 @@
       }
     },
     "Shubhamsaboo/awesome-llm-apps": {
-      "streak": 9,
-      "last_seen_date": "2026-07-21",
+      "streak": 10,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个收录了 100 多个 AI Agent 和 RAG（检索增强生成）应用的开源集合，可供开发者直接克隆、自定义和部署运行。",
         "configuration": "通常需要 Python 运行环境及各自应用目录下的依赖项（通过 pip 安装），并且需要主流大模型（如 OpenAI, Anthropic 等）的 API 密钥。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 9,
-      "last_seen_date": "2026-07-21",
+      "streak": 10,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2418,8 +2418,8 @@
       }
     },
     "HKUDS/DeepTutor": {
-      "streak": 6,
-      "last_seen_date": "2026-07-21",
+      "streak": 7,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
         "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
@@ -2466,8 +2466,8 @@
       }
     },
     "ibelick/ui-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-07-21",
+      "streak": 4,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "这是一个专为设计工程师打造的 UI 交互与动画技能库，展示了各种现代且精致的网页组件和动效实现代码。",
         "configuration": "需要 Node.js 运行环境，并基于 React、Tailwind CSS、Framer Motion 和 TypeScript 等主流前端框架及工具链进行开发与运行。"
@@ -2498,8 +2498,8 @@
       }
     },
     "tirth8205/code-review-graph": {
-      "streak": 4,
-      "last_seen_date": "2026-07-21",
+      "streak": 5,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个本地优先的代码智能图谱工具（支持 CLI 和 MCP），通过为本地代码库构建持久的映射图，帮助 AI 编程工具仅读取关键上下文，从而显著降低代码审查和大型仓库工作流中的 Token 开销。",
         "configuration": "需要 Node.js 开发环境，支持 Git 项目。可用作 MCP (Model Context Protocol) 服务，需配合支持 MCP 协议的 AI 客户端（如 Claude Desktop 或 Cursor）使用。"
@@ -2514,8 +2514,8 @@
       }
     },
     "kangarooking/cangjie-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-07-21",
+      "streak": 4,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "将书籍、长视频和播客等高价值媒体内容进行深度提炼与蒸馏，并转化为可供 AI Agent 执行的专业技能。",
         "configuration": "需要 Python 3.x 运行环境，大语言模型（如 OpenAI、Claude 等）的 API 密钥，以及相关的 Agent 开发依赖库。"
@@ -2538,16 +2538,16 @@
       }
     },
     "KnockOutEZ/wigolo": {
-      "streak": 3,
-      "last_seen_date": "2026-07-21",
+      "streak": 4,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个基于 MCP 协议、本地优先的 AI 编程助手搜索与研究工具。支持免 API 密钥、免云端进行本地网页搜索、内容抓取和数据研究。",
         "configuration": "需要支持 MCP（Model Context Protocol）的 AI 编辑器/客户端（如 Claude Desktop、Cursor 等），以及 Node.js 运行环境。"
       }
     },
     "MoonshotAI/kimi-cli": {
-      "streak": 3,
-      "last_seen_date": "2026-07-21",
+      "streak": 4,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个基于 Kimi 大语言模型的命令行 AI 助手（CLI Agent），旨在帮助开发者在终端中直接进行代码编写、命令执行和开发辅助工作。",
         "configuration": "需要 Moonshot AI (Kimi) 的 API 密钥（API Key），以及命令行/终端运行环境。根据其具体实现，可能需要安装 Node.js 或 Python 运行环境及相关依赖。"
@@ -2578,8 +2578,8 @@
       }
     },
     "AstrBotDevs/AstrBot": {
-      "streak": 2,
-      "last_seen_date": "2026-07-21",
+      "streak": 3,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个 AI Agent 助手及开发框架，集成了众多即时通讯平台（如微信、QQ、Telegram）、主流大模型和插件，可作为 openclaw 的替代品。",
         "configuration": "需要 Python 运行环境，并需要配置所接入即时通讯平台的 API/Bot Token 以及大语言模型的 API 密钥（如 OpenAI Key 等）。"
@@ -2618,16 +2618,16 @@
       }
     },
     "oblien/openship": {
-      "streak": 1,
-      "last_seen_date": "2026-07-21",
+      "streak": 2,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个自托管的部署平台，旨在帮助开发者在自己的服务器上轻松配置、部署和管理各种 Web 应用程序及服务。",
         "configuration": "需要一台运行 Linux 的 VPS 或服务器，并安装有 Docker、Docker Compose 以及基础的网络和域名/SSL 配置。"
       }
     },
     "microsoft/Ontology-Playground": {
-      "streak": 1,
-      "last_seen_date": "2026-07-21",
+      "streak": 2,
+      "last_seen_date": "2026-07-22",
       "summary": {
         "what_it_does": "一个免费开源的、无后端的完全静态 Web 应用，用于学习本体（Ontologies）和 Microsoft Fabric IQ。支持可视化设计自定义本体、导出为 RDF/XML 格式以及分享交互式图表。",
         "configuration": "无需任何后端服务器配置。仅需要现代 Web 浏览器即可直接运行，可通过任意静态网站托管服务（如 GitHub Pages）进行部署。"
@@ -2647,6 +2647,102 @@
       "summary": {
         "what_it_does": "提供极低延迟的语音转文字（STT）、意图识别和文字转语音（TTS）功能，用于构建实时语音智能体和交互式语音界面。",
         "configuration": "需要 Python 运行环境以及深度学习相关依赖库（如 PyTorch、音频处理库等）。为了实现其宣称的“极低延迟”，通常需要配备支持硬件加速的 GPU 显卡。"
+      }
+    },
+    "bojieli/ai-agent-book": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "《深入理解 AI Agent：设计原理与工程实践》一书的开源仓库，提供全书正文、编译好的 PDF 电子书以及各章节的配套实战代码。",
+        "configuration": "阅读 PDF 需要 PDF 阅读器；运行配套代码通常需要 Python 运行环境以及相关的 AI 开发库（如 LangChain 等）和 LLM API 密钥。"
+      }
+    },
+    "ayghri/i-have-adhd": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
+        "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
+      }
+    },
+    "earthtojake/text-to-cad": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
+        "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
+      }
+    },
+    "tradesdontlie/tradingview-mcp": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "AI 辅助的 TradingView 图表分析工具，利用 MCP（模型上下文协议）将 Claude Code 与 TradingView 桌面端连接，实现个人交易工作流的自动化。",
+        "configuration": "需要安装 Claude Code、TradingView Desktop 桌面客户端，以及支持 MCP 协议的运行环境（通常需要 Node.js 或 Python 依赖支持）。"
+      }
+    },
+    "AlexsJones/llmfit": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一个命令行工具，通过单条命令帮助用户评估和寻找适合在其本地硬件（如特定的 CPU、GPU 和内存）上运行的大语言模型及服务商。",
+        "configuration": "需要命令行终端环境。支持主流操作系统，通常需要基本的 Python 运行环境或直接运行其分发的二进制文件，并需要读取系统硬件配置的权限。"
+      }
+    },
+    "hyprwm/Hyprland": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一个独立、高度可定制且视觉效果极其华丽的 Linux 动态平铺式 Wayland 窗口管理器（合成器）。",
+        "configuration": "需要 Linux 操作系统、Wayland 显示服务协议。构建和运行依赖 C++23 编译器（GCC 或 Clang）、Meson/Ninja 构建系统、Wayland 相关开发库，以及支持 OpenGL/Vulkan 的显卡驱动（如 Mesa 或 NVIDIA 驱动）。"
+      }
+    },
+    "chrislgarry/Apollo-11": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "收录了阿波罗11号航天任务中，指令舱（CM）和登月舱（LM）引导计算机（AGC）的原始汇编语言源代码。",
+        "configuration": "作为历史代码存档，阅读仅需文本编辑器。若要编译和模拟运行，需要 AGC 编译器（如 yaYUL 汇编器）和相应的 AGC 模拟器（如 Virtual AGC）。"
+      }
+    },
+    "DioxusLabs/dioxus": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一个用于构建高性能、跨平台（Web、桌面端、移动端）全栈应用程序的 Rust 声明式 UI 框架。",
+        "configuration": "需要 Rust 编程语言开发环境（Rustup/Cargo）。根据开发目标平台，可能还需要 WebAssembly 工具链（Web 端）、系统 WebView 开发库（桌面端，如 Linux 下的 WebKitGTK）、或 Xcode/Android SDK（移动端）。"
+      }
+    },
+    "langchain-ai/open_deep_research": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一个开源的深度研究助手，利用 LangGraph 和 LangChain 自动执行多步网页搜索、信息检索与规划，并最终生成详尽的研究报告。",
+        "configuration": "需要 Python 3.10+ 运行环境，安装 LangChain、LangGraph 等相关依赖，并配置大语言模型（如 OpenAI、Anthropic）和搜索引擎（如 Tavily）的 API 密钥。"
+      }
+    },
+    "agegr/pi-web": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "为 pi 编程智能体（coding agent）提供的 Web 用户界面，方便用户通过浏览器可视化地与该 AI 编程助手进行交互。",
+        "configuration": "通常需要 Node.js 运行环境以部署前端 Web 服务，并需要配置与底层 pi 智能体后端服务通信的 API 地址和网络环境。"
+      }
+    },
+    "schollz/croc": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一款用于在任意两台计算机之间安全、高效地传输文件和文件夹的命令行工具，支持端到端加密、断点续传以及局域网加速传输。",
+        "configuration": "基于 Go 语言开发。支持 Windows、macOS 和 Linux，通常只需下载官方预编译好的单文件二进制程序即可直接运行，无特殊硬件或复杂依赖要求。"
+      }
+    },
+    "dottxt-ai/outlines": {
+      "streak": 1,
+      "last_seen_date": "2026-07-22",
+      "summary": {
+        "what_it_does": "一个用于实现大语言模型（LLM）结构化输出的库，能够强力引导模型生成完全符合 JSON Schema、正则表达式、上下文无关文法（CFG）或 Pydantic 模型的格式化数据。",
+        "configuration": "需要 Python 3.9+ 环境。如果运行本地大模型，需要安装 PyTorch/Transformers 并建议配备 GPU；如果仅调用 OpenAI 等云端 API，则对本地硬件无特殊要求。"
       }
     }
   }
