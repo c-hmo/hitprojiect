@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-22",
+  "last_run_date": "2026-07-23",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 3,
-      "last_seen_date": "2026-07-21",
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -58,8 +58,8 @@
       }
     },
     "ruvnet/RuView": {
-      "streak": 4,
-      "last_seen_date": "2026-07-09",
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 2,
-      "last_seen_date": "2026-06-16",
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1258,8 +1258,8 @@
       }
     },
     "koala73/worldmonitor": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个实时全球情报仪表盘，通过统一的态势感知界面，提供 AI 驱动的新闻聚合、地缘政治监控和关键基础设施跟踪。",
         "configuration": "通常需要前端与后端运行环境（如 Node.js 或 Python 堆栈）、数据库支持，以及对接 AI 逻辑的大模型 API 密钥。"
@@ -1298,8 +1298,8 @@
       }
     },
     "jamiepine/voicebox": {
-      "streak": 2,
-      "last_seen_date": "2026-07-21",
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个开源的 AI 语音工作室，支持声音克隆、语音听写和 AI 音频内容创作。",
         "configuration": "需要 Node.js 运行环境、Python 运行环境及 PyTorch 等深度学习依赖，推荐配备支持 CUDA 的 NVIDIA 显卡以进行本地模型推理。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 3,
-      "last_seen_date": "2026-07-22",
+      "streak": 4,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1466,8 +1466,8 @@
       }
     },
     "OpenCut-app/OpenCut": {
-      "streak": 9,
-      "last_seen_date": "2026-07-22",
+      "streak": 10,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 2,
-      "last_seen_date": "2026-07-22",
+      "streak": 3,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -2306,8 +2306,8 @@
       }
     },
     "Shubhamsaboo/awesome-llm-apps": {
-      "streak": 10,
-      "last_seen_date": "2026-07-22",
+      "streak": 11,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个收录了 100 多个 AI Agent 和 RAG（检索增强生成）应用的开源集合，可供开发者直接克隆、自定义和部署运行。",
         "configuration": "通常需要 Python 运行环境及各自应用目录下的依赖项（通过 pip 安装），并且需要主流大模型（如 OpenAI, Anthropic 等）的 API 密钥。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 10,
-      "last_seen_date": "2026-07-22",
+      "streak": 11,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2418,8 +2418,8 @@
       }
     },
     "HKUDS/DeepTutor": {
-      "streak": 7,
-      "last_seen_date": "2026-07-22",
+      "streak": 8,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
         "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
@@ -2435,7 +2435,7 @@
     },
     "apache/ossie": {
       "streak": 1,
-      "last_seen_date": "2026-07-19",
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "这是一个致力于标准化跨分析、人工智能（AI）和商业智能（BI）平台交换语义元数据的行业规范项目。它旨在提供一个厂商中立、单一的语义数据事实来源，以解决不同数据平台间的语义互操作性问题。",
         "configuration": "作为一个标准与规范项目，它主要定义数据模型。在具体集成和落地时，通常需要支持相关数据规范的解析器或SDK，运行环境通常依赖 Java 或 Python，并需要配置连接主流 BI/AI 平台的元数据接口。"
@@ -2466,8 +2466,8 @@
       }
     },
     "ibelick/ui-skills": {
-      "streak": 4,
-      "last_seen_date": "2026-07-22",
+      "streak": 5,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "这是一个专为设计工程师打造的 UI 交互与动画技能库，展示了各种现代且精致的网页组件和动效实现代码。",
         "configuration": "需要 Node.js 运行环境，并基于 React、Tailwind CSS、Framer Motion 和 TypeScript 等主流前端框架及工具链进行开发与运行。"
@@ -2498,8 +2498,8 @@
       }
     },
     "tirth8205/code-review-graph": {
-      "streak": 5,
-      "last_seen_date": "2026-07-22",
+      "streak": 6,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个本地优先的代码智能图谱工具（支持 CLI 和 MCP），通过为本地代码库构建持久的映射图，帮助 AI 编程工具仅读取关键上下文，从而显著降低代码审查和大型仓库工作流中的 Token 开销。",
         "configuration": "需要 Node.js 开发环境，支持 Git 项目。可用作 MCP (Model Context Protocol) 服务，需配合支持 MCP 协议的 AI 客户端（如 Claude Desktop 或 Cursor）使用。"
@@ -2546,8 +2546,8 @@
       }
     },
     "MoonshotAI/kimi-cli": {
-      "streak": 4,
-      "last_seen_date": "2026-07-22",
+      "streak": 5,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个基于 Kimi 大语言模型的命令行 AI 助手（CLI Agent），旨在帮助开发者在终端中直接进行代码编写、命令执行和开发辅助工作。",
         "configuration": "需要 Moonshot AI (Kimi) 的 API 密钥（API Key），以及命令行/终端运行环境。根据其具体实现，可能需要安装 Node.js 或 Python 运行环境及相关依赖。"
@@ -2618,8 +2618,8 @@
       }
     },
     "oblien/openship": {
-      "streak": 2,
-      "last_seen_date": "2026-07-22",
+      "streak": 3,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个自托管的部署平台，旨在帮助开发者在自己的服务器上轻松配置、部署和管理各种 Web 应用程序及服务。",
         "configuration": "需要一台运行 Linux 的 VPS 或服务器，并安装有 Docker、Docker Compose 以及基础的网络和域名/SSL 配置。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2690,24 +2690,24 @@
       }
     },
     "hyprwm/Hyprland": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个独立、高度可定制且视觉效果极其华丽的 Linux 动态平铺式 Wayland 窗口管理器（合成器）。",
         "configuration": "需要 Linux 操作系统、Wayland 显示服务协议。构建和运行依赖 C++23 编译器（GCC 或 Clang）、Meson/Ninja 构建系统、Wayland 相关开发库，以及支持 OpenGL/Vulkan 的显卡驱动（如 Mesa 或 NVIDIA 驱动）。"
       }
     },
     "chrislgarry/Apollo-11": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "收录了阿波罗11号航天任务中，指令舱（CM）和登月舱（LM）引导计算机（AGC）的原始汇编语言源代码。",
         "configuration": "作为历史代码存档，阅读仅需文本编辑器。若要编译和模拟运行，需要 AGC 编译器（如 yaYUL 汇编器）和相应的 AGC 模拟器（如 Virtual AGC）。"
       }
     },
     "DioxusLabs/dioxus": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个用于构建高性能、跨平台（Web、桌面端、移动端）全栈应用程序的 Rust 声明式 UI 框架。",
         "configuration": "需要 Rust 编程语言开发环境（Rustup/Cargo）。根据开发目标平台，可能还需要 WebAssembly 工具链（Web 端）、系统 WebView 开发库（桌面端，如 Linux 下的 WebKitGTK）、或 Xcode/Android SDK（移动端）。"
@@ -2722,27 +2722,67 @@
       }
     },
     "agegr/pi-web": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "为 pi 编程智能体（coding agent）提供的 Web 用户界面，方便用户通过浏览器可视化地与该 AI 编程助手进行交互。",
         "configuration": "通常需要 Node.js 运行环境以部署前端 Web 服务，并需要配置与底层 pi 智能体后端服务通信的 API 地址和网络环境。"
       }
     },
     "schollz/croc": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一款用于在任意两台计算机之间安全、高效地传输文件和文件夹的命令行工具，支持端到端加密、断点续传以及局域网加速传输。",
         "configuration": "基于 Go 语言开发。支持 Windows、macOS 和 Linux，通常只需下载官方预编译好的单文件二进制程序即可直接运行，无特殊硬件或复杂依赖要求。"
       }
     },
     "dottxt-ai/outlines": {
-      "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "streak": 2,
+      "last_seen_date": "2026-07-23",
       "summary": {
         "what_it_does": "一个用于实现大语言模型（LLM）结构化输出的库，能够强力引导模型生成完全符合 JSON Schema、正则表达式、上下文无关文法（CFG）或 Pydantic 模型的格式化数据。",
         "configuration": "需要 Python 3.9+ 环境。如果运行本地大模型，需要安装 PyTorch/Transformers 并建议配备 GPU；如果仅调用 OpenAI 等云端 API，则对本地硬件无特殊要求。"
+      }
+    },
+    "MoonshotAI/kimi-code": {
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
+      "summary": {
+        "what_it_does": "Kimi Code 命令行接口（CLI）工具，旨在作为构建和开发下一代 AI Agent（智能体）的起点，辅助开发者进行代码交互和自动化任务。",
+        "configuration": "需要 Node.js 运行环境，以及 Moonshot AI (Kimi) 的 API 密钥（API Key）来激活和调用模型服务。"
+      }
+    },
+    "likec4/likec4": {
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
+      "summary": {
+        "what_it_does": "一个用于软件架构可视化的工具，能够通过代码（使用其专属的 DSL）生成实时、可协作且随着代码演进动态更新的架构图。",
+        "configuration": "需要 Node.js 环境（支持 CLI 和各种构建工具），可集成于 VSCode 编辑器，并支持在 React、Vite 或 Next.js 等前端框架中渲染。"
+      }
+    },
+    "ComposioHQ/awesome-claude-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
+      "summary": {
+        "what_it_does": "一个精选的 Claude AI 技能、资源和工具列表，专门用于帮助开发者自定义、扩展和优化 Claude AI 的工作流及 Agent 能力。",
+        "configuration": "作为文档列表项目，阅读本身无需特殊环境（只需浏览器或 Markdown 阅读器）。若要运行其中推荐的工具或技能，通常需要 Anthropic Claude API 密钥及相应的开发环境（如 Python/Node.js）。"
+      }
+    },
+    "dreamhunter2333/cloudflare_temp_email": {
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
+      "summary": {
+        "what_it_does": "一个基于 Cloudflare 服务的免费临时域名邮箱系统，支持邮件的在线接收和发送、附件、IMAP/SMTP 协议以及通过 Telegram 机器人接收通知。",
+        "configuration": "需要 Cloudflare 账户（使用 Cloudflare Workers, Pages, D1 数据库及 KV 存储）、一个托管在 Cloudflare 的自定义域名。若使用通知功能，则需要 Telegram Bot Token。"
+      }
+    },
+    "Pumpkin-MC/Pumpkin": {
+      "streak": 1,
+      "last_seen_date": "2026-07-23",
+      "summary": {
+        "what_it_does": "一个使用 Rust 语言编写的高性能、轻量级 Minecraft（我的世界）服务器端实现，旨在为玩家提供快速且高效的服务器托管体验。",
+        "configuration": "需要 Rust 编译环境（如果从源码构建）或直接运行适用于对应操作系统的预编译二进制文件。硬件要求较低，仅需基础的服务器配置，并需要配置相应的端口转发及项目特有的配置文件（如 Pumpkin.toml）。"
       }
     }
   }
