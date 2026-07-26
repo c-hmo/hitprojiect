@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-25",
+  "last_run_date": "2026-07-26",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -19,7 +19,7 @@
     },
     "rohitg00/ai-engineering-from-scratch": {
       "streak": 1,
-      "last_seen_date": "2026-07-23",
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -67,7 +67,7 @@
     },
     "affaan-m/ECC": {
       "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -667,7 +667,7 @@
     },
     "RyanCodrai/turbovec": {
       "streak": 1,
-      "last_seen_date": "2026-07-18",
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个基于 TurboQuant 构建的高性能向量索引库，采用 Rust 语言编写并提供 Python 接口绑定，用于高效的向量相似度检索。",
         "configuration": "需要 Rust 编译环境（Cargo）以及 Python 运行环境（建议 Python 3.8+）来编译和运行 Python 绑定。"
@@ -914,8 +914,8 @@
       }
     },
     "andrewyng/aisuite": {
-      "streak": 2,
-      "last_seen_date": "2026-06-15",
+      "streak": 1,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "提供一个简单、统一的接口来调用多个生成式人工智能（Generative AI）服务商的 API，允许开发者用统一的代码格式在不同的 LLM（如 OpenAI、Anthropic、Google Gemini 等）之间无缝切换和对比测试。",
         "configuration": "需要 Python 3.8+ 运行环境，通过 pip 安装 `aisuite` 库，并需要准备和配置你所计划调用的各个 AI 服务商的 API Key（环境变量）。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 3,
-      "last_seen_date": "2026-07-25",
+      "streak": 4,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1251,15 +1251,15 @@
     },
     "palmier-io/palmier-pro": {
       "streak": 1,
-      "last_seen_date": "2026-06-29",
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一款专为人工智能（AI）设计的 macOS 视频剪辑软件，旨在利用 AI 技术简化和加速视频编辑流程。",
         "configuration": "需要 macOS 操作系统，建议配备 Apple Silicon（M系列）芯片以获得最佳的本地 AI 模型运行性能。"
       }
     },
     "koala73/worldmonitor": {
-      "streak": 4,
-      "last_seen_date": "2026-07-25",
+      "streak": 5,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个实时全球情报仪表盘，通过统一的态势感知界面，提供 AI 驱动的新闻聚合、地缘政治监控和关键基础设施跟踪。",
         "configuration": "通常需要前端与后端运行环境（如 Node.js 或 Python 堆栈）、数据库支持，以及对接 AI 逻辑的大模型 API 密钥。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 6,
-      "last_seen_date": "2026-07-25",
+      "streak": 7,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 5,
-      "last_seen_date": "2026-07-25",
+      "streak": 6,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -1738,8 +1738,8 @@
       }
     },
     "CoreBunch/Instatic": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个现代化、开箱即用的自托管可视化内容管理系统（CMS），旨在让用户在极短时间内快速部署和运行。",
         "configuration": "需要支持 Node.js 的运行环境或 Docker 环境进行自托管部署，基础的 Web 服务器和数据库配置。"
@@ -2130,8 +2130,8 @@
       }
     },
     "anthropics/claude-cookbooks": {
-      "streak": 2,
-      "last_seen_date": "2026-07-13",
+      "streak": 1,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "Anthropic 官方提供的 Claude AI 模型使用指南和示例代码库，通过 Jupyter Notebook 实例展示如何高效、有趣地应用 Claude 模型的各种功能与 API。",
         "configuration": "Python 3.x 运行环境、Jupyter Notebook 运行环境、Anthropic API 密钥（API Key）以及 `anthropic` 等相关 Python 依赖库。"
@@ -2498,8 +2498,8 @@
       }
     },
     "tirth8205/code-review-graph": {
-      "streak": 8,
-      "last_seen_date": "2026-07-25",
+      "streak": 9,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个本地优先的代码智能图谱工具（支持 CLI 和 MCP），通过为本地代码库构建持久的映射图，帮助 AI 编程工具仅读取关键上下文，从而显著降低代码审查和大型仓库工作流中的 Token 开销。",
         "configuration": "需要 Node.js 开发环境，支持 Git 项目。可用作 MCP (Model Context Protocol) 服务，需配合支持 MCP 协议的 AI 客户端（如 Claude Desktop 或 Cursor）使用。"
@@ -2546,8 +2546,8 @@
       }
     },
     "MoonshotAI/kimi-cli": {
-      "streak": 7,
-      "last_seen_date": "2026-07-25",
+      "streak": 8,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个基于 Kimi 大语言模型的命令行 AI 助手（CLI Agent），旨在帮助开发者在终端中直接进行代码编写、命令执行和开发辅助工作。",
         "configuration": "需要 Moonshot AI (Kimi) 的 API 密钥（API Key），以及命令行/终端运行环境。根据其具体实现，可能需要安装 Node.js 或 Python 运行环境及相关依赖。"
@@ -2650,8 +2650,8 @@
       }
     },
     "bojieli/ai-agent-book": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "《深入理解 AI Agent：设计原理与工程实践》一书的开源仓库，提供全书正文、编译好的 PDF 电子书以及各章节的配套实战代码。",
         "configuration": "阅读 PDF 需要 PDF 阅读器；运行配套代码通常需要 Python 运行环境以及相关的 AI 开发库（如 LangChain 等）和 LLM API 密钥。"
@@ -2722,8 +2722,8 @@
       }
     },
     "agegr/pi-web": {
-      "streak": 4,
-      "last_seen_date": "2026-07-25",
+      "streak": 5,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "为 pi 编程智能体（coding agent）提供的 Web 用户界面，方便用户通过浏览器可视化地与该 AI 编程助手进行交互。",
         "configuration": "通常需要 Node.js 运行环境以部署前端 Web 服务，并需要配置与底层 pi 智能体后端服务通信的 API 地址和网络环境。"
@@ -2746,8 +2746,8 @@
       }
     },
     "MoonshotAI/kimi-code": {
-      "streak": 3,
-      "last_seen_date": "2026-07-25",
+      "streak": 4,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "Kimi Code 命令行接口（CLI）工具，旨在作为构建和开发下一代 AI Agent（智能体）的起点，辅助开发者进行代码交互和自动化任务。",
         "configuration": "需要 Node.js 运行环境，以及 Moonshot AI (Kimi) 的 API 密钥（API Key）来激活和调用模型服务。"
@@ -2762,8 +2762,8 @@
       }
     },
     "ComposioHQ/awesome-claude-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-07-25",
+      "streak": 4,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个精选的 Claude AI 技能、资源和工具列表，专门用于帮助开发者自定义、扩展和优化 Claude AI 的工作流及 Agent 能力。",
         "configuration": "作为文档列表项目，阅读本身无需特殊环境（只需浏览器或 Markdown 阅读器）。若要运行其中推荐的工具或技能，通常需要 Anthropic Claude API 密钥及相应的开发环境（如 Python/Node.js）。"
@@ -2778,24 +2778,24 @@
       }
     },
     "Pumpkin-MC/Pumpkin": {
-      "streak": 3,
-      "last_seen_date": "2026-07-25",
+      "streak": 4,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个使用 Rust 语言编写的高性能、轻量级 Minecraft（我的世界）服务器端实现，旨在为玩家提供快速且高效的服务器托管体验。",
         "configuration": "需要 Rust 编译环境（如果从源码构建）或直接运行适用于对应操作系统的预编译二进制文件。硬件要求较低，仅需基础的服务器配置，并需要配置相应的端口转发及项目特有的配置文件（如 Pumpkin.toml）。"
       }
     },
     "block/buzz": {
-      "streak": 2,
-      "last_seen_date": "2026-07-25",
+      "streak": 3,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
       }
     },
     "citrolabs/ego-lite": {
-      "streak": 2,
-      "last_seen_date": "2026-07-25",
+      "streak": 3,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一款专为人类和 AI 智能体（Agent）并行工作设计的协同浏览器，支持人机同步操作与协作任务。",
         "configuration": "适用于主流桌面操作系统（Windows、macOS 或 Linux），可能需要配置 AI 智能体运行所需的 API 密钥或本地环境支持。"
@@ -2803,15 +2803,15 @@
     },
     "alibaba/open-code-review": {
       "streak": 1,
-      "last_seen_date": "2026-07-24",
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
       }
     },
     "Automattic/harper": {
-      "streak": 2,
-      "last_seen_date": "2026-07-25",
+      "streak": 3,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一款离线、隐私优先、运行极快的开源语法检查工具，由 Rust 语言强力驱动。",
         "configuration": "需要 Rust 编译及运行环境（如果从源码构建），或直接下载并运行适用于 Windows、macOS 或 Linux 的预编译客户端/集成插件。"
@@ -2826,8 +2826,8 @@
       }
     },
     "earendil-works/pi": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一个AI智能体（Agent）工具包，提供统一的大语言模型API、智能体循环（Agent Loop）、终端用户界面（TUI）以及专为编码设计的智能体命令行（CLI）工具。",
         "configuration": "需要Python环境，支持TUI的现代化终端，以及用于调用大语言模型的API密钥（API Key）。"
@@ -2842,19 +2842,27 @@
       }
     },
     "Lordog/dive-into-llms": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "《动手学大模型Dive into LLMs》系列编程实践教程，旨在通过代码实战帮助开发者深入理解和掌握大语言模型的开发与应用。",
         "configuration": "需要Python环境，Jupyter Notebook运行环境，以及PyTorch、Hugging Face Transformers等深度学习和模型开发相关依赖库；运行大模型时建议配置支持CUDA的GPU硬件。"
       }
     },
     "OtterMind/Chat2DB": {
-      "streak": 1,
-      "last_seen_date": "2026-07-25",
+      "streak": 2,
+      "last_seen_date": "2026-07-26",
       "summary": {
         "what_it_does": "一款AI驱动的数据库客户端和SQL可视化工具，支持MySQL、Oracle、PostgreSQL、SQL Server、ClickHouse等多种主流数据库，集成了AI生成SQL、AI解释SQL等智能功能。",
         "configuration": "需要Java运行环境（JRE/JDK），支持在Windows、macOS、Linux上安装桌面客户端，使用AI功能时需要配置大语言模型（如OpenAI等）的API Key。"
+      }
+    },
+    "permissionlesstech/bitchat": {
+      "streak": 1,
+      "last_seen_date": "2026-07-26",
+      "summary": {
+        "what_it_does": "一个基于蓝牙网状网络（Bluetooth Mesh）的离线聊天工具，具有类似 IRC 的频道群聊风格，支持在没有互联网连接的情况下进行本地点对点或多点通信。",
+        "configuration": "需要支持蓝牙（特别是蓝牙低功耗 BLE/Mesh）的硬件设备（如电脑、树莓派等）。运行环境依赖支持蓝牙协议栈的操作系统（如带有 BlueZ 的 Linux、macOS 等），并需要安装对应的客户端程序（通常需要 Rust/Go 编译环境或直接运行其发布的二进制文件）。"
       }
     }
   }
