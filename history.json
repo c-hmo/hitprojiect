@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-27",
+  "last_run_date": "2026-07-28",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 1,
-      "last_seen_date": "2026-07-27",
+      "streak": 2,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -507,7 +507,7 @@
     },
     "mvanhorn/last30days-skill": {
       "streak": 1,
-      "last_seen_date": "2026-07-09",
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 5,
-      "last_seen_date": "2026-07-27",
+      "streak": 6,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-07-27",
+      "streak": 4,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1258,8 +1258,8 @@
       }
     },
     "koala73/worldmonitor": {
-      "streak": 6,
-      "last_seen_date": "2026-07-27",
+      "streak": 7,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个实时全球情报仪表盘，通过统一的态势感知界面，提供 AI 驱动的新闻聚合、地缘政治监控和关键基础设施跟踪。",
         "configuration": "通常需要前端与后端运行环境（如 Node.js 或 Python 堆栈）、数据库支持，以及对接 AI 逻辑的大模型 API 密钥。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 8,
-      "last_seen_date": "2026-07-27",
+      "streak": 9,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1530,8 +1530,8 @@
       }
     },
     "NanmiCoder/MediaCrawler": {
-      "streak": 3,
-      "last_seen_date": "2026-06-28",
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一款多平台社交媒体爬虫工具，支持抓取小红书、抖音、快手、B站、微博、贴吧、知乎等平台的视频、帖子、文章及评论数据。",
         "configuration": "需要 Python 3.10+ 运行环境，安装 Playwright 依赖（及对应的浏览器内核），并需要配置各社交平台对应的登录 Cookie 以规避反爬限制。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 7,
-      "last_seen_date": "2026-07-27",
+      "streak": 8,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -2002,8 +2002,8 @@
       }
     },
     "bradautomates/claude-video": {
-      "streak": 9,
-      "last_seen_date": "2026-07-15",
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "让 Claude 具备分析视频的能力。该项目通过自动下载视频、提取视频帧、转录音频，并将这些多媒体信息整合后发送给 Claude 进行理解和交互。",
         "configuration": "需要 Python 运行环境、多媒体处理工具 FFmpeg（用于提取帧和转录音频）以及 Anthropic (Claude) 的 API 密钥。"
@@ -2363,7 +2363,7 @@
     },
     "moeru-ai/airi": {
       "streak": 1,
-      "last_seen_date": "2026-07-16",
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个自托管的虚拟 AI 伴侣系统，支持实时语音聊天，并能够自主游玩《我的世界》和《异星工厂》等游戏。",
         "configuration": "支持 Web、macOS 和 Windows 系统。需要自托管服务器/容器运行环境，配置大语言模型（LLM）的 API 密钥，以及语音输入输出设备。"
@@ -2498,8 +2498,8 @@
       }
     },
     "tirth8205/code-review-graph": {
-      "streak": 10,
-      "last_seen_date": "2026-07-27",
+      "streak": 11,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个本地优先的代码智能图谱工具（支持 CLI 和 MCP），通过为本地代码库构建持久的映射图，帮助 AI 编程工具仅读取关键上下文，从而显著降低代码审查和大型仓库工作流中的 Token 开销。",
         "configuration": "需要 Node.js 开发环境，支持 Git 项目。可用作 MCP (Model Context Protocol) 服务，需配合支持 MCP 协议的 AI 客户端（如 Claude Desktop 或 Cursor）使用。"
@@ -2618,8 +2618,8 @@
       }
     },
     "oblien/openship": {
-      "streak": 3,
-      "last_seen_date": "2026-07-23",
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个自托管的部署平台，旨在帮助开发者在自己的服务器上轻松配置、部署和管理各种 Web 应用程序及服务。",
         "configuration": "需要一台运行 Linux 的 VPS 或服务器，并安装有 Docker、Docker Compose 以及基础的网络和域名/SSL 配置。"
@@ -2650,16 +2650,16 @@
       }
     },
     "bojieli/ai-agent-book": {
-      "streak": 3,
-      "last_seen_date": "2026-07-27",
+      "streak": 4,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "《深入理解 AI Agent：设计原理与工程实践》一书的开源仓库，提供全书正文、编译好的 PDF 电子书以及各章节的配套实战代码。",
         "configuration": "阅读 PDF 需要 PDF 阅读器；运行配套代码通常需要 Python 运行环境以及相关的 AI 开发库（如 LangChain 等）和 LLM API 密钥。"
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 2,
-      "last_seen_date": "2026-07-23",
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2722,8 +2722,8 @@
       }
     },
     "agegr/pi-web": {
-      "streak": 6,
-      "last_seen_date": "2026-07-27",
+      "streak": 7,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "为 pi 编程智能体（coding agent）提供的 Web 用户界面，方便用户通过浏览器可视化地与该 AI 编程助手进行交互。",
         "configuration": "通常需要 Node.js 运行环境以部署前端 Web 服务，并需要配置与底层 pi 智能体后端服务通信的 API 地址和网络环境。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 2,
-      "last_seen_date": "2026-07-27",
+      "streak": 3,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -2826,16 +2826,16 @@
       }
     },
     "earendil-works/pi": {
-      "streak": 3,
-      "last_seen_date": "2026-07-27",
+      "streak": 4,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个AI智能体（Agent）工具包，提供统一的大语言模型API、智能体循环（Agent Loop）、终端用户界面（TUI）以及专为编码设计的智能体命令行（CLI）工具。",
         "configuration": "需要Python环境，支持TUI的现代化终端，以及用于调用大语言模型的API密钥（API Key）。"
       }
     },
     "yorukot/superfile": {
-      "streak": 1,
-      "last_seen_date": "2026-07-27",
+      "streak": 2,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个非常美观、现代且功能丰富的终端文件管理器，旨在提供极佳的命令行文件浏览体验。",
         "configuration": "需要Go语言运行或编译环境，支持真彩色（True Color）和Nerd Fonts字体的终端模拟器，支持Linux、macOS和Windows系统。"
@@ -2858,8 +2858,8 @@
       }
     },
     "permissionlesstech/bitchat": {
-      "streak": 2,
-      "last_seen_date": "2026-07-27",
+      "streak": 3,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个基于蓝牙网状网络（Bluetooth Mesh）的离线聊天工具，具有类似 IRC 的频道群聊风格，支持在没有互联网连接的情况下进行本地点对点或多点通信。",
         "configuration": "需要支持蓝牙（特别是蓝牙低功耗 BLE/Mesh）的硬件设备（如电脑、树莓派等）。运行环境依赖支持蓝牙协议栈的操作系统（如带有 BlueZ 的 Linux、macOS 等），并需要安装对应的客户端程序（通常需要 Rust/Go 编译环境或直接运行其发布的二进制文件）。"
@@ -2882,19 +2882,51 @@
       }
     },
     "jenkinsci/jenkins": {
-      "streak": 1,
-      "last_seen_date": "2026-07-27",
+      "streak": 2,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "一个开源自动化服务器，通过丰富的插件支持软件开发项目的构建、部署和自动化（即持续集成与持续交付 CI/CD）。",
         "configuration": "需要 Java 运行时环境（JRE 11 或 17），以及支持运行 Java 的操作系统（如 Linux、Windows、macOS），建议配置至少 1GB 以上可用内存。"
       }
     },
     "amnezia-vpn/amnezia-client": {
-      "streak": 1,
-      "last_seen_date": "2026-07-27",
+      "streak": 2,
+      "last_seen_date": "2026-07-28",
       "summary": {
         "what_it_does": "Amnezia VPN 的跨平台客户端（支持桌面端和移动端），用于快速连接和管理用户自建的私有 VPN 节点。",
         "configuration": "基于 Qt/C++ 框架。配置和编译需要 Qt SDK（Qt 5 或 Qt 6）、CMake，以及对应平台的编译器（如 Windows 的 MSVC、macOS/iOS 的 Xcode、Linux 的 GCC 以及 Android SDK/NDK）。"
+      }
+    },
+    "opengeos/GeoLibre": {
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
+      "summary": {
+        "what_it_does": "一个轻量级、云原生的地理信息系统（GIS）平台，用于可视化、探索和分析地理空间数据。",
+        "configuration": "支持在 Web 浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。具体配置取决于运行平台，通常需要现代浏览器或 Python/Jupyter 运行环境。"
+      }
+    },
+    "vudovn/ag-kit": {
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
+      "summary": {
+        "what_it_does": "未提供项目描述。",
+        "configuration": "配置需求未知。"
+      }
+    },
+    "apache/cassandra": {
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
+      "summary": {
+        "what_it_does": "一个开源的分布式事务型数据库，在普通硬件或云基础设施上提供线性扩展性和高容错性，同时保持高性能。",
+        "configuration": "需要 Java 运行环境（Java 8 或 11+ JRE/JDK），可部署于 Linux 等支持 Java 的操作系统上，适合多节点集群部署。"
+      }
+    },
+    "ocornut/imgui": {
+      "streak": 1,
+      "last_seen_date": "2026-07-28",
+      "summary": {
+        "what_it_does": "一个专为 C++ 设计的无膨胀、极简依赖的即时模式图形用户界面（GUI）库。",
+        "configuration": "需要 C++ 编译器。它本身是平台无关的，需要配合渲染图形 API（如 OpenGL、DirectX、Vulkan 等）以及窗口绑定库（如 GLFW、SDL 等）使用。"
       }
     }
   }
