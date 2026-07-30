@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-07-29",
+  "last_run_date": "2026-07-30",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -115,7 +115,7 @@
     },
     "obra/superpowers": {
       "streak": 1,
-      "last_seen_date": "2026-07-26",
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -627,7 +627,7 @@
     },
     "microsoft/VibeVoice": {
       "streak": 1,
-      "last_seen_date": "2026-06-07",
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个开源的前沿语音人工智能（Voice AI）项目，致力于提供先进的语音处理、合成或识别能力。",
         "configuration": "需要 Python 3.8+ 运行环境、主流深度学习框架（如 PyTorch）、支持 CUDA 的 NVIDIA GPU 硬件加速，以及用于音频信号处理的第三方依赖库（如 librosa, soundfile 等）。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 6,
-      "last_seen_date": "2026-07-28",
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 5,
-      "last_seen_date": "2026-07-29",
+      "streak": 6,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1258,8 +1258,8 @@
       }
     },
     "koala73/worldmonitor": {
-      "streak": 8,
-      "last_seen_date": "2026-07-29",
+      "streak": 9,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个实时全球情报仪表盘，通过统一的态势感知界面，提供 AI 驱动的新闻聚合、地缘政治监控和关键基础设施跟踪。",
         "configuration": "通常需要前端与后端运行环境（如 Node.js 或 Python 堆栈）、数据库支持，以及对接 AI 逻辑的大模型 API 密钥。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 9,
-      "last_seen_date": "2026-07-28",
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1531,7 +1531,7 @@
     },
     "NanmiCoder/MediaCrawler": {
       "streak": 1,
-      "last_seen_date": "2026-07-28",
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一款多平台社交媒体爬虫工具，支持抓取小红书、抖音、快手、B站、微博、贴吧、知乎等平台的视频、帖子、文章及评论数据。",
         "configuration": "需要 Python 3.10+ 运行环境，安装 Playwright 依赖（及对应的浏览器内核），并需要配置各社交平台对应的登录 Cookie 以规避反爬限制。"
@@ -1706,8 +1706,8 @@
       }
     },
     "diegosouzapw/OmniRoute": {
-      "streak": 9,
-      "last_seen_date": "2026-07-29",
+      "streak": 10,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个免费的 AI 路由网关，通过单一端点连接超过 231 个 AI 服务商。支持将主流 AI 编程助手连接到免费的 AI 模型，并具备 Token 压缩、自动故障转移等功能。",
         "configuration": "支持作为桌面应用（Desktop）或渐进式 Web 应用（PWA）运行。配置时需要将编程工具（如 Cursor、Copilot、Claude Code 等）的 API 端点指向该网关，并配置相应的 API 密钥。"
@@ -2058,8 +2058,8 @@
       }
     },
     "huggingface/speech-to-speech": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "使用开源大模型在本地构建实时语音交互智能体（Voice Agents），实现低延迟的语音到语音直接转换。",
         "configuration": "需要 Python 开发环境，PyTorch 等深度学习框架，支持 CUDA 的 GPU 硬件加速以运行本地语音和语言模型，以及音频输入输出相关的依赖库。"
@@ -2362,8 +2362,8 @@
       }
     },
     "moeru-ai/airi": {
-      "streak": 2,
-      "last_seen_date": "2026-07-29",
+      "streak": 3,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个自托管的虚拟 AI 伴侣系统，支持实时语音聊天，并能够自主游玩《我的世界》和《异星工厂》等游戏。",
         "configuration": "支持 Web、macOS 和 Windows 系统。需要自托管服务器/容器运行环境，配置大语言模型（LLM）的 API 密钥，以及语音输入输出设备。"
@@ -2650,16 +2650,16 @@
       }
     },
     "bojieli/ai-agent-book": {
-      "streak": 5,
-      "last_seen_date": "2026-07-29",
+      "streak": 6,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "《深入理解 AI Agent：设计原理与工程实践》一书的开源仓库，提供全书正文、编译好的 PDF 电子书以及各章节的配套实战代码。",
         "configuration": "阅读 PDF 需要 PDF 阅读器；运行配套代码通常需要 Python 运行环境以及相关的 AI 开发库（如 LangChain 等）和 LLM API 密钥。"
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 2,
-      "last_seen_date": "2026-07-29",
+      "streak": 3,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,24 +2786,24 @@
       }
     },
     "block/buzz": {
-      "streak": 4,
-      "last_seen_date": "2026-07-27",
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
       }
     },
     "citrolabs/ego-lite": {
-      "streak": 4,
-      "last_seen_date": "2026-07-27",
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一款专为人类和 AI 智能体（Agent）并行工作设计的协同浏览器，支持人机同步操作与协作任务。",
         "configuration": "适用于主流桌面操作系统（Windows、macOS 或 Linux），可能需要配置 AI 智能体运行所需的 API 密钥或本地环境支持。"
       }
     },
     "alibaba/open-code-review": {
-      "streak": 3,
-      "last_seen_date": "2026-07-28",
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -2898,8 +2898,8 @@
       }
     },
     "opengeos/GeoLibre": {
-      "streak": 2,
-      "last_seen_date": "2026-07-29",
+      "streak": 3,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个轻量级、云原生的地理信息系统（GIS）平台，用于可视化、探索和分析地理空间数据。",
         "configuration": "支持在 Web 浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。具体配置取决于运行平台，通常需要现代浏览器或 Python/Jupyter 运行环境。"
@@ -2930,16 +2930,16 @@
       }
     },
     "UditAkhourii/adhd": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个为编程智能体（Coding Agents）设计的辅助技能。基于 Claude & Codex Agent SDK 构建，采用带剪枝的思维树（Tree-of-thought）方法，通过在不同认知框架下并行发散思维、评分并过滤陷阱，从而深化最佳决策，适用于创意和跨学科的编程任务。",
         "configuration": "需要 Claude & Codex Agent SDK，相应的 LLM API 密钥（如 Anthropic Claude 密钥），以及 Python 或 Node.js 运行环境。"
       }
     },
     "pascalorg/editor": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个用于创建和分享 3D 建筑设计项目的在线或本地编辑器。",
         "configuration": "需要支持 WebGL 的现代浏览器。如果进行本地部署，可能需要 Node.js 环境及相关的 Web 前端构建工具。"
@@ -2954,16 +2954,16 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
       }
     },
     "paperswithbacktest/awesome-systematic-trading": {
-      "streak": 1,
-      "last_seen_date": "2026-07-29",
+      "streak": 2,
+      "last_seen_date": "2026-07-30",
       "summary": {
         "what_it_does": "一个精选的系统化（量化）交易资源列表，汇总了相关的优秀开源库、软件包、交易策略、专业书籍、技术博客和教学教程。",
         "configuration": "无需特殊配置，作为资源汇总列表，用户只需通过浏览器即可阅读。列表中具体的库和工具通常需要 Python 或 R 等编程环境。"
@@ -2975,6 +2975,46 @@
       "summary": {
         "what_it_does": "一个 AI 智能体治理工具包，为自主 AI 智能体提供策略强制执行、零信任身份验证、执行沙箱以及可靠性工程支持，覆盖了 OWASP 智能体十大安全风险（OWASP Agentic Top 10）的全部内容。",
         "configuration": "需要 Python 运行环境，并依赖相关安全策略引擎、沙箱技术（如 Docker/容器化环境）以及对应的 AI 智能体开发框架。"
+      }
+    },
+    "grokability/snipe-it": {
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
+      "summary": {
+        "what_it_does": "一个免费开源的 IT 资产与许可证管理系统，用于跟踪、管理和分配 IT 设备、软件授权、消耗品和配件。",
+        "configuration": "需要 PHP 运行环境（推荐 8.x）、Web 服务器（如 Apache 或 Nginx）、数据库（MySQL 或 MariaDB）以及 Composer 依赖管理器。"
+      }
+    },
+    "deepfakes/faceswap": {
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
+      "summary": {
+        "what_it_does": "一款基于深度学习技术的人脸替换（换脸）软件，旨在提供给所有开发者和爱好者使用。",
+        "configuration": "需要 Python 环境（通常为 3.7+）、Git，并强烈建议配备支持 CUDA 的英伟达（NVIDIA）显卡（需安装 CUDA 和 cuDNN）以加速模型训练，亦支持 CPU（速度较慢）。"
+      }
+    },
+    "different-ai/openwork": {
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
+      "summary": {
+        "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
+        "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
+      }
+    },
+    "MoonshotAI/FlashKDA": {
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
+      "summary": {
+        "what_it_does": "由月之暗面开发的高性能 Kimi Delta Attention (KDA) 算子内核，旨在优化和加速大语言模型的注意力机制计算。",
+        "configuration": "需要 Python 环境、PyTorch、CUDA Toolkit、相关的 C++/CUDA 编译工具鏈，以及支持 CUDA 的 NVIDIA GPU（推荐 Ampere 架构或更新的显卡，如 A100、H100）。"
+      }
+    },
+    "maderix/ANE": {
+      "streak": 1,
+      "last_seen_date": "2026-07-30",
+      "summary": {
+        "what_it_does": "通过逆向工程 Apple 的私有 API，实现在苹果神经网络引擎（Apple Neural Engine, ANE）上直接训练神经网络。",
+        "configuration": "需要搭载 Apple Silicon 芯片（如 M1/M2/M3 系列芯片或 A 系列芯片）的 Apple 硬件设备，运行 macOS 或 iOS 系统，以及相关的开发编译环境（如 Xcode、Swift/Objective-C/C++ 开发环境）。"
       }
     }
   }
