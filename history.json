@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-01",
+  "last_run_date": "2026-08-02",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -490,8 +490,8 @@
       }
     },
     "github/copilot-sdk": {
-      "streak": 1,
-      "last_seen_date": "2026-08-01",
+      "streak": 2,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个多平台的 SDK，用于帮助开发者将 GitHub Copilot Agent（智能体）功能无缝集成到各种第三方应用程序和服务中。",
         "configuration": "需要支持跨平台开发的编程语言运行环境（如 Node.js 或其他支持的 runtime），以及访问 GitHub Copilot API 的授权凭证和网络环境。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 3,
-      "last_seen_date": "2026-08-01",
+      "streak": 4,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1330,8 +1330,8 @@
       }
     },
     "bytedance/deer-flow": {
-      "streak": 3,
-      "last_seen_date": "2026-06-24",
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "字节跳动开源的长周期智能体（SuperAgent）运行框架，集成了沙盒、记忆、工具、技能、子智能体和消息网关，能够自主执行需要数分钟到数小时的复杂研究、编码和创作任务。",
         "configuration": "需要 Python 3.10+ 运行环境、Docker（用于运行安全沙盒环境）、大语言模型（LLM）API 密钥以及项目相关的 Python 依赖库。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 2,
-      "last_seen_date": "2026-08-01",
+      "streak": 3,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -1867,7 +1867,7 @@
     },
     "ansible/ansible": {
       "streak": 1,
-      "last_seen_date": "2026-07-31",
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个极简的 IT 自动化平台，用于应用部署、系统维护、配置管理和云端管理。它采用无代理架构，使用类英语的 YAML 语言通过 SSH 运行。",
         "configuration": "控制端（Master）需要安装 Python（3.x 版本以上）及相关依赖包；受控端（Nodes）仅需开启 SSH 服务并安装有 Python 环境，无需安装任何客户端代理。"
@@ -2058,8 +2058,8 @@
       }
     },
     "huggingface/speech-to-speech": {
-      "streak": 3,
-      "last_seen_date": "2026-07-31",
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "使用开源大模型在本地构建实时语音交互智能体（Voice Agents），实现低延迟的语音到语音直接转换。",
         "configuration": "需要 Python 开发环境，PyTorch 等深度学习框架，支持 CUDA 的 GPU 硬件加速以运行本地语音和语言模型，以及音频输入输出相关的依赖库。"
@@ -2067,7 +2067,7 @@
     },
     "TencentCloud/TencentDB-Agent-Memory": {
       "streak": 1,
-      "last_seen_date": "2026-07-11",
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2362,8 +2362,8 @@
       }
     },
     "moeru-ai/airi": {
-      "streak": 3,
-      "last_seen_date": "2026-07-30",
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个自托管的虚拟 AI 伴侣系统，支持实时语音聊天，并能够自主游玩《我的世界》和《异星工厂》等游戏。",
         "configuration": "支持 Web、macOS 和 Windows 系统。需要自托管服务器/容器运行环境，配置大语言模型（LLM）的 API 密钥，以及语音输入输出设备。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 5,
-      "last_seen_date": "2026-08-01",
+      "streak": 6,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,24 +2786,24 @@
       }
     },
     "block/buzz": {
-      "streak": 3,
-      "last_seen_date": "2026-08-01",
+      "streak": 4,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
       }
     },
     "citrolabs/ego-lite": {
-      "streak": 3,
-      "last_seen_date": "2026-08-01",
+      "streak": 4,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一款专为人类和 AI 智能体（Agent）并行工作设计的协同浏览器，支持人机同步操作与协作任务。",
         "configuration": "适用于主流桌面操作系统（Windows、macOS 或 Linux），可能需要配置 AI 智能体运行所需的 API 密钥或本地环境支持。"
       }
     },
     "alibaba/open-code-review": {
-      "streak": 3,
-      "last_seen_date": "2026-08-01",
+      "streak": 4,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -2858,8 +2858,8 @@
       }
     },
     "permissionlesstech/bitchat": {
-      "streak": 3,
-      "last_seen_date": "2026-07-28",
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个基于蓝牙网状网络（Bluetooth Mesh）的离线聊天工具，具有类似 IRC 的频道群聊风格，支持在没有互联网连接的情况下进行本地点对点或多点通信。",
         "configuration": "需要支持蓝牙（特别是蓝牙低功耗 BLE/Mesh）的硬件设备（如电脑、树莓派等）。运行环境依赖支持蓝牙协议栈的操作系统（如带有 BlueZ 的 Linux、macOS 等），并需要安装对应的客户端程序（通常需要 Rust/Go 编译环境或直接运行其发布的二进制文件）。"
@@ -2898,8 +2898,8 @@
       }
     },
     "opengeos/GeoLibre": {
-      "streak": 3,
-      "last_seen_date": "2026-07-30",
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个轻量级、云原生的地理信息系统（GIS）平台，用于可视化、探索和分析地理空间数据。",
         "configuration": "支持在 Web 浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。具体配置取决于运行平台，通常需要现代浏览器或 Python/Jupyter 运行环境。"
@@ -2938,8 +2938,8 @@
       }
     },
     "pascalorg/editor": {
-      "streak": 4,
-      "last_seen_date": "2026-08-01",
+      "streak": 5,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个用于创建和分享 3D 建筑设计项目的在线或本地编辑器。",
         "configuration": "需要支持 WebGL 的现代浏览器。如果进行本地部署，可能需要 Node.js 环境及相关的 Web 前端构建工具。"
@@ -2954,16 +2954,16 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-08-01",
+      "streak": 2,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
       }
     },
     "paperswithbacktest/awesome-systematic-trading": {
-      "streak": 4,
-      "last_seen_date": "2026-08-01",
+      "streak": 5,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个精选的系统化（量化）交易资源列表，汇总了相关的优秀开源库、软件包、交易策略、专业书籍、技术博客和教学教程。",
         "configuration": "无需特殊配置，作为资源汇总列表，用户只需通过浏览器即可阅读。列表中具体的库和工具通常需要 Python 或 R 等编程环境。"
@@ -3034,16 +3034,16 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-08-01",
+      "streak": 2,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
       }
     },
     "usekaneo/kaneo": {
-      "streak": 1,
-      "last_seen_date": "2026-08-01",
+      "streak": 2,
+      "last_seen_date": "2026-08-02",
       "summary": {
         "what_it_does": "一个开源、精简且实用的项目管理工具，旨在提供必不可少的管理功能，避免冗余，提升团队协作效率。",
         "configuration": "标准的 Web 服务运行环境，通常需要 Node.js 运行环境、数据库支持（如 PostgreSQL 等），或通过 Docker 容器进行部署。"
@@ -3055,6 +3055,54 @@
       "summary": {
         "what_it_does": "一款硬件黑客与安全测试工具，配备基于 Web 的命令行界面（CLI），能够支持并解析多种硬件通信协议。",
         "configuration": "硬件上需要 ESP32 芯片或开发板；软件上需要固件烧录工具以及支持 Web 访问的浏览器环境以运行其 Web-CLI。"
+      }
+    },
+    "microsoft/generative-ai-for-beginners": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "这是一个面向初学者的生成式 AI 学习课程，通过 21 节课帮助用户掌握构建生成式 AI 应用程序的基础知识和实践方法。",
+        "configuration": "需要网络浏览器、GitHub 账号、Python 运行环境以及访问相关 AI 模型（如 OpenAI 或 Azure OpenAI）的 API 密钥。"
+      }
+    },
+    "github/gh-stack": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "这是一个用于管理 GitHub 堆叠拉取请求（Stacked PRs）的命令行工具，旨在帮助开发者更高效地组织和提交一系列有依赖关系的拉取请求。",
+        "configuration": "需要安装并配置 Git、GitHub CLI (gh) 命令行工具及相应的终端运行环境。"
+      }
+    },
+    "abus-aikorea/voice-pro": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "一个多功能音频处理 Gradio WebUI，支持文本转语音（TTS）、零样本语音克隆、Whisper 语音识别、YouTube 视频下载、人声分离及多语言翻译，专为创作者和开发者设计。",
+        "configuration": "需要 Python 环境、PyTorch 框架及相关的深度学习依赖库。因涉及复杂的语音克隆与合成模型，建议配备支持 CUDA 的 NVIDIA GPU 硬件。"
+      }
+    },
+    "iv-org/invidious": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "一个开源、隐私友好的 YouTube 替代前端，允许用户在没有广告且无需 Google 账户的情况下浏览和观看 YouTube 视频。",
+        "configuration": "主要通过 Docker 和 Docker Compose 进行容器化部署，也可以在本地配置 Crystal 语言运行环境、PostgreSQL 数据库及相关依赖库进行手动安装。"
+      }
+    },
+    "microsoft/TRELLIS.2": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "一个用于高质量 3D 内容生成的深度学习模型，利用原生且紧凑的结构化隐空间（Structured Latents）技术，能够高效地从文本或图像生成精细的 3D 资产（如网格、辐射场等）。",
+        "configuration": "需要 Python 3.10+ 运行环境，支持 CUDA 的 PyTorch 深度学习框架，较强性能的 NVIDIA GPU（推荐 24GB 或以上显存的显卡如 RTX 3090/4090），以及可能需要编译相关的 CUDA 3D 算子库。"
+      }
+    },
+    "NomaDamas/k-skill": {
+      "streak": 1,
+      "last_seen_date": "2026-08-02",
+      "summary": {
+        "what_it_does": "专为韩国用户和韩国本土化设计的 AI 智能体（Agent）技能和工具集，旨在通过整合韩国本地的 API 和服务，使 AI 智能体能够更好地理解和融入韩国用户的日常使用场景与语言习惯。",
+        "configuration": "通常需要 Python 3.9+ 运行环境，相关的 LLM API 密钥（如 OpenAI API），以及根据具体技能要求安装对应的第三方 API 依赖包或智能体开发框架。"
       }
     }
   }
