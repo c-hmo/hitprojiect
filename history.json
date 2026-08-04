@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-03",
+  "last_run_date": "2026-08-04",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "streak": 2,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "streak": 2,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 2,
-      "last_seen_date": "2026-07-31",
+      "streak": 1,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1299,7 +1299,7 @@
     },
     "jamiepine/voicebox": {
       "streak": 1,
-      "last_seen_date": "2026-07-23",
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个开源的 AI 语音工作室，支持声音克隆、语音听写和 AI 音频内容创作。",
         "configuration": "需要 Node.js 运行环境、Python 运行环境及 PyTorch 等深度学习依赖，推荐配备支持 CUDA 的 NVIDIA 显卡以进行本地模型推理。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 5,
-      "last_seen_date": "2026-08-03",
+      "streak": 6,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 4,
-      "last_seen_date": "2026-08-03",
+      "streak": 5,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 2,
-      "last_seen_date": "2026-08-03",
+      "streak": 3,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2362,8 +2362,8 @@
       }
     },
     "moeru-ai/airi": {
-      "streak": 2,
-      "last_seen_date": "2026-08-03",
+      "streak": 3,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个自托管的虚拟 AI 伴侣系统，支持实时语音聊天，并能够自主游玩《我的世界》和《异星工厂》等游戏。",
         "configuration": "支持 Web、macOS 和 Windows 系统。需要自托管服务器/容器运行环境，配置大语言模型（LLM）的 API 密钥，以及语音输入输出设备。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 7,
-      "last_seen_date": "2026-08-03",
+      "streak": 8,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,8 +2786,8 @@
       }
     },
     "block/buzz": {
-      "streak": 5,
-      "last_seen_date": "2026-08-03",
+      "streak": 6,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2899,7 +2899,7 @@
     },
     "opengeos/GeoLibre": {
       "streak": 1,
-      "last_seen_date": "2026-08-02",
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个轻量级、云原生的地理信息系统（GIS）平台，用于可视化、探索和分析地理空间数据。",
         "configuration": "支持在 Web 浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。具体配置取决于运行平台，通常需要现代浏览器或 Python/Jupyter 运行环境。"
@@ -2938,8 +2938,8 @@
       }
     },
     "pascalorg/editor": {
-      "streak": 6,
-      "last_seen_date": "2026-08-03",
+      "streak": 7,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个用于创建和分享 3D 建筑设计项目的在线或本地编辑器。",
         "configuration": "需要支持 WebGL 的现代浏览器。如果进行本地部署，可能需要 Node.js 环境及相关的 Web 前端构建工具。"
@@ -2954,8 +2954,8 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-08-03",
+      "streak": 4,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
@@ -2994,8 +2994,8 @@
       }
     },
     "different-ai/openwork": {
-      "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "streak": 2,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
         "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
@@ -3034,16 +3034,16 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-08-03",
+      "streak": 4,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
       }
     },
     "usekaneo/kaneo": {
-      "streak": 3,
-      "last_seen_date": "2026-08-03",
+      "streak": 4,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个开源、精简且实用的项目管理工具，旨在提供必不可少的管理功能，避免冗余，提升团队协作效率。",
         "configuration": "标准的 Web 服务运行环境，通常需要 Node.js 运行环境、数据库支持（如 PostgreSQL 等），或通过 Docker 容器进行部署。"
@@ -3058,8 +3058,8 @@
       }
     },
     "microsoft/generative-ai-for-beginners": {
-      "streak": 2,
-      "last_seen_date": "2026-08-03",
+      "streak": 3,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "这是一个面向初学者的生成式 AI 学习课程，通过 21 节课帮助用户掌握构建生成式 AI 应用程序的基础知识和实践方法。",
         "configuration": "需要网络浏览器、GitHub 账号、Python 运行环境以及访问相关 AI 模型（如 OpenAI 或 Azure OpenAI）的 API 密钥。"
@@ -3082,8 +3082,8 @@
       }
     },
     "iv-org/invidious": {
-      "streak": 2,
-      "last_seen_date": "2026-08-03",
+      "streak": 3,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个开源、隐私友好的 YouTube 替代前端，允许用户在没有广告且无需 Google 账户的情况下浏览和观看 YouTube 视频。",
         "configuration": "主要通过 Docker 和 Docker Compose 进行容器化部署，也可以在本地配置 Crystal 语言运行环境、PostgreSQL 数据库及相关依赖库进行手动安装。"
@@ -3114,19 +3114,51 @@
       }
     },
     "antirez/ds4": {
-      "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "streak": 2,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "由 Redis 创始人 antirez 开发的本地推理引擎，专为 DeepSeek 4 Flash 和 PRO 模型设计，支持在 Metal、CUDA 和 ROCm 架构下进行硬件加速推理。",
         "configuration": "需要支持 Metal（Mac 设备）、CUDA（NVIDIA 显卡）或 ROCm（AMD 显卡）的硬件环境，C/C++ 编译器，以及下载好的 DeepSeek 模型权重文件。"
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "streak": 2,
+      "last_seen_date": "2026-08-04",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
+      }
+    },
+    "firecrawl/pdf-inspector": {
+      "streak": 1,
+      "last_seen_date": "2026-08-04",
+      "summary": {
+        "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
+        "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
+      }
+    },
+    "donnemartin/system-design-primer": {
+      "streak": 1,
+      "last_seen_date": "2026-08-04",
+      "summary": {
+        "what_it_does": "一个用于学习如何设计大规模系统并准备系统设计面试的开源教程，附带 Anki 记忆卡片。",
+        "configuration": "主要为 Markdown 文档，需要浏览器进行阅读；使用记忆卡片需要安装 Anki 客户端；运行部分示例可能需要 Python 环境。"
+      }
+    },
+    "Alishahryar1/free-claude-code": {
+      "streak": 1,
+      "last_seen_date": "2026-08-04",
+      "summary": {
+        "what_it_does": "允许用户在终端、应用、IDE 或手机上免费使用 Claude Code、Codex 和 Pi，并支持语音交互功能。",
+        "configuration": "需要 Node.js 或 Python 运行环境，支持命令行终端或相关 IDE 插件，语音功能需要麦克风等音频硬件支持，以及稳定的网络连接。"
+      }
+    },
+    "livekit/agents": {
+      "streak": 1,
+      "last_seen_date": "2026-08-04",
+      "summary": {
+        "what_it_does": "一个用于构建实时语音和视频 AI 智能体（Agents）的开发框架。",
+        "configuration": "需要 Python 运行环境、LiveKit 服务（自建或 Cloud 账号）、网络连接，以及对接底层 AI 大模型或 STT/TTS 服务的 API 密钥。"
       }
     }
   }
