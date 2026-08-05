@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-04",
+  "last_run_date": "2026-08-05",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -115,7 +115,7 @@
     },
     "obra/superpowers": {
       "streak": 1,
-      "last_seen_date": "2026-07-30",
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -154,8 +154,8 @@
       }
     },
     "EveryInc/compound-engineering-plugin": {
-      "streak": 5,
-      "last_seen_date": "2026-06-08",
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "官方提供的 Compound Engineering 插件，适用于 Claude Code、Codex、Cursor 等多款 AI 编程辅助工具。",
         "configuration": "需要安装有 Claude Code、Cursor 等支持该插件规范的 AI 编辑器或开发工具。"
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 2,
-      "last_seen_date": "2026-08-04",
+      "streak": 3,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -955,7 +955,7 @@
     },
     "cypress-io/cypress": {
       "streak": 1,
-      "last_seen_date": "2026-07-12",
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个现代化的前端测试工具，专门用于对运行在浏览器中的任何内容进行快速、简单且可靠的端到端（E2E）和组件测试。",
         "configuration": "需要 Node.js 环境（通过 npm, yarn 或 pnpm 安装）。兼容 macOS、Windows 和 Linux 操作系统，并需要安装主流浏览器（如 Chrome, Firefox, Edge）。"
@@ -1314,8 +1314,8 @@
       }
     },
     "1jehuang/jcode": {
-      "streak": 6,
-      "last_seen_date": "2026-08-04",
+      "streak": 7,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个用于运行、测试和评估 AI 编码代理（Coding Agent）的测试基准与框架（Harness）。",
         "configuration": "通常需要 Python 运行环境及依赖管理工具（如 pip/poetry），相关的 AI 模型 API 密钥（如 OpenAI API Key），以及可能需要 Docker 等容器化环境来安全地执行代理生成的代码。"
@@ -1658,8 +1658,8 @@
       }
     },
     "browser-use/video-use": {
-      "streak": 9,
-      "last_seen_date": "2026-07-07",
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
         "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 5,
-      "last_seen_date": "2026-08-04",
+      "streak": 6,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 3,
-      "last_seen_date": "2026-08-04",
+      "streak": 4,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 8,
-      "last_seen_date": "2026-08-04",
+      "streak": 9,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,8 +2786,8 @@
       }
     },
     "block/buzz": {
-      "streak": 6,
-      "last_seen_date": "2026-08-04",
+      "streak": 7,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2898,8 +2898,8 @@
       }
     },
     "opengeos/GeoLibre": {
-      "streak": 1,
-      "last_seen_date": "2026-08-04",
+      "streak": 2,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个轻量级、云原生的地理信息系统（GIS）平台，用于可视化、探索和分析地理空间数据。",
         "configuration": "支持在 Web 浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。具体配置取决于运行平台，通常需要现代浏览器或 Python/Jupyter 运行环境。"
@@ -2954,8 +2954,8 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 4,
-      "last_seen_date": "2026-08-04",
+      "streak": 5,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
@@ -2994,8 +2994,8 @@
       }
     },
     "different-ai/openwork": {
-      "streak": 2,
-      "last_seen_date": "2026-08-04",
+      "streak": 3,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
         "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
@@ -3034,16 +3034,16 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 4,
-      "last_seen_date": "2026-08-04",
+      "streak": 5,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
       }
     },
     "usekaneo/kaneo": {
-      "streak": 4,
-      "last_seen_date": "2026-08-04",
+      "streak": 5,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个开源、精简且实用的项目管理工具，旨在提供必不可少的管理功能，避免冗余，提升团队协作效率。",
         "configuration": "标准的 Web 服务运行环境，通常需要 Node.js 运行环境、数据库支持（如 PostgreSQL 等），或通过 Docker 容器进行部署。"
@@ -3058,8 +3058,8 @@
       }
     },
     "microsoft/generative-ai-for-beginners": {
-      "streak": 3,
-      "last_seen_date": "2026-08-04",
+      "streak": 4,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "这是一个面向初学者的生成式 AI 学习课程，通过 21 节课帮助用户掌握构建生成式 AI 应用程序的基础知识和实践方法。",
         "configuration": "需要网络浏览器、GitHub 账号、Python 运行环境以及访问相关 AI 模型（如 OpenAI 或 Azure OpenAI）的 API 密钥。"
@@ -3122,16 +3122,16 @@
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 2,
-      "last_seen_date": "2026-08-04",
+      "streak": 3,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 1,
-      "last_seen_date": "2026-08-04",
+      "streak": 2,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3154,11 +3154,59 @@
       }
     },
     "livekit/agents": {
-      "streak": 1,
-      "last_seen_date": "2026-08-04",
+      "streak": 2,
+      "last_seen_date": "2026-08-05",
       "summary": {
         "what_it_does": "一个用于构建实时语音和视频 AI 智能体（Agents）的开发框架。",
         "configuration": "需要 Python 运行环境、LiveKit 服务（自建或 Cloud 账号）、网络连接，以及对接底层 AI 大模型或 STT/TTS 服务的 API 密钥。"
+      }
+    },
+    "uber/ADR": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "通过提供可观测性、安全基准测试和威胁检测，保护企业级 AI 智能体（Agent）的安全，已在 Uber 内部部署使用。",
+        "configuration": "通常需要与企业级 AI 智能体架构集成，依赖相关的安全监测服务和相应的运行时环境。"
+      }
+    },
+    "webpack/webpack": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "一个现代 JavaScript 应用程序的静态模块打包工具，将众多模块及其依赖打包成少量的静态资源，支持代码分割（按需加载）及通过 Loader 转换处理各类静态资源。",
+        "configuration": "需要 Node.js 运行环境及包管理器（如 npm 或 yarn），并在项目根目录下配置 `webpack.config.js` 文件来定义入口、出口、Loaders 和插件。"
+      }
+    },
+    "gabime/spdlog": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "一个极其快速且高效的 C++ 日志记录库，支持异步和多线程日志记录。",
+        "configuration": "需要支持 C++11 或更高版本的 C++ 编译器（如 GCC, Clang, MSVC 等），可以作为仅头文件（header-only）库直接引入项目，或通过 CMake 进行编译安装。"
+      }
+    },
+    "denoland/deno": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "一个现代、安全、开箱即用的 JavaScript、TypeScript 和 WebAssembly 运行时，内置了许多实用工具。",
+        "configuration": "需要在操作系统（支持 macOS、Linux、Windows）上安装 Deno 命令行工具，编写 JavaScript 或 TypeScript 代码即可直接运行，无需配置 npm、webpack 等额外构建工具。"
+      }
+    },
+    "angular/angular": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "一个功能丰富的开源前端 Web 框架，用于构建现代、高效的单页面应用程序（SPA）。它提供了双向数据绑定、依赖注入、组件化架构、强类型的路由和表单处理等核心功能，帮助开发者快速、自信地构建和部署 Web 应用。",
+        "configuration": "需要 Node.js 运行环境，并使用 npm 或 yarn 等包管理器。项目主要使用 TypeScript 语言开发，通常需要通过全局或本地安装 Angular CLI 命令行工具来进行项目初始化、构建和开发。硬件方面无特殊要求，主流电脑即可。"
+      }
+    },
+    "tailwindlabs/tailwindcss": {
+      "streak": 1,
+      "last_seen_date": "2026-08-05",
+      "summary": {
+        "what_it_does": "一个功能类优先（utility-first）的 CSS 框架。它不提供预建的组件，而是提供一系列底层的原子类（如 flex, pt-4, text-center 等），让开发者可以直接在 HTML/JSX 等模板中组合使用，从而快速构建出高度定制化的现代响应式用户界面。",
+        "configuration": "需要 Node.js 运行环境，通过 npm 或 yarn 包管理器进行安装。核心配置依赖于项目根目录下的 `tailwind.config.js` 配置文件（用于指定模板文件路径、自定义主题、扩展样式等）。通常需要配合 PostCSS 以及 Vite、Webpack 等现代前端构建工具一同使用。"
       }
     }
   }
