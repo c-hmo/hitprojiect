@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-05",
+  "last_run_date": "2026-08-06",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 1,
-      "last_seen_date": "2026-08-05",
+      "streak": 2,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 3,
-      "last_seen_date": "2026-08-05",
+      "streak": 4,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -731,7 +731,7 @@
     },
     "roboflow/supervision": {
       "streak": 1,
-      "last_seen_date": "2026-07-01",
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个用于计算机视觉（CV）的可重用工具库，旨在简化目标检测、跟踪、区域计数、图像标注以及数据集流转等视觉任务的开发流程。",
         "configuration": "需要 Python 3.8 或更高版本环境，通过 pip 安装 `supervision` 库，依赖 OpenCV、NumPy 等基础图像处理库。若需运行关联的目标检测模型（如 YOLO），建议配置支持 CUDA 的 GPU 硬件加速。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 5,
-      "last_seen_date": "2026-07-11",
+      "streak": 1,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 6,
-      "last_seen_date": "2026-08-05",
+      "streak": 7,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 4,
-      "last_seen_date": "2026-08-05",
+      "streak": 5,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2258,8 +2258,8 @@
       }
     },
     "vercel/next.js": {
-      "streak": 2,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "Next.js 是一个用于构建全栈 Web 应用程序的 React 框架。它支持服务端渲染（SSR）、静态生成（SSG）、客户端渲染（CSR）以及增量静态再生（ISR），并自带文件系统路由、API 路由和开箱即用的性能优化功能。",
         "configuration": "需要 Node.js 运行环境（推荐 18.17.0 或更高版本），以及包管理器（如 npm, yarn, pnpm 或 bun）。主要使用 JavaScript/TypeScript 语言开发，硬件方面无特殊高要求，标准开发配置即可。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 9,
-      "last_seen_date": "2026-08-05",
+      "streak": 10,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,8 +2786,8 @@
       }
     },
     "block/buzz": {
-      "streak": 7,
-      "last_seen_date": "2026-08-05",
+      "streak": 8,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2954,8 +2954,8 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 5,
-      "last_seen_date": "2026-08-05",
+      "streak": 6,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
@@ -2994,8 +2994,8 @@
       }
     },
     "different-ai/openwork": {
-      "streak": 3,
-      "last_seen_date": "2026-08-05",
+      "streak": 4,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
         "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
@@ -3034,8 +3034,8 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 5,
-      "last_seen_date": "2026-08-05",
+      "streak": 6,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
@@ -3122,16 +3122,16 @@
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 3,
-      "last_seen_date": "2026-08-05",
+      "streak": 4,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 2,
-      "last_seen_date": "2026-08-05",
+      "streak": 3,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3139,7 +3139,7 @@
     },
     "donnemartin/system-design-primer": {
       "streak": 1,
-      "last_seen_date": "2026-08-04",
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个用于学习如何设计大规模系统并准备系统设计面试的开源教程，附带 Anki 记忆卡片。",
         "configuration": "主要为 Markdown 文档，需要浏览器进行阅读；使用记忆卡片需要安装 Anki 客户端；运行部分示例可能需要 Python 环境。"
@@ -3162,8 +3162,8 @@
       }
     },
     "uber/ADR": {
-      "streak": 1,
-      "last_seen_date": "2026-08-05",
+      "streak": 2,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "通过提供可观测性、安全基准测试和威胁检测，保护企业级 AI 智能体（Agent）的安全，已在 Uber 内部部署使用。",
         "configuration": "通常需要与企业级 AI 智能体架构集成，依赖相关的安全监测服务和相应的运行时环境。"
@@ -3202,11 +3202,35 @@
       }
     },
     "tailwindlabs/tailwindcss": {
-      "streak": 1,
-      "last_seen_date": "2026-08-05",
+      "streak": 2,
+      "last_seen_date": "2026-08-06",
       "summary": {
         "what_it_does": "一个功能类优先（utility-first）的 CSS 框架。它不提供预建的组件，而是提供一系列底层的原子类（如 flex, pt-4, text-center 等），让开发者可以直接在 HTML/JSX 等模板中组合使用，从而快速构建出高度定制化的现代响应式用户界面。",
         "configuration": "需要 Node.js 运行环境，通过 npm 或 yarn 包管理器进行安装。核心配置依赖于项目根目录下的 `tailwind.config.js` 配置文件（用于指定模板文件路径、自定义主题、扩展样式等）。通常需要配合 PostCSS 以及 Vite、Webpack 等现代前端构建工具一同使用。"
+      }
+    },
+    "woosal1337/blog": {
+      "streak": 1,
+      "last_seen_date": "2026-08-06",
+      "summary": {
+        "what_it_does": "一个个人博客网站，用于发布个人文章、技术分享和展示内容。",
+        "configuration": "通常需要基础的 Web 托管服务（如 GitHub Pages, Vercel 或 Netlify），本地开发可能需要 Node.js 或其他静态网站生成器环境（具体取决于其技术栈）。"
+      }
+    },
+    "cloudflare/computer": {
+      "streak": 1,
+      "last_seen_date": "2026-08-06",
+      "summary": {
+        "what_it_does": "为 AI 智能体（Agent）提供一个可操作的虚拟计算机环境，使智能体能够像人类一样与计算机界面进行交互和控制。",
+        "configuration": "需要 Cloudflare 平台账户及相关的运行环境（如 Cloudflare Workers），相应的 AI 智能体框架集成，以及访问对应虚拟环境的 API 密钥和权限。"
+      }
+    },
+    "huangruiteng/loopx": {
+      "streak": 1,
+      "last_seen_date": "2026-08-06",
+      "summary": {
+        "what_it_does": "一个专为长期运行的 AI 智能体（Agent）团队设计的轻量级循环工程状态内核。它不依赖于特定的智能体循环，支持跨 Codex、Claude Code 等多种编码智能体运行，提供持久化目标管理、配额感知自动唤醒、可执行待办事项、证据日志和可验证的交接功能。",
+        "configuration": "需要支持相关 AI 智能体框架的运行环境（如 Python/Node.js 开发环境），主流 AI 编码助手（如 Claude Code、Codex）的 API 接入权限，以及用于保存状态内核和日志的轻量级存储支持。"
       }
     }
   }
