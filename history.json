@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-06",
+  "last_run_date": "2026-08-07",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 2,
-      "last_seen_date": "2026-08-06",
+      "streak": 3,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 4,
-      "last_seen_date": "2026-08-06",
+      "streak": 5,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -675,7 +675,7 @@
     },
     "TapXWorld/ChinaTextbook": {
       "streak": 1,
-      "last_seen_date": "2026-06-12",
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个收集了中国所有小学、初中、高中以及大学 PDF 格式电子教材资源的开源仓库。",
         "configuration": "无需任何特殊运行环境，只需支持 PDF 阅读的任意设备（如电脑、手机、平板）及网络下载能力。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-06",
+      "streak": 2,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 8,
-      "last_seen_date": "2026-08-01",
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 7,
-      "last_seen_date": "2026-08-06",
+      "streak": 8,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 5,
-      "last_seen_date": "2026-08-06",
+      "streak": 6,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2498,8 +2498,8 @@
       }
     },
     "tirth8205/code-review-graph": {
-      "streak": 11,
-      "last_seen_date": "2026-07-28",
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个本地优先的代码智能图谱工具（支持 CLI 和 MCP），通过为本地代码库构建持久的映射图，帮助 AI 编程工具仅读取关键上下文，从而显著降低代码审查和大型仓库工作流中的 Token 开销。",
         "configuration": "需要 Node.js 开发环境，支持 Git 项目。可用作 MCP (Model Context Protocol) 服务，需配合支持 MCP 协议的 AI 客户端（如 Claude Desktop 或 Cursor）使用。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 10,
-      "last_seen_date": "2026-08-06",
+      "streak": 11,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2786,8 +2786,8 @@
       }
     },
     "block/buzz": {
-      "streak": 8,
-      "last_seen_date": "2026-08-06",
+      "streak": 9,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2954,8 +2954,8 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 6,
-      "last_seen_date": "2026-08-06",
+      "streak": 7,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
@@ -2994,8 +2994,8 @@
       }
     },
     "different-ai/openwork": {
-      "streak": 4,
-      "last_seen_date": "2026-08-06",
+      "streak": 5,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
         "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
@@ -3026,16 +3026,16 @@
       }
     },
     "agavra/tuicr": {
-      "streak": 2,
-      "last_seen_date": "2026-08-01",
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个支持 Vim 键位绑定的终端用户界面（TUI）代码审查工具，旨在让开发者能够在终端中高效地进行代码评审工作。",
         "configuration": "需要终端运行环境，通常需要 Go 语言环境进行编译安装，或者使用预编译的二进制文件。需要配置 Git 仓库访问权限或相关的代码托管平台 API 凭证。"
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 6,
-      "last_seen_date": "2026-08-06",
+      "streak": 7,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
@@ -3122,16 +3122,16 @@
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 4,
-      "last_seen_date": "2026-08-06",
+      "streak": 5,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 3,
-      "last_seen_date": "2026-08-06",
+      "streak": 4,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3218,19 +3218,43 @@
       }
     },
     "cloudflare/computer": {
-      "streak": 1,
-      "last_seen_date": "2026-08-06",
+      "streak": 2,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "为 AI 智能体（Agent）提供一个可操作的虚拟计算机环境，使智能体能够像人类一样与计算机界面进行交互和控制。",
         "configuration": "需要 Cloudflare 平台账户及相关的运行环境（如 Cloudflare Workers），相应的 AI 智能体框架集成，以及访问对应虚拟环境的 API 密钥和权限。"
       }
     },
     "huangruiteng/loopx": {
-      "streak": 1,
-      "last_seen_date": "2026-08-06",
+      "streak": 2,
+      "last_seen_date": "2026-08-07",
       "summary": {
         "what_it_does": "一个专为长期运行的 AI 智能体（Agent）团队设计的轻量级循环工程状态内核。它不依赖于特定的智能体循环，支持跨 Codex、Claude Code 等多种编码智能体运行，提供持久化目标管理、配额感知自动唤醒、可执行待办事项、证据日志和可验证的交接功能。",
         "configuration": "需要支持相关 AI 智能体框架的运行环境（如 Python/Node.js 开发环境），主流 AI 编码助手（如 Claude Code、Codex）的 API 接入权限，以及用于保存状态内核和日志的轻量级存储支持。"
+      }
+    },
+    "goauthentik/authentik": {
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
+      "summary": {
+        "what_it_does": "一个开源的、功能强大的身份验证和授权平台（IdP），支持单点登录（SSO）、多因素身份验证（MFA）、用户管理，并兼容 OAuth2/OpenID Connect、SAML 等主流协议，旨在无缝整合各种应用的身份验证需求。",
+        "configuration": "推荐基于 Docker/Docker Compose 或 Kubernetes 进行容器化部署。系统主要基于 Python（Django）和 Go 语言构建，运行需要部署并连接 PostgreSQL 数据库和 Redis 缓存服务。"
+      }
+    },
+    "google/guava": {
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
+      "summary": {
+        "what_it_does": "Google 开源的 Java 核心工具库，提供了丰富的集合类、缓存支持、图形结构、并发工具、原生类型支持、字符串处理、I/O 操作等实用 API，极大简化了 Java 开发工作。",
+        "configuration": "需要 Java 开发环境（JDK 8 及以上版本）。在 Java 项目中通过 Maven 或 Gradle 等构建工具引入对应依赖即可，对运行硬件无特殊要求。"
+      }
+    },
+    "Significant-Gravitas/AutoGPT": {
+      "streak": 1,
+      "last_seen_date": "2026-08-07",
+      "summary": {
+        "what_it_does": "一个开源的自主 AI 智能体（Agent）框架，利用 GPT-4 等大语言模型，能够将复杂的自然语言目标分解并自主执行，具备上网搜索、文件读写、内存存储和执行代码等能力。",
+        "configuration": "需要安装 Python 3.10 或更高版本环境，或使用 Docker 部署。必须配置 OpenAI API 密钥（推荐使用 GPT-4 API），根据需要还可配置其他第三方 API 密钥（如 Google 搜索、矢量数据库等）。对本地硬件要求不高，主要依赖 API 调用。"
       }
     }
   }
