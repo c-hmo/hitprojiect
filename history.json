@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-08",
+  "last_run_date": "2026-08-09",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -331,7 +331,7 @@
     },
     "TauricResearch/TradingAgents": {
       "streak": 1,
-      "last_seen_date": "2026-06-02",
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
         "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 6,
-      "last_seen_date": "2026-08-08",
+      "streak": 7,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -675,7 +675,7 @@
     },
     "TapXWorld/ChinaTextbook": {
       "streak": 1,
-      "last_seen_date": "2026-08-07",
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个收集了中国所有小学、初中、高中以及大学 PDF 格式电子教材资源的开源仓库。",
         "configuration": "无需任何特殊运行环境，只需支持 PDF 阅读的任意设备（如电脑、手机、平板）及网络下载能力。"
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "streak": 2,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-08-08",
+      "streak": 4,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -875,7 +875,7 @@
     },
     "bannedbook/fanqiang": {
       "streak": 1,
-      "last_seen_date": "2026-06-14",
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "该项目是一个专注于提供科学上网（翻墙）技术、工具、教程及节点配置信息的资源汇总库，旨在帮助用户绕过网络审查，安全且自由地访问受限网络。",
         "configuration": "配置要求取决于所选的具体工具。对于普通用户，仅需支持Windows、macOS、Android、iOS或Linux系统的终端设备，并下载相应的客户端软件（如Clash、v2rayN等）；对于自建节点的用户，则需要一台境外的VPS服务器（通常需运行Linux系统），以及基本的域名、网络协议配置知识。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-08-08",
+      "streak": 3,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1746,8 +1746,8 @@
       }
     },
     "microsoft/AI-For-Beginners": {
-      "streak": 9,
-      "last_seen_date": "2026-08-08",
+      "streak": 10,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "微软推出的面向所有人的 12 周 24 课时人工智能入门教程，涵盖 AI 的基础理论与实践。",
         "configuration": "无需高配硬件，主要需要浏览器来阅读教程，以及安装有 Python、Jupyter Notebook 的运行环境（也可使用 GitHub Codespaces 等云端环境）来运行示例代码。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 7,
-      "last_seen_date": "2026-08-08",
+      "streak": 8,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2954,8 +2954,8 @@
       }
     },
     "virgiliojr94/book-to-skill": {
-      "streak": 8,
-      "last_seen_date": "2026-08-08",
+      "streak": 9,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "将任何 PDF 格式的技术书籍转换为 Claude Code 的定制技能，方便开发者在工作时进行即时学习、参考和代码调用。",
         "configuration": "需要 Claude Code 运行环境，用于 PDF 提取与处理的工具或 Python 依赖库，以及 Anthropic Claude 的 API 访问权限。"
@@ -2994,8 +2994,8 @@
       }
     },
     "different-ai/openwork": {
-      "streak": 6,
-      "last_seen_date": "2026-08-08",
+      "streak": 7,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "Claude Cowork 的开源替代方案，由 opencode 支持，用于实现 AI 协同办公和日常工作流的任务自动化。",
         "configuration": "需要 Node.js 或 Python 运行环境、相关的包管理工具（如 npm 或 pip），以及大语言模型（如 Anthropic Claude）的 API 密钥。"
@@ -3034,16 +3034,16 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 8,
-      "last_seen_date": "2026-08-08",
+      "streak": 9,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
       }
     },
     "usekaneo/kaneo": {
-      "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "streak": 2,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个开源、精简且实用的项目管理工具，旨在提供必不可少的管理功能，避免冗余，提升团队协作效率。",
         "configuration": "标准的 Web 服务运行环境，通常需要 Node.js 运行环境、数据库支持（如 PostgreSQL 等），或通过 Docker 容器进行部署。"
@@ -3082,8 +3082,8 @@
       }
     },
     "iv-org/invidious": {
-      "streak": 3,
-      "last_seen_date": "2026-08-04",
+      "streak": 1,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个开源、隐私友好的 YouTube 替代前端，允许用户在没有广告且无需 Google 账户的情况下浏览和观看 YouTube 视频。",
         "configuration": "主要通过 Docker 和 Docker Compose 进行容器化部署，也可以在本地配置 Crystal 语言运行环境、PostgreSQL 数据库及相关依赖库进行手动安装。"
@@ -3122,8 +3122,8 @@
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 6,
-      "last_seen_date": "2026-08-08",
+      "streak": 7,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
@@ -3234,16 +3234,16 @@
       }
     },
     "goauthentik/authentik": {
-      "streak": 2,
-      "last_seen_date": "2026-08-08",
+      "streak": 3,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个开源的、功能强大的身份验证和授权平台（IdP），支持单点登录（SSO）、多因素身份验证（MFA）、用户管理，并兼容 OAuth2/OpenID Connect、SAML 等主流协议，旨在无缝整合各种应用的身份验证需求。",
         "configuration": "推荐基于 Docker/Docker Compose 或 Kubernetes 进行容器化部署。系统主要基于 Python（Django）和 Go 语言构建，运行需要部署并连接 PostgreSQL 数据库和 Redis 缓存服务。"
       }
     },
     "google/guava": {
-      "streak": 2,
-      "last_seen_date": "2026-08-08",
+      "streak": 3,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "Google 开源的 Java 核心工具库，提供了丰富的集合类、缓存支持、图形结构、并发工具、原生类型支持、字符串处理、I/O 操作等实用 API，极大简化了 Java 开发工作。",
         "configuration": "需要 Java 开发环境（JDK 8 及以上版本）。在 Java 项目中通过 Maven 或 Gradle 等构建工具引入对应依赖即可，对运行硬件无特殊要求。"
@@ -3258,8 +3258,8 @@
       }
     },
     "PrimeIntellect-ai/prime-agent": {
-      "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "streak": 2,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个自我改进的强化学习（RLM）代理，旨在自动化处理编码工作流以及需要长期运行的自主任务。",
         "configuration": "需要 Python 运行环境（通常为 Python 3.10 及以上），大语言模型（LLM）的 API 密钥（如 OpenAI、Anthropic 等），以及通过 pip 安装的相关依赖包。"
@@ -3282,16 +3282,16 @@
       }
     },
     "unclebob/swarm-forge": {
-      "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "streak": 2,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个用于协调和编排多个 AI 代理（Agents）协同工作的轻量级简单工具。",
         "configuration": "需要 Python 运行环境，通过 pip 安装项目依赖，并需要配置对应大语言模型（LLM）的 API 密钥以驱动 Agent 运行。"
       }
     },
     "denoland/celld": {
-      "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "streak": 2,
+      "last_seen_date": "2026-08-09",
       "summary": {
         "what_it_does": "一个自托管的分布式持久化对象（Durable Objects）平台，允许开发者在自己的基础设施上运行强一致性、低延迟的分布式协同与存储服务。",
         "configuration": "需要 Deno 运行环境，根据部署规模可能需要 Docker 容器支持、多节点网络配置以及相应的底层数据库存储引擎。"
@@ -3311,6 +3311,22 @@
       "summary": {
         "what_it_does": "一款命令行（CLI）和终端界面（TUI）工具，用于追溯系统中的进程、端口、容器或文件，帮助用户分析并找出是谁、因何种原因启动了它们。",
         "configuration": "需要 Linux 或 macOS 操作系统环境；由于需要读取系统进程、网络套接字和文件关联信息，运行此工具通常需要 root 或 sudo 权限；需支持 TUI 的终端环境。"
+      }
+    },
+    "LadybirdBrowser/ladybird": {
+      "streak": 1,
+      "last_seen_date": "2026-08-09",
+      "summary": {
+        "what_it_does": "一个完全独立、从零构建的网页浏览器，拥有自己专属的网页渲染引擎（LibWeb）和 JavaScript 引擎（LibJS），不依赖于 Blink、WebKit 或 Gecko 等任何现有引擎。",
+        "configuration": "编译和运行需要支持 C++23 标准的编译器（如 GCC 或 Clang）、CMake 构建工具以及 Qt6 框架，支持 Linux、macOS 以及其他类 Unix 操作系统。"
+      }
+    },
+    "litu54/DevOps-Interview-Guide": {
+      "streak": 1,
+      "last_seen_date": "2026-08-09",
+      "summary": {
+        "what_it_does": "一份 DevOps 工程师面试指南，汇总了 DevOps 相关的核心知识点、面试常见问题及解答，涵盖 Linux、Docker、Kubernetes、CI/CD、计算机网络等领域。",
+        "configuration": "属于文档型项目，不需要特定的运行环境或底层硬件配置。用户只需通过浏览器直接在线阅读，或使用 Markdown 阅读器、Git 工具克隆到本地查看即可。"
       }
     }
   }
