@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-12",
+  "last_run_date": "2026-08-13",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 5,
-      "last_seen_date": "2026-08-12",
+      "streak": 6,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 3,
-      "last_seen_date": "2026-08-12",
+      "streak": 4,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -979,7 +979,7 @@
     },
     "shiyu-coder/Kronos": {
       "streak": 1,
-      "last_seen_date": "2026-08-04",
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1234,8 +1234,8 @@
       }
     },
     "Lightricks/LTX-2": {
-      "streak": 2,
-      "last_seen_date": "2026-06-20",
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "针对 LTX-2 音视频生成模型的官方 Python 推理和 LoRA 微调训练工具包。",
         "configuration": "需要 Python 环境、PyTorch 深度学习框架，以及配备有 NVIDIA GPU（支持 CUDA）的高性能硬件以进行模型推理与训练。"
@@ -1347,7 +1347,7 @@
     },
     "smicallef/spiderfoot": {
       "streak": 1,
-      "last_seen_date": "2026-06-22",
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一款开源的开源网络情报（OSINT）自动化收集与分析工具，用于威胁情报获取和系统攻击面测绘。",
         "configuration": "需要 Python 3 运行环境和相关第三方依赖，亦支持 Docker 快速部署。部分高级情报源和扫描模块需要配置相应的第三方服务 API 密钥。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 1,
-      "last_seen_date": "2026-08-12",
+      "streak": 2,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1531,7 +1531,7 @@
     },
     "NanmiCoder/MediaCrawler": {
       "streak": 1,
-      "last_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一款多平台社交媒体爬虫工具，支持抓取小红书、抖音、快手、B站、微博、贴吧、知乎等平台的视频、帖子、文章及评论数据。",
         "configuration": "需要 Python 3.10+ 运行环境，安装 Playwright 依赖（及对应的浏览器内核），并需要配置各社交平台对应的登录 Cookie 以规避反爬限制。"
@@ -1571,10 +1571,10 @@
     },
     "hugohe3/ppt-master": {
       "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "last_seen_date": "2026-08-13",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "通过 AI 将文档或主题转化为包含原生形状、过渡动画、数据图表及语音旁白的原生 PowerPoint (.pptx) 演示文稿，并支持自定义模板。",
+        "configuration": "需要 Python 运行环境，安装 python-pptx 等相关依赖库，并需要配置大语言模型（LLM）的 API 密钥以及文本转语音（TTS）服务凭证。"
       }
     },
     "Anil-matcha/Open-Generative-AI": {
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 11,
-      "last_seen_date": "2026-08-12",
+      "streak": 12,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -3034,8 +3034,8 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 12,
-      "last_seen_date": "2026-08-12",
+      "streak": 13,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
@@ -3122,16 +3122,16 @@
       }
     },
     "esengine/DeepSeek-Reasonix": {
-      "streak": 10,
-      "last_seen_date": "2026-08-12",
+      "streak": 11,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个运行在终端（Terminal）的 DeepSeek 原生 AI 编程助手。该工具围绕前缀缓存稳定性（prefix-cache stability）进行了专门设计与优化，适合在后台保持长期运行，以提供快速且低延迟的代码辅助体验。",
         "configuration": "需要命令行终端环境、Node.js 或 Python 运行环境（具体取决于项目源码实现），以及有效的 DeepSeek API 密钥或兼容的本地 API 推理服务端点。"
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 3,
-      "last_seen_date": "2026-08-12",
+      "streak": 4,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3218,16 +3218,16 @@
       }
     },
     "cloudflare/computer": {
-      "streak": 1,
-      "last_seen_date": "2026-08-12",
+      "streak": 2,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "为 AI 智能体（Agent）提供一个可操作的虚拟计算机环境，使智能体能够像人类一样与计算机界面进行交互和控制。",
         "configuration": "需要 Cloudflare 平台账户及相关的运行环境（如 Cloudflare Workers），相应的 AI 智能体框架集成，以及访问对应虚拟环境的 API 密钥和权限。"
       }
     },
     "huangruiteng/loopx": {
-      "streak": 2,
-      "last_seen_date": "2026-08-12",
+      "streak": 3,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个专为长期运行的 AI 智能体（Agent）团队设计的轻量级循环工程状态内核。它不依赖于特定的智能体循环，支持跨 Codex、Claude Code 等多种编码智能体运行，提供持久化目标管理、配额感知自动唤醒、可执行待办事项、证据日志和可验证的交接功能。",
         "configuration": "需要支持相关 AI 智能体框架的运行环境（如 Python/Node.js 开发环境），主流 AI 编码助手（如 Claude Code、Codex）的 API 接入权限，以及用于保存状态内核和日志的轻量级存储支持。"
@@ -3266,8 +3266,8 @@
       }
     },
     "semantica-agi/semantica": {
-      "streak": 2,
-      "last_seen_date": "2026-08-12",
+      "streak": 3,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3330,8 +3330,8 @@
       }
     },
     "vitali87/code-graph-rag": {
-      "streak": 3,
-      "last_seen_date": "2026-08-12",
+      "streak": 4,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "基于人工智能和知识图谱的检索增强生成（RAG）系统，专为多语言大型代码库（Monorepo）设计，支持代码的查询、理解和编辑。",
         "configuration": "需要 Python 或 Node.js 运行环境，配置图数据库、向量数据库，并需要大语言模型（LLM）的 API 访问权限。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 2,
-      "last_seen_date": "2026-08-12",
+      "streak": 3,
+      "last_seen_date": "2026-08-13",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -3423,6 +3423,78 @@
       "summary": {
         "what_it_does": "一个精心整理的项目驱动型编程教程列表。它通过引导开发者从零开始构建具体的实际项目（如操作系统、编译器、数据库、Web服务器等）来深入学习各种编程语言和技术体系。",
         "configuration": "该项目本身仅为一个 Markdown 格式的资源文档列表，无需任何特殊的系统配置或运行环境。但要实践其中推荐的教程，用户需要根据所选的具体教程准备相应的编程语言运行环境（如 Python, Go, Rust, C++ 等）以及基础的文本编辑器或集成开发环境（IDE）。"
+      }
+    },
+    "drawdb-io/drawdb": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "免费、简单且直观的在线数据库关系图（ER图）编辑器和 SQL 脚本生成器。",
+        "configuration": "基于 Web 运行。本地开发与构建需要 Node.js 环境及现代浏览器，无需特殊硬件支持。"
+      }
+    },
+    "cathrynlavery/diagram-design": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
+        "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
+      }
+    },
+    "macro-inc/macro": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
+        "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
+      }
+    },
+    "infiniflow/ragflow": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "一个开源的检索增强生成（RAG）引擎，将前沿的 RAG 技术与 Agent（智能体）能力相结合，为大语言模型（LLM）提供高效、精准的上下文理解和问答层。",
+        "configuration": "建议使用 Docker 容器化部署；需要 Python 环境、向量数据库（如 Elasticsearch / Milvus 等），以及用于调用大模型 API 的网络或本地运行大模型的硬件算力（CPU/GPU）。"
+      }
+    },
+    "NVIDIA-NeMo/Switchyard": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "英伟达 NeMo 生态中的相关组件，主要用于支持大模型训练、微调、格式转换和分布式训练任务的适配。",
+        "configuration": "需要 NVIDIA GPU 硬件、CUDA 驱动、CUDNN、Python 环境以及 PyTorch 和 NVIDIA NeMo 相关的深度学习依赖库。"
+      }
+    },
+    "ZuodaoTech/everyone-can-use-english": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "一个面向大众的开源英语学习与应用教程，旨在帮助大家在实际场景中学会使用英语。",
+        "configuration": "无需特殊的软硬件配置，只需浏览器、Markdown 阅读器或支持 Git 的环境即可阅读和学习。"
+      }
+    },
+    "localsend/localsend": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "一个开源的跨平台局域网文件传输工具，是 AirDrop（隔空投送）的跨平台替代方案，支持免服务器直接传输。",
+        "configuration": "支持 Windows、macOS、Linux、iOS、Android 等多终端平台，只需在同一局域网内的设备上安装运行对应的客户端即可，基于 Flutter 开发。"
+      }
+    },
+    "embabel/embabel-agent": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "这是一个面向 JVM（Java 虚拟机）平台的 Agent（智能体）开发框架，旨在帮助开发者构建和部署 AI 智能代理应用。",
+        "configuration": "需要配置 JVM（Java 运行环境，支持 Java、Kotlin 等 JVM 语言），以及标准的项目构建工具（如 Maven 或 Gradle）来引入相关依赖。"
+      }
+    },
+    "cactus-compute/needle": {
+      "streak": 1,
+      "last_seen_date": "2026-08-13",
+      "summary": {
+        "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
+        "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
       }
     }
   }
