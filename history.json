@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-13",
+  "last_run_date": "2026-08-14",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -259,7 +259,7 @@
     },
     "anthropics/skills": {
       "streak": 1,
-      "last_seen_date": "2026-08-12",
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 6,
-      "last_seen_date": "2026-08-13",
+      "streak": 7,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 7,
-      "last_seen_date": "2026-08-12",
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 4,
-      "last_seen_date": "2026-08-13",
+      "streak": 5,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -1234,8 +1234,8 @@
       }
     },
     "Lightricks/LTX-2": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "针对 LTX-2 音视频生成模型的官方 Python 推理和 LoRA 微调训练工具包。",
         "configuration": "需要 Python 环境、PyTorch 深度学习框架，以及配备有 NVIDIA GPU（支持 CUDA）的高性能硬件以进行模型推理与训练。"
@@ -1346,8 +1346,8 @@
       }
     },
     "smicallef/spiderfoot": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一款开源的开源网络情报（OSINT）自动化收集与分析工具，用于威胁情报获取和系统攻击面测绘。",
         "configuration": "需要 Python 3 运行环境和相关第三方依赖，亦支持 Docker 快速部署。部分高级情报源和扫描模块需要配置相应的第三方服务 API 密钥。"
@@ -1634,8 +1634,8 @@
       }
     },
     "altic-dev/FluidVoice": {
-      "streak": 2,
-      "last_seen_date": "2026-07-08",
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一款极速的 macOS 离线语音转文字（听写）应用，完全在本地运行，无需网络连接。",
         "configuration": "需要 macOS 操作系统，建议使用配备 Apple Silicon（M系列）芯片的 Mac 设备以获得最佳本地 AI 推理性能。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 12,
-      "last_seen_date": "2026-08-13",
+      "streak": 13,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -3130,8 +3130,8 @@
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 4,
-      "last_seen_date": "2026-08-13",
+      "streak": 5,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3218,16 +3218,16 @@
       }
     },
     "cloudflare/computer": {
-      "streak": 2,
-      "last_seen_date": "2026-08-13",
+      "streak": 3,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "为 AI 智能体（Agent）提供一个可操作的虚拟计算机环境，使智能体能够像人类一样与计算机界面进行交互和控制。",
         "configuration": "需要 Cloudflare 平台账户及相关的运行环境（如 Cloudflare Workers），相应的 AI 智能体框架集成，以及访问对应虚拟环境的 API 密钥和权限。"
       }
     },
     "huangruiteng/loopx": {
-      "streak": 3,
-      "last_seen_date": "2026-08-13",
+      "streak": 4,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个专为长期运行的 AI 智能体（Agent）团队设计的轻量级循环工程状态内核。它不依赖于特定的智能体循环，支持跨 Codex、Claude Code 等多种编码智能体运行，提供持久化目标管理、配额感知自动唤醒、可执行待办事项、证据日志和可验证的交接功能。",
         "configuration": "需要支持相关 AI 智能体框架的运行环境（如 Python/Node.js 开发环境），主流 AI 编码助手（如 Claude Code、Codex）的 API 接入权限，以及用于保存状态内核和日志的轻量级存储支持。"
@@ -3258,16 +3258,16 @@
       }
     },
     "PrimeIntellect-ai/prime-agent": {
-      "streak": 5,
-      "last_seen_date": "2026-08-12",
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个自我改进的强化学习（RLM）代理，旨在自动化处理编码工作流以及需要长期运行的自主任务。",
         "configuration": "需要 Python 运行环境（通常为 Python 3.10 及以上），大语言模型（LLM）的 API 密钥（如 OpenAI、Anthropic 等），以及通过 pip 安装的相关依赖包。"
       }
     },
     "semantica-agi/semantica": {
-      "streak": 3,
-      "last_seen_date": "2026-08-13",
+      "streak": 4,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3330,8 +3330,8 @@
       }
     },
     "vitali87/code-graph-rag": {
-      "streak": 4,
-      "last_seen_date": "2026-08-13",
+      "streak": 5,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "基于人工智能和知识图谱的检索增强生成（RAG）系统，专为多语言大型代码库（Monorepo）设计，支持代码的查询、理解和编辑。",
         "configuration": "需要 Python 或 Node.js 运行环境，配置图数据库、向量数据库，并需要大语言模型（LLM）的 API 访问权限。"
@@ -3395,7 +3395,7 @@
     },
     "3b1b/manim": {
       "streak": 1,
-      "last_seen_date": "2026-08-12",
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个用于创建解释性数学视频的动画引擎，允许用户通过编写 Python 代码来精确控制数学公式、几何图形和图表的动画生成。",
         "configuration": "需要 Python 环境（建议 3.7+）、FFmpeg（用于视频处理）、LaTeX（用于数学公式渲染）以及系统级图形和文字渲染依赖（如 Pango、Cairo 等）。"
@@ -3426,40 +3426,40 @@
       }
     },
     "drawdb-io/drawdb": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "免费、简单且直观的在线数据库关系图（ER图）编辑器和 SQL 脚本生成器。",
         "configuration": "基于 Web 运行。本地开发与构建需要 Node.js 环境及现代浏览器，无需特殊硬件支持。"
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
       }
     },
     "macro-inc/macro": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
         "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
       }
     },
     "infiniflow/ragflow": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个开源的检索增强生成（RAG）引擎，将前沿的 RAG 技术与 Agent（智能体）能力相结合，为大语言模型（LLM）提供高效、精准的上下文理解和问答层。",
         "configuration": "建议使用 Docker 容器化部署；需要 Python 环境、向量数据库（如 Elasticsearch / Milvus 等），以及用于调用大模型 API 的网络或本地运行大模型的硬件算力（CPU/GPU）。"
       }
     },
     "NVIDIA-NeMo/Switchyard": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "英伟达 NeMo 生态中的相关组件，主要用于支持大模型训练、微调、格式转换和分布式训练任务的适配。",
         "configuration": "需要 NVIDIA GPU 硬件、CUDA 驱动、CUDNN、Python 环境以及 PyTorch 和 NVIDIA NeMo 相关的深度学习依赖库。"
@@ -3490,11 +3490,51 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "streak": 2,
+      "last_seen_date": "2026-08-14",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
+      }
+    },
+    "unslothai/unsloth": {
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
+      "summary": {
+        "what_it_does": "一个用于在本地运行和训练大语言模型（LLM）及扩散模型（包括 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等）的本地图形用户界面（UI）工具。",
+        "configuration": "需要 Python 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（用于大模型推理和训练），以及相关的深度学习依赖库。"
+      }
+    },
+    "megadose/holehe": {
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
+      "summary": {
+        "what_it_does": "一个 OSINT（开源情报）工具，通过利用各网站的“忘记密码”功能，来检测并检索某个电子邮箱是否在 Twitter、Instagram 等不同网站上注册了账号。",
+        "configuration": "需要 Python 3 环境，以及通过 pip 安装的项目依赖项（如 requests 等网络请求库）。"
+      }
+    },
+    "holaboss-ai/holaOS": {
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
+      "summary": {
+        "what_it_does": "一个开源的一体化 AI Agent 工作空间。它允许用户在自己的工具（支持 100 多种集成和 MCP 协议）、应用程序、浏览器和文件中运行各种 AI Agent（如 Claude Code、Codex），具备共享内存功能，支持内置模型或使用自己的 API 密钥（BYOK）。",
+        "configuration": "需要 Node.js 或 Python 运行环境，互联网连接（用于 API 和集成服务），以及相应的大模型 API 密钥（如 OpenAI, Anthropic）或本地大模型推理环境。"
+      }
+    },
+    "kepano/obsidian-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
+      "summary": {
+        "what_it_does": "为 AI Agent 提供的 Obsidian 技能集，旨在教导 AI Agent 如何使用 Obsidian 命令行界面（CLI）以及操作 Markdown、Bases 和 JSON Canvas 等开放数据格式。",
+        "configuration": "需要安装并配置好 Obsidian 软件、Obsidian CLI 工具，以及能够支持运行 AI Agent 并加载外部技能的开发环境。"
+      }
+    },
+    "lightningpixel/modly": {
+      "streak": 1,
+      "last_seen_date": "2026-08-14",
+      "summary": {
+        "what_it_does": "一款桌面应用程序，利用本地 AI 技术直接将二维图像生成为 3D 模型。",
+        "configuration": "需要支持本地 GPU 加速的硬件环境（通常需要配备较好显存的独立显卡，并安装相应的显卡驱动程序如 CUDA ），以及兼容的桌面操作系统。"
       }
     }
   }
