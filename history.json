@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-14",
+  "last_run_date": "2026-08-15",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-05-31",
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -467,7 +467,7 @@
     },
     "github/spec-kit": {
       "streak": 1,
-      "last_seen_date": "2026-07-14",
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个旨在帮助开发者快速上手规范驱动开发（Spec-Driven Development）的工具包。",
         "configuration": "通常需要现代软件开发环境，具体取决于所使用的编程语言。一般需要包管理器（如 npm/yarn 或 pip）、Node.js 运行环境以及相关的编辑器/IDE 插件支持。"
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 7,
-      "last_seen_date": "2026-08-14",
+      "streak": 8,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1346,8 +1346,8 @@
       }
     },
     "smicallef/spiderfoot": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一款开源的开源网络情报（OSINT）自动化收集与分析工具，用于威胁情报获取和系统攻击面测绘。",
         "configuration": "需要 Python 3 运行环境和相关第三方依赖，亦支持 Docker 快速部署。部分高级情报源和扫描模块需要配置相应的第三方服务 API 密钥。"
@@ -1466,8 +1466,8 @@
       }
     },
     "OpenCut-app/OpenCut": {
-      "streak": 10,
-      "last_seen_date": "2026-07-23",
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -2066,8 +2066,8 @@
       }
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "streak": 13,
-      "last_seen_date": "2026-08-14",
+      "streak": 14,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "通过4层渐进式管道架构，为 AI Agent 提供完全本地化的长期记忆存储与检索方案，无需依赖任何外部 API。",
         "configuration": "需要 Python 运行环境，本地数据库（如关系型数据库或向量数据库），以及运行本地 Embedding 模型和 LLM 所需的 CPU/GPU 硬件资源。"
@@ -2794,8 +2794,8 @@
       }
     },
     "citrolabs/ego-lite": {
-      "streak": 4,
-      "last_seen_date": "2026-08-02",
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一款专为人类和 AI 智能体（Agent）并行工作设计的协同浏览器，支持人机同步操作与协作任务。",
         "configuration": "适用于主流桌面操作系统（Windows、macOS 或 Linux），可能需要配置 AI 智能体运行所需的 API 密钥或本地环境支持。"
@@ -3218,8 +3218,8 @@
       }
     },
     "cloudflare/computer": {
-      "streak": 3,
-      "last_seen_date": "2026-08-14",
+      "streak": 4,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "为 AI 智能体（Agent）提供一个可操作的虚拟计算机环境，使智能体能够像人类一样与计算机界面进行交互和控制。",
         "configuration": "需要 Cloudflare 平台账户及相关的运行环境（如 Cloudflare Workers），相应的 AI 智能体框架集成，以及访问对应虚拟环境的 API 密钥和权限。"
@@ -3258,16 +3258,16 @@
       }
     },
     "PrimeIntellect-ai/prime-agent": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个自我改进的强化学习（RLM）代理，旨在自动化处理编码工作流以及需要长期运行的自主任务。",
         "configuration": "需要 Python 运行环境（通常为 Python 3.10 及以上），大语言模型（LLM）的 API 密钥（如 OpenAI、Anthropic 等），以及通过 pip 安装的相关依赖包。"
       }
     },
     "semantica-agi/semantica": {
-      "streak": 4,
-      "last_seen_date": "2026-08-14",
+      "streak": 5,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3290,8 +3290,8 @@
       }
     },
     "denoland/celld": {
-      "streak": 2,
-      "last_seen_date": "2026-08-09",
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个自托管的分布式持久化对象（Durable Objects）平台，允许开发者在自己的基础设施上运行强一致性、低延迟的分布式协同与存储服务。",
         "configuration": "需要 Deno 运行环境，根据部署规模可能需要 Docker 容器支持、多节点网络配置以及相应的底层数据库存储引擎。"
@@ -3330,8 +3330,8 @@
       }
     },
     "vitali87/code-graph-rag": {
-      "streak": 5,
-      "last_seen_date": "2026-08-14",
+      "streak": 6,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "基于人工智能和知识图谱的检索增强生成（RAG）系统，专为多语言大型代码库（Monorepo）设计，支持代码的查询、理解和编辑。",
         "configuration": "需要 Python 或 Node.js 运行环境，配置图数据库、向量数据库，并需要大语言模型（LLM）的 API 访问权限。"
@@ -3434,32 +3434,32 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
       }
     },
     "macro-inc/macro": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
         "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
       }
     },
     "infiniflow/ragflow": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个开源的检索增强生成（RAG）引擎，将前沿的 RAG 技术与 Agent（智能体）能力相结合，为大语言模型（LLM）提供高效、精准的上下文理解和问答层。",
         "configuration": "建议使用 Docker 容器化部署；需要 Python 环境、向量数据库（如 Elasticsearch / Milvus 等），以及用于调用大模型 API 的网络或本地运行大模型的硬件算力（CPU/GPU）。"
       }
     },
     "NVIDIA-NeMo/Switchyard": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "英伟达 NeMo 生态中的相关组件，主要用于支持大模型训练、微调、格式转换和分布式训练任务的适配。",
         "configuration": "需要 NVIDIA GPU 硬件、CUDA 驱动、CUDNN、Python 环境以及 PyTorch 和 NVIDIA NeMo 相关的深度学习依赖库。"
@@ -3490,32 +3490,32 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 2,
-      "last_seen_date": "2026-08-14",
+      "streak": 3,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
       }
     },
     "unslothai/unsloth": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个用于在本地运行和训练大语言模型（LLM）及扩散模型（包括 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等）的本地图形用户界面（UI）工具。",
         "configuration": "需要 Python 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（用于大模型推理和训练），以及相关的深度学习依赖库。"
       }
     },
     "megadose/holehe": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个 OSINT（开源情报）工具，通过利用各网站的“忘记密码”功能，来检测并检索某个电子邮箱是否在 Twitter、Instagram 等不同网站上注册了账号。",
         "configuration": "需要 Python 3 环境，以及通过 pip 安装的项目依赖项（如 requests 等网络请求库）。"
       }
     },
     "holaboss-ai/holaOS": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一个开源的一体化 AI Agent 工作空间。它允许用户在自己的工具（支持 100 多种集成和 MCP 协议）、应用程序、浏览器和文件中运行各种 AI Agent（如 Claude Code、Codex），具备共享内存功能，支持内置模型或使用自己的 API 密钥（BYOK）。",
         "configuration": "需要 Node.js 或 Python 运行环境，互联网连接（用于 API 和集成服务），以及相应的大模型 API 密钥（如 OpenAI, Anthropic）或本地大模型推理环境。"
@@ -3530,11 +3530,35 @@
       }
     },
     "lightningpixel/modly": {
-      "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "streak": 2,
+      "last_seen_date": "2026-08-15",
       "summary": {
         "what_it_does": "一款桌面应用程序，利用本地 AI 技术直接将二维图像生成为 3D 模型。",
         "configuration": "需要支持本地 GPU 加速的硬件环境（通常需要配备较好显存的独立显卡，并安装相应的显卡驱动程序如 CUDA ），以及兼容的桌面操作系统。"
+      }
+    },
+    "deepseek-ai/awesome-deepseek-agent": {
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "rustdesk/rustdesk": {
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "ToolJet/ToolJet": {
+      "streak": 1,
+      "last_seen_date": "2026-08-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
       }
     }
   }
