@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-17",
+  "last_run_date": "2026-08-18",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -35,7 +35,7 @@
     },
     "harry0703/MoneyPrinterTurbo": {
       "streak": 1,
-      "last_seen_date": "2026-06-11",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -147,7 +147,7 @@
     },
     "mukul975/Anthropic-Cybersecurity-Skills": {
       "streak": 1,
-      "last_seen_date": "2026-06-26",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "该项目为AI Agent提供了754个结构化的网络安全技能。这些技能覆盖26个安全领域，并映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF等五大安全与AI风险框架，旨在让Claude Code、GitHub Copilot、Cursor等AI工具能够理解并执行专业的网络安全任务。",
         "configuration": "作为一套结构化的技能定义数据集（符合agentskills.io标准），其配置与使用需要：1. 支持工具调用或自定义技能导入的AI客户端/开发平台（如Claude Code, Cursor, Gemini CLI等）；2. 用于解析、导入和集成这些技能的编程语言环境（如Python、Node.js等）；3. 无特定硬件要求，主要取决于所对接的AI平台或API的运行环境。"
@@ -595,7 +595,7 @@
     },
     "santifer/career-ops": {
       "streak": 1,
-      "last_seen_date": "2026-07-03",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个基于 Claude Code 核心构建的 AI 驱动求职系统。它支持 14 种技能模式、提供 Go 语言编写的控制台、PDF 简历生成以及求职申请的批量处理功能。",
         "configuration": "需要 Go 语言环境（用于运行 Dashboard）、Node.js 或 Python（用于 Claude Code 交互），以及 Anthropic (Claude) 的 API 密钥。"
@@ -1155,7 +1155,7 @@
     },
     "nautechsystems/nautilus_trader": {
       "streak": 1,
-      "last_seen_date": "2026-06-18",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个生产级别的 Rust 原生量化交易引擎，采用确定性事件驱动架构，旨在提供高性能、低延迟的算法交易和高保真回测功能。",
         "configuration": "需要 Rust 编译器（Cargo）及工具链。若使用 Python 接口，则需要 Python 运行环境及 PyO3 依赖。另外需要 C++ 构建工具及平台特定的底层开发库。"
@@ -1650,8 +1650,8 @@
       }
     },
     "usestrix/strix": {
-      "streak": 12,
-      "last_seen_date": "2026-07-12",
+      "streak": 1,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一款开源的 AI 渗透测试工具，旨在帮助开发者自动发现并修复应用程序中的安全漏洞。",
         "configuration": "通常需要 Python 运行环境及相关的依赖库，配置过程中需要提供用于安全分析的 AI 模型的 API 密钥，以及被测试目标系统的访问权限。"
@@ -1922,8 +1922,8 @@
       }
     },
     "immich-app/immich": {
-      "streak": 2,
-      "last_seen_date": "2026-07-06",
+      "streak": 1,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一款高性能的自托管（Self-hosted）照片与视频管理解决方案，功能类似于私有部署的 Google Photos。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行部署。依赖 PostgreSQL (带有 pgvector 扩展) 和 Redis。进行人脸识别和目标检测等 AI 任务时，需要一定的 CPU/GPU 计算资源。"
@@ -2683,7 +2683,7 @@
     },
     "AlexsJones/llmfit": {
       "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个命令行工具，通过单条命令帮助用户评估和寻找适合在其本地硬件（如特定的 CPU、GPU 和内存）上运行的大语言模型及服务商。",
         "configuration": "需要命令行终端环境。支持主流操作系统，通常需要基本的 Python 运行环境或直接运行其分发的二进制文件，并需要读取系统硬件配置的权限。"
@@ -3258,16 +3258,16 @@
       }
     },
     "PrimeIntellect-ai/prime-agent": {
-      "streak": 4,
-      "last_seen_date": "2026-08-17",
+      "streak": 5,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个自我改进的强化学习（RLM）代理，旨在自动化处理编码工作流以及需要长期运行的自主任务。",
         "configuration": "需要 Python 运行环境（通常为 Python 3.10 及以上），大语言模型（LLM）的 API 密钥（如 OpenAI、Anthropic 等），以及通过 pip 安装的相关依赖包。"
       }
     },
     "semantica-agi/semantica": {
-      "streak": 7,
-      "last_seen_date": "2026-08-17",
+      "streak": 8,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3330,8 +3330,8 @@
       }
     },
     "vitali87/code-graph-rag": {
-      "streak": 8,
-      "last_seen_date": "2026-08-17",
+      "streak": 9,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "基于人工智能和知识图谱的检索增强生成（RAG）系统，专为多语言大型代码库（Monorepo）设计，支持代码的查询、理解和编辑。",
         "configuration": "需要 Python 或 Node.js 运行环境，配置图数据库、向量数据库，并需要大语言模型（LLM）的 API 访问权限。"
@@ -3395,7 +3395,7 @@
     },
     "3b1b/manim": {
       "streak": 1,
-      "last_seen_date": "2026-08-14",
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个用于创建解释性数学视频的动画引擎，允许用户通过编写 Python 代码来精确控制数学公式、几何图形和图表的动画生成。",
         "configuration": "需要 Python 环境（建议 3.7+）、FFmpeg（用于视频处理）、LaTeX（用于数学公式渲染）以及系统级图形和文字渲染依赖（如 Pango、Cairo 等）。"
@@ -3434,16 +3434,16 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 5,
-      "last_seen_date": "2026-08-17",
+      "streak": 6,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
       }
     },
     "macro-inc/macro": {
-      "streak": 5,
-      "last_seen_date": "2026-08-17",
+      "streak": 6,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
         "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
@@ -3490,24 +3490,24 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 5,
-      "last_seen_date": "2026-08-17",
+      "streak": 6,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
       }
     },
     "unslothai/unsloth": {
-      "streak": 4,
-      "last_seen_date": "2026-08-17",
+      "streak": 5,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个用于在本地运行和训练大语言模型（LLM）及扩散模型（包括 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等）的本地图形用户界面（UI）工具。",
         "configuration": "需要 Python 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（用于大模型推理和训练），以及相关的深度学习依赖库。"
       }
     },
     "megadose/holehe": {
-      "streak": 4,
-      "last_seen_date": "2026-08-17",
+      "streak": 5,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个 OSINT（开源情报）工具，通过利用各网站的“忘记密码”功能，来检测并检索某个电子邮箱是否在 Twitter、Instagram 等不同网站上注册了账号。",
         "configuration": "需要 Python 3 环境，以及通过 pip 安装的项目依赖项（如 requests 等网络请求库）。"
@@ -3562,8 +3562,8 @@
       }
     },
     "cordiverse/cordis": {
-      "streak": 2,
-      "last_seen_date": "2026-08-17",
+      "streak": 3,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "一个专注于时空可组合性的轻量级跨平台元框架，常用于构建高度模块化和可扩展的 Node.js/TypeScript 应用程序（如聊天机器人框架 Koishi 的核心底座）。",
         "configuration": "需要 Node.js 运行环境，支持 TypeScript/JavaScript，通过 npm、yarn 或 pnpm 等包管理器进行依赖安装。"
@@ -3594,11 +3594,35 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 1,
-      "last_seen_date": "2026-08-17",
+      "streak": 2,
+      "last_seen_date": "2026-08-18",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
+      }
+    },
+    "akitaonrails/ai-memory": {
+      "streak": 1,
+      "last_seen_date": "2026-08-18",
+      "summary": {
+        "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
+        "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
+      }
+    },
+    "jundot/omlx": {
+      "streak": 1,
+      "last_seen_date": "2026-08-18",
+      "summary": {
+        "what_it_does": "一款专为 Apple Silicon 芯片设计的大语言模型（LLM）推理服务器，支持连续批处理和 SSD 缓存技术，并可通过 macOS 菜单栏进行直观的管理。",
+        "configuration": "需要搭载 Apple Silicon（M1/M2/M3 系列）芯片的 Mac 设备，运行 macOS 系统，以及足够的 SSD 存储空间用于模型缓存。"
+      }
+    },
+    "agalwood/Motrix": {
+      "streak": 1,
+      "last_seen_date": "2026-08-18",
+      "summary": {
+        "what_it_does": "一款全功能、界面美观的开源下载管理器，支持 HTTP、FTP、BitTorrent（BT）和磁力链接等多种下载协议。",
+        "configuration": "支持 Windows、macOS 和 Linux 系统。普通用户直接下载对应系统的安装包即可运行；若进行二次开发，则需要 Node.js 环境及 Electron 开发依赖。"
       }
     }
   }
