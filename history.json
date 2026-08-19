@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-18",
+  "last_run_date": "2026-08-19",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -146,8 +146,8 @@
       }
     },
     "mukul975/Anthropic-Cybersecurity-Skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "该项目为AI Agent提供了754个结构化的网络安全技能。这些技能覆盖26个安全领域，并映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF等五大安全与AI风险框架，旨在让Claude Code、GitHub Copilot、Cursor等AI工具能够理解并执行专业的网络安全任务。",
         "configuration": "作为一套结构化的技能定义数据集（符合agentskills.io标准），其配置与使用需要：1. 支持工具调用或自定义技能导入的AI客户端/开发平台（如Claude Code, Cursor, Gemini CLI等）；2. 用于解析、导入和集成这些技能的编程语言环境（如Python、Node.js等）；3. 无特定硬件要求，主要取决于所对接的AI平台或API的运行环境。"
@@ -1467,7 +1467,7 @@
     },
     "OpenCut-app/OpenCut": {
       "streak": 1,
-      "last_seen_date": "2026-08-17",
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -2651,7 +2651,7 @@
     },
     "bojieli/ai-agent-book": {
       "streak": 1,
-      "last_seen_date": "2026-08-03",
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "《深入理解 AI Agent：设计原理与工程实践》一书的开源仓库，提供全书正文、编译好的 PDF 电子书以及各章节的配套实战代码。",
         "configuration": "阅读 PDF 需要 PDF 阅读器；运行配套代码通常需要 Python 运行环境以及相关的 AI 开发库（如 LangChain 等）和 LLM API 密钥。"
@@ -2682,8 +2682,8 @@
       }
     },
     "AlexsJones/llmfit": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个命令行工具，通过单条命令帮助用户评估和寻找适合在其本地硬件（如特定的 CPU、GPU 和内存）上运行的大语言模型及服务商。",
         "configuration": "需要命令行终端环境。支持主流操作系统，通常需要基本的 Python 运行环境或直接运行其分发的二进制文件，并需要读取系统硬件配置的权限。"
@@ -3266,8 +3266,8 @@
       }
     },
     "semantica-agi/semantica": {
-      "streak": 8,
-      "last_seen_date": "2026-08-18",
+      "streak": 9,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3434,16 +3434,16 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 6,
-      "last_seen_date": "2026-08-18",
+      "streak": 7,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
       }
     },
     "macro-inc/macro": {
-      "streak": 6,
-      "last_seen_date": "2026-08-18",
+      "streak": 7,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
         "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
@@ -3490,24 +3490,24 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 6,
-      "last_seen_date": "2026-08-18",
+      "streak": 7,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
       }
     },
     "unslothai/unsloth": {
-      "streak": 5,
-      "last_seen_date": "2026-08-18",
+      "streak": 6,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个用于在本地运行和训练大语言模型（LLM）及扩散模型（包括 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等）的本地图形用户界面（UI）工具。",
         "configuration": "需要 Python 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（用于大模型推理和训练），以及相关的深度学习依赖库。"
       }
     },
     "megadose/holehe": {
-      "streak": 5,
-      "last_seen_date": "2026-08-18",
+      "streak": 6,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个 OSINT（开源情报）工具，通过利用各网站的“忘记密码”功能，来检测并检索某个电子邮箱是否在 Twitter、Instagram 等不同网站上注册了账号。",
         "configuration": "需要 Python 3 环境，以及通过 pip 安装的项目依赖项（如 requests 等网络请求库）。"
@@ -3530,8 +3530,8 @@
       }
     },
     "lightningpixel/modly": {
-      "streak": 2,
-      "last_seen_date": "2026-08-15",
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一款桌面应用程序，利用本地 AI 技术直接将二维图像生成为 3D 模型。",
         "configuration": "需要支持本地 GPU 加速的硬件环境（通常需要配备较好显存的独立显卡，并安装相应的显卡驱动程序如 CUDA ），以及兼容的桌面操作系统。"
@@ -3570,8 +3570,8 @@
       }
     },
     "public-apis/public-apis": {
-      "streak": 2,
-      "last_seen_date": "2026-08-17",
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一个集体维护的免费公共 API 列表，按类别整理，方便开发者寻找各种免费的数据接口用于项目开发和测试。",
         "configuration": "该项目本质上是一个 Markdown 文档列表，无需任何特殊的运行环境、语言依赖或硬件配置，通过浏览器或任何 HTTP 客户端即可阅读和调用其中的 API。"
@@ -3594,35 +3594,67 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 2,
-      "last_seen_date": "2026-08-18",
+      "streak": 3,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
       }
     },
     "jundot/omlx": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一款专为 Apple Silicon 芯片设计的大语言模型（LLM）推理服务器，支持连续批处理和 SSD 缓存技术，并可通过 macOS 菜单栏进行直观的管理。",
         "configuration": "需要搭载 Apple Silicon（M1/M2/M3 系列）芯片的 Mac 设备，运行 macOS 系统，以及足够的 SSD 存储空间用于模型缓存。"
       }
     },
     "agalwood/Motrix": {
-      "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "streak": 2,
+      "last_seen_date": "2026-08-19",
       "summary": {
         "what_it_does": "一款全功能、界面美观的开源下载管理器，支持 HTTP、FTP、BitTorrent（BT）和磁力链接等多种下载协议。",
         "configuration": "支持 Windows、macOS 和 Linux 系统。普通用户直接下载对应系统的安装包即可运行；若进行二次开发，则需要 Node.js 环境及 Electron 开发依赖。"
+      }
+    },
+    "chaitanyagiri/munder-difflin": {
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
+      "summary": {
+        "what_it_does": "一个本地多智能体（Multi-Agent）运行和测试管理框架，用于在本地环境协调、调度和测试多个AI智能体之间的交互与协作。",
+        "configuration": "需要 Python 运行环境及相关依赖，通常需要配置主流大语言模型（LLM）的 API 密钥，或配置本地大模型推理引擎（如 Ollama/vLLM）。"
+      }
+    },
+    "volcengine/OpenViking": {
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
+      "summary": {
+        "what_it_does": "火山引擎开源的 AI 智能体自演化上下文数据库。它将智能体的记忆（Memory）、知识库检索增强生成（RAG）以及技能（Skills）进行统一管理，助力智能体实现自我演化。",
+        "configuration": "通常需要 Docker 或 Kubernetes 容器化部署环境，支持 C++/Go/Python 等后端服务的运行依赖，并需要对接大语言模型（LLM）的 API 服务。"
+      }
+    },
+    "NawfalMotii79/PLFM_RADAR": {
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
+      "summary": {
+        "what_it_does": "一个开源、低成本的 10.5 GHz 锁相频率调制（PLFM）相控阵雷达系统项目，包含硬件设计与相关控制算法。",
+        "configuration": "需要特定射频硬件（如10.5 GHz射频源、相控阵天线、PCB板）、嵌入式开发环境（如 STM32/Arduino 等微控制器工具链）以及用于信号处理的软件（如 MATLAB 或 Python 科学计算环境）。"
+      }
+    },
+    "genlayerlabs/genlayer-project-boilerplate": {
+      "streak": 1,
+      "last_seen_date": "2026-08-19",
+      "summary": {
+        "what_it_does": "GenLayer 智能合约项目的官方样板模版，旨在帮助开发者快速初始化、构建和部署基于 GenLayer 协议（支持自然语言智能合约）的去中心化应用。",
+        "configuration": "需要 Node.js（npm/yarn）或 Python 基础开发环境（具体取决于 GenLayer SDK 的版本要求），以及安装 GenLayer 命令行工具（CLI）和配置本地测试网络环境。"
       }
     }
   }
