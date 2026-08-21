@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-20",
+  "last_run_date": "2026-08-21",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 3,
-      "last_seen_date": "2026-08-20",
+      "streak": 4,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 1,
-      "last_seen_date": "2026-08-20",
+      "streak": 2,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-08-16",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -594,8 +594,8 @@
       }
     },
     "santifer/career-ops": {
-      "streak": 1,
-      "last_seen_date": "2026-08-20",
+      "streak": 2,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个基于 Claude Code 核心构建的 AI 驱动求职系统。它支持 14 种技能模式、提供 Go 语言编写的控制台、PDF 简历生成以及求职申请的批量处理功能。",
         "configuration": "需要 Go 语言环境（用于运行 Dashboard）、Node.js 或 Python（用于 Claude Code 交互），以及 Anthropic (Claude) 的 API 密钥。"
@@ -667,7 +667,7 @@
     },
     "RyanCodrai/turbovec": {
       "streak": 1,
-      "last_seen_date": "2026-07-26",
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个基于 TurboQuant 构建的高性能向量索引库，采用 Rust 语言编写并提供 Python 接口绑定，用于高效的向量相似度检索。",
         "configuration": "需要 Rust 编译环境（Cargo）以及 Python 运行环境（建议 Python 3.8+）来编译和运行 Python 绑定。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-20",
+      "streak": 2,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1178,8 +1178,8 @@
       }
     },
     "makeplane/plane": {
-      "streak": 2,
-      "last_seen_date": "2026-06-19",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个开源的现代项目管理平台，作为 Jira、Linear、Monday 和 ClickUp 的开源替代方案，用于管理团队任务、敏捷冲刺（Sprints）、项目文档和工单分流。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行一键部署。基础运行环境包括 PostgreSQL 数据库、Redis 缓存、Python (Django) 后端、Next.js 前端以及 S3 兼容的对象存储。"
@@ -1786,8 +1786,8 @@
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 4,
-      "last_seen_date": "2026-07-06",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
@@ -2442,8 +2442,8 @@
       }
     },
     "PostHog/posthog": {
-      "streak": 4,
-      "last_seen_date": "2026-07-20",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个一站式的开源开发者工具与产品分析平台。它集成了 AI 观测性、行为分析、会话重放、功能旗帜（Feature Flags）、A/B测试、错误追踪和日志管理等功能，帮助团队诊断产品问题、捕获用户行为并快速迭代。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行私有化部署。主要依赖包括 Python (Django)、TypeScript/React、Node.js、ClickHouse（用于存储大规模分析数据）、PostgreSQL（用于系统元数据）以及 Redis。生产环境部署通常需要至少 4GB 内存及多核 CPU。"
@@ -3266,8 +3266,8 @@
       }
     },
     "semantica-agi/semantica": {
-      "streak": 10,
-      "last_seen_date": "2026-08-20",
+      "streak": 11,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一种面向上下文和可问责 AI 系统的图原生（Graph-Native）基础设施，旨在通过图结构为 AI 应用提供更强的上下文理解和透明度。",
         "configuration": "通常需要相应的语言运行环境（如 Rust 或 Python）、图数据库或相关的数据存储后端，以及用于连接 AI 服务的 API 凭证。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 8,
-      "last_seen_date": "2026-08-20",
+      "streak": 9,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3458,8 +3458,8 @@
       }
     },
     "NVIDIA-NeMo/Switchyard": {
-      "streak": 5,
-      "last_seen_date": "2026-08-17",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "英伟达 NeMo 生态中的相关组件，主要用于支持大模型训练、微调、格式转换和分布式训练任务的适配。",
         "configuration": "需要 NVIDIA GPU 硬件、CUDA 驱动、CUDNN、Python 环境以及 PyTorch 和 NVIDIA NeMo 相关的深度学习依赖库。"
@@ -3490,8 +3490,8 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 8,
-      "last_seen_date": "2026-08-20",
+      "streak": 9,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
@@ -3506,8 +3506,8 @@
       }
     },
     "megadose/holehe": {
-      "streak": 7,
-      "last_seen_date": "2026-08-20",
+      "streak": 8,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个 OSINT（开源情报）工具，通过利用各网站的“忘记密码”功能，来检测并检索某个电子邮箱是否在 Twitter、Instagram 等不同网站上注册了账号。",
         "configuration": "需要 Python 3 环境，以及通过 pip 安装的项目依赖项（如 requests 等网络请求库）。"
@@ -3571,7 +3571,7 @@
     },
     "public-apis/public-apis": {
       "streak": 1,
-      "last_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个集体维护的免费公共 API 列表，按类别整理，方便开发者寻找各种免费的数据接口用于项目开发和测试。",
         "configuration": "该项目本质上是一个 Markdown 文档列表，无需任何特殊的运行环境、语言依赖或硬件配置，通过浏览器或任何 HTTP 客户端即可阅读和调用其中的 API。"
@@ -3594,16 +3594,16 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 4,
-      "last_seen_date": "2026-08-20",
+      "streak": 5,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 2,
-      "last_seen_date": "2026-08-19",
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -3626,16 +3626,16 @@
       }
     },
     "chaitanyagiri/munder-difflin": {
-      "streak": 2,
-      "last_seen_date": "2026-08-20",
+      "streak": 3,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "一个本地多智能体（Multi-Agent）运行和测试管理框架，用于在本地环境协调、调度和测试多个AI智能体之间的交互与协作。",
         "configuration": "需要 Python 运行环境及相关依赖，通常需要配置主流大语言模型（LLM）的 API 密钥，或配置本地大模型推理引擎（如 Ollama/vLLM）。"
       }
     },
     "volcengine/OpenViking": {
-      "streak": 2,
-      "last_seen_date": "2026-08-20",
+      "streak": 3,
+      "last_seen_date": "2026-08-21",
       "summary": {
         "what_it_does": "火山引擎开源的 AI 智能体自演化上下文数据库。它将智能体的记忆（Memory）、知识库检索增强生成（RAG）以及技能（Skills）进行统一管理，助力智能体实现自我演化。",
         "configuration": "通常需要 Docker 或 Kubernetes 容器化部署环境，支持 C++/Go/Python 等后端服务的运行依赖，并需要对接大语言模型（LLM）的 API 服务。"
@@ -3671,6 +3671,46 @@
       "summary": {
         "what_it_does": "一个用于将 OpenStreetMap 数据绘制成精美艺术地图的 Python 工具，支持高度定制化的地图可视化呈现。",
         "configuration": "需要 Python 3 运行环境，依赖 osmnx、matplotlib、shapely 和 geopandas 等 Python 库，且系统需要安装 GDAL、PROJ、GEOS 等底层地理空间数据处理库。"
+      }
+    },
+    "modular/modular": {
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
+      "summary": {
+        "what_it_does": "Modular 统一 AI 平台，包含专为 AI 设计的 Mojo 编程语言以及 MAX 部署引擎，旨在加速并简化 AI 模型的开发、优化和生产部署。",
+        "configuration": "需要 Linux 或 macOS 操作系统，安装 Modular CLI 命令行工具，并需要 Python 环境以及相关的 AI 框架支持。"
+      }
+    },
+    "AprilNEA/OpenLogi": {
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
+      "summary": {
+        "what_it_does": "一个基于 Rust 编写的罗技 Options+ 本地化、轻量级开源替代方案。支持通过 HID++ 协议进行按键重映射、DPI 调节和 SmartShift 设置，无隐私收集且无需登录账户。",
+        "configuration": "需要支持 HID++ 协议的罗技外设硬件；运行需要 Rust 开发环境（如需从源码构建）或直接使用对应系统的免安装二进制文件。"
+      }
+    },
+    "agent-substrate/substrate": {
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
+      "summary": {
+        "what_it_does": "Agent Substrate 平台的核心系统，作为底层框架用于构建、连接和管理自主 AI 代理（Agents）的交互与协作。",
+        "configuration": "通常需要 Node.js/TypeScript 或 Python 运行环境，依赖相关的 package 管理工具（如 npm 或 pip），以及可能需要配置大语言模型（LLM）的 API 密钥。"
+      }
+    },
+    "mahlernim/google-timeline-visualizer": {
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
+      "summary": {
+        "what_it_does": "利用用户从 Google 导出的人地图时间轴（位置历史记录）数据，在地图上可视化呈现用户全年的旅行和出行轨迹。",
+        "configuration": "需要从 Google Takeout 导出的 JSON 格式位置历史数据，以及支持运行该前端可视化应用的 Web 浏览器或 Node.js 本地运行环境。"
+      }
+    },
+    "Tencent/AI-Infra-Guard": {
+      "streak": 1,
+      "last_seen_date": "2026-08-21",
+      "summary": {
+        "what_it_does": "一个全栈 AI 红队（Red Teaming）安全评估平台，通过 Agent 扫描、技能扫描、MCP（模型上下文协议）扫描、AI 基础设施扫描以及大语言模型（LLM）越狱评估，全面保障 AI 生态系统的安全性。",
+        "configuration": "通常需要 Python 运行环境（建议 3.9 及以上）、Docker（用于运行和隔离安全扫描任务）、相关 LLM 的 API 密钥（用于越狱评估），以及用于扫描网络及 AI 基础设施的网络连接。"
       }
     }
   }
