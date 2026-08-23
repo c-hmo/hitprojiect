@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-22",
+  "last_run_date": "2026-08-23",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 5,
-      "last_seen_date": "2026-08-22",
+      "streak": 6,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 1,
-      "last_seen_date": "2026-08-22",
+      "streak": 2,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 3,
-      "last_seen_date": "2026-08-22",
+      "streak": 4,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -163,15 +163,15 @@
     },
     "anthropics/claude-code": {
       "streak": 1,
-      "last_seen_date": "2026-07-06",
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
       }
     },
     "cursor/plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-08-22",
+      "streak": 4,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1179,7 +1179,7 @@
     },
     "makeplane/plane": {
       "streak": 1,
-      "last_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个开源的现代项目管理平台，作为 Jira、Linear、Monday 和 ClickUp 的开源替代方案，用于管理团队任务、敏捷冲刺（Sprints）、项目文档和工单分流。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行一键部署。基础运行环境包括 PostgreSQL 数据库、Redis 缓存、Python (Django) 后端、Next.js 前端以及 S3 兼容的对象存储。"
@@ -1562,8 +1562,8 @@
       }
     },
     "ripienaar/free-for-dev": {
-      "streak": 7,
-      "last_seen_date": "2026-07-03",
+      "streak": 1,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个专门为 DevOps 和基础设施开发人员整理的、提供免费服务额度的 SaaS、PaaS 和 IaaS 平台与工具的资源列表。",
         "configuration": "该项目是一个纯文本文档（Markdown 格式），不需要任何特殊的运行环境、编程语言或硬件配置，直接通过浏览器或 Markdown 阅读器查看即可。"
@@ -2186,8 +2186,8 @@
       }
     },
     "microsoft/TypeScript": {
-      "streak": 1,
-      "last_seen_date": "2026-08-22",
+      "streak": 2,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "JavaScript 的强类型超集，在 JavaScript 基础上引入了静态类型系统，并最终编译为干净、标准的 JavaScript 代码。",
         "configuration": "需要安装 Node.js 运行环境，以便通过 npm 安装并运行 TypeScript 编译器（tsc）。"
@@ -2442,8 +2442,8 @@
       }
     },
     "PostHog/posthog": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个一站式的开源开发者工具与产品分析平台。它集成了 AI 观测性、行为分析、会话重放、功能旗帜（Feature Flags）、A/B测试、错误追踪和日志管理等功能，帮助团队诊断产品问题、捕获用户行为并快速迭代。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行私有化部署。主要依赖包括 Python (Django)、TypeScript/React、Node.js、ClickHouse（用于存储大规模分析数据）、PostgreSQL（用于系统元数据）以及 Redis。生产环境部署通常需要至少 4GB 内存及多核 CPU。"
@@ -2522,8 +2522,8 @@
       }
     },
     "openai/codex": {
-      "streak": 2,
-      "last_seen_date": "2026-07-20",
+      "streak": 1,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个运行在命令行终端的轻量级 AI 编程助手，帮助开发者直接在终端中生成、编辑和运行代码。",
         "configuration": "需要终端环境，Node.js 或 Python 运行环境，以及可访问 OpenAI 模型的 API 密钥。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 10,
-      "last_seen_date": "2026-08-22",
+      "streak": 11,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3562,16 +3562,16 @@
       }
     },
     "cordiverse/cordis": {
-      "streak": 1,
-      "last_seen_date": "2026-08-22",
+      "streak": 2,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个专注于时空可组合性的轻量级跨平台元框架，常用于构建高度模块化和可扩展的 Node.js/TypeScript 应用程序（如聊天机器人框架 Koishi 的核心底座）。",
         "configuration": "需要 Node.js 运行环境，支持 TypeScript/JavaScript，通过 npm、yarn 或 pnpm 等包管理器进行依赖安装。"
       }
     },
     "public-apis/public-apis": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个集体维护的免费公共 API 列表，按类别整理，方便开发者寻找各种免费的数据接口用于项目开发和测试。",
         "configuration": "该项目本质上是一个 Markdown 文档列表，无需任何特殊的运行环境、语言依赖或硬件配置，通过浏览器或任何 HTTP 客户端即可阅读和调用其中的 API。"
@@ -3594,8 +3594,8 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 6,
-      "last_seen_date": "2026-08-22",
+      "streak": 7,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
@@ -3603,7 +3603,7 @@
     },
     "akitaonrails/ai-memory": {
       "streak": 1,
-      "last_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -3634,8 +3634,8 @@
       }
     },
     "volcengine/OpenViking": {
-      "streak": 4,
-      "last_seen_date": "2026-08-22",
+      "streak": 5,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "火山引擎开源的 AI 智能体自演化上下文数据库。它将智能体的记忆（Memory）、知识库检索增强生成（RAG）以及技能（Skills）进行统一管理，助力智能体实现自我演化。",
         "configuration": "通常需要 Docker 或 Kubernetes 容器化部署环境，支持 C++/Go/Python 等后端服务的运行依赖，并需要对接大语言模型（LLM）的 API 服务。"
@@ -3674,16 +3674,16 @@
       }
     },
     "modular/modular": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "Modular 统一 AI 平台，包含专为 AI 设计的 Mojo 编程语言以及 MAX 部署引擎，旨在加速并简化 AI 模型的开发、优化和生产部署。",
         "configuration": "需要 Linux 或 macOS 操作系统，安装 Modular CLI 命令行工具，并需要 Python 环境以及相关的 AI 框架支持。"
       }
     },
     "AprilNEA/OpenLogi": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个基于 Rust 编写的罗技 Options+ 本地化、轻量级开源替代方案。支持通过 HID++ 协议进行按键重映射、DPI 调节和 SmartShift 设置，无隐私收集且无需登录账户。",
         "configuration": "需要支持 HID++ 协议的罗技外设硬件；运行需要 Rust 开发环境（如需从源码构建）或直接使用对应系统的免安装二进制文件。"
@@ -3698,8 +3698,8 @@
       }
     },
     "mahlernim/google-timeline-visualizer": {
-      "streak": 2,
-      "last_seen_date": "2026-08-22",
+      "streak": 3,
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "利用用户从 Google 导出的人地图时间轴（位置历史记录）数据，在地图上可视化呈现用户全年的旅行和出行轨迹。",
         "configuration": "需要从 Google Takeout 导出的 JSON 格式位置历史数据，以及支持运行该前端可视化应用的 Web 浏览器或 Node.js 本地运行环境。"
@@ -3707,7 +3707,7 @@
     },
     "Tencent/AI-Infra-Guard": {
       "streak": 1,
-      "last_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-23",
       "summary": {
         "what_it_does": "一个全栈 AI 红队（Red Teaming）安全评估平台，通过 Agent 扫描、技能扫描、MCP（模型上下文协议）扫描、AI 基础设施扫描以及大语言模型（LLM）越狱评估，全面保障 AI 生态系统的安全性。",
         "configuration": "通常需要 Python 运行环境（建议 3.9 及以上）、Docker（用于运行和隔离安全扫描任务）、相关 LLM 的 API 密钥（用于越狱评估），以及用于扫描网络及 AI 基础设施的网络连接。"
@@ -3751,6 +3751,30 @@
       "summary": {
         "what_it_does": "一个跨平台、高性能的机器学习推理和训练加速器，旨在优化和加速各种深度学习框架（如 PyTorch、TensorFlow 等）导出的 ONNX 模型在各种硬件平台上的运行速度。",
         "configuration": "支持 Windows、Linux、macOS 以及移动端（Android、iOS）。提供 Python、C++、C#、Java 和 JavaScript 等多语言 API。硬件上支持通用 CPU，并可通过 CUDA/cuDNN（NVIDIA GPU）、ROCm（AMD GPU）、OpenVINO（Intel）、DirectML 或 CoreML 等加速库进行硬件加速。"
+      }
+    },
+    "Wei-Shaw/sub2api": {
+      "streak": 1,
+      "last_seen_date": "2026-08-23",
+      "summary": {
+        "what_it_does": "一站式开源 API 中转服务，可将 Claude、OpenAI、Gemini、Grok 等订阅统一接入，支持账号拼车共享与成本分摊，并无缝适配原生工具。",
+        "configuration": "需要服务器或容器托管环境（如 Docker），Node.js 运行环境，以及各 AI 平台的 API 密钥或订阅账户。"
+      }
+    },
+    "n8n-io/n8n": {
+      "streak": 1,
+      "last_seen_date": "2026-08-23",
+      "summary": {
+        "what_it_does": "支持原生 AI 功能的合理代码（Fair-code）工作流自动化平台，结合了可视化流程构建与自定义代码，支持自托管或云端部署，内置超 400 种集成。",
+        "configuration": "本地或服务器部署需要 Node.js 环境（或通过 Docker 快速部署），以及用于持久化数据的数据库（如 SQLite 或 PostgreSQL）。"
+      }
+    },
+    "multica-ai/andrej-karpathy-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-08-23",
+      "summary": {
+        "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
+        "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
       }
     }
   }
