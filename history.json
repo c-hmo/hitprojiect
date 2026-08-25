@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-24",
+  "last_run_date": "2026-08-25",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 2,
-      "last_seen_date": "2026-07-27",
+      "streak": 1,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 7,
-      "last_seen_date": "2026-08-24",
+      "streak": 8,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -410,8 +410,8 @@
       }
     },
     "NousResearch/hermes-agent": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
         "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
@@ -1179,7 +1179,7 @@
     },
     "makeplane/plane": {
       "streak": 1,
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个开源的现代项目管理平台，作为 Jira、Linear、Monday 和 ClickUp 的开源替代方案，用于管理团队任务、敏捷冲刺（Sprints）、项目文档和工单分流。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行一键部署。基础运行环境包括 PostgreSQL 数据库、Redis 缓存、Python (Django) 后端、Next.js 前端以及 S3 兼容的对象存储。"
@@ -2027,7 +2027,7 @@
     },
     "MadsLorentzen/ai-job-search": {
       "streak": 1,
-      "last_seen_date": "2026-07-15",
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "基于 Claude Code 打造的 AI 辅助求职框架，可自动评估招聘需求、定制个人简历、撰写求职信并协助进行面试准备。",
         "configuration": "需要 Node.js 环境、Claude Code 命令行工具、Claude API 密钥以及 Git。"
@@ -2442,8 +2442,8 @@
       }
     },
     "PostHog/posthog": {
-      "streak": 3,
-      "last_seen_date": "2026-08-23",
+      "streak": 1,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个一站式的开源开发者工具与产品分析平台。它集成了 AI 观测性、行为分析、会话重放、功能旗帜（Feature Flags）、A/B测试、错误追踪和日志管理等功能，帮助团队诊断产品问题、捕获用户行为并快速迭代。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行私有化部署。主要依赖包括 Python (Django)、TypeScript/React、Node.js、ClickHouse（用于存储大规模分析数据）、PostgreSQL（用于系统元数据）以及 Redis。生产环境部署通常需要至少 4GB 内存及多核 CPU。"
@@ -2522,8 +2522,8 @@
       }
     },
     "openai/codex": {
-      "streak": 2,
-      "last_seen_date": "2026-08-24",
+      "streak": 3,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个运行在命令行终端的轻量级 AI 编程助手，帮助开发者直接在终端中生成、编辑和运行代码。",
         "configuration": "需要终端环境，Node.js 或 Python 运行环境，以及可访问 OpenAI 模型的 API 密钥。"
@@ -3146,8 +3146,8 @@
       }
     },
     "Alishahryar1/free-claude-code": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "允许用户在终端、应用、IDE 或手机上免费使用 Claude Code、Codex 和 Pi，并支持语音交互功能。",
         "configuration": "需要 Node.js 或 Python 运行环境，支持命令行终端或相关 IDE 插件，语音功能需要麦克风等音频硬件支持，以及稳定的网络连接。"
@@ -3562,16 +3562,16 @@
       }
     },
     "cordiverse/cordis": {
-      "streak": 3,
-      "last_seen_date": "2026-08-24",
+      "streak": 4,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个专注于时空可组合性的轻量级跨平台元框架，常用于构建高度模块化和可扩展的 Node.js/TypeScript 应用程序（如聊天机器人框架 Koishi 的核心底座）。",
         "configuration": "需要 Node.js 运行环境，支持 TypeScript/JavaScript，通过 npm、yarn 或 pnpm 等包管理器进行依赖安装。"
       }
     },
     "public-apis/public-apis": {
-      "streak": 4,
-      "last_seen_date": "2026-08-24",
+      "streak": 5,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个集体维护的免费公共 API 列表，按类别整理，方便开发者寻找各种免费的数据接口用于项目开发和测试。",
         "configuration": "该项目本质上是一个 Markdown 文档列表，无需任何特殊的运行环境、语言依赖或硬件配置，通过浏览器或任何 HTTP 客户端即可阅读和调用其中的 API。"
@@ -3594,8 +3594,8 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 8,
-      "last_seen_date": "2026-08-24",
+      "streak": 9,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
@@ -3603,15 +3603,15 @@
     },
     "akitaonrails/ai-memory": {
       "streak": 1,
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
       }
     },
     "jundot/omlx": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一款专为 Apple Silicon 芯片设计的大语言模型（LLM）推理服务器，支持连续批处理和 SSD 缓存技术，并可通过 macOS 菜单栏进行直观的管理。",
         "configuration": "需要搭载 Apple Silicon（M1/M2/M3 系列）芯片的 Mac 设备，运行 macOS 系统，以及足够的 SSD 存储空间用于模型缓存。"
@@ -3634,8 +3634,8 @@
       }
     },
     "volcengine/OpenViking": {
-      "streak": 6,
-      "last_seen_date": "2026-08-24",
+      "streak": 7,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "火山引擎开源的 AI 智能体自演化上下文数据库。它将智能体的记忆（Memory）、知识库检索增强生成（RAG）以及技能（Skills）进行统一管理，助力智能体实现自我演化。",
         "configuration": "通常需要 Docker 或 Kubernetes 容器化部署环境，支持 C++/Go/Python 等后端服务的运行依赖，并需要对接大语言模型（LLM）的 API 服务。"
@@ -3674,16 +3674,16 @@
       }
     },
     "modular/modular": {
-      "streak": 4,
-      "last_seen_date": "2026-08-24",
+      "streak": 5,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "Modular 统一 AI 平台，包含专为 AI 设计的 Mojo 编程语言以及 MAX 部署引擎，旨在加速并简化 AI 模型的开发、优化和生产部署。",
         "configuration": "需要 Linux 或 macOS 操作系统，安装 Modular CLI 命令行工具，并需要 Python 环境以及相关的 AI 框架支持。"
       }
     },
     "AprilNEA/OpenLogi": {
-      "streak": 4,
-      "last_seen_date": "2026-08-24",
+      "streak": 5,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个基于 Rust 编写的罗技 Options+ 本地化、轻量级开源替代方案。支持通过 HID++ 协议进行按键重映射、DPI 调节和 SmartShift 设置，无隐私收集且无需登录账户。",
         "configuration": "需要支持 HID++ 协议的罗技外设硬件；运行需要 Rust 开发环境（如需从源码构建）或直接使用对应系统的免安装二进制文件。"
@@ -3730,8 +3730,8 @@
       }
     },
     "apache/maka": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "本地优先的 AI 智能体工作区，通过只增日志（Append-only log）记录模型消息、工具调用、执行结果及权限决策等事件。",
         "configuration": "需要相应的本地软件开发环境，以及本地部署的 AI 模型（如 Ollama）或云端大模型 API 访问权限。"
@@ -3771,50 +3771,74 @@
     },
     "multica-ai/andrej-karpathy-skills": {
       "streak": 1,
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
         "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
       }
     },
     "anthropics/claude-plugins-community": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "Claude Cowork 和 Claude Code 的社区插件市场，用于展示和提交第三方插件。",
         "configuration": "需要 Claude 开发环境、Claude Code/Cowork 的 API 访问权限，以及开发和测试插件所需的编程环境（通常为 Node.js/TypeScript）。"
       }
     },
     "freestylefly/awesome-gpt-image-2": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "工业级图像生成提示词引擎与模板库，提供 470 多个逆向工程案例、20 多套工业级模板及提炼出的 AI 技能。",
         "configuration": "主要为提示词和代码模板，无需特殊硬件。需要能够运行主流大语言模型（如 ChatGPT）或图像生成模型（如 Midjourney、Stable Diffusion）的环境。"
       }
     },
     "tinyhumansai/openhuman": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "个人 AI 超级智能系统，旨在本地构建个人生活记忆，支持 Agent 舰队与工作流编排以及深度研究功能。",
         "configuration": "需要本地运行环境（如 Python 或 Node.js 运行时）、本地存储或向量数据库，以及连接主流 AI 模型 API（或本地部署的 Ollama 等开源模型）的凭证，对本地硬件（内存和显存）有一定要求。"
       }
     },
     "VoltAgent/awesome-agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "精选了 1000 多个来自官方和社区的 Agent 技能集合，兼容 Claude Code、Codex、Gemini CLI、Cursor 等多种 AI 助手工具。",
         "configuration": "主要为技能包和配置文件，需要安装和配置兼容的 AI 客户端（如 Cursor、Claude Code 等），并根据具体技能的要求导入相应的 API Key 或脚本运行环境。"
       }
     },
     "dani-garcia/vaultwarden": {
-      "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "streak": 2,
+      "last_seen_date": "2026-08-25",
       "summary": {
         "what_it_does": "一个用 Rust 编写的非官方 Bitwarden 密码管理器兼容服务器。它轻量高效，支持自行托管，可实现密码、凭据等敏感信息的安全存储与同步，支持官方客户端的大部分功能。",
         "configuration": "通常推荐通过 Docker 部署。由于安全限制，必须配置 HTTPS（需配合 Nginx、Caddy 或 Traefik 等反向代理及 SSL 证书）。默认内置 SQLite 数据库，也支持 PostgreSQL 和 MySQL。对硬件配置要求极低，极小内存即可顺畅运行，非常适合树莓派或低配 VPS。"
+      }
+    },
+    "openclaw/openclaw": {
+      "streak": 1,
+      "last_seen_date": "2026-08-25",
+      "summary": {
+        "what_it_does": "一个跨操作系统的、支持多平台的个人 AI 助手。",
+        "configuration": "需要支持跨平台应用运行的基础环境（通常为 Python 或 Node.js），以及相应的大模型 API 密钥（如 OpenAI 或 Claude 等）和网络连接。"
+      }
+    },
+    "AgriciDaniel/claude-obsidian": {
+      "streak": 1,
+      "last_seen_date": "2026-08-25",
+      "summary": {
+        "what_it_does": "一个基于 Obsidian 和 Claude Code 的自组织 AI 个人知识管理（PKM）系统。它能自动读取、链接和整理任意输入源，生成由本地 Markdown 文件构成的关联知识图谱，可作为开源的 Notion 替代品。",
+        "configuration": "需要安装 Obsidian 笔记软件，获取 Claude API 访问权限，以及支持运行该脚本/工具的 Node.js 或 Python 运行环境。"
+      }
+    },
+    "tashfeenahmed/freellmapi": {
+      "streak": 1,
+      "last_seen_date": "2026-08-25",
+      "summary": {
+        "what_it_does": "一个免费大语言模型（LLM）API 聚合与智能路由工具。它将 34 个免费提供商的 635 个模型端点整合到一个统一的 /v1 接口（兼容 OpenAI 格式）下，支持智能路由、自动故障转移和密钥加密，专为个人实验设计。",
+        "configuration": "需要部署该 API 服务的基础运行环境（通常为 Docker 或 Node.js），以及顺畅的网络连接以便调用各大免费 LLM 提供商的接口。"
       }
     }
   }
