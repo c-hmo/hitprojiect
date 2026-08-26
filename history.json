@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-25",
+  "last_run_date": "2026-08-26",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 1,
-      "last_seen_date": "2026-08-25",
+      "streak": 2,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -34,8 +34,8 @@
       }
     },
     "harry0703/MoneyPrinterTurbo": {
-      "streak": 8,
-      "last_seen_date": "2026-08-25",
+      "streak": 9,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "利用AI大模型，一键生成高清短视频，支持全自动合成视频、配音、字幕和背景音乐。",
         "configuration": "需要 Python 运行环境、FFmpeg（用于视频处理）以及 AI 大模型（如 OpenAI 或 Claude）的 API 密钥。"
@@ -139,7 +139,7 @@
     },
     "anthropics/claude-plugins-official": {
       "streak": 1,
-      "last_seen_date": "2026-06-24",
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -331,7 +331,7 @@
     },
     "TauricResearch/TradingAgents": {
       "streak": 1,
-      "last_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
         "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
@@ -2026,8 +2026,8 @@
       }
     },
     "MadsLorentzen/ai-job-search": {
-      "streak": 1,
-      "last_seen_date": "2026-08-25",
+      "streak": 2,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "基于 Claude Code 打造的 AI 辅助求职框架，可自动评估招聘需求、定制个人简历、撰写求职信并协助进行面试准备。",
         "configuration": "需要 Node.js 环境、Claude Code 命令行工具、Claude API 密钥以及 Git。"
@@ -2306,8 +2306,8 @@
       }
     },
     "Shubhamsaboo/awesome-llm-apps": {
-      "streak": 11,
-      "last_seen_date": "2026-07-23",
+      "streak": 1,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个收录了 100 多个 AI Agent 和 RAG（检索增强生成）应用的开源集合，可供开发者直接克隆、自定义和部署运行。",
         "configuration": "通常需要 Python 运行环境及各自应用目录下的依赖项（通过 pip 安装），并且需要主流大模型（如 OpenAI, Anthropic 等）的 API 密钥。"
@@ -2522,8 +2522,8 @@
       }
     },
     "openai/codex": {
-      "streak": 3,
-      "last_seen_date": "2026-08-25",
+      "streak": 4,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个运行在命令行终端的轻量级 AI 编程助手，帮助开发者直接在终端中生成、编辑和运行代码。",
         "configuration": "需要终端环境，Node.js 或 Python 运行环境，以及可访问 OpenAI 模型的 API 密钥。"
@@ -3594,16 +3594,16 @@
       }
     },
     "basecamp/omarchy": {
-      "streak": 9,
-      "last_seen_date": "2026-08-25",
+      "streak": 10,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "这是一个针对 Ubuntu 的开箱即用、美观且现代化的 Linux 开发环境配置方案（基于 Omakub 项目）。它通过自动化脚本集成并配置了一整套精心挑选的终端工具、窗口管理器、字体和开发软件，旨在为开发者提供极致的 Linux 桌面工作流体验。",
         "configuration": "需要全新安装的 Ubuntu 24.04 LTS 操作系统、稳定的互联网连接以运行其在线安装脚本。安装过程会自动配置 Alacritty、Zellij、Neovim 等工具，无需用户手动配置复杂的依赖环境。"
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 1,
-      "last_seen_date": "2026-08-25",
+      "streak": 2,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -3634,8 +3634,8 @@
       }
     },
     "volcengine/OpenViking": {
-      "streak": 7,
-      "last_seen_date": "2026-08-25",
+      "streak": 8,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "火山引擎开源的 AI 智能体自演化上下文数据库。它将智能体的记忆（Memory）、知识库检索增强生成（RAG）以及技能（Skills）进行统一管理，助力智能体实现自我演化。",
         "configuration": "通常需要 Docker 或 Kubernetes 容器化部署环境，支持 C++/Go/Python 等后端服务的运行依赖，并需要对接大语言模型（LLM）的 API 服务。"
@@ -3674,16 +3674,16 @@
       }
     },
     "modular/modular": {
-      "streak": 5,
-      "last_seen_date": "2026-08-25",
+      "streak": 6,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "Modular 统一 AI 平台，包含专为 AI 设计的 Mojo 编程语言以及 MAX 部署引擎，旨在加速并简化 AI 模型的开发、优化和生产部署。",
         "configuration": "需要 Linux 或 macOS 操作系统，安装 Modular CLI 命令行工具，并需要 Python 环境以及相关的 AI 框架支持。"
       }
     },
     "AprilNEA/OpenLogi": {
-      "streak": 5,
-      "last_seen_date": "2026-08-25",
+      "streak": 6,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个基于 Rust 编写的罗技 Options+ 本地化、轻量级开源替代方案。支持通过 HID++ 协议进行按键重映射、DPI 调节和 SmartShift 设置，无隐私收集且无需登录账户。",
         "configuration": "需要支持 HID++ 协议的罗技外设硬件；运行需要 Rust 开发环境（如需从源码构建）或直接使用对应系统的免安装二进制文件。"
@@ -3730,8 +3730,8 @@
       }
     },
     "apache/maka": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 3,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "本地优先的 AI 智能体工作区，通过只增日志（Append-only log）记录模型消息、工具调用、执行结果及权限决策等事件。",
         "configuration": "需要相应的本地软件开发环境，以及本地部署的 AI 模型（如 Ollama）或云端大模型 API 访问权限。"
@@ -3770,32 +3770,32 @@
       }
     },
     "multica-ai/andrej-karpathy-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-08-25",
+      "streak": 2,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
         "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
       }
     },
     "anthropics/claude-plugins-community": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 3,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "Claude Cowork 和 Claude Code 的社区插件市场，用于展示和提交第三方插件。",
         "configuration": "需要 Claude 开发环境、Claude Code/Cowork 的 API 访问权限，以及开发和测试插件所需的编程环境（通常为 Node.js/TypeScript）。"
       }
     },
     "freestylefly/awesome-gpt-image-2": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 3,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "工业级图像生成提示词引擎与模板库，提供 470 多个逆向工程案例、20 多套工业级模板及提炼出的 AI 技能。",
         "configuration": "主要为提示词和代码模板，无需特殊硬件。需要能够运行主流大语言模型（如 ChatGPT）或图像生成模型（如 Midjourney、Stable Diffusion）的环境。"
       }
     },
     "tinyhumansai/openhuman": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 3,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "个人 AI 超级智能系统，旨在本地构建个人生活记忆，支持 Agent 舰队与工作流编排以及深度研究功能。",
         "configuration": "需要本地运行环境（如 Python 或 Node.js 运行时）、本地存储或向量数据库，以及连接主流 AI 模型 API（或本地部署的 Ollama 等开源模型）的凭证，对本地硬件（内存和显存）有一定要求。"
@@ -3826,8 +3826,8 @@
       }
     },
     "AgriciDaniel/claude-obsidian": {
-      "streak": 1,
-      "last_seen_date": "2026-08-25",
+      "streak": 2,
+      "last_seen_date": "2026-08-26",
       "summary": {
         "what_it_does": "一个基于 Obsidian 和 Claude Code 的自组织 AI 个人知识管理（PKM）系统。它能自动读取、链接和整理任意输入源，生成由本地 Markdown 文件构成的关联知识图谱，可作为开源的 Notion 替代品。",
         "configuration": "需要安装 Obsidian 笔记软件，获取 Claude API 访问权限，以及支持运行该脚本/工具的 Node.js 或 Python 运行环境。"
@@ -3839,6 +3839,30 @@
       "summary": {
         "what_it_does": "一个免费大语言模型（LLM）API 聚合与智能路由工具。它将 34 个免费提供商的 635 个模型端点整合到一个统一的 /v1 接口（兼容 OpenAI 格式）下，支持智能路由、自动故障转移和密钥加密，专为个人实验设计。",
         "configuration": "需要部署该 API 服务的基础运行环境（通常为 Docker 或 Node.js），以及顺畅的网络连接以便调用各大免费 LLM 提供商的接口。"
+      }
+    },
+    "marin-community/marin": {
+      "streak": 1,
+      "last_seen_date": "2026-08-26",
+      "summary": {
+        "what_it_does": "一个用于基础模型（大模型）研究与开发的开源框架。",
+        "configuration": "需要 Python 运行环境、深度学习库（如 PyTorch）以及用于大模型训练与推理的高性能 GPU 硬件支持。"
+      }
+    },
+    "DietrichGebert/ponytail": {
+      "streak": 1,
+      "last_seen_date": "2026-08-26",
+      "summary": {
+        "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
+        "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
+      }
+    },
+    "asciimoo/hister": {
+      "streak": 1,
+      "last_seen_date": "2026-08-26",
+      "summary": {
+        "what_it_does": "一个用于搭建和运行个人专属搜索引擎的开源系统。",
+        "configuration": "需要 Go 语言编译与运行环境、网络连接，以及用于存储和索引数据的本地或服务器存储空间。"
       }
     }
   }
