@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-08-31",
+  "last_run_date": "2026-09-01",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 3,
-      "last_seen_date": "2026-08-24",
+      "streak": 1,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -138,8 +138,8 @@
       }
     },
     "anthropics/claude-plugins-official": {
-      "streak": 6,
-      "last_seen_date": "2026-08-31",
+      "streak": 7,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -322,8 +322,8 @@
       }
     },
     "p-e-w/heretic": {
-      "streak": 2,
-      "last_seen_date": "2026-08-31",
+      "streak": 3,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "用于自动移除大语言模型（LLM）安全审查和对齐限制的工具，使用户能够获取无过滤、无阻碍的模型输出。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及能够运行本地开源大模型（如 Llama 等）的 GPU 显卡硬件支持。"
@@ -1490,8 +1490,8 @@
       }
     },
     "every-app/open-seo": {
-      "streak": 2,
-      "last_seen_date": "2026-08-31",
+      "streak": 3,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个开源的搜索引擎优化（SEO）工具，旨在作为 Semrush 和 Ahrefs 的免费开源替代品，用于网站审计、关键词分析和数据追踪。",
         "configuration": "需要 Node.js 运行环境、数据库（通常为 PostgreSQL）以及可能需要的第三方 SEO 数据 API 接口或代理服务器。"
@@ -2026,8 +2026,8 @@
       }
     },
     "MadsLorentzen/ai-job-search": {
-      "streak": 2,
-      "last_seen_date": "2026-08-31",
+      "streak": 3,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "基于 Claude Code 打造的 AI 辅助求职框架，可自动评估招聘需求、定制个人简历、撰写求职信并协助进行面试准备。",
         "configuration": "需要 Node.js 环境、Claude Code 命令行工具、Claude API 密钥以及 Git。"
@@ -2323,7 +2323,7 @@
     },
     "k1tbyte/Wand-Enhancer": {
       "streak": 1,
-      "last_seen_date": "2026-07-13",
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "针对 Wand (WeMod) 应用程序的高级用户体验（UX）和互操作性扩展插件，旨在增强界面交互并提升与其他软件的协同能力。",
         "configuration": "需要安装有 Wand (WeMod) 客户端，运行环境通常为 Windows，可能需要特定的插件加载器或脚本管理工具。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 5,
-      "last_seen_date": "2026-08-31",
+      "streak": 6,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -3034,8 +3034,8 @@
       }
     },
     "zhaoxuya520/reverse-skill": {
-      "streak": 13,
-      "last_seen_date": "2026-08-13",
+      "streak": 1,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
@@ -3130,8 +3130,8 @@
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 5,
-      "last_seen_date": "2026-08-14",
+      "streak": 1,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3730,8 +3730,8 @@
       }
     },
     "apache/maka": {
-      "streak": 8,
-      "last_seen_date": "2026-08-31",
+      "streak": 9,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "本地优先的 AI 智能体工作区，通过只增日志（Append-only log）记录模型消息、工具调用、执行结果及权限决策等事件。",
         "configuration": "需要相应的本地软件开发环境，以及本地部署的 AI 模型（如 Ollama）或云端大模型 API 访问权限。"
@@ -3778,16 +3778,16 @@
       }
     },
     "anthropics/claude-plugins-community": {
-      "streak": 8,
-      "last_seen_date": "2026-08-31",
+      "streak": 9,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "Claude Cowork 和 Claude Code 的社区插件市场，用于展示和提交第三方插件。",
         "configuration": "需要 Claude 开发环境、Claude Code/Cowork 的 API 访问权限，以及开发和测试插件所需的编程环境（通常为 Node.js/TypeScript）。"
       }
     },
     "freestylefly/awesome-gpt-image-2": {
-      "streak": 8,
-      "last_seen_date": "2026-08-31",
+      "streak": 9,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "工业级图像生成提示词引擎与模板库，提供 470 多个逆向工程案例、20 多套工业级模板及提炼出的 AI 技能。",
         "configuration": "主要为提示词和代码模板，无需特殊硬件。需要能够运行主流大语言模型（如 ChatGPT）或图像生成模型（如 Midjourney、Stable Diffusion）的环境。"
@@ -3834,8 +3834,8 @@
       }
     },
     "tashfeenahmed/freellmapi": {
-      "streak": 4,
-      "last_seen_date": "2026-08-31",
+      "streak": 5,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个免费大语言模型（LLM）API 聚合与智能路由工具。它将 34 个免费提供商的 635 个模型端点整合到一个统一的 /v1 接口（兼容 OpenAI 格式）下，支持智能路由、自动故障转移和密钥加密，专为个人实验设计。",
         "configuration": "需要部署该 API 服务的基础运行环境（通常为 Docker 或 Node.js），以及顺畅的网络连接以便调用各大免费 LLM 提供商的接口。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 5,
-      "last_seen_date": "2026-08-31",
+      "streak": 6,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3978,16 +3978,16 @@
       }
     },
     "omacom/omarchy": {
-      "streak": 2,
-      "last_seen_date": "2026-08-31",
+      "streak": 3,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个美观、现代化且富有设计偏好的 Linux 系统配置方案（基于 Arch Linux），旨在为用户提供开箱即用的高颜值和现代化桌面体验。",
         "configuration": "需要支持 Arch Linux 的 x86_64 架构硬件环境，在安装和配置过程中需要稳定的网络连接、Arch 安装介质及相关的桌面组件依赖。"
       }
     },
     "THU-MAIC/OpenMAIC": {
-      "streak": 2,
-      "last_seen_date": "2026-08-31",
+      "streak": 3,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个开放式多智能体互动课堂平台，旨在通过一键式部署为用户提供沉浸式的多智能体协同学习、讨论和互动教学体验。",
         "configuration": "需要 Python 运行环境（建议 Python 3.9 及以上版本），需要安装项目指定的 Python 依赖库，并通常需要配置主流大语言模型（如 OpenAI 等）的 API 密钥以驱动智能体。"
@@ -4003,7 +4003,7 @@
     },
     "Osmantic/ODS": {
       "streak": 1,
-      "last_seen_date": "2026-08-30",
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "将个人电脑（Windows、Mac 或 Linux）转换为本地 AI 服务器，支持大语言模型（LLM）推理、聊天界面、语音交互、智能体、工作流、RAG（检索增强生成）以及图像生成。",
         "configuration": "支持 Windows、macOS 和 Linux 系统；需要较好的硬件支持（推荐配备用于本地推理的 CPU 或 GPU）以及相关的本地部署环境。"
@@ -4011,7 +4011,7 @@
     },
     "kaifcodec/user-scanner": {
       "streak": 1,
-      "last_seen_date": "2026-08-30",
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一款二合一的邮箱和用户名 OSINT（开源情报）分析工具，仅凭一个邮箱或用户名即可进行深度数据提取，分析 455 个以上的活跃扫描向量，用于安全研究、调查和数字足迹分析。",
         "configuration": "需要 Python 3 运行环境、相关的依赖库（如 requests 等），以及稳定的网络连接用于多平台扫描。"
@@ -4034,8 +4034,8 @@
       }
     },
     "majd/ipatool": {
-      "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "streak": 2,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个命令行工具，允许用户直接从 Apple App Store 搜索并下载适用于 iOS、iPadOS、tvOS 和 visionOS 的应用安装包（.ipa 文件）。",
         "configuration": "支持 macOS、Windows 和 Linux 系统。使用时需要一个有效的 Apple ID（用于登录和获取下载授权），若从源码构建则需要 Go 语言开发环境。"
@@ -4050,24 +4050,24 @@
       }
     },
     "checkstyle/checkstyle": {
-      "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "streak": 2,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "一个静态代码分析工具，用于帮助程序员检查 Java 代码是否符合特定的编码规范（默认支持 Google Java 编程规范和 Sun 代码约定）。",
         "configuration": "需要 Java 运行环境（JRE/JDK）。可以作为独立的命令行工具运行，或通过 Ant、Maven、Gradle 等构建工具插件以及主流 IDE 插件进行集成配置。"
       }
     },
     "pollen-robotics/microduck_rl": {
-      "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "streak": 2,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "针对 Microduck 机器人的强化学习（RL）训练环境，基于 mjlab 物理仿真平台。",
         "configuration": "需要 Python 环境、MuJoCo 物理引擎支持、强化学习相关库（如 Gymnasium 等），推荐配备 GPU 以加速训练。"
       }
     },
     "handsomestWei/patent-disclosure-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "streak": 2,
+      "last_seen_date": "2026-09-01",
       "summary": {
         "what_it_does": "专为中国专利领域设计的 AI 智能体技能，用于辅助专利点挖掘、交底书撰写（发明/实用/外观）、专利通俗解读、政策嗅探及辅助审查意见答复。",
         "configuration": "通常需要大语言模型（LLM）平台或 Agent 运行环境（如 Coze、Dify 等），并配置相应的 API 密钥来导入和运行该技能。"
@@ -4087,6 +4087,14 @@
       "summary": {
         "what_it_does": "一个以 TypeScript 为首要目标的模式声明与验证库，支持静态类型推断，能确保运行时数据符合指定的类型安全规则。",
         "configuration": "需要 Node.js 运行环境，适用于 TypeScript（推荐 4.1+）或 JavaScript 项目，通过 npm/yarn/pnpm 安装依赖即可，无特殊硬件要求。"
+      }
+    },
+    "jingyaogong/minimind": {
+      "streak": 1,
+      "last_seen_date": "2026-09-01",
+      "summary": {
+        "what_it_does": "该项目旨在帮助用户在短时间（约2小时）内从零开始训练一个6400万（64M）参数的超轻量级大语言模型（LLM），非常适合用于大模型原理的教学、学习与实验。",
+        "configuration": "需要 Python 开发环境及 PyTorch 深度学习框架。由于模型体积极小，硬件门槛极低，普通的消费级显卡（如 RTX 3090 或更低端显卡）即可在数小时内完成模型的训练与推理。"
       }
     }
   }
