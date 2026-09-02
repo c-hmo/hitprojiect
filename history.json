@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-01",
+  "last_run_date": "2026-09-02",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -19,7 +19,7 @@
     },
     "rohitg00/ai-engineering-from-scratch": {
       "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 1,
-      "last_seen_date": "2026-09-01",
+      "streak": 2,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -171,7 +171,7 @@
     },
     "cursor/plugins": {
       "streak": 1,
-      "last_seen_date": "2026-08-29",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -1490,8 +1490,8 @@
       }
     },
     "every-app/open-seo": {
-      "streak": 3,
-      "last_seen_date": "2026-09-01",
+      "streak": 4,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个开源的搜索引擎优化（SEO）工具，旨在作为 Semrush 和 Ahrefs 的免费开源替代品，用于网站审计、关键词分析和数据追踪。",
         "configuration": "需要 Node.js 运行环境、数据库（通常为 PostgreSQL）以及可能需要的第三方 SEO 数据 API 接口或代理服务器。"
@@ -1659,7 +1659,7 @@
     },
     "browser-use/video-use": {
       "streak": 1,
-      "last_seen_date": "2026-08-05",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "利用编程智能体（Coding Agents）自动编辑和处理视频，允许用户通过编写代码或使用智能体驱动的工具链来自动化视频剪辑工作流。",
         "configuration": "需要 Python 运行环境（建议 3.10+），安装 browser-use 框架和 Playwright 浏览器依赖，视频处理工具（如 FFmpeg），以及用于驱动智能体的 LLM API 密钥（如 OpenAI 或 Anthropic）。"
@@ -2123,7 +2123,7 @@
     },
     "VoltAgent/awesome-design-md": {
       "streak": 1,
-      "last_seen_date": "2026-07-10",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "收集并分析了各大主流品牌设计系统的 DESIGN.md 规范文件。开发者可以直接将这些规范文件放入项目中，让 AI 编程助手（如 Cursor 等）根据规范自动生成相匹配的 UI 界面。",
         "configuration": "支持 Markdown 的文本编辑器，以及集成了 AI 编程助手（如 GitHub Copilot、Cursor、Claude Dev 等）的软件开发环境，无需特殊硬件支持。"
@@ -2147,7 +2147,7 @@
     },
     "unclecode/crawl4ai": {
       "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个开源的、对大语言模型（LLM）友好的网页爬虫和数据抓取工具，专门用于高效提取网页内容并将其转化为适合 LLM 输入和分析的格式。",
         "configuration": "需要 Python 3.9+ 运行环境。依赖相关 Python 库（如 Playwright 用于抓取动态网页），以及用于处理 HTML 和文本解析的依赖项。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 6,
-      "last_seen_date": "2026-09-01",
+      "streak": 7,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -3083,7 +3083,7 @@
     },
     "iv-org/invidious": {
       "streak": 1,
-      "last_seen_date": "2026-08-09",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个开源、隐私友好的 YouTube 替代前端，允许用户在没有广告且无需 Google 账户的情况下浏览和观看 YouTube 视频。",
         "configuration": "主要通过 Docker 和 Docker Compose 进行容器化部署，也可以在本地配置 Crystal 语言运行环境、PostgreSQL 数据库及相关依赖库进行手动安装。"
@@ -3130,8 +3130,8 @@
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 1,
-      "last_seen_date": "2026-09-01",
+      "streak": 2,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3395,7 +3395,7 @@
     },
     "3b1b/manim": {
       "streak": 1,
-      "last_seen_date": "2026-08-18",
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个用于创建解释性数学视频的动画引擎，允许用户通过编写 Python 代码来精确控制数学公式、几何图形和图表的动画生成。",
         "configuration": "需要 Python 环境（建议 3.7+）、FFmpeg（用于视频处理）、LaTeX（用于数学公式渲染）以及系统级图形和文字渲染依赖（如 Pango、Cairo 等）。"
@@ -3778,16 +3778,16 @@
       }
     },
     "anthropics/claude-plugins-community": {
-      "streak": 9,
-      "last_seen_date": "2026-09-01",
+      "streak": 10,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "Claude Cowork 和 Claude Code 的社区插件市场，用于展示和提交第三方插件。",
         "configuration": "需要 Claude 开发环境、Claude Code/Cowork 的 API 访问权限，以及开发和测试插件所需的编程环境（通常为 Node.js/TypeScript）。"
       }
     },
     "freestylefly/awesome-gpt-image-2": {
-      "streak": 9,
-      "last_seen_date": "2026-09-01",
+      "streak": 10,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "工业级图像生成提示词引擎与模板库，提供 470 多个逆向工程案例、20 多套工业级模板及提炼出的 AI 技能。",
         "configuration": "主要为提示词和代码模板，无需特殊硬件。需要能够运行主流大语言模型（如 ChatGPT）或图像生成模型（如 Midjourney、Stable Diffusion）的环境。"
@@ -3834,8 +3834,8 @@
       }
     },
     "tashfeenahmed/freellmapi": {
-      "streak": 5,
-      "last_seen_date": "2026-09-01",
+      "streak": 6,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个免费大语言模型（LLM）API 聚合与智能路由工具。它将 34 个免费提供商的 635 个模型端点整合到一个统一的 /v1 接口（兼容 OpenAI 格式）下，支持智能路由、自动故障转移和密钥加密，专为个人实验设计。",
         "configuration": "需要部署该 API 服务的基础运行环境（通常为 Docker 或 Node.js），以及顺畅的网络连接以便调用各大免费 LLM 提供商的接口。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 6,
-      "last_seen_date": "2026-09-01",
+      "streak": 7,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3978,16 +3978,16 @@
       }
     },
     "omacom/omarchy": {
-      "streak": 3,
-      "last_seen_date": "2026-09-01",
+      "streak": 4,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个美观、现代化且富有设计偏好的 Linux 系统配置方案（基于 Arch Linux），旨在为用户提供开箱即用的高颜值和现代化桌面体验。",
         "configuration": "需要支持 Arch Linux 的 x86_64 架构硬件环境，在安装和配置过程中需要稳定的网络连接、Arch 安装介质及相关的桌面组件依赖。"
       }
     },
     "THU-MAIC/OpenMAIC": {
-      "streak": 3,
-      "last_seen_date": "2026-09-01",
+      "streak": 4,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "一个开放式多智能体互动课堂平台，旨在通过一键式部署为用户提供沉浸式的多智能体协同学习、讨论和互动教学体验。",
         "configuration": "需要 Python 运行环境（建议 Python 3.9 及以上版本），需要安装项目指定的 Python 依赖库，并通常需要配置主流大语言模型（如 OpenAI 等）的 API 密钥以驱动智能体。"
@@ -4066,8 +4066,8 @@
       }
     },
     "handsomestWei/patent-disclosure-skill": {
-      "streak": 2,
-      "last_seen_date": "2026-09-01",
+      "streak": 3,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "专为中国专利领域设计的 AI 智能体技能，用于辅助专利点挖掘、交底书撰写（发明/实用/外观）、专利通俗解读、政策嗅探及辅助审查意见答复。",
         "configuration": "通常需要大语言模型（LLM）平台或 Agent 运行环境（如 Coze、Dify 等），并配置相应的 API 密钥来导入和运行该技能。"
@@ -4090,11 +4090,35 @@
       }
     },
     "jingyaogong/minimind": {
-      "streak": 1,
-      "last_seen_date": "2026-09-01",
+      "streak": 2,
+      "last_seen_date": "2026-09-02",
       "summary": {
         "what_it_does": "该项目旨在帮助用户在短时间（约2小时）内从零开始训练一个6400万（64M）参数的超轻量级大语言模型（LLM），非常适合用于大模型原理的教学、学习与实验。",
         "configuration": "需要 Python 开发环境及 PyTorch 深度学习框架。由于模型体积极小，硬件门槛极低，普通的消费级显卡（如 RTX 3090 或更低端显卡）即可在数小时内完成模型的训练与推理。"
+      }
+    },
+    "Gitlawb/openclaude": {
+      "streak": 1,
+      "last_seen_date": "2026-09-02",
+      "summary": {
+        "what_it_does": "一个旨在实现“随处运行、支持一切”的 Claude 代理/客户端工具，允许用户在不同环境和后端下灵活调用 Claude 或其他 AI 模型。",
+        "configuration": "需要基础的 Node.js 或 Python 运行环境，以及相应的大模型 API 密钥（如 Anthropic API 密钥）来驱动服务。"
+      }
+    },
+    "Imbad0202/academic-research-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-09-02",
+      "summary": {
+        "what_it_does": "专为 Claude Code 命令行工具设计的学术研究技能提示词与工作流，涵盖了学术研究、论文写作、评审、修改到最终定稿的完整生命周期。",
+        "configuration": "需要安装并配置好 Claude Code 环境（基于 Node.js/NPM），并拥有有效的 Anthropic API 账号和调用权限。"
+      }
+    },
+    "averygan/reclip": {
+      "streak": 1,
+      "last_seen_date": "2026-09-02",
+      "summary": {
+        "what_it_does": "一款轻量级的、可自托管的媒体下载器，配备简洁的 Web 用户界面，支持从几乎任何主流视频网站下载视频。",
+        "configuration": "推荐使用 Docker 进行一键部署，或需要 Node.js/Python 运行环境，同时服务器端需安装 ffmpeg 和 yt-dlp 等视频处理依赖。"
       }
     }
   }
