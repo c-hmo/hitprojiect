@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-02",
+  "last_run_date": "2026-09-03",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 2,
-      "last_seen_date": "2026-09-02",
+      "streak": 3,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -410,8 +410,8 @@
       }
     },
     "NousResearch/hermes-agent": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
         "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
@@ -1098,8 +1098,8 @@
       }
     },
     "google-research/timesfm": {
-      "streak": 9,
-      "last_seen_date": "2026-06-26",
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "由谷歌研究院（Google Research）开发的时间序列基础模型（TimesFM），用于零样本（zero-shot）时间序列预测任务。",
         "configuration": "需要 Python 运行环境（建议 3.10+），依赖 PyTorch 或 JAX 深度学习框架及 Hugging Face 库，推荐配备 GPU/TPU 以进行高效推理。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 5,
-      "last_seen_date": "2026-08-24",
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1490,8 +1490,8 @@
       }
     },
     "every-app/open-seo": {
-      "streak": 4,
-      "last_seen_date": "2026-09-02",
+      "streak": 5,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个开源的搜索引擎优化（SEO）工具，旨在作为 Semrush 和 Ahrefs 的免费开源替代品，用于网站审计、关键词分析和数据追踪。",
         "configuration": "需要 Node.js 运行环境、数据库（通常为 PostgreSQL）以及可能需要的第三方 SEO 数据 API 接口或代理服务器。"
@@ -1787,7 +1787,7 @@
     },
     "JuliusBrussee/caveman": {
       "streak": 1,
-      "last_seen_date": "2026-08-21",
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
@@ -1795,7 +1795,7 @@
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "streak": 1,
-      "last_seen_date": "2026-08-29",
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 7,
-      "last_seen_date": "2026-09-02",
+      "streak": 8,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -2491,7 +2491,7 @@
     },
     "protocolbuffers/protobuf": {
       "streak": 1,
-      "last_seen_date": "2026-08-22",
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "谷歌开源的轻便、高效、跨平台且语言无关的序列化结构数据格式，广泛应用于网络通信协议、数据存储及 RPC 系统（如 gRPC）。",
         "configuration": "需要下载并安装协议编译器 protoc。根据目标开发语言（如 C++、Java、Python、Go 等），还需安装对应的语言运行时和代码生成插件。"
@@ -3130,8 +3130,8 @@
       }
     },
     "firecrawl/pdf-inspector": {
-      "streak": 2,
-      "last_seen_date": "2026-09-02",
+      "streak": 3,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个快速的 Rust 库，用于 PDF 的检测、分类和文本提取，能够智能区分扫描版与文本版 PDF 从而实现智能路由决策。",
         "configuration": "需要 Rust 编译环境（Rustc 和 Cargo），以及 PDF 处理相关的系统级依赖项。"
@@ -3778,16 +3778,16 @@
       }
     },
     "anthropics/claude-plugins-community": {
-      "streak": 10,
-      "last_seen_date": "2026-09-02",
+      "streak": 11,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "Claude Cowork 和 Claude Code 的社区插件市场，用于展示和提交第三方插件。",
         "configuration": "需要 Claude 开发环境、Claude Code/Cowork 的 API 访问权限，以及开发和测试插件所需的编程环境（通常为 Node.js/TypeScript）。"
       }
     },
     "freestylefly/awesome-gpt-image-2": {
-      "streak": 10,
-      "last_seen_date": "2026-09-02",
+      "streak": 11,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "工业级图像生成提示词引擎与模板库，提供 470 多个逆向工程案例、20 多套工业级模板及提炼出的 AI 技能。",
         "configuration": "主要为提示词和代码模板，无需特殊硬件。需要能够运行主流大语言模型（如 ChatGPT）或图像生成模型（如 Midjourney、Stable Diffusion）的环境。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 4,
-      "last_seen_date": "2026-08-29",
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 7,
-      "last_seen_date": "2026-09-02",
+      "streak": 8,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 3,
-      "last_seen_date": "2026-08-30",
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -3907,7 +3907,7 @@
     },
     "zedeus/nitter": {
       "streak": 1,
-      "last_seen_date": "2026-08-28",
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个隐私友好、无广告、无需账户的第三方 Twitter (X) 替代前端。",
         "configuration": "需要 Nim 编译运行环境或通过 Docker 部署，依赖 Redis 数据库，以及用于规避 Twitter 限制的 IP 代理配置。"
@@ -3978,16 +3978,16 @@
       }
     },
     "omacom/omarchy": {
-      "streak": 4,
-      "last_seen_date": "2026-09-02",
+      "streak": 5,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个美观、现代化且富有设计偏好的 Linux 系统配置方案（基于 Arch Linux），旨在为用户提供开箱即用的高颜值和现代化桌面体验。",
         "configuration": "需要支持 Arch Linux 的 x86_64 架构硬件环境，在安装和配置过程中需要稳定的网络连接、Arch 安装介质及相关的桌面组件依赖。"
       }
     },
     "THU-MAIC/OpenMAIC": {
-      "streak": 4,
-      "last_seen_date": "2026-09-02",
+      "streak": 5,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个开放式多智能体互动课堂平台，旨在通过一键式部署为用户提供沉浸式的多智能体协同学习、讨论和互动教学体验。",
         "configuration": "需要 Python 运行环境（建议 Python 3.9 及以上版本），需要安装项目指定的 Python 依赖库，并通常需要配置主流大语言模型（如 OpenAI 等）的 API 密钥以驱动智能体。"
@@ -4090,24 +4090,24 @@
       }
     },
     "jingyaogong/minimind": {
-      "streak": 2,
-      "last_seen_date": "2026-09-02",
+      "streak": 3,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "该项目旨在帮助用户在短时间（约2小时）内从零开始训练一个6400万（64M）参数的超轻量级大语言模型（LLM），非常适合用于大模型原理的教学、学习与实验。",
         "configuration": "需要 Python 开发环境及 PyTorch 深度学习框架。由于模型体积极小，硬件门槛极低，普通的消费级显卡（如 RTX 3090 或更低端显卡）即可在数小时内完成模型的训练与推理。"
       }
     },
     "Gitlawb/openclaude": {
-      "streak": 1,
-      "last_seen_date": "2026-09-02",
+      "streak": 2,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "一个旨在实现“随处运行、支持一切”的 Claude 代理/客户端工具，允许用户在不同环境和后端下灵活调用 Claude 或其他 AI 模型。",
         "configuration": "需要基础的 Node.js 或 Python 运行环境，以及相应的大模型 API 密钥（如 Anthropic API 密钥）来驱动服务。"
       }
     },
     "Imbad0202/academic-research-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-09-02",
+      "streak": 2,
+      "last_seen_date": "2026-09-03",
       "summary": {
         "what_it_does": "专为 Claude Code 命令行工具设计的学术研究技能提示词与工作流，涵盖了学术研究、论文写作、评审、修改到最终定稿的完整生命周期。",
         "configuration": "需要安装并配置好 Claude Code 环境（基于 Node.js/NPM），并拥有有效的 Anthropic API 账号和调用权限。"
@@ -4119,6 +4119,70 @@
       "summary": {
         "what_it_does": "一款轻量级的、可自托管的媒体下载器，配备简洁的 Web 用户界面，支持从几乎任何主流视频网站下载视频。",
         "configuration": "推荐使用 Docker 进行一键部署，或需要 Node.js/Python 运行环境，同时服务器端需安装 ffmpeg 和 yt-dlp 等视频处理依赖。"
+      }
+    },
+    "fmtlib/fmt": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一个现代化且轻量级的 C++ 格式化库，提供安全、快速且易于使用的文本格式化功能，是 C++20 标准库 std::format 的基础。",
+        "configuration": "需要支持 C++11 或更高版本的 C++ 编译器（如 GCC、Clang 或 MSVC），无需外部依赖，支持主流操作系统。"
+      }
+    },
+    "debpalash/VoiceStudio": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
+        "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
+      }
+    },
+    "sngyai/Sequoia-X": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一款专门针对 A 股的自动选股系统，能在每日收盘后自动扫描分析多种技术形态，并将选股结果自动推送到飞书客户端。",
+        "configuration": "需要 Python 环境，需配置相关的 A 股数据接口（如 AkShare/Tushare 等），以及飞书机器人的 Webhook 配置，建议配合 Crontab 等定时任务工具运行。"
+      }
+    },
+    "superlinked/sie": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一个开源的推理服务器和生产级集群，专为 AI Agent 运行所需的各类机器学习和深度学习模型提供高效、稳定的推理支持。",
+        "configuration": "推荐使用 Docker 或 Kubernetes 容器化环境进行部署，需要 Python 运行环境及相关依赖，根据所部署的模型规模，通常需要 GPU 硬件算力支持。"
+      }
+    },
+    "pacifio/atlas": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一个专为智能体（Agent）设计的版本控制系统，支持使用多个编程智能体，并在统一的平台中跟踪它们的修改并进行查询。",
+        "configuration": "需要 Node.js 或 Python 运行环境、Git 基础工具，以及主流大语言模型（如 OpenAI、Anthropic）的 API 密钥以驱动智能体。"
+      }
+    },
+    "zyronon/TypeWords": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一款通过键盘打字输入来背单词和练习英语的工具，实现“一击一步”的渐进式练习。",
+        "configuration": "用户端只需现代 Web 浏览器。本地部署或二次开发需要 Node.js 环境及相关的包管理器（如 npm/pnpm）。"
+      }
+    },
+    "vercel-labs/portless": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "将本地开发中的端口号（如 localhost:3000）替换为稳定、具名的本地自定义 URL，方便人类开发者及 AI 智能体进行本地服务的访问。",
+        "configuration": "需要 Node.js 运行环境，以及配置本地 DNS 和主机解析所需的网络系统权限。"
+      }
+    },
+    "blader/humanizer": {
+      "streak": 1,
+      "last_seen_date": "2026-09-03",
+      "summary": {
+        "what_it_does": "一个 AI 智能体技能插件，专门用于消除文本中明显的 AI 生成痕迹，使文本风格更加符合人类的自然书写习惯。",
+        "configuration": "需要 Python/Node.js 运行环境，以及用于文本润色和重写的 AI 语言模型（如 OpenAI）的 API 授权。"
       }
     }
   }
