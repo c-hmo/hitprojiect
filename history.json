@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-04",
+  "last_run_date": "2026-09-05",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 4,
-      "last_seen_date": "2026-09-04",
+      "streak": 5,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-09-04",
+      "streak": 2,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -410,8 +410,8 @@
       }
     },
     "NousResearch/hermes-agent": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个旨在与用户共同成长和进化的 AI 智能体（Agent）框架。",
         "configuration": "通常需要 Python 3.10+ 运行环境，依赖大语言模型（LLM）的 API 接口（如 OpenAI）或本地推理后端，以及相关的 Python 依赖包。"
@@ -874,8 +874,8 @@
       }
     },
     "bannedbook/fanqiang": {
-      "streak": 1,
-      "last_seen_date": "2026-09-04",
+      "streak": 2,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "该项目是一个专注于提供科学上网（翻墙）技术、工具、教程及节点配置信息的资源汇总库，旨在帮助用户绕过网络审查，安全且自由地访问受限网络。",
         "configuration": "配置要求取决于所选的具体工具。对于普通用户，仅需支持Windows、macOS、Android、iOS或Linux系统的终端设备，并下载相应的客户端软件（如Clash、v2rayN等）；对于自建节点的用户，则需要一台境外的VPS服务器（通常需运行Linux系统），以及基本的域名、网络协议配置知识。"
@@ -1098,8 +1098,8 @@
       }
     },
     "google-research/timesfm": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "由谷歌研究院（Google Research）开发的时间序列基础模型（TimesFM），用于零样本（zero-shot）时间序列预测任务。",
         "configuration": "需要 Python 运行环境（建议 3.10+），依赖 PyTorch 或 JAX 深度学习框架及 Hugging Face 库，推荐配备 GPU/TPU 以进行高效推理。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1490,8 +1490,8 @@
       }
     },
     "every-app/open-seo": {
-      "streak": 6,
-      "last_seen_date": "2026-09-04",
+      "streak": 7,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个开源的搜索引擎优化（SEO）工具，旨在作为 Semrush 和 Ahrefs 的免费开源替代品，用于网站审计、关键词分析和数据追踪。",
         "configuration": "需要 Node.js 运行环境、数据库（通常为 PostgreSQL）以及可能需要的第三方 SEO 数据 API 接口或代理服务器。"
@@ -1595,10 +1595,10 @@
     },
     "anomalyco/opencode": {
       "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "last_seen_date": "2026-09-05",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "一个开源的自动编码智能体（Coding Agent），用于辅助代码编写与开发任务。",
+        "configuration": "通常需要Python环境、相关依赖库以及接入大语言模型（LLM）的API密钥或本地部署的模型服务。"
       }
     },
     "Fission-AI/OpenSpec": {
@@ -1786,8 +1786,8 @@
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 9,
-      "last_seen_date": "2026-09-04",
+      "streak": 10,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 11,
-      "last_seen_date": "2026-08-23",
+      "streak": 1,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 9,
-      "last_seen_date": "2026-09-04",
+      "streak": 10,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -3986,8 +3986,8 @@
       }
     },
     "THU-MAIC/OpenMAIC": {
-      "streak": 6,
-      "last_seen_date": "2026-09-04",
+      "streak": 7,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个开放式多智能体互动课堂平台，旨在通过一键式部署为用户提供沉浸式的多智能体协同学习、讨论和互动教学体验。",
         "configuration": "需要 Python 运行环境（建议 Python 3.9 及以上版本），需要安装项目指定的 Python 依赖库，并通常需要配置主流大语言模型（如 OpenAI 等）的 API 密钥以驱动智能体。"
@@ -4027,7 +4027,7 @@
     },
     "Lakr233/vphone-cli": {
       "streak": 1,
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个用于管理和操作虚拟手机环境（通常指 macOS 上的 iOS 虚拟化系统）的命令行工具。",
         "configuration": "需要 macOS 运行环境（通常要求 Apple Silicon 芯片），命令行终端支持，以及相关的虚拟化底层依赖。"
@@ -4090,16 +4090,16 @@
       }
     },
     "jingyaogong/minimind": {
-      "streak": 4,
-      "last_seen_date": "2026-09-04",
+      "streak": 5,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "该项目旨在帮助用户在短时间（约2小时）内从零开始训练一个6400万（64M）参数的超轻量级大语言模型（LLM），非常适合用于大模型原理的教学、学习与实验。",
         "configuration": "需要 Python 开发环境及 PyTorch 深度学习框架。由于模型体积极小，硬件门槛极低，普通的消费级显卡（如 RTX 3090 或更低端显卡）即可在数小时内完成模型的训练与推理。"
       }
     },
     "Gitlawb/openclaude": {
-      "streak": 3,
-      "last_seen_date": "2026-09-04",
+      "streak": 4,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个旨在实现“随处运行、支持一切”的 Claude 代理/客户端工具，允许用户在不同环境和后端下灵活调用 Claude 或其他 AI 模型。",
         "configuration": "需要基础的 Node.js 或 Python 运行环境，以及相应的大模型 API 密钥（如 Anthropic API 密钥）来驱动服务。"
@@ -4122,16 +4122,16 @@
       }
     },
     "fmtlib/fmt": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个现代化且轻量级的 C++ 格式化库，提供安全、快速且易于使用的文本格式化功能，是 C++20 标准库 std::format 的基础。",
         "configuration": "需要支持 C++11 或更高版本的 C++ 编译器（如 GCC、Clang 或 MSVC），无需外部依赖，支持主流操作系统。"
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4178,16 +4178,16 @@
       }
     },
     "blader/humanizer": {
-      "streak": 2,
-      "last_seen_date": "2026-09-04",
+      "streak": 3,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个 AI 智能体技能插件，专门用于消除文本中明显的 AI 生成痕迹，使文本风格更加符合人类的自然书写习惯。",
         "configuration": "需要 Python/Node.js 运行环境，以及用于文本润色和重写的 AI 语言模型（如 OpenAI）的 API 授权。"
       }
     },
     "magnitudedev/magnitude": {
-      "streak": 1,
-      "last_seen_date": "2026-09-04",
+      "streak": 2,
+      "last_seen_date": "2026-09-05",
       "summary": {
         "what_it_does": "一个开源的本地大模型推理服务器，可以根据用户的硬件配置运行最适合的本地模型，并与用户现有的 AI 智能体（如 Cline, Claude Code, OpenClaw 等）无缝对接。",
         "configuration": "需要支持运行本地大模型的硬件设备（通常需要较好的 GPU 显存或 CPU/内存支持），以及安装该推理服务器所需的软件环境（如 Python、相关依赖库）和网络通信配置。"
@@ -4199,6 +4199,30 @@
       "summary": {
         "what_it_does": "一个分享、发现和收集 ChatGPT 提示词（Prompts）的开源社区平台，支持组织进行完全私有化的本地自托管部署。",
         "configuration": "作为 Web 应用，本地开发或自托管通常需要 Node.js 运行环境以及前端依赖包管理工具（如 npm/yarn/pnpm）。也可以直接将其静态资源部署到 Nginx、GitHub Pages 等基础 Web 服务器上。"
+      }
+    },
+    "bikini/exploitarium": {
+      "streak": 1,
+      "last_seen_date": "2026-09-05",
+      "summary": {
+        "what_it_does": "一个公开漏洞利用概念验证（PoC）和漏洞研究报告的存档，旨在分享安全研究成果并吸引人才进入安全领域。",
+        "configuration": "取决于具体的漏洞利用脚本，通常需要Python等编程语言环境、网络安全分析工具以及安全的隔离测试（沙箱）环境。"
+      }
+    },
+    "radixark/miles": {
+      "streak": 1,
+      "last_seen_date": "2026-09-05",
+      "summary": {
+        "what_it_does": "一个面向企业的大语言模型（LLM）和视觉语言模型（VLM）后训练强化学习框架。",
+        "configuration": "需要Python运行环境、深度学习框架（如PyTorch）、相关强化学习依赖，以及支持大模型训练的高性能GPU等硬件资源。"
+      }
+    },
+    "clshortfuse/renodx": {
+      "streak": 1,
+      "last_seen_date": "2026-09-05",
+      "summary": {
+        "what_it_does": "一个针对DirectX游戏的画面翻新与增强引擎，主要用于改善游戏视觉效果（如引入HDR支持等）。",
+        "configuration": "需要Windows操作系统、支持DirectX的显卡及驱动、相应的游戏程序，以及可能需要的图形调试或配置工具。"
       }
     }
   }
