@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-08",
+  "last_run_date": "2026-09-09",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 8,
-      "last_seen_date": "2026-09-08",
+      "streak": 9,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "streak": 2,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -115,7 +115,7 @@
     },
     "obra/superpowers": {
       "streak": 1,
-      "last_seen_date": "2026-09-04",
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -539,7 +539,7 @@
     },
     "openai/plugins": {
       "streak": 1,
-      "last_seen_date": "2026-07-12",
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
         "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 5,
-      "last_seen_date": "2026-09-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "streak": 2,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1795,7 +1795,7 @@
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "streak": 1,
-      "last_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
@@ -1970,8 +1970,8 @@
       }
     },
     "coreyhaines31/marketingskills": {
-      "streak": 2,
-      "last_seen_date": "2026-09-08",
+      "streak": 3,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "为 Claude Code 和其他 AI 智能体提供营销技能工具包，涵盖转化率优化（CRO）、文案写作、SEO、数据分析和增长工程等领域。",
         "configuration": "需要运行 Claude Code 或兼容的 AI 智能体环境，可能需要 Node.js 开发环境来集成这些技能，以及配置相应的 API 凭证。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 13,
-      "last_seen_date": "2026-09-08",
+      "streak": 14,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 11,
-      "last_seen_date": "2026-08-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 3,
-      "last_seen_date": "2026-09-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3770,8 +3770,8 @@
       }
     },
     "multica-ai/andrej-karpathy-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-08-26",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
         "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 5,
-      "last_seen_date": "2026-09-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3875,10 +3875,10 @@
     },
     "browser-use/browser-use": {
       "streak": 1,
-      "last_seen_date": "2026-08-27",
+      "last_seen_date": "2026-09-09",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "使 AI 代理（Agents）能够像人类一样直接操作和交互网页浏览器，以执行各种网页自动化任务。",
+        "configuration": "需要 Python 运行环境，安装相关的浏览器自动化依赖（如 Playwright），以及用于驱动 Agent 的大语言模型（LLM）API 密钥。"
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
@@ -4106,8 +4106,8 @@
       }
     },
     "Imbad0202/academic-research-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-09-04",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "专为 Claude Code 命令行工具设计的学术研究技能提示词与工作流，涵盖了学术研究、论文写作、评审、修改到最终定稿的完整生命周期。",
         "configuration": "需要安装并配置好 Claude Code 环境（基于 Node.js/NPM），并拥有有效的 Anthropic API 账号和调用权限。"
@@ -4122,8 +4122,8 @@
       }
     },
     "fmtlib/fmt": {
-      "streak": 6,
-      "last_seen_date": "2026-09-08",
+      "streak": 7,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个现代化且轻量级的 C++ 格式化库，提供安全、快速且易于使用的文本格式化功能，是 C++20 标准库 std::format 的基础。",
         "configuration": "需要支持 C++11 或更高版本的 C++ 编译器（如 GCC、Clang 或 MSVC），无需外部依赖，支持主流操作系统。"
@@ -4178,8 +4178,8 @@
       }
     },
     "blader/humanizer": {
-      "streak": 5,
-      "last_seen_date": "2026-09-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个 AI 智能体技能插件，专门用于消除文本中明显的 AI 生成痕迹，使文本风格更加符合人类的自然书写习惯。",
         "configuration": "需要 Python/Node.js 运行环境，以及用于文本润色和重写的 AI 语言模型（如 OpenAI）的 API 授权。"
@@ -4250,8 +4250,8 @@
       }
     },
     "openai/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-09-08",
+      "streak": 3,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "为 OpenAI Codex 提供技能目录，收集和整理了可用于 Codex 的各种技能示例、Prompt 模板和应用场景。",
         "configuration": "需要 Python 运行环境以及 OpenAI API Key（用于调用 Codex 接口和执行相关脚本）。"
@@ -4259,7 +4259,7 @@
     },
     "llvm/llvm-project": {
       "streak": 1,
-      "last_seen_date": "2026-09-07",
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个模块化和可重用的编译器与工具链技术的集合，包含 Clang、LLD、LLDB 等核心子项目。",
         "configuration": "需要 C++17 或更高版本的编译器（如 GCC、Clang 或 MSVC）、CMake 构建系统、Python（用于测试和辅助脚本）。编译庞大的代码库需要较强的 CPU 性能、充足的内存（建议 16GB 以上）及数十 GB 的存储空间。"
@@ -4282,8 +4282,8 @@
       }
     },
     "The-Swarm-Corporation/AutoHedge": {
-      "streak": 2,
-      "last_seen_date": "2026-09-08",
+      "streak": 3,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "一个用于快速构建自主运行对冲基金的平台。它利用群体智能和 AI 代理技术，实现市场分析、风险管理和交易执行的自动化。",
         "configuration": "需要 Python 运行环境、AI 接口密钥（如 OpenAI API key）、对接金融市场的交易 API 凭证，以及项目依赖的 Python 库。"
@@ -4298,24 +4298,24 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "streak": 2,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
       }
     },
     "jo-inc/camofox-browser": {
-      "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "streak": 2,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "专为 AI 智能体设计的防检测无头浏览器，可有效绕过 Cloudflare、机器人检测及反爬虫机制，作为 Puppeteer 或 Playwright 的直接替代品。",
         "configuration": "需要 Node.js 运行环境，以及 Puppeteer 或 Playwright 依赖库。"
       }
     },
     "MoonTechLab/LunaTV": {
-      "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "streak": 2,
+      "last_seen_date": "2026-09-09",
       "summary": {
         "what_it_does": "电视直播/视频播放客户端项目，采用 CC BY-NC-SA 协议开源，严禁任何商业化行为，衍生项目须保持开源并保留原项目地址。",
         "configuration": "通常需要 Android/TV 运行环境或对应的编译构建工具链，同时需遵守其特定的非商业开源协议。"
@@ -4327,6 +4327,14 @@
       "summary": {
         "what_it_does": "专为 AI 和自动化任务量身定制的高性能无头浏览器。",
         "configuration": "需要能够运行该无头浏览器的操作系统环境，以及用于自动化控制的 API 接口或相应的编程语言运行环境（如 Node.js/Python）。"
+      }
+    },
+    "viarotel-org/escrcpy": {
+      "streak": 1,
+      "last_seen_date": "2026-09-09",
+      "summary": {
+        "what_it_does": "一个基于 scrcpy 的图形化客户端，用于在电脑端直观地投屏、显示和控制安卓（Android）设备。",
+        "configuration": "需要支持 Windows、macOS 或 Linux 的电脑，开启了 USB 调试模式的安卓设备，以及 USB 数据线或无线局域网连接。"
       }
     }
   }
