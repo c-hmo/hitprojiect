@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-11",
+  "last_run_date": "2026-09-12",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 11,
-      "last_seen_date": "2026-09-11",
+      "streak": 12,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -466,8 +466,8 @@
       }
     },
     "github/spec-kit": {
-      "streak": 2,
-      "last_seen_date": "2026-08-16",
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个旨在帮助开发者快速上手规范驱动开发（Spec-Driven Development）的工具包。",
         "configuration": "通常需要现代软件开发环境，具体取决于所使用的编程语言。一般需要包管理器（如 npm/yarn 或 pip）、Node.js 运行环境以及相关的编辑器/IDE 插件支持。"
@@ -538,8 +538,8 @@
       }
     },
     "openai/plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
         "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 16,
-      "last_seen_date": "2026-09-11",
+      "streak": 17,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2939,7 +2939,7 @@
     },
     "pascalorg/editor": {
       "streak": 1,
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个用于创建和分享 3D 建筑设计项目的在线或本地编辑器。",
         "configuration": "需要支持 WebGL 的现代浏览器。如果进行本地部署，可能需要 Node.js 环境及相关的 Web 前端构建工具。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -4178,8 +4178,8 @@
       }
     },
     "blader/humanizer": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 4,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个 AI 智能体技能插件，专门用于消除文本中明显的 AI 生成痕迹，使文本风格更加符合人类的自然书写习惯。",
         "configuration": "需要 Python/Node.js 运行环境，以及用于文本润色和重写的 AI 语言模型（如 OpenAI）的 API 授权。"
@@ -4226,8 +4226,8 @@
       }
     },
     "humanlayer/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-09-07",
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "为 AI 智能体（Agents）提供预构建的技能与工具库，通常与 Humanlayer 框架配合使用，用于在 AI 工作流中引入人工审批和干预（Human-in-the-loop）机制。",
         "configuration": "需要 Python 或 Node.js 运行环境，安装 humanlayer 核心 SDK，并配置相关大语言模型（如 OpenAI、Anthropic）的 API 密钥及 Humanlayer 的凭证。"
@@ -4250,8 +4250,8 @@
       }
     },
     "openai/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "为 OpenAI Codex 提供技能目录，收集和整理了可用于 Codex 的各种技能示例、Prompt 模板和应用场景。",
         "configuration": "需要 Python 运行环境以及 OpenAI API Key（用于调用 Codex 接口和执行相关脚本）。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4354,24 +4354,24 @@
       }
     },
     "vastsa/PI-Desktop": {
-      "streak": 2,
-      "last_seen_date": "2026-09-11",
+      "streak": 3,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个本地优先的 AI 辅助编程桌面客户端，结合了 Electron 前端、Rust 核心宿主、pi 智能体组件，并支持用户自主安装插件。",
         "configuration": "需要主流桌面操作系统（Windows、macOS 或 Linux）。开发与编译需要 Node.js (用于 Electron) 和 Rust 编译工具链。运行可能需要本地大模型环境（如 Ollama）或在线 AI API 密钥支持。"
       }
     },
     "alsk1992/CloddsBot": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个开源的自主 AI 交易代理，可在 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及 5 个 EVM 链等 1000 多个市场中自动寻找交易机会、执行交易和管理风险，并支持机器对机器的支付协议。",
         "configuration": "需要自托管部署。配置需要 Anthropic Claude API 密钥，以及各交易平台和区块链钱包的 API 密钥、私钥和网络节点连接。"
       }
     },
     "armory3d/armorpaint": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一款开源的 3D PBR（基于物理渲染）纹理贴图绘制与图形创作工具。",
         "configuration": "需要兼容 Windows、Linux 或 macOS 的操作系统，配备支持 Vulkan、DirectX 12、Metal 或 OpenGL 的中高端主流显卡。若从源码编译，需准备 Haxe 和 C++ 编译环境。"
@@ -4386,8 +4386,8 @@
       }
     },
     "nashsu/llm_wiki": {
-      "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "streak": 2,
+      "last_seen_date": "2026-09-12",
       "summary": {
         "what_it_does": "一个跨平台的桌面应用程序，能够自动将用户的本地文档增量构建并维护成一个结构化、互联的持久化 Wiki 知识库，无需每次从头进行传统的 RAG 检索。",
         "configuration": "支持 Windows、macOS 和 Linux 桌面操作系统。需要配置大语言模型（LLM）的 API 密钥（如 OpenAI）或本地运行的 LLM 接口，以及用于存储本地文档和 Wiki 数据的磁盘空间。"
@@ -4399,6 +4399,62 @@
       "summary": {
         "what_it_does": "一个用于 AI 智能体（Agent）技能的开源工具，允许开发者通过命令行工具（npx skills）来快速创建、管理和部署智能体的各种能力与动作。",
         "configuration": "需要安装 Node.js 运行环境（建议 LTS 版本，包含 npm/npx 命令行工具）。适用于主流操作系统（macOS、Linux、Windows），需要基本的互联网连接以通过 npx 运行，无特殊硬件要求。"
+      }
+    },
+    "nab138/iloader": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "一个用户友好的侧载（sideloader）工具，旨在简化在特定设备（通常是 iOS 设备）上安装第三方应用程序或未签名应用的过程。",
+        "configuration": "需要目标设备（如 iOS 手机）、数据连接线，以及运行该工具的电脑环境（通常支持 Windows 或 macOS），可能需要安装相关的设备驱动、签名证书或第三方签名工具支持。"
+      }
+    },
+    "melgarafael/DeskcommCRM": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "一个开源的 AI 销售操作系统与自托管 CRM 平台，内置原生 AI 代理并集成 WhatsApp（通过 WAHA）。它是 Kommo、Octadesk 和 Intercom 的开源替代方案，适用于通过聊天进行销售的业务，支持多租户和 LGPD 隐私合规，且兼容 MCP 协议。",
+        "configuration": "需要自托管服务器（推荐支持 Docker 的 Linux 环境）、Node.js 运行环境、数据库（如 PostgreSQL 或 MongoDB）、WhatsApp 接口服务（WAHA）以及用于驱动 AI 代理的大语言模型（LLM）API 密钥。"
+      }
+    },
+    "Sonarr/Sonarr": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "一款面向新闻组（Usenet）和 BitTorrent 用户的智能网络视频录像机（PVR）。它能监控多个 RSS 订阅源以获取新剧集，并进行自动查找、下载、重命名和整理分类。",
+        "configuration": "支持 Windows、macOS、Linux 操作系统，推荐使用 Docker 部署。需要 .NET 运行环境，并需要配置下载客户端（如 qBittorrent、SABnzbd）和媒体索引器（Indexer）。"
+      }
+    },
+    "jihe520/MathModelAgent": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "专为数学建模设计的 AI Agent，能够自动执行数学建模过程中的各种任务，并最终生成一份结构完整、可以直接提交的数学建模论文。",
+        "configuration": "需要 Python 运行环境（建议 3.10 及以上）、大语言模型 API 密钥（如 OpenAI 或其他兼容接口）、用于数学计算和画图的 Python 依赖库（如 NumPy, Matplotlib 等），以及用于渲染生成 PDF 论文的 LaTeX 编译环境。"
+      }
+    },
+    "p1neappleXpress/OpenFlux": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "一个网络协议栈研究工具，主要功能是提供支持可插拔传输协议的 TCP 隧道。",
+        "configuration": "通常需要 Go、Rust 或 Python 编译运行环境（具体取决于项目源码语言），具备网络访问及配置权限，可能需要管理员权限以建立网络隧道。"
+      }
+    },
+    "jordan-gibbs/hyperresearch": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "一个智能体（Agent）驱动的研究知识库。智能体能够自动在网页上搜集、搜索并合成研究内容，最终构建出持久化、可检索的 Wiki 知识库。",
+        "configuration": "需要 Python 运行环境，兼容的大语言模型 API 密钥（如 OpenAI API Key）以驱动智能体，联网环境以便智能体检索网页，以及本地或云端数据库来持久化存储 Wiki 数据。"
+      }
+    },
+    "alphaXiv/OpenResearch": {
+      "streak": 1,
+      "last_seen_date": "2026-09-12",
+      "summary": {
+        "what_it_does": "允许用户使用任意大语言模型（LLM）来运行并行的研究智能体（Research Agents）。",
+        "configuration": "需要 Python 环境，所需大模型（如 OpenAI、Anthropic 或本地部署模型）的 API 接入权限/密钥，以及支持并行多任务运行的计算和网络资源。"
       }
     }
   }
