@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-14",
+  "last_run_date": "2026-09-15",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -59,15 +59,15 @@
     },
     "ruvnet/RuView": {
       "streak": 1,
-      "last_seen_date": "2026-08-11",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
       }
     },
     "affaan-m/ECC": {
-      "streak": 14,
-      "last_seen_date": "2026-09-14",
+      "streak": 15,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -106,8 +106,8 @@
       }
     },
     "microsoft/markitdown": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "微软开源的 Python 工具，用于将各种日常文件和 Office 文档（如 Word、Excel、PDF 等）高效转换为 Markdown 格式。",
         "configuration": "需要 Python 3.x 环境，通过 pip 安装相关依赖包即可使用。"
@@ -203,7 +203,7 @@
     },
     "Crosstalk-Solutions/project-nomad": {
       "streak": 1,
-      "last_seen_date": "2026-07-13",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个独立且离线的生存计算机系统项目（Project N.O.M.A.D），集成了关键工具、知识库和离线 AI，确保在无网环境下也能提供信息和算力支持。",
         "configuration": "需要特定的硬件设备（如单板计算机树莓派或 Mini PC）、Linux 操作系统、离线 AI 大模型及相关离线工具集。"
@@ -219,7 +219,7 @@
     },
     "OpenBMB/VoxCPM": {
       "streak": 1,
-      "last_seen_date": "2026-06-17",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "VoxCPM2 是一款无 Tokenizer 的文本转语音（TTS）模型，支持多语言语音生成、创意声音设计和高逼真度声音克隆。",
         "configuration": "Python 环境，深度学习框架（如 PyTorch），需要支持 CUDA 的高性能 GPU 以进行模型推理和训练，以及音频处理相关依赖库。"
@@ -331,7 +331,7 @@
     },
     "TauricResearch/TradingAgents": {
       "streak": 1,
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
         "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
@@ -379,7 +379,7 @@
     },
     "reconurge/flowsint": {
       "streak": 1,
-      "last_seen_date": "2026-06-05",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个专为网络安全分析师和调查人员设计的、基于图（Graph）的可视化网络安全调查与分析平台，具有高度的灵活性和可扩展性。",
         "configuration": "需要 Web 前端运行环境、后端服务环境（通常为 Docker、Node.js 或 Python 运行环境）以及用于存储和查询图数据的数据库支持。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 2,
-      "last_seen_date": "2026-08-04",
+      "streak": 1,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -531,15 +531,15 @@
     },
     "666ghj/MiroFish": {
       "streak": 1,
-      "last_seen_date": "2026-08-08",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个简洁且通用的群体智能（Swarm Intelligence）引擎，旨在通过群体协同算法来进行各种事件和数据的预测。",
         "configuration": "需要 Python 运行环境，以及相关的数学计算、数据处理或机器学习依赖库（如 NumPy、Pandas 等）。"
       }
     },
     "openai/plugins": {
-      "streak": 6,
-      "last_seen_date": "2026-09-14",
+      "streak": 7,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "OpenAI 官方的插件开发示例、文档和规范库，用于帮助开发者创建、集成和部署适用于 ChatGPT 的自定义插件。",
         "configuration": "需要 Web 服务托管环境（用于托管插件的 manifest 和 API 接口），支持 OpenAPI 规范，需要 Python 或 Node.js 等开发语言，以及 OpenAI 开发者账号与 API Key。"
@@ -1050,8 +1050,8 @@
       }
     },
     "asgeirtj/system_prompts_leaks": {
-      "streak": 2,
-      "last_seen_date": "2026-09-14",
+      "streak": 3,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "收集并分享各大主流 AI 模型及工具（如 Anthropic Claude, OpenAI ChatGPT, Google Gemini, Grok, Cursor, Copilot 等）被提取或泄露的系统提示词（System Prompts）。",
         "configuration": "该项目为纯文本和 Markdown 文档仓库，无需特定的代码运行环境，只需浏览器或 Markdown 阅读器即可查看。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 2,
-      "last_seen_date": "2026-09-14",
+      "streak": 3,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -2402,8 +2402,8 @@
       }
     },
     "tt-a1i/archify": {
-      "streak": 19,
-      "last_seen_date": "2026-09-14",
+      "streak": 20,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个旨在帮助 AI Agent 生成美观架构图的技能工具，支持深色和浅色主题切换，并可将生成的架构图导出为 PNG、JPEG、WebP 及 SVG 格式。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，以及用于渲染图形的相关前端/后端依赖库。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 6,
-      "last_seen_date": "2026-09-14",
+      "streak": 7,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3402,8 +3402,8 @@
       }
     },
     "huggingface/transformers": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个领先的深度学习框架，为文本、视觉、音频和多模态任务提供最先进的前沿预训练模型，支持模型的快速推理、训练、微调和部署。",
         "configuration": "需要 Python 环境，以及主流深度学习后端（如 PyTorch、TensorFlow 或 Flax）。对于大规模模型的训练或推理，通常需要配置高性能 NVIDIA GPU 及其 CUDA 环境以提供算力支持。"
@@ -3475,7 +3475,7 @@
     },
     "localsend/localsend": {
       "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个开源的跨平台局域网文件传输工具，是 AirDrop（隔空投送）的跨平台替代方案，支持免服务器直接传输。",
         "configuration": "支持 Windows、macOS、Linux、iOS、Android 等多终端平台，只需在同一局域网内的设备上安装运行对应的客户端即可，基于 Flutter 开发。"
@@ -3810,8 +3810,8 @@
       }
     },
     "dani-garcia/vaultwarden": {
-      "streak": 2,
-      "last_seen_date": "2026-08-25",
+      "streak": 1,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个用 Rust 编写的非官方 Bitwarden 密码管理器兼容服务器。它轻量高效，支持自行托管，可实现密码、凭据等敏感信息的安全存储与同步，支持官方客户端的大部分功能。",
         "configuration": "通常推荐通过 Docker 部署。由于安全限制，必须配置 HTTPS（需配合 Nginx、Caddy 或 Traefik 等反向代理及 SSL 证书）。默认内置 SQLite 数据库，也支持 PostgreSQL 和 MySQL。对硬件配置要求极低，极小内存即可顺畅运行，非常适合树莓派或低配 VPS。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 6,
-      "last_seen_date": "2026-09-14",
+      "streak": 7,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 4,
-      "last_seen_date": "2026-09-14",
+      "streak": 5,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4250,8 +4250,8 @@
       }
     },
     "openai/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-09-14",
+      "streak": 5,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "为 OpenAI Codex 提供技能目录，收集和整理了可用于 Codex 的各种技能示例、Prompt 模板和应用场景。",
         "configuration": "需要 Python 运行环境以及 OpenAI API Key（用于调用 Codex 接口和执行相关脚本）。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 4,
-      "last_seen_date": "2026-09-14",
+      "streak": 5,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4378,8 +4378,8 @@
       }
     },
     "JustVugg/colibri": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个超轻量级的 MoE（混合专家）大模型推理引擎，采用纯 C 语言编写，无任何第三方依赖。它通过直接从磁盘流式传输专家权重，让用户在现有的消费级硬件上运行前沿的巨量模型。",
         "configuration": "仅需标准的 C 语言编译环境（如 GCC 或 Clang），无需 GPU 或复杂的深度学习依赖库。为了保证流式传输性能，建议配备读取速度较快的固态硬盘（SSD）。"
@@ -4466,16 +4466,16 @@
       }
     },
     "SnailSploit/Claude-Red": {
-      "streak": 2,
-      "last_seen_date": "2026-09-14",
+      "streak": 3,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "专为 Claude 技能（Skills）系统设计的攻击性安全技能库。通过结构化的 Markdown 文件，赋予 Claude 在 SQL 注入、shellcode 编写、EDR 规避及漏洞利用开发等特定安全领域的专家级方法论。",
         "configuration": "Claude 平台账号/API 访问权限，以及支持导入自定义技能（Skills）的系统环境。"
       }
     },
     "multimodal-art-projection/YuE": {
-      "streak": 2,
-      "last_seen_date": "2026-09-14",
+      "streak": 3,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "前沿音乐生成模型，支持符号规划、零样本翻唱以及智能代理式（agentic）音乐编辑功能。",
         "configuration": "Python 3 运行环境、PyTorch 深度学习框架、相关依赖库（如 Transformers），以及推荐的高性能 NVIDIA GPU（用于大模型推理和微调）。"
@@ -4490,16 +4490,16 @@
       }
     },
     "ever-co/ever-gauzy": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个开源的企业业务管理平台，集成了 ERP（企业资源计划）、CRM（客户关系管理）、HRM（人力资源管理）、ATS（招聘追踪系统）和 PM（项目管理）等功能。",
         "configuration": "需要 Node.js 运行环境，基于 NestJS (TypeScript) 和 Angular/React 构建。需要配置关系型数据库（如 PostgreSQL、MySQL 或 SQLite）以及相应的服务器托管环境。"
       }
     },
     "tech-leads-club/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "streak": 2,
+      "last_seen_date": "2026-09-15",
       "summary": {
         "what_it_does": "一个针对专业 AI 编程助手（如 Claude Code、Cursor、Copilot、Antigravity 等）的安全、经过验证的技能注册表，用于安全可靠地扩展 AI 的编码技能。",
         "configuration": "需要 Node.js/TypeScript 开发环境，以及对应的 AI 编程工具集成环境与相关的 API 密钥配置。"
@@ -4527,6 +4527,22 @@
       "summary": {
         "what_it_does": "一个高颜值的终端模拟器，完美模拟了旧式阴极射线管（CRT）显示器的视觉效果，具有复古的屏幕闪烁、扫描线、噪点和色彩偏移等特效。",
         "configuration": "支持 Linux 和 macOS 系统。基于 QML 和 C++ 开发，运行需要 Qt5/Qt6 运行环境及相关的 QML 模块。硬件上需要支持 OpenGL 的显卡以运行其实时渲染的复古特效。"
+      }
+    },
+    "rlaope/oh-my-hermes": {
+      "streak": 1,
+      "last_seen_date": "2026-09-15",
+      "summary": {
+        "what_it_does": "这是一个针对 Hermes Agent（编程智能体）的多合一插件，集成了长期记忆系统和专门针对模型优化的高效工作流包，旨在提升编码智能体验。",
+        "configuration": "需要已部署的 Hermes Agent 运行环境，以及支持该智能体的相关大语言模型（LLM）配置和对应的开发环境（如 Python/Node.js 等）。"
+      }
+    },
+    "peetzweg/opendisplay": {
+      "streak": 1,
+      "last_seen_date": "2026-09-15",
+      "summary": {
+        "what_it_does": "一个免费且开源的 Sidecar/Duet 替代方案，允许用户通过 USB 或 WiFi 将 iPhone 或 iPad 作为 Mac 的真正第二显示器使用，支持低延迟 H.264 视频编码、Retina HiDPI 分辨率以及触摸输入。",
+        "configuration": "需要一台 Mac 电脑（运行 macOS）和一台 iOS 设备（iPhone/iPad），支持通过 USB 数据线或局域网 WiFi 进行连接，并在两端设备上安装对应的客户端软件。"
       }
     }
   }
