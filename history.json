@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-18",
+  "last_run_date": "2026-09-19",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-09-18",
+      "streak": 3,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 18,
-      "last_seen_date": "2026-09-18",
+      "streak": 19,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 2,
-      "last_seen_date": "2026-09-18",
+      "streak": 3,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -290,8 +290,8 @@
       }
     },
     "supermemoryai/supermemory": {
-      "streak": 9,
-      "last_seen_date": "2026-06-09",
+      "streak": 1,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个极速、可扩展的记忆引擎和应用程序，旨在为 AI 时代提供长期记忆与知识检索的“记忆 API”。",
         "configuration": "需要 Node.js/TypeScript 运行环境、向量数据库或关系型数据库支持，以及配置对接主流大模型（如 OpenAI 等）的 API 密钥。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-09-18",
+      "streak": 4,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1603,7 +1603,7 @@
     },
     "Fission-AI/OpenSpec": {
       "streak": 1,
-      "last_seen_date": "2026-06-28",
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
@@ -1891,7 +1891,7 @@
     },
     "supabase/supabase": {
       "streak": 1,
-      "last_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个开源的 Firebase 替代方案和 Postgres 开发平台。它为开发者提供专用的 PostgreSQL 数据库、身份验证、自动生成的 RESTful API、实时订阅、存储服务和边缘函数，用于快速构建 Web、移动和 AI 应用程序。",
         "configuration": "本地运行与开发需要安装 Docker 和 Docker Compose，以及 Node.js 环境。应用集成需要对应语言的 SDK（支持 JavaScript/TypeScript, Python, Go, Flutter 等）。自托管部署需要 Linux 服务器环境以及适当的硬件配置（建议至少 1 核 2GB 内存起步）。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 10,
-      "last_seen_date": "2026-09-18",
+      "streak": 11,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2675,7 +2675,7 @@
     },
     "tradesdontlie/tradingview-mcp": {
       "streak": 1,
-      "last_seen_date": "2026-07-22",
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "AI 辅助的 TradingView 图表分析工具，利用 MCP（模型上下文协议）将 Claude Code 与 TradingView 桌面端连接，实现个人交易工作流的自动化。",
         "configuration": "需要安装 Claude Code、TradingView Desktop 桌面客户端，以及支持 MCP 协议的运行环境（通常需要 Node.js 或 Python 依赖支持）。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 5,
-      "last_seen_date": "2026-09-18",
+      "streak": 6,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3859,7 +3859,7 @@
     },
     "asciimoo/hister": {
       "streak": 1,
-      "last_seen_date": "2026-08-26",
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个用于搭建和运行个人专属搜索引擎的开源系统。",
         "configuration": "需要 Go 语言编译与运行环境、网络连接，以及用于存储和索引数据的本地或服务器存储空间。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 8,
-      "last_seen_date": "2026-09-18",
+      "streak": 9,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 8,
-      "last_seen_date": "2026-09-18",
+      "streak": 9,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 3,
-      "last_seen_date": "2026-09-18",
+      "streak": 4,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -4570,16 +4570,16 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 2,
-      "last_seen_date": "2026-09-18",
+      "streak": 3,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 2,
-      "last_seen_date": "2026-09-18",
+      "streak": 3,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4595,7 +4595,7 @@
     },
     "ankitects/anki": {
       "streak": 1,
-      "last_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一款基于间隔重复（Spaced Repetition）算法的智能记忆卡片（闪卡）软件，帮助用户高效记忆各种学科和专业知识。",
         "configuration": "支持 Windows、macOS、Linux、iOS 和 Android 客户端。如需从源码编译开发，则需要 Python 3.9+、Rust 编译器、Node.js 运行环境以及 Qt/PyQt 图形库支持。"
@@ -4610,8 +4610,8 @@
       }
     },
     "Tencent/BrowserSkill": {
-      "streak": 1,
-      "last_seen_date": "2026-09-18",
+      "streak": 2,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "允许 AI 智能体（Agent）在不干扰用户工作的前提下，安全地使用用户已登录的真实浏览器进行自动化操作。它通过 CLI 工具和浏览器扩展，兼容任何具备 Shell 执行能力的 AI 智能体。",
         "configuration": "需要安装该项目的 CLI 工具（通常依赖 Node.js 运行环境）、配套的浏览器扩展（如 Chrome 扩展），以及一个支持执行 Shell 命令的 AI 智能体运行环境。"
@@ -4626,19 +4626,35 @@
       }
     },
     "TencentCloud/Octop": {
-      "streak": 1,
-      "last_seen_date": "2026-09-18",
+      "streak": 2,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "一个更智能的自托管 AI 助手系统，支持多用户管理和多智能体（Multi-Agent）协同，帮助用户或团队在私有环境中构建专属的 AI 助手。",
         "configuration": "需要提供自托管的服务器环境（推荐使用 Docker / Docker Compose 部署），并需配置大语言模型（LLM）的 API Key（如 OpenAI 或其他主流模型平台）。"
       }
     },
     "coder/coder": {
-      "streak": 1,
-      "last_seen_date": "2026-09-18",
+      "streak": 2,
+      "last_seen_date": "2026-09-19",
       "summary": {
         "what_it_does": "为人类开发者及其 AI 智能体提供安全、隔离且一致的云端/远程开发环境，支持统一的资源管理和权限控制。",
         "configuration": "需要一台用于部署 Coder 服务的主机（支持 Kubernetes、Docker 或直接在虚拟机上运行），并需要安装 Terraform 用于定义和置备开发环境模板。"
+      }
+    },
+    "rustfs/rustfs": {
+      "streak": 1,
+      "last_seen_date": "2026-09-19",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "ahmedkhaleel2004/gitdiagram": {
+      "streak": 1,
+      "last_seen_date": "2026-09-19",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
       }
     }
   }
