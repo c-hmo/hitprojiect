@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-19",
+  "last_run_date": "2026-09-20",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-09-19",
+      "streak": 4,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 19,
-      "last_seen_date": "2026-09-19",
+      "streak": 20,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 3,
-      "last_seen_date": "2026-09-19",
+      "streak": 4,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 4,
-      "last_seen_date": "2026-09-19",
+      "streak": 5,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1019,7 +1019,7 @@
     },
     "trycua/cua": {
       "streak": 1,
-      "last_seen_date": "2026-07-20",
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个用于开发、训练和评估“计算机使用代理（Computer-Use Agents）”的开源基础设施，提供沙箱、SDK 和基准测试工具，使 AI 智能体能够控制完整的桌面系统（macOS, Linux, Windows）。",
         "configuration": "需要支持运行安全沙箱（如 Docker 或虚拟机容器）的主机环境，兼容 macOS、Linux 和 Windows 系统，以及用于集成代理的 Python 或相关语言的 SDK 开发环境。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 11,
-      "last_seen_date": "2026-09-19",
+      "streak": 12,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 6,
-      "last_seen_date": "2026-09-19",
+      "streak": 7,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3467,7 +3467,7 @@
     },
     "ZuodaoTech/everyone-can-use-english": {
       "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个面向大众的开源英语学习与应用教程，旨在帮助大家在实际场景中学会使用英语。",
         "configuration": "无需特殊的软硬件配置，只需浏览器、Markdown 阅读器或支持 Git 的环境即可阅读和学习。"
@@ -3490,8 +3490,8 @@
       }
     },
     "cactus-compute/needle": {
-      "streak": 9,
-      "last_seen_date": "2026-08-21",
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个专门为手机、可穿戴设备、智能家居和机器人等微型/边缘设备设计的 14MB 超轻量级基础大模型。",
         "configuration": "适用于低算力、低内存的硬件环境。部署通常需要支持移动端或嵌入式端推理的运行环境（如 C++、Python、ONNX Runtime 等），无需昂贵的 GPU，常规边缘设备芯片即可运行。"
@@ -3858,8 +3858,8 @@
       }
     },
     "asciimoo/hister": {
-      "streak": 1,
-      "last_seen_date": "2026-09-19",
+      "streak": 2,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个用于搭建和运行个人专属搜索引擎的开源系统。",
         "configuration": "需要 Go 语言编译与运行环境、网络连接，以及用于存储和索引数据的本地或服务器存储空间。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 9,
-      "last_seen_date": "2026-09-19",
+      "streak": 10,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 9,
-      "last_seen_date": "2026-09-19",
+      "streak": 10,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 4,
-      "last_seen_date": "2026-09-19",
+      "streak": 5,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -4570,16 +4570,16 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 3,
-      "last_seen_date": "2026-09-19",
+      "streak": 4,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-09-19",
+      "streak": 4,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4634,8 +4634,8 @@
       }
     },
     "coder/coder": {
-      "streak": 2,
-      "last_seen_date": "2026-09-19",
+      "streak": 3,
+      "last_seen_date": "2026-09-20",
       "summary": {
         "what_it_does": "为人类开发者及其 AI 智能体提供安全、隔离且一致的云端/远程开发环境，支持统一的资源管理和权限控制。",
         "configuration": "需要一台用于部署 Coder 服务的主机（支持 Kubernetes、Docker 或直接在虚拟机上运行），并需要安装 Terraform 用于定义和置备开发环境模板。"
@@ -4655,6 +4655,54 @@
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
+      }
+    },
+    "Open-Dev-Society/OpenStock": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "一个开源的金融市场平台，旨在作为昂贵商业平台的替代方案。支持实时价格跟踪、个性化提醒设置以及深入的公司数据分析，完全免费且开源。",
+        "configuration": "通常需要 Python 或 Node.js 运行环境、数据库（如 PostgreSQL/Redis）用于存储用户数据，以及金融数据源的 API 密钥以获取实时数据。"
+      }
+    },
+    "higgsfield-ai/higgsfield": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "一个具有容错性、高扩展性的 GPU 编排系统和机器学习框架，专为训练拥有数十亿到数万亿参数的超大规模 AI 模型而设计。",
+        "configuration": "需要高性能 GPU 集群（如 NVIDIA A100/H100）、Linux 操作系统、CUDA 工具包、C++ 编译器以及 Python 机器学习运行环境。"
+      }
+    },
+    "docling-project/docling": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "一个文档解析和准备工具，专门用于将各种格式的文档（如 PDF）转换为适合生成式 AI（GenAI）和 RAG（检索增强生成）系统使用的格式。",
+        "configuration": "需要 Python 3.9+ 运行环境，支持在主流操作系统（Windows, macOS, Linux）上运行。虽然可以在 CPU 上工作，但推荐配备 GPU 以加速 OCR 和布局分析。"
+      }
+    },
+    "cloudflare/quiche": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "由 Cloudflare 开发的 QUIC 传输协议和 HTTP/3 的 Rust 语言高效实现，可用于构建高性能的网络应用。",
+        "configuration": "需要 Rust 编译环境（rustc 和 cargo），以及用于编译其底层加密库（如 BoringSSL）的 C 编译器和 CMake。支持跨平台部署。"
+      }
+    },
+    "ruanyf/weekly": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "这是一个科技爱好者周刊，每周五发布，主要分享科技、开发、设计等领域的新闻、实用工具和网络资源。",
+        "configuration": "该项目主要为 Markdown 文档集合，无需特殊的运行环境、编程语言依赖或硬件配置，只需任意支持 Markdown 格式的阅读器、文本编辑器或网页浏览器即可查看。"
+      }
+    },
+    "yynxxxxx/Codex-X": {
+      "streak": 1,
+      "last_seen_date": "2026-09-20",
+      "summary": {
+        "what_it_does": "这是一个用于 OpenAI Codex 的跨平台桌面端和命令行（CLI）可视化辅助工具，支持 API/Provider 切换、会话同步、提示词注入、Skills/MCP 管理以及 TOML 配置可视化等功能。",
+        "configuration": "需要跨平台操作系统（Windows/macOS/Linux）。通常需要 Node.js 运行环境与相关的依赖包管理器（如 npm/pnpm/yarn），并且运行需要配置 OpenAI 开发者 API 密钥（或兼容的第三方服务凭证）以及 TOML 配置文件。"
       }
     }
   }
