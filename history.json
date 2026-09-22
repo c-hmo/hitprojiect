@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-21",
+  "last_run_date": "2026-09-22",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 5,
-      "last_seen_date": "2026-09-21",
+      "streak": 6,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 21,
-      "last_seen_date": "2026-09-21",
+      "streak": 22,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 5,
-      "last_seen_date": "2026-09-21",
+      "streak": 6,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -203,7 +203,7 @@
     },
     "Crosstalk-Solutions/project-nomad": {
       "streak": 1,
-      "last_seen_date": "2026-09-15",
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个独立且离线的生存计算机系统项目（Project N.O.M.A.D），集成了关键工具、知识库和离线 AI，确保在无网环境下也能提供信息和算力支持。",
         "configuration": "需要特定的硬件设备（如单板计算机树莓派或 Mini PC）、Linux 操作系统、离线 AI 大模型及相关离线工具集。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 6,
-      "last_seen_date": "2026-09-21",
+      "streak": 7,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1018,8 +1018,8 @@
       }
     },
     "trycua/cua": {
-      "streak": 2,
-      "last_seen_date": "2026-09-21",
+      "streak": 3,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个用于开发、训练和评估“计算机使用代理（Computer-Use Agents）”的开源基础设施，提供沙箱、SDK 和基准测试工具，使 AI 智能体能够控制完整的桌面系统（macOS, Linux, Windows）。",
         "configuration": "需要支持运行安全沙箱（如 Docker 或虚拟机容器）的主机环境，兼容 macOS、Linux 和 Windows 系统，以及用于集成代理的 Python 或相关语言的 SDK 开发环境。"
@@ -1274,8 +1274,8 @@
       }
     },
     "BuilderIO/agent-native": {
-      "streak": 1,
-      "last_seen_date": "2026-09-21",
+      "streak": 2,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个用于构建“智能体原生”（agent-native）应用程序的开发框架，简化了围绕 AI Agent 核心构建应用的过程。",
         "configuration": "需要 Node.js 或 JavaScript/TypeScript 运行环境，并需要配置用于连接大语言模型（LLM）的 API 密钥。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 2,
-      "last_seen_date": "2026-08-13",
+      "streak": 1,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -2266,8 +2266,8 @@
       }
     },
     "home-assistant/core": {
-      "streak": 1,
-      "last_seen_date": "2026-09-21",
+      "streak": 2,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个开源的智能家居自动化系统，专注于本地控制和用户隐私保护，支持接入和统一管理各类智能家居设备。",
         "configuration": "需要 Python 运行环境（建议最新稳定版）或通过 Docker 容器部署。硬件上推荐使用树莓派（Raspberry Pi）、NAS 或其他各类主机，并需要网络连接以进行设备发现与控制。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 8,
-      "last_seen_date": "2026-09-21",
+      "streak": 9,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3602,8 +3602,8 @@
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 2,
-      "last_seen_date": "2026-08-26",
+      "streak": 1,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 11,
-      "last_seen_date": "2026-09-21",
+      "streak": 12,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4378,8 +4378,8 @@
       }
     },
     "JustVugg/colibri": {
-      "streak": 5,
-      "last_seen_date": "2026-09-18",
+      "streak": 1,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个超轻量级的 MoE（混合专家）大模型推理引擎，采用纯 C 语言编写，无任何第三方依赖。它通过直接从磁盘流式传输专家权重，让用户在现有的消费级硬件上运行前沿的巨量模型。",
         "configuration": "仅需标准的 C 语言编译环境（如 GCC 或 Clang），无需 GPU 或复杂的深度学习依赖库。为了保证流式传输性能，建议配备读取速度较快的固态硬盘（SSD）。"
@@ -4570,8 +4570,8 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 5,
-      "last_seen_date": "2026-09-21",
+      "streak": 6,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
@@ -4634,8 +4634,8 @@
       }
     },
     "coder/coder": {
-      "streak": 4,
-      "last_seen_date": "2026-09-21",
+      "streak": 5,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "为人类开发者及其 AI 智能体提供安全、隔离且一致的云端/远程开发环境，支持统一的资源管理和权限控制。",
         "configuration": "需要一台用于部署 Coder 服务的主机（支持 Kubernetes、Docker 或直接在虚拟机上运行），并需要安装 Terraform 用于定义和置备开发环境模板。"
@@ -4658,8 +4658,8 @@
       }
     },
     "Open-Dev-Society/OpenStock": {
-      "streak": 2,
-      "last_seen_date": "2026-09-21",
+      "streak": 3,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "一个开源的金融市场平台，旨在作为昂贵商业平台的替代方案。支持实时价格跟踪、个性化提醒设置以及深入的公司数据分析，完全免费且开源。",
         "configuration": "通常需要 Python 或 Node.js 运行环境、数据库（如 PostgreSQL/Redis）用于存储用户数据，以及金融数据源的 API 密钥以获取实时数据。"
@@ -4683,7 +4683,7 @@
     },
     "cloudflare/quiche": {
       "streak": 1,
-      "last_seen_date": "2026-09-20",
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "由 Cloudflare 开发的 QUIC 传输协议和 HTTP/3 的 Rust 语言高效实现，可用于构建高性能的网络应用。",
         "configuration": "需要 Rust 编译环境（rustc 和 cargo），以及用于编译其底层加密库（如 BoringSSL）的 C 编译器和 CMake。支持跨平台部署。"
@@ -4691,7 +4691,7 @@
     },
     "ruanyf/weekly": {
       "streak": 1,
-      "last_seen_date": "2026-09-20",
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "这是一个科技爱好者周刊，每周五发布，主要分享科技、开发、设计等领域的新闻、实用工具和网络资源。",
         "configuration": "该项目主要为 Markdown 文档集合，无需特殊的运行环境、编程语言依赖或硬件配置，只需任意支持 Markdown 格式的阅读器、文本编辑器或网页浏览器即可查看。"
@@ -4699,15 +4699,15 @@
     },
     "yynxxxxx/Codex-X": {
       "streak": 1,
-      "last_seen_date": "2026-09-20",
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "这是一个用于 OpenAI Codex 的跨平台桌面端和命令行（CLI）可视化辅助工具，支持 API/Provider 切换、会话同步、提示词注入、Skills/MCP 管理以及 TOML 配置可视化等功能。",
         "configuration": "需要跨平台操作系统（Windows/macOS/Linux）。通常需要 Node.js 运行环境与相关的依赖包管理器（如 npm/pnpm/yarn），并且运行需要配置 OpenAI 开发者 API 密钥（或兼容的第三方服务凭证）以及 TOML 配置文件。"
       }
     },
     "anthropics/financial-services": {
-      "streak": 1,
-      "last_seen_date": "2026-09-21",
+      "streak": 2,
+      "last_seen_date": "2026-09-22",
       "summary": {
         "what_it_does": "提供针对金融服务行业的 AI 示例、最佳实践和 Prompt 模板，帮助金融机构利用 Anthropic Claude 模型进行智能化应用开发。",
         "configuration": "需要 Python 3.x 运行环境、Anthropic API 密钥（API Key），以及相关的 Python 依赖包（如 anthropic、pandas 等）。"
@@ -4735,6 +4735,22 @@
       "summary": {
         "what_it_does": "一个生成式 UI（Generative UI）开发框架，旨在通过 JSON 结构动态定义、渲染和生成现代前端用户界面。",
         "configuration": "需要 Node.js（推荐 LTS 版本）运行环境，通常与 React 或 Next.js 框架搭配使用，通过 npm/yarn/pnpm 安装依赖，推荐部署于 Vercel 平台。"
+      }
+    },
+    "mvt-project/mvt": {
+      "streak": 1,
+      "last_seen_date": "2026-09-22",
+      "summary": {
+        "what_it_does": "移动设备取证工具包（Mobile Verification Toolkit），旨在对 iOS 和 Android 设备进行取证分析，帮助用户检测系统是否受到黑客攻击、间谍软件或其它安全威胁的侵害。",
+        "configuration": "需要 Python 3 运行环境，支持 macOS 和 Linux 系统。此外，需要安装一些系统级依赖库（如 libusb、sqlite3 等），以及用于分析 iOS/Android 的特定提取和备份工具。"
+      }
+    },
+    "zhouxiaoka/autoclip": {
+      "streak": 1,
+      "last_seen_date": "2026-09-22",
+      "summary": {
+        "what_it_does": "一款基于 AI 驱动的智能视频高光提取与自动剪辑的二创工具，能够自动识别并切分视频中的精彩瞬间。",
+        "configuration": "通常需要 Python 运行环境，用于视频处理的 FFmpeg 工具。由于涉及 AI 模型推理，建议配置具有 GPU 算力的硬件设备，并安装相关的深度学习框架和依赖库。"
       }
     }
   }
