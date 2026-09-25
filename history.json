@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-24",
+  "last_run_date": "2026-09-25",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -19,15 +19,15 @@
     },
     "rohitg00/ai-engineering-from-scratch": {
       "streak": 1,
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 8,
-      "last_seen_date": "2026-09-24",
+      "streak": 9,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 24,
-      "last_seen_date": "2026-09-24",
+      "streak": 25,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 1,
-      "last_seen_date": "2026-09-24",
+      "streak": 2,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 8,
-      "last_seen_date": "2026-09-24",
+      "streak": 9,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 9,
-      "last_seen_date": "2026-09-24",
+      "streak": 10,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 3,
-      "last_seen_date": "2026-09-24",
+      "streak": 4,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -2210,8 +2210,8 @@
       }
     },
     "davila7/claude-code-templates": {
-      "streak": 2,
-      "last_seen_date": "2026-09-24",
+      "streak": 3,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个用于配置和监控 Claude Code（Anthropic 的代码辅助工具）的命令行（CLI）工具。",
         "configuration": "需要 Node.js 运行环境，以及在本地安装并配置 Claude Code 与相关的 API 访问凭证。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 11,
-      "last_seen_date": "2026-09-24",
+      "streak": 12,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3586,8 +3586,8 @@
       }
     },
     "HKUDS/CLI-Anything": {
-      "streak": 1,
-      "last_seen_date": "2026-09-24",
+      "streak": 2,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "旨在将各种传统软件转化为适用于 AI Agent（智能体）的原生应用。通过 CLI-Hub 提供的统一命令行交互通道，使大语言模型（LLM）智能体能够无缝操控和调度各类软件系统。",
         "configuration": "通常需要 Python 3.8+ 运行环境，安装项目所需的依赖库，配置大语言模型（如 OpenAI 等）的 API 密钥，并在支持标准命令行操作的操作系统（如 Linux, macOS, Windows）下运行。"
@@ -4570,8 +4570,8 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 8,
-      "last_seen_date": "2026-09-24",
+      "streak": 9,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
@@ -4626,8 +4626,8 @@
       }
     },
     "TencentCloud/Octop": {
-      "streak": 2,
-      "last_seen_date": "2026-09-24",
+      "streak": 3,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个更智能的自托管 AI 助手系统，支持多用户管理和多智能体（Multi-Agent）协同，帮助用户或团队在私有环境中构建专属的 AI 助手。",
         "configuration": "需要提供自托管的服务器环境（推荐使用 Docker / Docker Compose 部署），并需配置大语言模型（LLM）的 API Key（如 OpenAI 或其他主流模型平台）。"
@@ -4706,8 +4706,8 @@
       }
     },
     "anthropics/financial-services": {
-      "streak": 4,
-      "last_seen_date": "2026-09-24",
+      "streak": 5,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "提供针对金融服务行业的 AI 示例、最佳实践和 Prompt 模板，帮助金融机构利用 Anthropic Claude 模型进行智能化应用开发。",
         "configuration": "需要 Python 3.x 运行环境、Anthropic API 密钥（API Key），以及相关的 Python 依赖包（如 anthropic、pandas 等）。"
@@ -4738,8 +4738,8 @@
       }
     },
     "mvt-project/mvt": {
-      "streak": 3,
-      "last_seen_date": "2026-09-24",
+      "streak": 4,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "移动设备取证工具包（Mobile Verification Toolkit），旨在对 iOS 和 Android 设备进行取证分析，帮助用户检测系统是否受到黑客攻击、间谍软件或其它安全威胁的侵害。",
         "configuration": "需要 Python 3 运行环境，支持 macOS 和 Linux 系统。此外，需要安装一些系统级依赖库（如 libusb、sqlite3 等），以及用于分析 iOS/Android 的特定提取和备份工具。"
@@ -4754,32 +4754,32 @@
       }
     },
     "dream-num/univer": {
-      "streak": 2,
-      "last_seen_date": "2026-09-24",
+      "streak": 3,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "一个面向 AI 智能体的统一办公套件运行环境，集成了电子表格、文档、幻灯片、画布、关系表和 PDF 等功能，便于智能体进行协同和内容处理。",
         "configuration": "需要 Node.js 运行环境（推荐 18+），包管理器（如 pnpm 或 npm），以及支持现代现代浏览器（Chrome、Safari 等）的前端开发环境。"
       }
     },
     "google/ax": {
-      "streak": 2,
-      "last_seen_date": "2026-09-24",
+      "streak": 3,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "谷歌开源的 AI 智能体编排运行时系统，用于构建、部署和管理多智能体协作的工作流与任务执行。",
         "configuration": "需要 Python 运行环境（推荐 Python 3.10+），相应的依赖库安装包，以及用于访问大语言模型（如 Gemini、OpenAI 等）的 API 密钥。"
       }
     },
     "superdesigndev/treg": {
-      "streak": 2,
-      "last_seen_date": "2026-09-24",
+      "streak": 3,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "面向 AI 智能体工具的开放路由分发平台，帮助智能体高效地统一发现、调用和管理各种第三方 API 及工具。",
         "configuration": "需要 Node.js/TypeScript 运行环境，配置相关的依赖包，以及连接和集成各个第三方工具 API 所需的对应访问凭证（API Keys）。"
       }
     },
     "strands-agents/harness-sdk": {
-      "streak": 1,
-      "last_seen_date": "2026-09-24",
+      "streak": 2,
+      "last_seen_date": "2026-09-25",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
@@ -4799,6 +4799,46 @@
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
+      }
+    },
+    "vectorize-io/hindsight": {
+      "streak": 1,
+      "last_seen_date": "2026-09-25",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "NVIDIA/Model-Optimizer": {
+      "streak": 1,
+      "last_seen_date": "2026-09-25",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "FxEmbed/FxEmbed": {
+      "streak": 1,
+      "last_seen_date": "2026-09-25",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "julyx10/lap": {
+      "streak": 1,
+      "last_seen_date": "2026-09-25",
+      "summary": {
+        "what_it_does": "一个离线优先的本地照片管理器，专门用于高效管理、索引和浏览大规模的本地照片库。",
+        "configuration": "支持主流操作系统（Windows、macOS、Linux）。若是从源码构建，通常需要 Rust 编译环境（Cargo）和前端构建工具（如 Node.js/pnpm）；运行需要足够的本地硬盘空间来存储照片及其缓存索引。"
+      }
+    },
+    "leejet/stable-diffusion.cpp": {
+      "streak": 1,
+      "last_seen_date": "2026-09-25",
+      "summary": {
+        "what_it_does": "一个使用纯 C/C++ 实现的轻量级扩散模型推理框架，支持 Stable Diffusion、Flux、Wan、Qwen Image 等多种图像生成模型的本地高效推理，无多余依赖。",
+        "configuration": "需要 C++ 编译器（如 GCC、Clang、MSVC）和 CMake 构建工具。支持 Windows、macOS 和 Linux。推荐配置 GPU 加速，如 NVIDIA (CUDA)、AMD (ROCm) 或 Apple Silicon (Metal)；此外需下载对应模型的权重文件（如 .safetensors 格式）。"
       }
     }
   }
