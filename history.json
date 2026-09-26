@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-25",
+  "last_run_date": "2026-09-26",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,16 +18,16 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 1,
-      "last_seen_date": "2026-09-25",
+      "streak": 2,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 9,
-      "last_seen_date": "2026-09-25",
+      "streak": 10,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 25,
-      "last_seen_date": "2026-09-25",
+      "streak": 26,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 2,
-      "last_seen_date": "2026-09-25",
+      "streak": 3,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -138,8 +138,8 @@
       }
     },
     "anthropics/claude-plugins-official": {
-      "streak": 7,
-      "last_seen_date": "2026-09-01",
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 9,
-      "last_seen_date": "2026-09-25",
+      "streak": 10,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-09-06",
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -315,7 +315,7 @@
     },
     "pbakaus/impeccable": {
       "streak": 1,
-      "last_seen_date": "2026-09-24",
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 10,
-      "last_seen_date": "2026-09-25",
+      "streak": 11,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-09-12",
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 4,
-      "last_seen_date": "2026-09-25",
+      "streak": 5,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 12,
-      "last_seen_date": "2026-09-25",
+      "streak": 13,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 3,
-      "last_seen_date": "2026-08-13",
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -4570,16 +4570,16 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 9,
-      "last_seen_date": "2026-09-25",
+      "streak": 10,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 5,
-      "last_seen_date": "2026-09-21",
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4706,8 +4706,8 @@
       }
     },
     "anthropics/financial-services": {
-      "streak": 5,
-      "last_seen_date": "2026-09-25",
+      "streak": 6,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "提供针对金融服务行业的 AI 示例、最佳实践和 Prompt 模板，帮助金融机构利用 Anthropic Claude 模型进行智能化应用开发。",
         "configuration": "需要 Python 3.x 运行环境、Anthropic API 密钥（API Key），以及相关的 Python 依赖包（如 anthropic、pandas 等）。"
@@ -4754,16 +4754,16 @@
       }
     },
     "dream-num/univer": {
-      "streak": 3,
-      "last_seen_date": "2026-09-25",
+      "streak": 4,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "一个面向 AI 智能体的统一办公套件运行环境，集成了电子表格、文档、幻灯片、画布、关系表和 PDF 等功能，便于智能体进行协同和内容处理。",
         "configuration": "需要 Node.js 运行环境（推荐 18+），包管理器（如 pnpm 或 npm），以及支持现代现代浏览器（Chrome、Safari 等）的前端开发环境。"
       }
     },
     "google/ax": {
-      "streak": 3,
-      "last_seen_date": "2026-09-25",
+      "streak": 4,
+      "last_seen_date": "2026-09-26",
       "summary": {
         "what_it_does": "谷歌开源的 AI 智能体编排运行时系统，用于构建、部署和管理多智能体协作的工作流与任务执行。",
         "configuration": "需要 Python 运行环境（推荐 Python 3.10+），相应的依赖库安装包，以及用于访问大语言模型（如 Gemini、OpenAI 等）的 API 密钥。"
@@ -4802,19 +4802,19 @@
       }
     },
     "vectorize-io/hindsight": {
-      "streak": 1,
-      "last_seen_date": "2026-09-25",
+      "streak": 2,
+      "last_seen_date": "2026-09-26",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "提供具有持续学习能力的 AI 智能体（Agent）记忆管理系统，帮助智能体在长期交互中积累、优化和检索记忆与经验。",
+        "configuration": "需要 Python 3.x 运行环境、大语言模型（LLM）API 密钥，以及用于向量存储和处理的相关依赖库。"
       }
     },
     "NVIDIA/Model-Optimizer": {
-      "streak": 1,
-      "last_seen_date": "2026-09-25",
+      "streak": 2,
+      "last_seen_date": "2026-09-26",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "英伟达推出的统一模型优化库，提供量化、蒸馏、剪枝、神经架构搜索（NAS）及投机解码等前沿的模型压缩技术，专门用于优化深度学习模型在 TensorRT-LLM、TensorRT、vLLM 等推理框架上的部署与运行速度。",
+        "configuration": "需要 NVIDIA GPU 硬件支持，安装有 CUDA 驱动和 Toolkit 的 Linux 运行环境，Python 开发环境，以及 PyTorch、TensorRT 等深度学习与推理依赖。"
       }
     },
     "FxEmbed/FxEmbed": {
@@ -4839,6 +4839,46 @@
       "summary": {
         "what_it_does": "一个使用纯 C/C++ 实现的轻量级扩散模型推理框架，支持 Stable Diffusion、Flux、Wan、Qwen Image 等多种图像生成模型的本地高效推理，无多余依赖。",
         "configuration": "需要 C++ 编译器（如 GCC、Clang、MSVC）和 CMake 构建工具。支持 Windows、macOS 和 Linux。推荐配置 GPU 加速，如 NVIDIA (CUDA)、AMD (ROCm) 或 Apple Silicon (Metal)；此外需下载对应模型的权重文件（如 .safetensors 格式）。"
+      }
+    },
+    "androoAGI/starnet": {
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
+      "summary": {
+        "what_it_does": "一个本地优先的桌面端 AI 智能体控制台，配有生动的像素艺术太空站界面，让用户可以可视化地观察并运行多个 AI 智能体协同完成实际任务。",
+        "configuration": "需要主流桌面操作系统（Windows/macOS/Linux）、用户自带的大模型 API 密钥（BYOK），以及运行该桌面应用所需的系统环境。"
+      }
+    },
+    "derv82/wifit3": {
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
+      "summary": {
+        "what_it_does": "一款跨平台的无线网络安全审计工具，是经典工具 Wifite 的分支版本，专注于通过外接 USB 无线网卡进行安全测试。",
+        "configuration": "需要 Python 运行环境、支持监听（Monitor）和数据包注入模式的外接 USB 无线网卡及相应的系统驱动。"
+      }
+    },
+    "kelseyhightower/kubernetes-the-hard-way": {
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
+      "summary": {
+        "what_it_does": "一套经典的 Kubernetes 纯手动搭建教程，指导用户在不使用自动化脚本的情况下，从零开始逐步引导和配置一个高可用的 K8s 集群。",
+        "configuration": "需要云平台（如 GCP、AWS）或本地的虚拟机资源（Linux 系统）、基本的网络配置权限，以及 cfssl、kubectl 等客户端命令行工具。"
+      }
+    },
+    "shy3130/tick-stock-panel": {
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
+      "summary": {
+        "what_it_does": "一个自托管、零运维的 A 股量化交易工作台。它集成了选股、监控和回测功能，并引入大语言模型（LLM）驱动策略定制、个股分析与复盘，支持自由接入第三方数据源与个性化数据扩展。",
+        "configuration": "需要自托管服务器或本地运行环境，Python 运行环境及相关依赖库，大语言模型（LLM）API 密钥，以及用于存储数据的数据库（如 SQLite 或其他支持的数据库）。"
+      }
+    },
+    "openbao/openbao": {
+      "streak": 1,
+      "last_seen_date": "2026-09-26",
+      "summary": {
+        "what_it_does": "一个开源的安全解决方案，用于统一管理、存储和分发敏感数据，包括机密（secrets）、证书、密码和密钥等。",
+        "configuration": "支持跨平台部署（Linux、Windows、macOS），通常基于 Go 语言运行环境，需要配置安全存储后端（如 Consul、数据库或受保护的本地文件系统）以及 SSL/TLS 证书以保障通信安全。"
       }
     }
   }
