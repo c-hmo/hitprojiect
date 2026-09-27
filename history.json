@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-26",
+  "last_run_date": "2026-09-27",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 2,
-      "last_seen_date": "2026-09-26",
+      "streak": 3,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 26,
-      "last_seen_date": "2026-09-26",
+      "streak": 27,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 10,
-      "last_seen_date": "2026-09-26",
+      "streak": 11,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 5,
-      "last_seen_date": "2026-09-26",
+      "streak": 6,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -2210,8 +2210,8 @@
       }
     },
     "davila7/claude-code-templates": {
-      "streak": 3,
-      "last_seen_date": "2026-09-25",
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个用于配置和监控 Claude Code（Anthropic 的代码辅助工具）的命令行（CLI）工具。",
         "configuration": "需要 Node.js 运行环境，以及在本地安装并配置 Claude Code 与相关的 API 访问凭证。"
@@ -2259,7 +2259,7 @@
     },
     "vercel/next.js": {
       "streak": 1,
-      "last_seen_date": "2026-08-06",
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "Next.js 是一个用于构建全栈 Web 应用程序的 React 框架。它支持服务端渲染（SSR）、静态生成（SSG）、客户端渲染（CSR）以及增量静态再生（ISR），并自带文件系统路由、API 路由和开箱即用的性能优化功能。",
         "configuration": "需要 Node.js 运行环境（推荐 18.17.0 或更高版本），以及包管理器（如 npm, yarn, pnpm 或 bun）。主要使用 JavaScript/TypeScript 语言开发，硬件方面无特殊高要求，标准开发配置即可。"
@@ -2787,7 +2787,7 @@
     },
     "block/buzz": {
       "streak": 1,
-      "last_seen_date": "2026-08-24",
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 13,
-      "last_seen_date": "2026-09-26",
+      "streak": 14,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3035,7 +3035,7 @@
     },
     "zhaoxuya520/reverse-skill": {
       "streak": 1,
-      "last_seen_date": "2026-09-01",
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个面向逆向工程、授权渗透测试和安全研究的 AI 辅助技能路由包。它提供 AI 自动路由、按需自举工具链以及自动进化的经验库，旨在增强 AI 编码客户端在安全领域的分析与实操能力。",
         "configuration": "需要支持的 AI 客户端（如 Claude Code、Kiro、Cursor、Cline 等），以及配置相应的 AI API 密钥和基础的安全测试/逆向分析运行环境。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 1,
-      "last_seen_date": "2026-09-26",
+      "streak": 2,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -4259,7 +4259,7 @@
     },
     "llvm/llvm-project": {
       "streak": 1,
-      "last_seen_date": "2026-09-09",
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个模块化和可重用的编译器与工具链技术的集合，包含 Clang、LLD、LLDB 等核心子项目。",
         "configuration": "需要 C++17 或更高版本的编译器（如 GCC、Clang 或 MSVC）、CMake 构建系统、Python（用于测试和辅助脚本）。编译庞大的代码库需要较强的 CPU 性能、充足的内存（建议 16GB 以上）及数十 GB 的存储空间。"
@@ -4570,16 +4570,16 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 10,
-      "last_seen_date": "2026-09-26",
+      "streak": 11,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-09-26",
+      "streak": 2,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4706,8 +4706,8 @@
       }
     },
     "anthropics/financial-services": {
-      "streak": 6,
-      "last_seen_date": "2026-09-26",
+      "streak": 7,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "提供针对金融服务行业的 AI 示例、最佳实践和 Prompt 模板，帮助金融机构利用 Anthropic Claude 模型进行智能化应用开发。",
         "configuration": "需要 Python 3.x 运行环境、Anthropic API 密钥（API Key），以及相关的 Python 依赖包（如 anthropic、pandas 等）。"
@@ -4754,8 +4754,8 @@
       }
     },
     "dream-num/univer": {
-      "streak": 4,
-      "last_seen_date": "2026-09-26",
+      "streak": 5,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个面向 AI 智能体的统一办公套件运行环境，集成了电子表格、文档、幻灯片、画布、关系表和 PDF 等功能，便于智能体进行协同和内容处理。",
         "configuration": "需要 Node.js 运行环境（推荐 18+），包管理器（如 pnpm 或 npm），以及支持现代现代浏览器（Chrome、Safari 等）的前端开发环境。"
@@ -4802,16 +4802,16 @@
       }
     },
     "vectorize-io/hindsight": {
-      "streak": 2,
-      "last_seen_date": "2026-09-26",
+      "streak": 3,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "提供具有持续学习能力的 AI 智能体（Agent）记忆管理系统，帮助智能体在长期交互中积累、优化和检索记忆与经验。",
         "configuration": "需要 Python 3.x 运行环境、大语言模型（LLM）API 密钥，以及用于向量存储和处理的相关依赖库。"
       }
     },
     "NVIDIA/Model-Optimizer": {
-      "streak": 2,
-      "last_seen_date": "2026-09-26",
+      "streak": 3,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "英伟达推出的统一模型优化库，提供量化、蒸馏、剪枝、神经架构搜索（NAS）及投机解码等前沿的模型压缩技术，专门用于优化深度学习模型在 TensorRT-LLM、TensorRT、vLLM 等推理框架上的部署与运行速度。",
         "configuration": "需要 NVIDIA GPU 硬件支持，安装有 CUDA 驱动和 Toolkit 的 Linux 运行环境，Python 开发环境，以及 PyTorch、TensorRT 等深度学习与推理依赖。"
@@ -4874,11 +4874,51 @@
       }
     },
     "openbao/openbao": {
-      "streak": 1,
-      "last_seen_date": "2026-09-26",
+      "streak": 2,
+      "last_seen_date": "2026-09-27",
       "summary": {
         "what_it_does": "一个开源的安全解决方案，用于统一管理、存储和分发敏感数据，包括机密（secrets）、证书、密码和密钥等。",
         "configuration": "支持跨平台部署（Linux、Windows、macOS），通常基于 Go 语言运行环境，需要配置安全存储后端（如 Consul、数据库或受保护的本地文件系统）以及 SSL/TLS 证书以保障通信安全。"
+      }
+    },
+    "tensorflow/tensorflow": {
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
+      "summary": {
+        "what_it_does": "一个开源的端到端机器学习与深度学习框架，支持构建、训练和部署各种复杂的 AI 模型。",
+        "configuration": "主要需要 Python 环境（也支持 C++ API）。为了高效进行模型训练，强烈建议配备支持 CUDA/cuDNN 的 NVIDIA GPU，以及充足的内存与存储空间。"
+      }
+    },
+    "microsoft/vscode": {
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
+      "summary": {
+        "what_it_does": "一款轻量级、跨平台且功能强大的开源源代码编辑器，支持代码调试、内置 Git 版本控制、智能代码补全（IntelliSense）及庞大的插件扩展生态。",
+        "configuration": "作为客户端可直接运行于 Windows、macOS 和 Linux。若需进行项目源码二次开发，则需要 Node.js、Python（用于构建依赖）和 C++ 编译器。"
+      }
+    },
+    "anthropics/claude-code-action": {
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
+      "summary": {
+        "what_it_does": "一个 GitHub Action 工具，旨在 GitHub CI/CD 工作流中集成并运行 Anthropic 的 Claude Code，实现自动化的代码审查、调试和代码修改。",
+        "configuration": "需要 GitHub Actions 工作流运行环境，并且必须在 GitHub Secrets 中配置 `ANTHROPIC_API_KEY`（Claude 接口密钥）以供调用。"
+      }
+    },
+    "actions/runner-images": {
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
+      "summary": {
+        "what_it_does": "包含用于创建 GitHub Actions 托管运行器（Ubuntu、Windows 和 macOS）虚拟环境映像的模板、配置和脚本。",
+        "configuration": "需要安装 HashiCorp Packer 工具。若要在本地或云端（如 Azure）生成这些虚拟机映像，需要相应的虚拟化平台或云服务账号凭证及权限。"
+      }
+    },
+    "mobile-next/mobile-mcp": {
+      "streak": 1,
+      "last_seen_date": "2026-09-27",
+      "summary": {
+        "what_it_does": "一个基于 Model Context Protocol (MCP) 的服务端，用于实现 iOS 和 Android 移动端（包括真机和模拟器）的自动化操作与数据抓取。",
+        "configuration": "需要 Node.js 运行环境。针对 Android 平台需要配置 Android SDK 和 ADB 工具；针对 iOS 平台则需要 macOS 环境、Xcode 编译工具链以及相关的移动端自动化驱动支持。"
       }
     }
   }
