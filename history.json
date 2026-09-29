@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-09-28",
+  "last_run_date": "2026-09-29",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 7,
-      "last_seen_date": "2026-09-28",
+      "streak": 8,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1834,8 +1834,8 @@
       }
     },
     "pytorch/pytorch": {
-      "streak": 1,
-      "last_seen_date": "2026-09-28",
+      "streak": 2,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个广泛应用于学术和工业界的开源深度学习框架，提供强大的 GPU 加速张量计算以及基于 Python 的动态神经网络构建能力。",
         "configuration": "需要 Python 环境（建议 3.8 及以上），支持 Windows、Linux 和 macOS 系统。若需启用强力的 GPU 加速，则需要 NVIDIA GPU 硬件支持以及对应的 CUDA 和 cuDNN 驱动程序。"
@@ -2210,8 +2210,8 @@
       }
     },
     "davila7/claude-code-templates": {
-      "streak": 2,
-      "last_seen_date": "2026-09-28",
+      "streak": 3,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个用于配置和监控 Claude Code（Anthropic 的代码辅助工具）的命令行（CLI）工具。",
         "configuration": "需要 Node.js 运行环境，以及在本地安装并配置 Claude Code 与相关的 API 访问凭证。"
@@ -2258,8 +2258,8 @@
       }
     },
     "vercel/next.js": {
-      "streak": 2,
-      "last_seen_date": "2026-09-28",
+      "streak": 3,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "Next.js 是一个用于构建全栈 Web 应用程序的 React 框架。它支持服务端渲染（SSR）、静态生成（SSG）、客户端渲染（CSR）以及增量静态再生（ISR），并自带文件系统路由、API 路由和开箱即用的性能优化功能。",
         "configuration": "需要 Node.js 运行环境（推荐 18.17.0 或更高版本），以及包管理器（如 npm, yarn, pnpm 或 bun）。主要使用 JavaScript/TypeScript 语言开发，硬件方面无特殊高要求，标准开发配置即可。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 3,
-      "last_seen_date": "2026-09-28",
+      "streak": 4,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -3586,8 +3586,8 @@
       }
     },
     "HKUDS/CLI-Anything": {
-      "streak": 1,
-      "last_seen_date": "2026-09-28",
+      "streak": 2,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "旨在将各种传统软件转化为适用于 AI Agent（智能体）的原生应用。通过 CLI-Hub 提供的统一命令行交互通道，使大语言模型（LLM）智能体能够无缝操控和调度各类软件系统。",
         "configuration": "通常需要 Python 3.8+ 运行环境，安装项目所需的依赖库，配置大语言模型（如 OpenAI 等）的 API 密钥，并在支持标准命令行操作的操作系统（如 Linux, macOS, Windows）下运行。"
@@ -3643,7 +3643,7 @@
     },
     "NawfalMotii79/PLFM_RADAR": {
       "streak": 1,
-      "last_seen_date": "2026-08-19",
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个开源、低成本的 10.5 GHz 锁相频率调制（PLFM）相控阵雷达系统项目，包含硬件设计与相关控制算法。",
         "configuration": "需要特定射频硬件（如10.5 GHz射频源、相控阵天线、PCB板）、嵌入式开发环境（如 STM32/Arduino 等微控制器工具链）以及用于信号处理的软件（如 MATLAB 或 Python 科学计算环境）。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 1,
-      "last_seen_date": "2026-09-28",
+      "streak": 2,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4570,16 +4570,16 @@
       }
     },
     "Tencent/WeKnora": {
-      "streak": 12,
-      "last_seen_date": "2026-09-28",
+      "streak": 13,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "开源大语言模型知识平台，可将原始文档转换为可检索的 RAG 系统、自主推理智能体和自动维护的知识库（Wiki）。",
         "configuration": "需要大语言模型（LLM）API 接入（或本地部署的大模型）、Python/TypeScript 运行环境、向量数据库支持以及相应的计算与存储资源。"
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 3,
-      "last_seen_date": "2026-09-28",
+      "streak": 4,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4706,8 +4706,8 @@
       }
     },
     "anthropics/financial-services": {
-      "streak": 8,
-      "last_seen_date": "2026-09-28",
+      "streak": 9,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "提供针对金融服务行业的 AI 示例、最佳实践和 Prompt 模板，帮助金融机构利用 Anthropic Claude 模型进行智能化应用开发。",
         "configuration": "需要 Python 3.x 运行环境、Anthropic API 密钥（API Key），以及相关的 Python 依赖包（如 anthropic、pandas 等）。"
@@ -4754,8 +4754,8 @@
       }
     },
     "dream-num/univer": {
-      "streak": 6,
-      "last_seen_date": "2026-09-28",
+      "streak": 7,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个面向 AI 智能体的统一办公套件运行环境，集成了电子表格、文档、幻灯片、画布、关系表和 PDF 等功能，便于智能体进行协同和内容处理。",
         "configuration": "需要 Node.js 运行环境（推荐 18+），包管理器（如 pnpm 或 npm），以及支持现代现代浏览器（Chrome、Safari 等）的前端开发环境。"
@@ -4802,8 +4802,8 @@
       }
     },
     "vectorize-io/hindsight": {
-      "streak": 4,
-      "last_seen_date": "2026-09-28",
+      "streak": 5,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "提供具有持续学习能力的 AI 智能体（Agent）记忆管理系统，帮助智能体在长期交互中积累、优化和检索记忆与经验。",
         "configuration": "需要 Python 3.x 运行环境、大语言模型（LLM）API 密钥，以及用于向量存储和处理的相关依赖库。"
@@ -4938,8 +4938,8 @@
       }
     },
     "mvschwarz/openrig": {
-      "streak": 1,
-      "last_seen_date": "2026-09-28",
+      "streak": 2,
+      "last_seen_date": "2026-09-29",
       "summary": {
         "what_it_does": "一个多智能体（Multi-agent）系统调度框架，它将 Claude Code 和 OpenAI Codex 融合在一起，使其作为一个统一的协同系统来执行任务。",
         "configuration": "需要 Python 或 Node.js 开发环境，以及配置 Anthropic (Claude) 和 OpenAI (Codex) 的 API 密钥（API Keys），并确保网络能够顺畅访问相关大模型服务。"
@@ -4951,6 +4951,22 @@
       "summary": {
         "what_it_does": "一个允许在未越狱（Jailed）的 iOS 设备上运行 x86-64 架构 Windows PC 游戏的方案，通过整合 FEX-Emu（模拟器）、Wine（兼容层）和 DXMT（DirectX 翻译至 Metal 框架）实现。",
         "configuration": "需要 iOS 运行环境（需通过 AltStore、TrollStore 或 Xcode 侧载安装），由于涉及架构模拟和图形翻译，硬件上强烈建议使用搭载 Apple Silicon 芯片（M 系列或最新 A 系列芯片）的高性能 iPad 或 iPhone，并需要自备 Windows 游戏文件。"
+      }
+    },
+    "cs341-illinois/coursebook": {
+      "streak": 1,
+      "last_seen_date": "2026-09-29",
+      "summary": {
+        "what_it_does": "伊利诺伊大学的开源系统编程入门教科书，旨在帮助读者学习系统级编程（如 C 语言、进程、线程、内存管理和网络编程等）。",
+        "configuration": "作为一本开源教科书，阅读仅需网页浏览器或支持 Markdown 的阅读器。如需编译和运行书中的代码示例，通常需要 Linux/Unix 环境（或 WSL）以及 C/C++ 编译工具链（如 GCC、Make 等）。"
+      }
+    },
+    "byoungd/up": {
+      "streak": 1,
+      "last_seen_date": "2026-09-29",
+      "summary": {
+        "what_it_does": "韩先凯编写的个人成长与进阶指南，包含 AI 学习指南、英语学习教程及人生经验分享等内容。",
+        "configuration": "该项目主要由 Markdown 格式的文本文档组成。阅读和使用无需特殊硬件配置或编程环境，只需支持 Markdown 的文本编辑器、浏览器或 Git 客户端即可。"
       }
     }
   }
