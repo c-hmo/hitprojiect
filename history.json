@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-03",
+  "last_run_date": "2026-10-04",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 4,
-      "last_seen_date": "2026-10-03",
+      "streak": 5,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -66,8 +66,8 @@
       }
     },
     "affaan-m/ECC": {
-      "streak": 27,
-      "last_seen_date": "2026-09-27",
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 2,
-      "last_seen_date": "2026-10-03",
+      "streak": 3,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -162,8 +162,8 @@
       }
     },
     "anthropics/claude-code": {
-      "streak": 11,
-      "last_seen_date": "2026-09-27",
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个运行在终端的 Agent 智能编程工具。它能理解你的整个代码库，通过自然语言执行常规开发任务、解释复杂代码并处理 git 工作流。",
         "configuration": "需要终端环境、Node.js、Git 以及 Claude API 密钥或 Anthropic 开发者账户权限。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 3,
-      "last_seen_date": "2026-10-03",
+      "streak": 4,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -387,7 +387,7 @@
     },
     "jamwithai/production-agentic-rag-course": {
       "streak": 1,
-      "last_seen_date": "2026-06-03",
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个关于如何构建和部署生产级、智能体检索增强生成（Agentic RAG）系统的实战教学课程项目。",
         "configuration": "需要 Python 3.x 开发环境、Jupyter Notebook 运行环境、相关的 RAG 与智能体框架依赖（如 LangChain、LlamaIndex、LangGraph），以及主流大语言模型（如 OpenAI）的 API 密钥。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "streak": 2,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 11,
-      "last_seen_date": "2026-09-26",
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-10-03",
+      "streak": 4,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 3,
-      "last_seen_date": "2026-10-03",
+      "streak": 4,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1418,8 +1418,8 @@
       }
     },
     "flutter/flutter": {
-      "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "streak": 2,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个开源的 UI 软件开发工具包，允许开发者通过单一代码库构建适用于移动端、Web、桌面端和嵌入式设备的高性能、美观的跨平台应用程序。",
         "configuration": "需要安装 Flutter SDK 和 Dart SDK。根据目标开发平台，需要配置 Android Studio (Android)、Xcode (iOS/macOS) 或 Visual Studio (Windows) 等开发环境，并具备相应的操作系统支持。"
@@ -1467,7 +1467,7 @@
     },
     "OpenCut-app/OpenCut": {
       "streak": 1,
-      "last_seen_date": "2026-08-28",
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -1786,8 +1786,8 @@
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "streak": 2,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
@@ -1946,8 +1946,8 @@
       }
     },
     "alirezarezvani/claude-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-10-03",
+      "streak": 3,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor、Gemini CLI 等 10 多种 AI 编码助手提供超过 330 个技能、70 多个自定义命令和 30 多个 Agent 插件，涵盖开发、市场、财务等多领域。",
         "configuration": "需要已安装的兼容 AI 编码工具（如 Claude Code、Cursor ），以及用于执行自定义脚本和命令的相应运行时环境。"
@@ -2258,8 +2258,8 @@
       }
     },
     "vercel/next.js": {
-      "streak": 7,
-      "last_seen_date": "2026-10-03",
+      "streak": 8,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "Next.js 是一个用于构建全栈 Web 应用程序的 React 框架。它支持服务端渲染（SSR）、静态生成（SSG）、客户端渲染（CSR）以及增量静态再生（ISR），并自带文件系统路由、API 路由和开箱即用的性能优化功能。",
         "configuration": "需要 Node.js 运行环境（推荐 18.17.0 或更高版本），以及包管理器（如 npm, yarn, pnpm 或 bun）。主要使用 JavaScript/TypeScript 语言开发，硬件方面无特殊高要求，标准开发配置即可。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 2,
-      "last_seen_date": "2026-08-11",
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2827,7 +2827,7 @@
     },
     "earendil-works/pi": {
       "streak": 1,
-      "last_seen_date": "2026-10-02",
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个AI智能体（Agent）工具包，提供统一的大语言模型API、智能体循环（Agent Loop）、终端用户界面（TUI）以及专为编码设计的智能体命令行（CLI）工具。",
         "configuration": "需要Python环境，支持TUI的现代化终端，以及用于调用大语言模型的API密钥（API Key）。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 8,
-      "last_seen_date": "2026-10-03",
+      "streak": 9,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 3,
-      "last_seen_date": "2026-10-03",
+      "streak": 4,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3923,7 +3923,7 @@
     },
     "thedotmack/claude-mem": {
       "streak": 1,
-      "last_seen_date": "2026-08-28",
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 6,
-      "last_seen_date": "2026-10-03",
+      "streak": 7,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 3,
-      "last_seen_date": "2026-10-03",
+      "streak": 4,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4802,8 +4802,8 @@
       }
     },
     "vectorize-io/hindsight": {
-      "streak": 9,
-      "last_seen_date": "2026-10-03",
+      "streak": 10,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "提供具有持续学习能力的 AI 智能体（Agent）记忆管理系统，帮助智能体在长期交互中积累、优化和检索记忆与经验。",
         "configuration": "需要 Python 3.x 运行环境、大语言模型（LLM）API 密钥，以及用于向量存储和处理的相关依赖库。"
@@ -5042,19 +5042,35 @@
       }
     },
     "getsentry/sentry": {
-      "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "streak": 2,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个开发者优先的实时错误追踪和应用性能监控平台，帮助开发团队发现、分类和解决生产环境中的代码崩溃与性能问题。",
         "configuration": "私有化部署通常需要 Docker 和 Docker Compose 环境。硬件上建议至少 4 核 CPU 和 8GB 内存。依赖服务包括 PostgreSQL、Redis、Kafka、ClickHouse 等（在 Docker Compose 中已集成）。"
       }
     },
     "Effect-TS/effect": {
-      "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "streak": 2,
+      "last_seen_date": "2026-10-04",
       "summary": {
         "what_it_does": "一个专为 TypeScript 设计的生态系统和标准库，提供函数式编程范式，帮助开发者构建生产就绪、类型安全、高度可测试且高并发的应用程序。",
         "configuration": "需要 Node.js、Deno 或 Bun 等 JavaScript/TypeScript 运行环境。项目需要配置 TypeScript 编译器（建议较新版本以获得最佳类型推导支持），通过 npm、yarn 或 pnpm 安装依赖即可。"
+      }
+    },
+    "cloudflare/cloudflare-os": {
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
+      "summary": {
+        "what_it_does": "一个构建在 Cloudflare Workers 上的智能体（Agent）工作空间。旨在结合企业自身上下文与系统，用于创建文档、构建应用程序以及运行 AI 智能体。",
+        "configuration": "需要 Cloudflare 开发者账户及 Workers 运行环境。本地部署与开发需要 Node.js、Wrangler CLI 工具，以及用于驱动 AI 智能体的相关大语言模型 API 密钥（如 Cloudflare Workers AI、OpenAI 或 Anthropic 等）。"
+      }
+    },
+    "meituan-longcat/LongCat-Video": {
+      "streak": 1,
+      "last_seen_date": "2026-10-04",
+      "summary": {
+        "what_it_does": "美团开源的 LongCat 视频相关项目（原仓库未提供具体描述），根据命名推测主要用于长视频内容理解、视频分析或视频生成等 AI 深度学习任务。",
+        "configuration": "作为典型的深度学习项目，通常需要 Python 3.8+ 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（硬件要求较高），以及相关的视频处理和 Transformer 依赖库。"
       }
     }
   }
