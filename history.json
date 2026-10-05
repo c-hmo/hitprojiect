@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-04",
+  "last_run_date": "2026-10-05",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -18,8 +18,8 @@
       }
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "streak": 5,
-      "last_seen_date": "2026-10-04",
+      "streak": 6,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个旨在从零开始学习、构建和部署 AI 工程的项目与资源库。",
         "configuration": "需要 Python 编程环境、常用的机器学习与深度学习框架（如 PyTorch、TensorFlow）以及 Jupyter Notebook。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 4,
-      "last_seen_date": "2026-10-04",
+      "streak": 5,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 2,
-      "last_seen_date": "2026-10-04",
+      "streak": 3,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-10-04",
+      "streak": 2,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1163,7 +1163,7 @@
     },
     "calesthio/OpenMontage": {
       "streak": 1,
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "开源的智能体视频制作系统，提供 12 条视频流水线、52 个工具和 500 多个智能体技能，旨在将 AI 编码助手转化为全功能视频制作工作室，实现视频的自动化制作与编辑。",
         "configuration": "需要 Python 运行环境，主流大语言模型（LLM）的 API 密钥，音视频处理依赖（如 FFmpeg），以及用于视频渲染和本地模型推理的硬件支持（建议配备 GPU）。"
@@ -1370,16 +1370,16 @@
       }
     },
     "garrytan/gstack": {
-      "streak": 3,
-      "last_seen_date": "2026-06-28",
+      "streak": 1,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一套由 Garry Tan 整理并推荐的 Claude Code 配置与工具集，包含23个特定用途的自动化工具，可在 AI 开发流程中扮演 CEO、设计师、工程经理、文档工程师和 QA 等多种角色。",
         "configuration": "需要安装并配置 Anthropic 的 Claude Code 命令行工具，具备 Node.js 运行环境，以及对应的 Anthropic API 密钥。"
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 4,
-      "last_seen_date": "2026-10-04",
+      "streak": 5,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1466,8 +1466,8 @@
       }
     },
     "OpenCut-app/OpenCut": {
-      "streak": 1,
-      "last_seen_date": "2026-10-04",
+      "streak": 2,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个开源的视频编辑软件，旨在作为剪映 (CapCut) 的开源替代品。",
         "configuration": "需要支持跨平台图形及视频渲染的运行环境，通常需要中高配置的 CPU/GPU 硬件加速以及充足的内存空间。"
@@ -1946,8 +1946,8 @@
       }
     },
     "alirezarezvani/claude-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-10-04",
+      "streak": 4,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor、Gemini CLI 等 10 多种 AI 编码助手提供超过 330 个技能、70 多个自定义命令和 30 多个 Agent 插件，涵盖开发、市场、财务等多领域。",
         "configuration": "需要已安装的兼容 AI 编码工具（如 Claude Code、Cursor ），以及用于执行自定义脚本和命令的相应运行时环境。"
@@ -1971,7 +1971,7 @@
     },
     "coreyhaines31/marketingskills": {
       "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "为 Claude Code 和其他 AI 智能体提供营销技能工具包，涵盖转化率优化（CRO）、文案写作、SEO、数据分析和增长工程等领域。",
         "configuration": "需要运行 Claude Code 或兼容的 AI 智能体环境，可能需要 Node.js 开发环境来集成这些技能，以及配置相应的 API 凭证。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 1,
-      "last_seen_date": "2026-10-04",
+      "streak": 2,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2667,7 +2667,7 @@
     },
     "earthtojake/text-to-cad": {
       "streak": 1,
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3114,8 +3114,8 @@
       }
     },
     "antirez/ds4": {
-      "streak": 2,
-      "last_seen_date": "2026-08-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "由 Redis 创始人 antirez 开发的本地推理引擎，专为 DeepSeek 4 Flash 和 PRO 模型设计，支持在 Metal、CUDA 和 ROCm 架构下进行硬件加速推理。",
         "configuration": "需要支持 Metal（Mac 设备）、CUDA（NVIDIA 显卡）或 ROCm（AMD 显卡）的硬件环境，C/C++ 编译器，以及下载好的 DeepSeek 模型权重文件。"
@@ -3362,8 +3362,8 @@
       }
     },
     "paperclipai/paperclip": {
-      "streak": 9,
-      "last_seen_date": "2026-10-04",
+      "streak": 10,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个开源的 AI 智能体（Agent）管理应用，旨在帮助用户在工作场景中轻松管理、部署和协同各种 AI 智能体。",
         "configuration": "通常需要 Node.js 或 Python 运行环境，并需要配置相应 AI 平台（如 OpenAI 等）的 API 密钥以驱动智能体运行。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 4,
-      "last_seen_date": "2026-10-04",
+      "streak": 5,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 1,
-      "last_seen_date": "2026-10-04",
+      "streak": 2,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 7,
-      "last_seen_date": "2026-10-04",
+      "streak": 8,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4802,8 +4802,8 @@
       }
     },
     "vectorize-io/hindsight": {
-      "streak": 10,
-      "last_seen_date": "2026-10-04",
+      "streak": 11,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "提供具有持续学习能力的 AI 智能体（Agent）记忆管理系统，帮助智能体在长期交互中积累、优化和检索记忆与经验。",
         "configuration": "需要 Python 3.x 运行环境、大语言模型（LLM）API 密钥，以及用于向量存储和处理的相关依赖库。"
@@ -5042,16 +5042,16 @@
       }
     },
     "getsentry/sentry": {
-      "streak": 2,
-      "last_seen_date": "2026-10-04",
+      "streak": 3,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个开发者优先的实时错误追踪和应用性能监控平台，帮助开发团队发现、分类和解决生产环境中的代码崩溃与性能问题。",
         "configuration": "私有化部署通常需要 Docker 和 Docker Compose 环境。硬件上建议至少 4 核 CPU 和 8GB 内存。依赖服务包括 PostgreSQL、Redis、Kafka、ClickHouse 等（在 Docker Compose 中已集成）。"
       }
     },
     "Effect-TS/effect": {
-      "streak": 2,
-      "last_seen_date": "2026-10-04",
+      "streak": 3,
+      "last_seen_date": "2026-10-05",
       "summary": {
         "what_it_does": "一个专为 TypeScript 设计的生态系统和标准库，提供函数式编程范式，帮助开发者构建生产就绪、类型安全、高度可测试且高并发的应用程序。",
         "configuration": "需要 Node.js、Deno 或 Bun 等 JavaScript/TypeScript 运行环境。项目需要配置 TypeScript 编译器（建议较新版本以获得最佳类型推导支持），通过 npm、yarn 或 pnpm 安装依赖即可。"
@@ -5071,6 +5071,30 @@
       "summary": {
         "what_it_does": "美团开源的 LongCat 视频相关项目（原仓库未提供具体描述），根据命名推测主要用于长视频内容理解、视频分析或视频生成等 AI 深度学习任务。",
         "configuration": "作为典型的深度学习项目，通常需要 Python 3.8+ 运行环境、PyTorch 框架、支持 CUDA 的 NVIDIA GPU 显卡（硬件要求较高），以及相关的视频处理和 Transformer 依赖库。"
+      }
+    },
+    "tester-army/e2e": {
+      "streak": 1,
+      "last_seen_date": "2026-10-05",
+      "summary": {
+        "what_it_does": "用于 Web 和移动端应用的新一代端到端（E2E）自动化测试框架。",
+        "configuration": "需要 Node.js 运行环境，并根据测试平台配置相应的浏览器驱动（如 Chrome、Firefox）或移动端开发环境（如 Android SDK、iOS Xcode/模拟器）。"
+      }
+    },
+    "caddyserver/caddy": {
+      "streak": 1,
+      "last_seen_date": "2026-10-05",
+      "summary": {
+        "what_it_does": "一个高效、可扩展且支持多平台的 HTTP/1-2-3 网页服务器，开箱即用，支持自动获取和更新 HTTPS 证书。",
+        "configuration": "支持 Linux、macOS、Windows 等主流操作系统。部署通常只需下载单个二进制文件，通过编写 Caddyfile 进行配置；若从源码编译则需要 Go 语言开发环境。"
+      }
+    },
+    "michael-denyer/pstack-claude": {
+      "streak": 1,
+      "last_seen_date": "2026-10-05",
+      "summary": {
+        "what_it_does": "该项目是 Poteto 的 pstack 工具的多种 AI Agent（如 Claude Code、Gemini 等）版本实现，旨在将 Cursor 原语转化为其他框架，以运行严谨的智能体工作流。",
+        "configuration": "需要 Node.js 或 Python 运行环境（具体视底层实现而定），相关的 AI 平台（如 Anthropic Claude、Google Gemini 等）的 API 密钥（API Keys），以及运行工作流所需的依赖库。"
       }
     }
   }
