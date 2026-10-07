@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-06",
+  "last_run_date": "2026-10-07",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-10-03",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 6,
-      "last_seen_date": "2026-10-06",
+      "streak": 7,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -691,7 +691,7 @@
     },
     "HunxByts/GhostTrack": {
       "streak": 1,
-      "last_seen_date": "2026-10-02",
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个用于追踪和查询地理位置或手机号码信息的实用工具。",
         "configuration": "通常需要 Python 运行环境及相关依赖库，运行需要网络连接，可能还需要配置相关的 API 密钥以获取定位数据。"
@@ -826,8 +826,8 @@
       }
     },
     "msitarzewski/agency-agents": {
-      "streak": 1,
-      "last_seen_date": "2026-10-06",
+      "streak": 2,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个一站式的 AI 代理（Agency）服务系统，包含多个具备专业技能、独特个性和工作流程的 AI 智能体，涵盖前端开发、Reddit 社区运营等多个领域。",
         "configuration": "通常需要 Python 运行环境及相关的 AI Agent 框架（如 CrewAI 或 AutoGen），需要配置大语言模型（如 OpenAI 或其他服务商）的 API 密钥，并安装项目所需的 Python 依赖包。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-10-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 6,
-      "last_seen_date": "2026-10-06",
+      "streak": 7,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -2658,16 +2658,16 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 12,
-      "last_seen_date": "2026-09-20",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
       }
     },
     "earthtojake/text-to-cad": {
-      "streak": 2,
-      "last_seen_date": "2026-10-06",
+      "streak": 3,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 3,
-      "last_seen_date": "2026-09-11",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 3,
-      "last_seen_date": "2026-10-06",
+      "streak": 4,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4938,8 +4938,8 @@
       }
     },
     "mvschwarz/openrig": {
-      "streak": 6,
-      "last_seen_date": "2026-10-03",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个多智能体（Multi-agent）系统调度框架，它将 Claude Code 和 OpenAI Codex 融合在一起，使其作为一个统一的协同系统来执行任务。",
         "configuration": "需要 Python 或 Node.js 开发环境，以及配置 Anthropic (Claude) 和 OpenAI (Codex) 的 API 密钥（API Keys），并确保网络能够顺畅访问相关大模型服务。"
@@ -4970,8 +4970,8 @@
       }
     },
     "NVIDIA/OpenShell": {
-      "streak": 4,
-      "last_seen_date": "2026-10-03",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "为自主AI智能体（Autonomous AI Agents）提供安全、私密的沙盒化运行环境（Runtime）。",
         "configuration": "通常需要 Python 运行环境，可能需要 Docker 或 Containerd 支持以实现沙盒隔离，部分功能依赖 NVIDIA GPU 硬件和相关驱动支持。"
@@ -4986,8 +4986,8 @@
       }
     },
     "VectifyAI/PageIndex": {
-      "streak": 2,
-      "last_seen_date": "2026-10-01",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "专为无需向量化（Vectorless）、基于推理的检索增强生成（RAG）系统设计的文档索引工具。",
         "configuration": "需要 Python 运行环境，通常需要配置主流大语言模型（LLM）的 API 密钥（用于推理能力）以及相关的 Python 依赖包。"
@@ -5026,8 +5026,8 @@
       }
     },
     "pablostanley/yoinks": {
-      "streak": 2,
-      "last_seen_date": "2026-10-03",
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个无广告的命令行工具，允许用户直接在终端中获取和下载各类网络视频。",
         "configuration": "需要命令行终端环境，可能需要 Node.js 或 Python 运行环境，以及视频下载和处理依赖（如 ffmpeg 或 yt-dlp）。"
@@ -5074,8 +5074,8 @@
       }
     },
     "tester-army/e2e": {
-      "streak": 2,
-      "last_seen_date": "2026-10-06",
+      "streak": 3,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "用于 Web 和移动端应用的新一代端到端（E2E）自动化测试框架。",
         "configuration": "需要 Node.js 运行环境，并根据测试平台配置相应的浏览器驱动（如 Chrome、Firefox）或移动端开发环境（如 Android SDK、iOS Xcode/模拟器）。"
@@ -5106,16 +5106,16 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 1,
-      "last_seen_date": "2026-10-06",
+      "streak": 2,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
       }
     },
     "DuarteSantos8/openGym": {
-      "streak": 1,
-      "last_seen_date": "2026-10-06",
+      "streak": 2,
+      "last_seen_date": "2026-10-07",
       "summary": {
         "what_it_does": "一个自托管的健身与体重追踪系统。支持规划训练计划、记录训练过程（包含超级组、热身、有氧等）、分析肌肉状态（训练中、疲劳或退化），支持从 FitNotes/Strong/Hevy 导入数据，并提供 Passkey 免密登录。",
         "configuration": "自托管服务器或支持 Docker 的运行环境、现代 Web 浏览器（用于 Passkey 登录），以及用于存储健身数据的数据库环境。"
@@ -5127,6 +5127,22 @@
       "summary": {
         "what_it_does": "基于低成本 ESP32-C3 芯片实现的 Pi-hole 级 DNS 广告拦截器。通过将 53.7 万个域名以 40 位 FNV-1a 哈希形式存储在闪存中进行二分查找，提供 UDP DNS 汇流排拦截及 Web 配置面板。",
         "configuration": "ESP32-C3 硬件开发板（无需 PSRAM）、ESP 固件烧录工具（如 ESP-IDF 或 Arduino IDE）、Wi-Fi 局域网环境以及用于访问控制台的浏览器。"
+      }
+    },
+    "morluto/rea": {
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
+      "summary": {
+        "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
+        "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
+      }
+    },
+    "deepseek-ai/DeepGEMM": {
+      "streak": 1,
+      "last_seen_date": "2026-10-07",
+      "summary": {
+        "what_it_does": "一个专为 GPU 设计的、干净且高效的 BLAS（基础线性代数子程序）内核库，主要用于优化和加速深度学习中的矩阵乘法（GEMM）计算。",
+        "configuration": "需要 NVIDIA GPU 硬件支持，安装 CUDA Toolkit、支持 C++17/CUDA 的编译器、Python 环境以及 PyTorch 开发框架。"
       }
     }
   }
