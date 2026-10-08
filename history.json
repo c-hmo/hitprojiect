@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-07",
+  "last_run_date": "2026-10-08",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -522,8 +522,8 @@
       }
     },
     "Panniantong/Agent-Reach": {
-      "streak": 4,
-      "last_seen_date": "2026-10-06",
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个命令行工具（CLI），使 AI 智能体能够免 API 费用地读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等多个主流社交和内容平台的数据。",
         "configuration": "需要命令行运行环境，通常需要 Python 或 Node.js 环境，以及顺畅的网络连接（用于抓取海内外平台数据）。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-10-05",
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1018,8 +1018,8 @@
       }
     },
     "trycua/cua": {
-      "streak": 3,
-      "last_seen_date": "2026-09-22",
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个用于开发、训练和评估“计算机使用代理（Computer-Use Agents）”的开源基础设施，提供沙箱、SDK 和基准测试工具，使 AI 智能体能够控制完整的桌面系统（macOS, Linux, Windows）。",
         "configuration": "需要支持运行安全沙箱（如 Docker 或虚拟机容器）的主机环境，兼容 macOS、Linux 和 Windows 系统，以及用于集成代理的 Python 或相关语言的 SDK 开发环境。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 7,
-      "last_seen_date": "2026-10-07",
+      "streak": 8,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -2658,8 +2658,8 @@
       }
     },
     "ayghri/i-have-adhd": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "为编程 AI Agent 设计的实用插件/技能，旨在防止 Agent 输出过于冗长和淹没关键答案，提供对多动症（ADHD）友好的简洁直观输出。",
         "configuration": "适用于支持技能扩展的 AI 编程助手系统（如 Claude Code 等），需要相应的 Agent 运行与配置环境。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 4,
-      "last_seen_date": "2026-10-07",
+      "streak": 5,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 4,
-      "last_seen_date": "2026-09-29",
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4938,8 +4938,8 @@
       }
     },
     "mvschwarz/openrig": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个多智能体（Multi-agent）系统调度框架，它将 Claude Code 和 OpenAI Codex 融合在一起，使其作为一个统一的协同系统来执行任务。",
         "configuration": "需要 Python 或 Node.js 开发环境，以及配置 Anthropic (Claude) 和 OpenAI (Codex) 的 API 密钥（API Keys），并确保网络能够顺畅访问相关大模型服务。"
@@ -4970,8 +4970,8 @@
       }
     },
     "NVIDIA/OpenShell": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "为自主AI智能体（Autonomous AI Agents）提供安全、私密的沙盒化运行环境（Runtime）。",
         "configuration": "通常需要 Python 运行环境，可能需要 Docker 或 Containerd 支持以实现沙盒隔离，部分功能依赖 NVIDIA GPU 硬件和相关驱动支持。"
@@ -5019,15 +5019,15 @@
     },
     "tile-ai/tilelang": {
       "streak": 1,
-      "last_seen_date": "2026-10-02",
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一种领域特定语言（DSL），旨在简化和加速用于 GPU、CPU 和其他硬件加速器的高性能算子（Kernel）的开发过程。",
         "configuration": "需要 Python 运行环境，C++/CUDA 编译链工具（如 LLVM 或 CUDA Toolkit），以及支持的硬件设备（如 NVIDIA GPU 显卡）。"
       }
     },
     "pablostanley/yoinks": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个无广告的命令行工具，允许用户直接在终端中获取和下载各类网络视频。",
         "configuration": "需要命令行终端环境，可能需要 Node.js 或 Python 运行环境，以及视频下载和处理依赖（如 ffmpeg 或 yt-dlp）。"
@@ -5074,8 +5074,8 @@
       }
     },
     "tester-army/e2e": {
-      "streak": 3,
-      "last_seen_date": "2026-10-07",
+      "streak": 4,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "用于 Web 和移动端应用的新一代端到端（E2E）自动化测试框架。",
         "configuration": "需要 Node.js 运行环境，并根据测试平台配置相应的浏览器驱动（如 Chrome、Firefox）或移动端开发环境（如 Android SDK、iOS Xcode/模拟器）。"
@@ -5106,16 +5106,16 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 2,
-      "last_seen_date": "2026-10-07",
+      "streak": 3,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
       }
     },
     "DuarteSantos8/openGym": {
-      "streak": 2,
-      "last_seen_date": "2026-10-07",
+      "streak": 3,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "一个自托管的健身与体重追踪系统。支持规划训练计划、记录训练过程（包含超级组、热身、有氧等）、分析肌肉状态（训练中、疲劳或退化），支持从 FitNotes/Strong/Hevy 导入数据，并提供 Passkey 免密登录。",
         "configuration": "自托管服务器或支持 Docker 的运行环境、现代 Web 浏览器（用于 Passkey 登录），以及用于存储健身数据的数据库环境。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 1,
-      "last_seen_date": "2026-10-07",
+      "streak": 2,
+      "last_seen_date": "2026-10-08",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5143,6 +5143,22 @@
       "summary": {
         "what_it_does": "一个专为 GPU 设计的、干净且高效的 BLAS（基础线性代数子程序）内核库，主要用于优化和加速深度学习中的矩阵乘法（GEMM）计算。",
         "configuration": "需要 NVIDIA GPU 硬件支持，安装 CUDA Toolkit、支持 C++17/CUDA 的编译器、Python 环境以及 PyTorch 开发框架。"
+      }
+    },
+    "EpicGames/raddebugger": {
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
+      "summary": {
+        "what_it_does": "一款原生的、用户模式、支持多进程的图形化调试器，旨在提供高性能和直观的交互式调试体验。",
+        "configuration": "主要支持 Windows 平台。配置和构建需要 C/C++ 编译链（如 MSVC）以及支持现代图形 API（如 DirectX 或 Vulkan）的显卡和驱动。"
+      }
+    },
+    "manaflow-ai/cmux": {
+      "streak": 1,
+      "last_seen_date": "2026-10-08",
+      "summary": {
+        "what_it_does": "一款基于 Ghostty 开发的开源 macOS 终端工具，拥有垂直标签页并提供针对 AI 编码助手的通知功能，专为多任务处理、工作区整理和可编程性设计。",
+        "configuration": "需要 macOS 操作系统。运行和编译通常需要 Swift 运行环境或 macOS 软件开发包（SDK）。"
       }
     }
   }
