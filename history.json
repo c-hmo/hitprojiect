@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-10",
+  "last_run_date": "2026-10-11",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-10-10",
+      "streak": 3,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 4,
-      "last_seen_date": "2026-10-10",
+      "streak": 5,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-10-10",
+      "streak": 5,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 10,
-      "last_seen_date": "2026-10-10",
+      "streak": 11,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1418,8 +1418,8 @@
       }
     },
     "flutter/flutter": {
-      "streak": 2,
-      "last_seen_date": "2026-10-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个开源的 UI 软件开发工具包，允许开发者通过单一代码库构建适用于移动端、Web、桌面端和嵌入式设备的高性能、美观的跨平台应用程序。",
         "configuration": "需要安装 Flutter SDK 和 Dart SDK。根据目标开发平台，需要配置 Android Studio (Android)、Xcode (iOS/macOS) 或 Visual Studio (Windows) 等开发环境，并具备相应的操作系统支持。"
@@ -1571,7 +1571,7 @@
     },
     "hugohe3/ppt-master": {
       "streak": 1,
-      "last_seen_date": "2026-08-13",
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "通过 AI 将文档或主题转化为包含原生形状、过渡动画、数据图表及语音旁白的原生 PowerPoint (.pptx) 演示文稿，并支持自定义模板。",
         "configuration": "需要 Python 运行环境，安装 python-pptx 等相关依赖库，并需要配置大语言模型（LLM）的 API 密钥以及文本转语音（TTS）服务凭证。"
@@ -1834,8 +1834,8 @@
       }
     },
     "pytorch/pytorch": {
-      "streak": 4,
-      "last_seen_date": "2026-10-01",
+      "streak": 1,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个广泛应用于学术和工业界的开源深度学习框架，提供强大的 GPU 加速张量计算以及基于 Python 的动态神经网络构建能力。",
         "configuration": "需要 Python 环境（建议 3.8 及以上），支持 Windows、Linux 和 macOS 系统。若需启用强力的 GPU 加速，则需要 NVIDIA GPU 硬件支持以及对应的 CUDA 和 cuDNN 驱动程序。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 1,
-      "last_seen_date": "2026-10-10",
+      "streak": 2,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2666,8 +2666,8 @@
       }
     },
     "earthtojake/text-to-cad": {
-      "streak": 2,
-      "last_seen_date": "2026-10-10",
+      "streak": 3,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3402,8 +3402,8 @@
       }
     },
     "huggingface/transformers": {
-      "streak": 2,
-      "last_seen_date": "2026-09-15",
+      "streak": 1,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个领先的深度学习框架，为文本、视觉、音频和多模态任务提供最先进的前沿预训练模型，支持模型的快速推理、训练、微调和部署。",
         "configuration": "需要 Python 环境，以及主流深度学习后端（如 PyTorch、TensorFlow 或 Flax）。对于大规模模型的训练或推理，通常需要配置高性能 NVIDIA GPU 及其 CUDA 环境以提供算力支持。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 4,
-      "last_seen_date": "2026-10-10",
+      "streak": 5,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3771,7 +3771,7 @@
     },
     "multica-ai/andrej-karpathy-skills": {
       "streak": 1,
-      "last_seen_date": "2026-09-09",
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
         "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 7,
-      "last_seen_date": "2026-10-10",
+      "streak": 8,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 4,
-      "last_seen_date": "2026-10-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4883,7 +4883,7 @@
     },
     "tensorflow/tensorflow": {
       "streak": 1,
-      "last_seen_date": "2026-09-27",
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个开源的端到端机器学习与深度学习框架，支持构建、训练和部署各种复杂的 AI 模型。",
         "configuration": "主要需要 Python 环境（也支持 C++ API）。为了高效进行模型训练，强烈建议配备支持 CUDA/cuDNN 的 NVIDIA GPU，以及充足的内存与存储空间。"
@@ -4938,8 +4938,8 @@
       }
     },
     "mvschwarz/openrig": {
-      "streak": 4,
-      "last_seen_date": "2026-10-10",
+      "streak": 5,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个多智能体（Multi-agent）系统调度框架，它将 Claude Code 和 OpenAI Codex 融合在一起，使其作为一个统一的协同系统来执行任务。",
         "configuration": "需要 Python 或 Node.js 开发环境，以及配置 Anthropic (Claude) 和 OpenAI (Codex) 的 API 密钥（API Keys），并确保网络能够顺畅访问相关大模型服务。"
@@ -5106,8 +5106,8 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 5,
-      "last_seen_date": "2026-10-10",
+      "streak": 6,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 4,
-      "last_seen_date": "2026-10-10",
+      "streak": 5,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5146,8 +5146,8 @@
       }
     },
     "EpicGames/raddebugger": {
-      "streak": 3,
-      "last_seen_date": "2026-10-10",
+      "streak": 4,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一款原生的、用户模式、支持多进程的图形化调试器，旨在提供高性能和直观的交互式调试体验。",
         "configuration": "主要支持 Windows 平台。配置和构建需要 C/C++ 编译链（如 MSVC）以及支持现代图形 API（如 DirectX 或 Vulkan）的显卡和驱动。"
@@ -5162,8 +5162,8 @@
       }
     },
     "storytold/artcraft": {
-      "streak": 2,
-      "last_seen_date": "2026-10-10",
+      "streak": 3,
+      "last_seen_date": "2026-10-11",
       "summary": {
         "what_it_does": "一个专为艺术家、设计师和电影制作人设计的意图导向型创作与工艺引擎，旨在辅助创意内容的构建、叙事和艺术设计。",
         "configuration": "需要现代操作系统（Windows、macOS 或 Linux）及基本的开发运行环境（如 Python 或 Node.js，视具体版本依赖而定）。对于涉及图形渲染的创作，建议配置支持硬件加速的 GPU。"
