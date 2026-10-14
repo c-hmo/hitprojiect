@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-13",
+  "last_run_date": "2026-10-14",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 7,
-      "last_seen_date": "2026-10-13",
+      "streak": 8,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -442,8 +442,8 @@
       }
     },
     "lyogavin/airllm": {
-      "streak": 2,
-      "last_seen_date": "2026-10-13",
+      "streak": 3,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个大语言模型（LLM）推理加速工具，能够实现在仅有 4GB 显存的单张消费级 GPU 上运行 70B（700亿参数）规模的超大模型推理。",
         "configuration": "需要 Python 运行环境（建议 3.8 及以上）、PyTorch 深度学习框架、airllm 依赖库，以及一块显存至少为 4GB 并支持 CUDA 的 NVIDIA GPU。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 7,
-      "last_seen_date": "2026-10-13",
+      "streak": 8,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 13,
-      "last_seen_date": "2026-10-13",
+      "streak": 14,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1418,8 +1418,8 @@
       }
     },
     "flutter/flutter": {
-      "streak": 3,
-      "last_seen_date": "2026-10-13",
+      "streak": 4,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个开源的 UI 软件开发工具包，允许开发者通过单一代码库构建适用于移动端、Web、桌面端和嵌入式设备的高性能、美观的跨平台应用程序。",
         "configuration": "需要安装 Flutter SDK 和 Dart SDK。根据目标开发平台，需要配置 Android Studio (Android)、Xcode (iOS/macOS) 或 Visual Studio (Windows) 等开发环境，并具备相应的操作系统支持。"
@@ -2666,8 +2666,8 @@
       }
     },
     "earthtojake/text-to-cad": {
-      "streak": 5,
-      "last_seen_date": "2026-10-13",
+      "streak": 6,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 7,
-      "last_seen_date": "2026-10-13",
+      "streak": 8,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3898,8 +3898,8 @@
       }
     },
     "bilawalsidhu/gods-eye-view": {
-      "streak": 2,
-      "last_seen_date": "2026-10-13",
+      "streak": 3,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个基于浏览器的间谍卫星模拟器，在逼真的 3D 地球上展示实时的开源空间情报和真实卫星数据。",
         "configuration": "需要支持 WebGL 的现代浏览器，前端构建环境（如 Node.js），以及可能需要的 3D 地图引擎（如 Cesium）和相关 API 密钥。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 10,
-      "last_seen_date": "2026-10-13",
+      "streak": 11,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 9,
-      "last_seen_date": "2026-10-06",
+      "streak": 1,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 1,
-      "last_seen_date": "2026-10-13",
+      "streak": 2,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4395,7 +4395,7 @@
     },
     "vercel-labs/skills": {
       "streak": 1,
-      "last_seen_date": "2026-09-11",
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个用于 AI 智能体（Agent）技能的开源工具，允许开发者通过命令行工具（npx skills）来快速创建、管理和部署智能体的各种能力与动作。",
         "configuration": "需要安装 Node.js 运行环境（建议 LTS 版本，包含 npm/npx 命令行工具）。适用于主流操作系统（macOS、Linux、Windows），需要基本的互联网连接以通过 npx 运行，无特殊硬件要求。"
@@ -5074,8 +5074,8 @@
       }
     },
     "tester-army/e2e": {
-      "streak": 2,
-      "last_seen_date": "2026-10-13",
+      "streak": 3,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "用于 Web 和移动端应用的新一代端到端（E2E）自动化测试框架。",
         "configuration": "需要 Node.js 运行环境，并根据测试平台配置相应的浏览器驱动（如 Chrome、Firefox）或移动端开发环境（如 Android SDK、iOS Xcode/模拟器）。"
@@ -5106,8 +5106,8 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 8,
-      "last_seen_date": "2026-10-13",
+      "streak": 9,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 7,
-      "last_seen_date": "2026-10-13",
+      "streak": 8,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5146,8 +5146,8 @@
       }
     },
     "EpicGames/raddebugger": {
-      "streak": 5,
-      "last_seen_date": "2026-10-12",
+      "streak": 1,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一款原生的、用户模式、支持多进程的图形化调试器，旨在提供高性能和直观的交互式调试体验。",
         "configuration": "主要支持 Windows 平台。配置和构建需要 C/C++ 编译链（如 MSVC）以及支持现代图形 API（如 DirectX 或 Vulkan）的显卡和驱动。"
@@ -5162,8 +5162,8 @@
       }
     },
     "storytold/artcraft": {
-      "streak": 5,
-      "last_seen_date": "2026-10-13",
+      "streak": 6,
+      "last_seen_date": "2026-10-14",
       "summary": {
         "what_it_does": "一个专为艺术家、设计师和电影制作人设计的意图导向型创作与工艺引擎，旨在辅助创意内容的构建、叙事和艺术设计。",
         "configuration": "需要现代操作系统（Windows、macOS 或 Linux）及基本的开发运行环境（如 Python 或 Node.js，视具体版本依赖而定）。对于涉及图形渲染的创作，建议配置支持硬件加速的 GPU。"
@@ -5199,6 +5199,14 @@
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
+      }
+    },
+    "xtool-org/xtool": {
+      "streak": 1,
+      "last_seen_date": "2026-10-14",
+      "summary": {
+        "what_it_does": "一个跨平台的 Xcode 替代工具，允许开发者在 Linux、Windows 和 macOS 系统上使用 SwiftPM（Swift 包管理器）构建和部署 iOS 应用程序。",
+        "configuration": "运行环境：支持 Linux、Windows 或 macOS 操作系统。依赖：Swift 语言环境及 SwiftPM（Swift Package Manager），以及相应的 iOS 编译与部署工具链。"
       }
     }
   }
