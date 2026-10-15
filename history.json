@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-14",
+  "last_run_date": "2026-10-15",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 8,
-      "last_seen_date": "2026-10-14",
+      "streak": 9,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 14,
-      "last_seen_date": "2026-10-14",
+      "streak": 15,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -2138,8 +2138,8 @@
       }
     },
     "vxcontrol/pentagi": {
-      "streak": 2,
-      "last_seen_date": "2026-09-14",
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个全自动的 AI 智能体（Agents）系统，能够自主执行复杂的网络渗透测试和系统安全评估任务。",
         "configuration": "Python 运行环境、大语言模型（LLM）API 接口及密钥（如 OpenAI、Claude 或本地部署的 LLM）、网络渗透测试工具链（如 Nmap、Metasploit 等），建议在隔离的安全沙箱或 Docker 容器环境中部署运行。"
@@ -2666,8 +2666,8 @@
       }
     },
     "earthtojake/text-to-cad": {
-      "streak": 6,
-      "last_seen_date": "2026-10-14",
+      "streak": 7,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3387,7 +3387,7 @@
     },
     "nvm-sh/nvm": {
       "streak": 1,
-      "last_seen_date": "2026-09-06",
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个用于管理多个 Node.js 版本的命令行工具，允许用户在同一台机器上轻松安装、切换和卸载不同版本的 Node.js。",
         "configuration": "需要兼容 POSIX 的 Shell（如 bash、zsh、sh 等）以及基本的命令行下载工具（如 curl 或 wget）。支持 macOS、Linux 和 Windows 的 WSL 运行环境。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 8,
-      "last_seen_date": "2026-10-14",
+      "streak": 9,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3586,8 +3586,8 @@
       }
     },
     "HKUDS/CLI-Anything": {
-      "streak": 5,
-      "last_seen_date": "2026-10-02",
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "旨在将各种传统软件转化为适用于 AI Agent（智能体）的原生应用。通过 CLI-Hub 提供的统一命令行交互通道，使大语言模型（LLM）智能体能够无缝操控和调度各类软件系统。",
         "configuration": "通常需要 Python 3.8+ 运行环境，安装项目所需的依赖库，配置大语言模型（如 OpenAI 等）的 API 密钥，并在支持标准命令行操作的操作系统（如 Linux, macOS, Windows）下运行。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 11,
-      "last_seen_date": "2026-09-06",
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 11,
-      "last_seen_date": "2026-10-14",
+      "streak": 12,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -3962,8 +3962,8 @@
       }
     },
     "NationalSecurityAgency/ghidra": {
-      "streak": 3,
-      "last_seen_date": "2026-09-18",
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，用于对编译后的代码进行分析、反汇编、反编译及恶意软件分析等。",
         "configuration": "需要 Java 运行环境（JDK 17 或更高版本），支持 Windows、macOS 和 Linux 操作系统，对硬件无特殊要求但建议充足的内存。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 1,
-      "last_seen_date": "2026-10-14",
+      "streak": 2,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 2,
-      "last_seen_date": "2026-10-14",
+      "streak": 3,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -5074,8 +5074,8 @@
       }
     },
     "tester-army/e2e": {
-      "streak": 3,
-      "last_seen_date": "2026-10-14",
+      "streak": 4,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "用于 Web 和移动端应用的新一代端到端（E2E）自动化测试框架。",
         "configuration": "需要 Node.js 运行环境，并根据测试平台配置相应的浏览器驱动（如 Chrome、Firefox）或移动端开发环境（如 Android SDK、iOS Xcode/模拟器）。"
@@ -5106,8 +5106,8 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 9,
-      "last_seen_date": "2026-10-14",
+      "streak": 10,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 8,
-      "last_seen_date": "2026-10-14",
+      "streak": 9,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5146,8 +5146,8 @@
       }
     },
     "EpicGames/raddebugger": {
-      "streak": 1,
-      "last_seen_date": "2026-10-14",
+      "streak": 2,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一款原生的、用户模式、支持多进程的图形化调试器，旨在提供高性能和直观的交互式调试体验。",
         "configuration": "主要支持 Windows 平台。配置和构建需要 C/C++ 编译链（如 MSVC）以及支持现代图形 API（如 DirectX 或 Vulkan）的显卡和驱动。"
@@ -5179,7 +5179,7 @@
     },
     "twostraws/SwiftUI-Agent-Skill": {
       "streak": 1,
-      "last_seen_date": "2026-10-10",
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "为 Claude Code、Codex 等 AI 编程工具/代理（Agent）提供的 SwiftUI 技能扩展，帮助 AI 更好地理解和生成 SwiftUI 代码。",
         "configuration": "需要支持 Agent/Skill 机制的 AI 工具环境（如 Claude Code、Codex），以及 macOS/Xcode 等 Swift 开发环境。"
@@ -5202,11 +5202,35 @@
       }
     },
     "xtool-org/xtool": {
-      "streak": 1,
-      "last_seen_date": "2026-10-14",
+      "streak": 2,
+      "last_seen_date": "2026-10-15",
       "summary": {
         "what_it_does": "一个跨平台的 Xcode 替代工具，允许开发者在 Linux、Windows 和 macOS 系统上使用 SwiftPM（Swift 包管理器）构建和部署 iOS 应用程序。",
         "configuration": "运行环境：支持 Linux、Windows 或 macOS 操作系统。依赖：Swift 语言环境及 SwiftPM（Swift Package Manager），以及相应的 iOS 编译与部署工具链。"
+      }
+    },
+    "ifixai-ai/iFixAi": {
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "rust-lang/rust": {
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "ntdevlabs/tiny11builder": {
+      "streak": 1,
+      "last_seen_date": "2026-10-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
       }
     }
   }
