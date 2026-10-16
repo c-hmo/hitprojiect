@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-15",
+  "last_run_date": "2026-10-16",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -67,7 +67,7 @@
     },
     "affaan-m/ECC": {
       "streak": 1,
-      "last_seen_date": "2026-10-04",
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个面向 AI 智能体（Agent）的性能优化与控制系统。专为 Claude Code、Codex、Cursor 等 AI 编程助手和框架设计，提供技能管理、本能反应、记忆机制、安全防护和研究导向的开发支持。",
         "configuration": "需要 Python 或 Node.js 开发环境，需要配置相关大语言模型（如 Anthropic Claude API）的访问密钥，以及可能用于记忆模块的向量数据库（如 Chroma、Pinecone 等）。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 3,
-      "last_seen_date": "2026-10-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -139,7 +139,7 @@
     },
     "anthropics/claude-plugins-official": {
       "streak": 1,
-      "last_seen_date": "2026-09-26",
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 9,
-      "last_seen_date": "2026-10-15",
+      "streak": 10,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 15,
-      "last_seen_date": "2026-10-15",
+      "streak": 16,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1786,8 +1786,8 @@
       }
     },
     "JuliusBrussee/caveman": {
-      "streak": 2,
-      "last_seen_date": "2026-10-04",
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个为 Claude Code 设计的自定义技能。通过让 AI 采用极简的“原始人”语言风格进行对话，从而减少多达 65% 的 Token 消耗并降低API成本。",
         "configuration": "需要运行 Claude Code 命令行工具，并按照项目说明将该技能（System Prompt/Skill）配置到 Claude Code 的自定义设置中。"
@@ -2666,8 +2666,8 @@
       }
     },
     "earthtojake/text-to-cad": {
-      "streak": 7,
-      "last_seen_date": "2026-10-15",
+      "streak": 8,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一组专门用于 CAD（计算机辅助设计）、机器人技术和硬件设计的 AI Agent 技能集合，支持通过文本指令辅助硬件设计。",
         "configuration": "需要支持 AI Agent 运行的编程环境（通常为 Python），以及可能需要的 CAD 软件接口、机器人仿真工具或相关 API 权限。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 9,
-      "last_seen_date": "2026-10-15",
+      "streak": 10,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3722,8 +3722,8 @@
       }
     },
     "ruvnet/ruflo": {
-      "streak": 3,
-      "last_seen_date": "2026-09-08",
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "智能代理元框架，用于部署多智能体集群、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习和 RAG 集成。",
         "configuration": "需要 Python 运行环境，以及对接相关大语言模型（如 Claude、Hermes 等）的 API 密钥和网络连接。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 1,
-      "last_seen_date": "2026-10-15",
+      "streak": 2,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3962,8 +3962,8 @@
       }
     },
     "NationalSecurityAgency/ghidra": {
-      "streak": 1,
-      "last_seen_date": "2026-10-15",
+      "streak": 2,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，用于对编译后的代码进行分析、反汇编、反编译及恶意软件分析等。",
         "configuration": "需要 Java 运行环境（JDK 17 或更高版本），支持 Windows、macOS 和 Linux 操作系统，对硬件无特殊要求但建议充足的内存。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 2,
-      "last_seen_date": "2026-10-15",
+      "streak": 3,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 3,
-      "last_seen_date": "2026-10-15",
+      "streak": 4,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -5106,16 +5106,16 @@
       }
     },
     "boykopovar/AnyPS5": {
-      "streak": 10,
-      "last_seen_date": "2026-10-15",
+      "streak": 11,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个用于将 PS5 平台的可执行文件自动移植（Porting）到 Linux 和 Windows 系统的工具。",
         "configuration": "Linux 或 Windows 操作系统环境，可能需要相关的 C/C++ 编译链、二进制分析工具以及 PS5 可执行文件源。"
       }
     },
     "DuarteSantos8/openGym": {
-      "streak": 4,
-      "last_seen_date": "2026-10-09",
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "一个自托管的健身与体重追踪系统。支持规划训练计划、记录训练过程（包含超级组、热身、有氧等）、分析肌肉状态（训练中、疲劳或退化），支持从 FitNotes/Strong/Hevy 导入数据，并提供 Passkey 免密登录。",
         "configuration": "自托管服务器或支持 Docker 的运行环境、现代 Web 浏览器（用于 Passkey 登录），以及用于存储健身数据的数据库环境。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 9,
-      "last_seen_date": "2026-10-15",
+      "streak": 10,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5178,8 +5178,8 @@
       }
     },
     "twostraws/SwiftUI-Agent-Skill": {
-      "streak": 1,
-      "last_seen_date": "2026-10-15",
+      "streak": 2,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "为 Claude Code、Codex 等 AI 编程工具/代理（Agent）提供的 SwiftUI 技能扩展，帮助 AI 更好地理解和生成 SwiftUI 代码。",
         "configuration": "需要支持 Agent/Skill 机制的 AI 工具环境（如 Claude Code、Codex），以及 macOS/Xcode 等 Swift 开发环境。"
@@ -5228,6 +5228,30 @@
     "ntdevlabs/tiny11builder": {
       "streak": 1,
       "last_seen_date": "2026-10-15",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "ranxianglei/billion-context": {
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "lightseekorg/tokenspeed": {
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
+      "summary": {
+        "what_it_does": "AI提取失败，请检查运行日志",
+        "configuration": "无"
+      }
+    },
+    "xerj-org/xerj": {
+      "streak": 1,
+      "last_seen_date": "2026-10-16",
       "summary": {
         "what_it_does": "AI提取失败，请检查运行日志",
         "configuration": "无"
