@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-21",
+  "last_run_date": "2026-10-22",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -83,7 +83,7 @@
     },
     "twentyhq/twenty": {
       "streak": 1,
-      "last_seen_date": "2026-06-21",
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个专为 AI 时代设计的开源 CRM（客户关系管理）系统，旨在作为 Salesforce 的开源替代方案。",
         "configuration": "需要 Node.js 运行环境、PostgreSQL 数据库，推荐使用 Docker 进行本地部署和配置。"
@@ -138,8 +138,8 @@
       }
     },
     "anthropics/claude-plugins-official": {
-      "streak": 6,
-      "last_seen_date": "2026-10-21",
+      "streak": 7,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -171,7 +171,7 @@
     },
     "cursor/plugins": {
       "streak": 1,
-      "last_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -978,8 +978,8 @@
       }
     },
     "shiyu-coder/Kronos": {
-      "streak": 2,
-      "last_seen_date": "2026-10-21",
+      "streak": 3,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一款专门针对金融市场语言研发的基座大模型（Foundation Model），用于处理、理解和分析金融领域的相关文本与数据。",
         "configuration": "需要 Python 运行环境、PyTorch 等深度学习框架，以及适合运行或微调大模型的高性能硬件（如拥有充足显存的 NVIDIA GPU 显卡）。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 21,
-      "last_seen_date": "2026-10-21",
+      "streak": 22,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 4,
-      "last_seen_date": "2026-10-21",
+      "streak": 5,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1891,7 +1891,7 @@
     },
     "supabase/supabase": {
       "streak": 1,
-      "last_seen_date": "2026-09-19",
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个开源的 Firebase 替代方案和 Postgres 开发平台。它为开发者提供专用的 PostgreSQL 数据库、身份验证、自动生成的 RESTful API、实时订阅、存储服务和边缘函数，用于快速构建 Web、移动和 AI 应用程序。",
         "configuration": "本地运行与开发需要安装 Docker 和 Docker Compose，以及 Node.js 环境。应用集成需要对应语言的 SDK（支持 JavaScript/TypeScript, Python, Go, Flutter 等）。自托管部署需要 Linux 服务器环境以及适当的硬件配置（建议至少 1 核 2GB 内存起步）。"
@@ -2370,8 +2370,8 @@
       }
     },
     "Graphify-Labs/graphify": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一款 AI 编程辅助工具，能够将代码库、SQL 模式、脚本、文档和多媒体文件转换为统一的可查询知识图谱，帮助 AI 助手更好地理解项目整体架构。",
         "configuration": "需要与 AI 助手（如 Claude Code、Cursor、Gemini CLI 等）集成，通常需要 Node.js 或 Python 运行环境，并配置相应大模型 API 的访问权限。"
@@ -3346,8 +3346,8 @@
       }
     },
     "Comfy-Org/ComfyUI": {
-      "streak": 3,
-      "last_seen_date": "2026-10-21",
+      "streak": 4,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "功能强大的模块化扩散模型（如 Stable Diffusion）可视化节点流界面、API 和后端引擎。",
         "configuration": "需要 Python 环境、PyTorch 深度学习框架、支持 CUDA 的英伟达（NVIDIA）显卡（推荐大显存）以及扩散模型权重文件。"
@@ -3602,8 +3602,8 @@
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 3,
-      "last_seen_date": "2026-10-20",
+      "streak": 1,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -3722,8 +3722,8 @@
       }
     },
     "ruvnet/ruflo": {
-      "streak": 6,
-      "last_seen_date": "2026-10-21",
+      "streak": 7,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "智能代理元框架，用于部署多智能体集群、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习和 RAG 集成。",
         "configuration": "需要 Python 运行环境，以及对接相关大语言模型（如 Claude、Hermes 等）的 API 密钥和网络连接。"
@@ -3850,8 +3850,8 @@
       }
     },
     "DietrichGebert/ponytail": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个让 AI 智能体模拟“最懒的高级开发人员”思维的工具，通过尽量避免编写不必要的代码来精简和优化代码生成。",
         "configuration": "需要 AI 智能体（Agent）运行环境、大语言模型 API 密钥（如 OpenAI）以及相应的代码执行环境。"
@@ -3882,8 +3882,8 @@
       }
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-10-21",
+      "streak": 3,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "旨在将任何 AI 智能体转化为“AI 科学家”。它提供了 163 个开箱即用的验证技能，以及涵盖生物、化学、医学和药物发现的 100 多个科学数据库，服务于全球科研人员。",
         "configuration": "兼容 Cursor, Claude Code, Codex, Pi, Antigravity 以及开放的 Agent Skills 标准。配置需要支持运行这些 AI Agent 客户端的开发环境。"
@@ -3962,8 +3962,8 @@
       }
     },
     "NationalSecurityAgency/ghidra": {
-      "streak": 7,
-      "last_seen_date": "2026-10-21",
+      "streak": 8,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，用于对编译后的代码进行分析、反汇编、反编译及恶意软件分析等。",
         "configuration": "需要 Java 运行环境（JDK 17 或更高版本），支持 Windows、macOS 和 Linux 操作系统，对硬件无特殊要求但建议充足的内存。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4298,8 +4298,8 @@
       }
     },
     "mksglu/context-mode": {
-      "streak": 9,
-      "last_seen_date": "2026-10-21",
+      "streak": 10,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "优化 AI 编码智能体的上下文窗口。通过沙盒化工具输出（减少 98% 空间占用）、持久化会话记忆，并通过 MCP（模型上下文协议）和钩子在 17 个平台上强制执行路由。",
         "configuration": "需要支持 MCP 协议的 AI 编码客户端/环境，以及相应的 Node.js 或 Python 运行环境来承载 MCP 服务器。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 15,
-      "last_seen_date": "2026-10-21",
+      "streak": 16,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5258,8 +5258,8 @@
       }
     },
     "android/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "项目未提供描述，推测为 Android 开发相关的技能集或 AI Agent 技能库。",
         "configuration": "未提供具体的运行环境与依赖说明。"
@@ -5290,8 +5290,8 @@
       }
     },
     "headroomlabs-ai/headroom": {
-      "streak": 2,
-      "last_seen_date": "2026-10-21",
+      "streak": 3,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "在数据（如工具输出、日志、文件和 RAG 文本块）发送给大语言模型（LLM）前进行压缩，可显著减少 Token 消耗（代码 Agent 减少 20%，JSON 减少 60-95%）且不影响回答质量。提供代码库、代理服务器（Proxy）和 MCP 服务器三种形式。",
         "configuration": "可作为库、代理或 MCP 服务器部署，需要能够运行对应服务/库的基础环境（通常为 Python 或 Node.js 环境），无特殊硬件要求。"
@@ -5322,11 +5322,19 @@
       }
     },
     "vllm-project/vllm": {
-      "streak": 1,
-      "last_seen_date": "2026-10-21",
+      "streak": 2,
+      "last_seen_date": "2026-10-22",
       "summary": {
         "what_it_does": "一个针对大语言模型（LLM）的高吞吐量、低内存占用的高效推理和服务部署引擎。",
         "configuration": "需要 Linux 操作系统、Python 3.8+ 环境、PyTorch，以及支持 CUDA 的 NVIDIA GPU（或 AMD ROCm 等硬件加速卡），且需要足够的显存与内存资源。"
+      }
+    },
+    "strelov1/freehire": {
+      "streak": 1,
+      "last_seen_date": "2026-10-22",
+      "summary": {
+        "what_it_does": "一个专为求职者设计的开源招聘搜索引擎，旨在帮助用户快速搜索、筛选和聚合各类职位招聘信息。",
+        "configuration": "通常需要 Node.js 或 Python 运行环境、Docker 容器支持，以及基础的数据库或搜索引擎组件（如 PostgreSQL、Elasticsearch 等）。"
       }
     }
   }
