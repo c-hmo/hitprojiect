@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-24",
+  "last_run_date": "2026-10-25",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 2,
-      "last_seen_date": "2026-10-24",
+      "streak": 3,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -138,8 +138,8 @@
       }
     },
     "anthropics/claude-plugins-official": {
-      "streak": 9,
-      "last_seen_date": "2026-10-24",
+      "streak": 10,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "该项目是 Anthropic 官方管理的高质量 Claude Code 插件官方目录。它旨在提供各种官方支持的扩展插件，通过模型上下文协议（MCP, Model Context Protocol）来增强 Claude Code 命令行工具的功能，使其能够与外部工具、API、数据库和本地开发环境进行无缝交互。",
         "configuration": "配置和使用这些插件通常需要以下环境和依赖：1. 运行环境：安装并配置好 Claude Code 命令行工具；2. 开发环境：Node.js 运行环境（通常需要较新版本，如 v18+）；3. 核心依赖：Model Context Protocol (MCP) SDK 及其相关依赖包；4. 外部凭证：特定插件所需的第三方服务 API 密钥或身份验证凭证（例如 GitHub Token 等）；5. 硬件要求：普通的个人电脑或服务器环境即可，无特殊硬件加速要求。"
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-10-24",
+      "streak": 4,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 7,
-      "last_seen_date": "2026-10-07",
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -739,7 +739,7 @@
     },
     "luongnv89/claude-howto": {
       "streak": 1,
-      "last_seen_date": "2026-10-23",
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "这是一个关于 Claude Code 的可视化、实例驱动的使用指南。它涵盖了从基础概念到高级智能体（Agents）的构建，并提供了可以直接复制粘贴使用的实用模板。",
         "configuration": "该项目主要为文档和模板指南，阅读无需特殊环境配置。若要实际运行和测试其中的 Claude Code 模板，通常需要安装 Node.js 运行环境、Claude Code 命令行工具以及配置 Anthropic API 密钥。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 22,
-      "last_seen_date": "2026-10-22",
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 1,
-      "last_seen_date": "2026-10-24",
+      "streak": 2,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1498,8 +1498,8 @@
       }
     },
     "aws/agent-toolkit-for-aws": {
-      "streak": 2,
-      "last_seen_date": "2026-06-27",
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "AWS 官方支持的 MCP（Model Context Protocol，模型上下文协议）服务器、技能和插件工具包，旨在帮助 AI 智能体（Agent）安全、便捷地在 AWS 上构建和调用服务。",
         "configuration": "需要 AWS 账户及相应的 IAM 访问权限、AWS CLI、Node.js 或 Python 运行环境，以及支持 MCP 的 AI 客户端（如 Claude Desktop）。"
@@ -1594,8 +1594,8 @@
       }
     },
     "anomalyco/opencode": {
-      "streak": 2,
-      "last_seen_date": "2026-10-24",
+      "streak": 3,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "一个开源的自动编码智能体（Coding Agent），用于辅助代码编写与开发任务。",
         "configuration": "通常需要Python环境、相关依赖库以及接入大语言模型（LLM）的API密钥或本地部署的模型服务。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 12,
-      "last_seen_date": "2026-07-24",
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -3722,8 +3722,8 @@
       }
     },
     "ruvnet/ruflo": {
-      "streak": 9,
-      "last_seen_date": "2026-10-24",
+      "streak": 10,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "智能代理元框架，用于部署多智能体集群、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习和 RAG 集成。",
         "configuration": "需要 Python 运行环境，以及对接相关大语言模型（如 Claude、Hermes 等）的 API 密钥和网络连接。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 4,
-      "last_seen_date": "2026-10-24",
+      "streak": 5,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4970,8 +4970,8 @@
       }
     },
     "NVIDIA/OpenShell": {
-      "streak": 1,
-      "last_seen_date": "2026-10-24",
+      "streak": 2,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "为自主AI智能体（Autonomous AI Agents）提供安全、私密的沙盒化运行环境（Runtime）。",
         "configuration": "通常需要 Python 运行环境，可能需要 Docker 或 Containerd 支持以实现沙盒隔离，部分功能依赖 NVIDIA GPU 硬件和相关驱动支持。"
@@ -5130,8 +5130,8 @@
       }
     },
     "morluto/rea": {
-      "streak": 18,
-      "last_seen_date": "2026-10-24",
+      "streak": 19,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "使用 AI 智能体（Agents）辅助逆向工程，旨在自动分析从高级应用程序行为到低级原生二进制文件的各种内容。",
         "configuration": "需要 Python 运行环境，配置大语言模型（LLM）的 API 密钥（如 OpenAI 或 Anthropic），并需要安装相关的逆向工程分析工具和依赖。"
@@ -5258,8 +5258,8 @@
       }
     },
     "android/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-10-24",
+      "streak": 5,
+      "last_seen_date": "2026-10-25",
       "summary": {
         "what_it_does": "项目未提供描述，推测为 Android 开发相关的技能集或 AI Agent 技能库。",
         "configuration": "未提供具体的运行环境与依赖说明。"
@@ -5367,6 +5367,38 @@
       "summary": {
         "what_it_does": "基于倪海厦《天纪》体系的紫微斗数开源排盘引擎，提供完整的排盘算法、四化系统、格局知识库及古籍原文数据。",
         "configuration": "需具备标准开发运行环境（如 Node.js/JavaScript 或 Python 等），安装相关依赖包，无特殊硬件要求。"
+      }
+    },
+    "pollen-robotics/microduck": {
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
+      "summary": {
+        "what_it_does": "一个微型的双足鸭子机器人开源项目。",
+        "configuration": "需要嵌入式硬件（如舵机/控制板/3D打印结构件）以及对应的机器人驱动和控制软件环境。"
+      }
+    },
+    "google-gemini/gemini-cli": {
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
+      "summary": {
+        "what_it_does": "一个开源的命令行 AI Agent，将 Google Gemini 的 AI 能力集成到终端中使用。",
+        "configuration": "需要终端环境（Terminal/Shell）、Node.js 或 Python 运行环境以及 Google Gemini API Key。"
+      }
+    },
+    "jbiaojerry/ebook-treasure-chest": {
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
+      "summary": {
+        "what_it_does": "一个各类电子书下载链接的资源汇总库，涵盖文学、经管、技术等多领域及各大读书 App 的书籍。",
+        "configuration": "无需编程运行环境，只需网络浏览器访问，以及支持相应电子书格式（如 EPUB、PDF 等）的阅读软件。"
+      }
+    },
+    "makecindy/cindy": {
+      "streak": 1,
+      "last_seen_date": "2026-10-25",
+      "summary": {
+        "what_it_does": "一个开源、开箱即用的 AI Agent 工具，用于自动化执行各类复杂任务。",
+        "configuration": "需要 Python/Node.js 等基础开发环境、相关的依赖包以及大语言模型（LLM）的 API 密钥。"
       }
     }
   }
