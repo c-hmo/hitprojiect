@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-25",
+  "last_run_date": "2026-10-26",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 3,
-      "last_seen_date": "2026-10-25",
+      "streak": 4,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 1,
-      "last_seen_date": "2026-10-25",
+      "streak": 2,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -331,7 +331,7 @@
     },
     "TauricResearch/TradingAgents": {
       "streak": 1,
-      "last_seen_date": "2026-09-15",
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
         "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
@@ -1378,8 +1378,8 @@
       }
     },
     "heygen-com/hyperframes": {
-      "streak": 1,
-      "last_seen_date": "2026-10-25",
+      "streak": 2,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的框架，允许开发者通过编写 HTML 代码来直接渲染和生成高质量的视频内容。",
         "configuration": "需要 Node.js 运行环境，并需要配置 HeyGen 的 API 凭证以调用其底层的视频生成与渲染服务。"
@@ -1434,8 +1434,8 @@
       }
     },
     "stablyai/orca": {
-      "streak": 2,
-      "last_seen_date": "2026-10-25",
+      "streak": 3,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个用于运行和管理多个并行 AI 编程智能体（Agents）的开发环境（ADE），支持在桌面端和移动端使用用户自己的 API 订阅来驱动智能体。",
         "configuration": "需要支持桌面操作系统（Windows、macOS 或 Linux）或移动端设备。运行需要网络连接以及相应的 AI 编程智能体服务订阅或 API 密钥。"
@@ -1594,8 +1594,8 @@
       }
     },
     "anomalyco/opencode": {
-      "streak": 3,
-      "last_seen_date": "2026-10-25",
+      "streak": 4,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个开源的自动编码智能体（Coding Agent），用于辅助代码编写与开发任务。",
         "configuration": "通常需要Python环境、相关依赖库以及接入大语言模型（LLM）的API密钥或本地部署的模型服务。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 1,
-      "last_seen_date": "2026-10-25",
+      "streak": 2,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2370,8 +2370,8 @@
       }
     },
     "Graphify-Labs/graphify": {
-      "streak": 3,
-      "last_seen_date": "2026-10-23",
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一款 AI 编程辅助工具，能够将代码库、SQL 模式、脚本、文档和多媒体文件转换为统一的可查询知识图谱，帮助 AI 助手更好地理解项目整体架构。",
         "configuration": "需要与 AI 助手（如 Claude Code、Cursor、Gemini CLI 等）集成，通常需要 Node.js 或 Python 运行环境，并配置相应大模型 API 的访问权限。"
@@ -3347,7 +3347,7 @@
     },
     "Comfy-Org/ComfyUI": {
       "streak": 1,
-      "last_seen_date": "2026-10-24",
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "功能强大的模块化扩散模型（如 Stable Diffusion）可视化节点流界面、API 和后端引擎。",
         "configuration": "需要 Python 环境、PyTorch 深度学习框架、支持 CUDA 的英伟达（NVIDIA）显卡（推荐大显存）以及扩散模型权重文件。"
@@ -3602,8 +3602,8 @@
       }
     },
     "akitaonrails/ai-memory": {
-      "streak": 3,
-      "last_seen_date": "2026-10-24",
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "为 AI 编码命令行工具（CLI）提供长期记忆解决方案，并促进不同 AI 代理商（Agent）之间的上下文平滑交接。",
         "configuration": "需要相应的运行环境（如 Node.js 或 Python），以及对接各 AI 供应商（如 OpenAI, Anthropic 等）所需的 API 密钥。"
@@ -3722,8 +3722,8 @@
       }
     },
     "ruvnet/ruflo": {
-      "streak": 10,
-      "last_seen_date": "2026-10-25",
+      "streak": 11,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "智能代理元框架，用于部署多智能体集群、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习和 RAG 集成。",
         "configuration": "需要 Python 运行环境，以及对接相关大语言模型（如 Claude、Hermes 等）的 API 密钥和网络连接。"
@@ -4130,8 +4130,8 @@
       }
     },
     "debpalash/VoiceStudio": {
-      "streak": 3,
-      "last_seen_date": "2026-10-23",
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个开源、完全本地运行的 ElevenLabs 替代方案，支持多达 646 种语言的声音克隆、声音设计、视频配音、听写、语音转文字以及有声书制作。",
         "configuration": "需要 Python 运行环境及 PyTorch 等深度学习相关依赖库，由于涉及声音克隆和模型推理，强烈建议配置具有高显存的 NVIDIA GPU 显卡。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 5,
-      "last_seen_date": "2026-10-25",
+      "streak": 6,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -5258,8 +5258,8 @@
       }
     },
     "android/skills": {
-      "streak": 5,
-      "last_seen_date": "2026-10-25",
+      "streak": 6,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "项目未提供描述，推测为 Android 开发相关的技能集或 AI Agent 技能库。",
         "configuration": "未提供具体的运行环境与依赖说明。"
@@ -5363,15 +5363,15 @@
     },
     "Renhuai123/ziwei-doushu": {
       "streak": 1,
-      "last_seen_date": "2026-10-24",
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "基于倪海厦《天纪》体系的紫微斗数开源排盘引擎，提供完整的排盘算法、四化系统、格局知识库及古籍原文数据。",
         "configuration": "需具备标准开发运行环境（如 Node.js/JavaScript 或 Python 等），安装相关依赖包，无特殊硬件要求。"
       }
     },
     "pollen-robotics/microduck": {
-      "streak": 1,
-      "last_seen_date": "2026-10-25",
+      "streak": 2,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个微型的双足鸭子机器人开源项目。",
         "configuration": "需要嵌入式硬件（如舵机/控制板/3D打印结构件）以及对应的机器人驱动和控制软件环境。"
@@ -5394,11 +5394,35 @@
       }
     },
     "makecindy/cindy": {
-      "streak": 1,
-      "last_seen_date": "2026-10-25",
+      "streak": 2,
+      "last_seen_date": "2026-10-26",
       "summary": {
         "what_it_does": "一个开源、开箱即用的 AI Agent 工具，用于自动化执行各类复杂任务。",
         "configuration": "需要 Python/Node.js 等基础开发环境、相关的依赖包以及大语言模型（LLM）的 API 密钥。"
+      }
+    },
+    "JetBrains/thinkrail": {
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
+      "summary": {
+        "what_it_does": "一款轻量级且可自适应工作流的真实 IDE，结合 AI 智能辅助（pi），旨在为开发者提供高度定制化的编程体验。",
+        "configuration": "需要支持 JetBrains 平台的运行环境，具体的语言与依赖项取决于项目具体的插件配置及底层运行要求。"
+      }
+    },
+    "coollabsio/coolify": {
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
+      "summary": {
+        "what_it_does": "一个开源、可自托管的 PaaS 平台（替代 Vercel、Heroku 和 Netlify），支持在自有服务器上部署静态网站、数据库、全栈应用及 360+ 种一键安装服务。",
+        "configuration": "需要一台 Linux 服务器（如 Ubuntu/Debian，建议至少 2GB 内存），预装 Docker 和 Docker Compose，并需要域名和基础网络环境。"
+      }
+    },
+    "AgriciDaniel/claude-seo": {
+      "streak": 1,
+      "last_seen_date": "2026-10-26",
+      "summary": {
+        "what_it_does": "专为 Claude Code 打造的通用 SEO 技能扩展包，集成 26 个子技能和 19 个子 Agent，全面覆盖技术 SEO、E-E-A-T、GEO/AEO、外链分析、本地与电商 SEO 以及 PDF/Excel 报告生成等功能。",
+        "configuration": "需要 Claude Code 运行环境，基础 Node.js 或 Python 环境，以及用于集成 Google API 和 9 个可选扩展功能的实时 SEO 数据 API 密钥。"
       }
     }
   }
