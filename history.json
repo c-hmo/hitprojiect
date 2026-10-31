@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-10-30",
+  "last_run_date": "2026-10-31",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -26,8 +26,8 @@
       }
     },
     "anthropics/knowledge-work-plugins": {
-      "streak": 8,
-      "last_seen_date": "2026-10-30",
+      "streak": 9,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一个开源插件库，主要针对知识工作者在 Claude Cowork 平台中使用。",
         "configuration": "需要 Claude 平台账号、API 接入权限以及支持运行该插件的集成环境。"
@@ -74,8 +74,8 @@
       }
     },
     "Leonxlnx/taste-skill": {
-      "streak": 2,
-      "last_seen_date": "2026-10-30",
+      "streak": 3,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一款旨在赋予 AI “良好品味”的技能工具，防止 AI 生成无聊、千篇一律的废话和套话。",
         "configuration": "需要兼容此技能配置的 AI Agent 框架或支持系统 Prompt 调优的 LLM API 环境。"
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 3,
-      "last_seen_date": "2026-10-30",
+      "streak": 4,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -259,7 +259,7 @@
     },
     "anthropics/skills": {
       "streak": 1,
-      "last_seen_date": "2026-09-26",
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 6,
-      "last_seen_date": "2026-10-30",
+      "streak": 7,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -330,8 +330,8 @@
       }
     },
     "TauricResearch/TradingAgents": {
-      "streak": 5,
-      "last_seen_date": "2026-10-30",
+      "streak": 6,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一个基于多智能体（Multi-Agents）架构和大语言模型（LLM）的金融量化交易决策与分析框架。",
         "configuration": "需要 Python 环境，相关的量化数据分析依赖包，以及用于驱动智能体的 LLM（如 OpenAI API 密钥或本地部署的大模型）。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 12,
-      "last_seen_date": "2026-10-18",
+      "streak": 1,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 2,
-      "last_seen_date": "2026-10-11",
+      "streak": 1,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2418,8 +2418,8 @@
       }
     },
     "HKUDS/DeepTutor": {
-      "streak": 3,
-      "last_seen_date": "2026-10-30",
+      "streak": 4,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
         "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
@@ -3443,7 +3443,7 @@
     },
     "macro-inc/macro": {
       "streak": 1,
-      "last_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "团队统一协作工作空间，将电子邮件、聊天、文档、任务、AI 智能体、通话和 CRM 通过共享的 AI 记忆无缝连接在一起。",
         "configuration": "客户端运行需要现代 Web 浏览器或桌面环境。私有化部署或本地开发通常需要全栈运行环境（如 Node.js 或相关后端语言）、数据库，以及配置大模型 API 密钥。"
@@ -3770,8 +3770,8 @@
       }
     },
     "multica-ai/andrej-karpathy-skills": {
-      "streak": 4,
-      "last_seen_date": "2026-10-30",
+      "streak": 5,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "提供一个单一的 CLAUDE.md 配置文件，旨在通过引入 Andrej Karpathy 对 LLM 编程缺陷的观察经验，来优化和改善 Claude Code 的编码表现。",
         "configuration": "无需任何代码运行环境或硬件依赖，只需将该 CLAUDE.md 文件直接放入你的 Claude Code 项目根目录中即可。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 1,
-      "last_seen_date": "2026-10-30",
+      "streak": 2,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4323,7 +4323,7 @@
     },
     "lightpanda-io/browser": {
       "streak": 1,
-      "last_seen_date": "2026-09-08",
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "专为 AI 和自动化任务量身定制的高性能无头浏览器。",
         "configuration": "需要能够运行该无头浏览器的操作系统环境，以及用于自动化控制的 API 接口或相应的编程语言运行环境（如 Node.js/Python）。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 10,
-      "last_seen_date": "2026-10-30",
+      "streak": 11,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -5363,7 +5363,7 @@
     },
     "Renhuai123/ziwei-doushu": {
       "streak": 1,
-      "last_seen_date": "2026-10-26",
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "基于倪海厦《天纪》体系的紫微斗数开源排盘引擎，提供完整的排盘算法、四化系统、格局知识库及古籍原文数据。",
         "configuration": "需具备标准开发运行环境（如 Node.js/JavaScript 或 Python 等），安装相关依赖包，无特殊硬件要求。"
@@ -5402,8 +5402,8 @@
       }
     },
     "JetBrains/thinkrail": {
-      "streak": 5,
-      "last_seen_date": "2026-10-30",
+      "streak": 6,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "一款轻量级且可自适应工作流的真实 IDE，结合 AI 智能辅助（pi），旨在为开发者提供高度定制化的编程体验。",
         "configuration": "需要支持 JetBrains 平台的运行环境，具体的语言与依赖项取决于项目具体的插件配置及底层运行要求。"
@@ -5418,8 +5418,8 @@
       }
     },
     "AgriciDaniel/claude-seo": {
-      "streak": 3,
-      "last_seen_date": "2026-10-30",
+      "streak": 4,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "专为 Claude Code 打造的通用 SEO 技能扩展包，集成 26 个子技能和 19 个子 Agent，全面覆盖技术 SEO、E-E-A-T、GEO/AEO、外链分析、本地与电商 SEO 以及 PDF/Excel 报告生成等功能。",
         "configuration": "需要 Claude Code 运行环境，基础 Node.js 或 Python 环境，以及用于集成 Google API 和 9 个可选扩展功能的实时 SEO 数据 API 密钥。"
@@ -5458,8 +5458,8 @@
       }
     },
     "togg53192-cmd/jailbreaks": {
-      "streak": 3,
-      "last_seen_date": "2026-10-30",
+      "streak": 4,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "收集并列出了作者整理的大语言模型（LLM）越狱提示词（Jailbreaks）列表，用于绕过 AI 的安全限制或进行安全测试。",
         "configuration": "纯文本提示词资源，不需要特定的开发语言或硬件配置，可以直接在各类 LLM 交互界面或 API 中使用。"
@@ -5467,7 +5467,7 @@
     },
     "expo/skills": {
       "streak": 1,
-      "last_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "为 AI Agent 提供的技能集合，旨在辅助开发者在 Expo 项目和 Expo Application Services (EAS) 中更好地使用 AI 工具进行移动应用开发。",
         "configuration": "需要 Node.js 环境、Expo 相关的 CLI 工具，以及支持运行该 AI Agent 技能的环境或集成框架。"
@@ -5482,16 +5482,16 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 1,
-      "last_seen_date": "2026-10-30",
+      "streak": 2,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
       }
     },
     "CopilotKit/OpenBot": {
-      "streak": 1,
-      "last_seen_date": "2026-10-30",
+      "streak": 2,
+      "last_seen_date": "2026-10-31",
       "summary": {
         "what_it_does": "开源 AI 协同工作者系统，为每个 AI 智能体配备独立的虚拟电脑环境（含浏览器、文件系统及工具），所有操作均先决策后记录，支持接入各类 AG-UI 智能体。",
         "configuration": "需要 Node.js/TypeScript 或 Python 运行环境、Docker/沙盒隔离环境、大语言模型 API 密钥（如 OpenAI/Anthropic）及相关 AG-UI 依赖库。"
@@ -5503,6 +5503,14 @@
       "summary": {
         "what_it_does": "将 Claude Code 转化为全功能游戏开发工作室，包含 49 个 AI 智能体、72 种工作流技能，并具备模拟真实工作室组织架构的完整协调系统。",
         "configuration": "需要安装并配置 Claude Code CLI、Anthropic Claude API 密钥、Node.js/Python 运行环境以及目标游戏引擎（如 Godot、Unity 等）的开发工具链。"
+      }
+    },
+    "jakubkrehel/skills": {
+      "streak": 1,
+      "last_seen_date": "2026-10-31",
+      "summary": {
+        "what_it_does": "这是一个面向 AI Agent 的技能集合库，旨在帮助开发者及 Agent 工具更高效地设计和构建优质的用户界面（UI）。",
+        "configuration": "通常需要在支持 Agent 技能调用的 AI 开发环境（如 Cursor、Claude 或自建 Agent 框架）中运行；需要基础的前端开发环境（如 Node.js 及主流 UI 框架）。"
       }
     }
   }
