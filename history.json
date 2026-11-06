@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-05",
+  "last_run_date": "2026-11-06",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 9,
-      "last_seen_date": "2026-11-05",
+      "streak": 10,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -258,16 +258,16 @@
       }
     },
     "anthropics/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-11-05",
+      "streak": 3,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
       }
     },
     "D4Vinci/Scrapling": {
-      "streak": 3,
-      "last_seen_date": "2026-11-05",
+      "streak": 4,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个自适应网页爬虫框架，能够高效处理从单个 HTTP 请求到大规模并发网络爬取的各种数据抓取需求。",
         "configuration": "需要 Python 运行环境及相关的依赖库。大规模爬取时，需要稳定的网络连接、适当的带宽，以及可能需要的代理 IP 支持。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 12,
-      "last_seen_date": "2026-11-05",
+      "streak": 13,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -627,7 +627,7 @@
     },
     "microsoft/VibeVoice": {
       "streak": 1,
-      "last_seen_date": "2026-07-30",
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个开源的前沿语音人工智能（Voice AI）项目，致力于提供先进的语音处理、合成或识别能力。",
         "configuration": "需要 Python 3.8+ 运行环境、主流深度学习框架（如 PyTorch）、支持 CUDA 的 NVIDIA GPU 硬件加速，以及用于音频信号处理的第三方依赖库（如 librosa, soundfile 等）。"
@@ -707,7 +707,7 @@
     },
     "google/skills": {
       "streak": 1,
-      "last_seen_date": "2026-10-03",
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-11-05",
+      "streak": 4,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1370,8 +1370,8 @@
       }
     },
     "garrytan/gstack": {
-      "streak": 1,
-      "last_seen_date": "2026-11-05",
+      "streak": 2,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一套由 Garry Tan 整理并推荐的 Claude Code 配置与工具集，包含23个特定用途的自动化工具，可在 AI 开发流程中扮演 CEO、设计师、工程经理、文档工程师和 QA 等多种角色。",
         "configuration": "需要安装并配置 Anthropic 的 Claude Code 命令行工具，具备 Node.js 运行环境，以及对应的 Anthropic API 密钥。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 6,
-      "last_seen_date": "2026-11-05",
+      "streak": 7,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 5,
-      "last_seen_date": "2026-11-05",
+      "streak": 6,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2418,8 +2418,8 @@
       }
     },
     "HKUDS/DeepTutor": {
-      "streak": 5,
-      "last_seen_date": "2026-11-01",
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
         "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
@@ -2690,8 +2690,8 @@
       }
     },
     "hyprwm/Hyprland": {
-      "streak": 2,
-      "last_seen_date": "2026-11-03",
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个独立、高度可定制且视觉效果极其华丽的 Linux 动态平铺式 Wayland 窗口管理器（合成器）。",
         "configuration": "需要 Linux 操作系统、Wayland 显示服务协议。构建和运行依赖 C++23 编译器（GCC 或 Clang）、Meson/Ninja 构建系统、Wayland 相关开发库，以及支持 OpenGL/Vulkan 的显卡驱动（如 Mesa 或 NVIDIA 驱动）。"
@@ -3866,8 +3866,8 @@
       }
     },
     "ConardLi/garden-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-08-28",
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个开源的技能集合库，提供了包括网页设计、知识检索、图像生成等多种实用功能。",
         "configuration": "需要运行和调用这些技能的开发环境，通常基于 Node.js 或 Python 环境，并需要安装项目所需的特定依赖。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 7,
-      "last_seen_date": "2026-11-05",
+      "streak": 8,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 3,
-      "last_seen_date": "2026-11-05",
+      "streak": 4,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 4,
-      "last_seen_date": "2026-11-02",
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5586,8 +5586,8 @@
       }
     },
     "vercel-labs/agent-desktop": {
-      "streak": 3,
-      "last_seen_date": "2026-11-05",
+      "streak": 4,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的计算机自动化操作命令行工具（CLI），允许 AI 代理通过终端控制和操作桌面电脑。",
         "configuration": "需要 Node.js 运行环境、相关的 AI 模型 API Key（如支持 Computer Use 功能的大模型 API），以及标准的命令行终端。"
@@ -5610,8 +5610,8 @@
       }
     },
     "floci-io/floci": {
-      "streak": 2,
-      "last_seen_date": "2026-11-05",
+      "streak": 3,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个轻量、免费的 AWS 本地服务模拟器（LocalStack 的替代方案），用于在本地环境开发和测试 AWS 云服务应用。",
         "configuration": "需要 Docker 容器环境、Go 语言运行时（若从源码构建）以及配置本地 AWS CLI 或 SDK 连接。"
@@ -5619,7 +5619,7 @@
     },
     "Usagi-org/ai-goofish-monitor": {
       "streak": 1,
-      "last_seen_date": "2026-11-04",
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "基于 Playwright 和 AI 的二手平台（闲鱼）多任务实时/定时监控与智能分析系统，自带后台管理 UI，帮助用户高效筛选心仪商品。",
         "configuration": "需要 Node.js 或 Python 环境、Playwright 浏览器依赖、用于 AI 分析的大模型 API Key（如 OpenAI 接口），以及基础的 Web 后端与数据库环境。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 1,
-      "last_seen_date": "2026-11-05",
+      "streak": 2,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5658,8 +5658,8 @@
       }
     },
     "JiaFeiMiao-K-Cat/DiscImageStudio": {
-      "streak": 1,
-      "last_seen_date": "2026-11-05",
+      "streak": 2,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "光盘镜像处理与制作相关工具（由于未提供官方描述，根据名称推断用于光盘镜像的提取、转储或分析）。",
         "configuration": "未明确说明，通常需要 Windows 操作系统环境以及对应的编译工具或依赖库。"
@@ -5682,11 +5682,27 @@
       }
     },
     "scenario-labs/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-11-05",
+      "streak": 2,
+      "last_seen_date": "2026-11-06",
       "summary": {
         "what_it_does": "为 AI Agent 提供的多媒体生成技能集（通过 Scenario MCP），支持生成工业级图像、视频、音频和 3D 资产，具备智能选型、成本预估、角色与品牌一致性保持，以及与 Blender、Unreal、Unity 等 3D/游戏引擎联动的能力。",
         "configuration": "需要支持 MCP（Model Context Protocol）的 AI Agent 框架、对应的 3D/游戏引擎软件（如 Blender、Unreal、Unity 等）以及 Scenario 平台相关 API 密钥。"
+      }
+    },
+    "lz4/lz4": {
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
+      "summary": {
+        "what_it_does": "极速无损数据压缩算法及命令行工具，专注于提供极高的压缩和解压缩速度。",
+        "configuration": "基于 C 语言编写，无特殊第三方依赖。需要标准 C 编译器（如 GCC、Clang、MSVC），支持 Linux、macOS、Windows 等主流操作系统。"
+      }
+    },
+    "vercel-labs/agent-browser": {
+      "streak": 1,
+      "last_seen_date": "2026-11-06",
+      "summary": {
+        "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
+        "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
       }
     }
   }
