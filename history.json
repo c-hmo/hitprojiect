@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-06",
+  "last_run_date": "2026-11-07",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 10,
-      "last_seen_date": "2026-11-06",
+      "streak": 11,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-11-06",
+      "streak": 4,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -314,8 +314,8 @@
       }
     },
     "pbakaus/impeccable": {
-      "streak": 13,
-      "last_seen_date": "2026-11-06",
+      "streak": 14,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "提供一种专门的设计语言与规则集，旨在帮助人工智能（AI）在生成和优化 UI/UX 设计时表现得更专业、更美观。",
         "configuration": "通常需要支持大语言模型的运行环境或提示词管理工具，以及用于查看和调整生成效果的基本 Web 前端开发环境。"
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 1,
-      "last_seen_date": "2026-11-06",
+      "streak": 2,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 4,
-      "last_seen_date": "2026-11-06",
+      "streak": 5,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 7,
-      "last_seen_date": "2026-11-06",
+      "streak": 8,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -2354,8 +2354,8 @@
       }
     },
     "Nutlope/hallmark": {
-      "streak": 6,
-      "last_seen_date": "2026-11-06",
+      "streak": 7,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "为 Claude Code、Cursor 和 Codex 等 AI 辅助编程工具提供“防 AI 糟粕（Anti-AI-slop）”的设计技巧与规则，旨在引导 AI 生成高质量、精简且符合优秀设计规范的代码与界面。",
         "configuration": "无需特定的硬件或编程语言环境。适用于支持自定义规则、系统提示词（System Prompts）的 AI 编程助手（如 Cursor、Claude Code、Codex 等），用户只需将相关规则导入或配置到对应的编辑器中即可。"
@@ -2418,8 +2418,8 @@
       }
     },
     "HKUDS/DeepTutor": {
-      "streak": 1,
-      "last_seen_date": "2026-11-06",
+      "streak": 2,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个用于提供“终身个性化辅导”的智能教育导师系统（AI Tutor）项目。",
         "configuration": "需要 Python 运行环境，PyTorch 等深度学习框架，以及对接大语言模型（LLM）的 API 密钥，推荐配备 GPU 硬件以支持模型推理。"
@@ -3195,7 +3195,7 @@
     },
     "angular/angular": {
       "streak": 1,
-      "last_seen_date": "2026-08-05",
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个功能丰富的开源前端 Web 框架，用于构建现代、高效的单页面应用程序（SPA）。它提供了双向数据绑定、依赖注入、组件化架构、强类型的路由和表单处理等核心功能，帮助开发者快速、自信地构建和部署 Web 应用。",
         "configuration": "需要 Node.js 运行环境，并使用 npm 或 yarn 等包管理器。项目主要使用 TypeScript 语言开发，通常需要通过全局或本地安装 Angular CLI 命令行工具来进行项目初始化、构建和开发。硬件方面无特殊要求，主流电脑即可。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 8,
-      "last_seen_date": "2026-11-06",
+      "streak": 9,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 4,
-      "last_seen_date": "2026-11-06",
+      "streak": 5,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 14,
-      "last_seen_date": "2026-11-03",
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -4891,7 +4891,7 @@
     },
     "microsoft/vscode": {
       "streak": 1,
-      "last_seen_date": "2026-09-27",
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一款轻量级、跨平台且功能强大的开源源代码编辑器，支持代码调试、内置 Git 版本控制、智能代码补全（IntelliSense）及庞大的插件扩展生态。",
         "configuration": "作为客户端可直接运行于 Windows、macOS 和 Linux。若需进行项目源码二次开发，则需要 Node.js、Python（用于构建依赖）和 C++ 编译器。"
@@ -5219,10 +5219,10 @@
     },
     "rust-lang/rust": {
       "streak": 1,
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-11-07",
       "summary": {
-        "what_it_does": "AI提取失败，请检查运行日志",
-        "configuration": "无"
+        "what_it_does": "Rust 编程语言官方代码库，包含 Rust 编译器（rustc）、标准库以及核心开发工具链。",
+        "configuration": "支持 Linux、macOS、Windows 等多种平台；从源码编译需要 C++ 编译器、LLVM、Python 3 以及 Rust 引导工具链。"
       }
     },
     "ntdevlabs/tiny11builder": {
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 1,
-      "last_seen_date": "2026-11-06",
+      "streak": 2,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5498,8 +5498,8 @@
       }
     },
     "Donchitos/Claude-Code-Game-Studios": {
-      "streak": 4,
-      "last_seen_date": "2026-11-04",
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "将 Claude Code 转化为全功能游戏开发工作室，包含 49 个 AI 智能体、72 种工作流技能，并具备模拟真实工作室组织架构的完整协调系统。",
         "configuration": "需要安装并配置 Claude Code CLI、Anthropic Claude API 密钥、Node.js/Python 运行环境以及目标游戏引擎（如 Godot、Unity 等）的开发工具链。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 2,
-      "last_seen_date": "2026-11-06",
+      "streak": 3,
+      "last_seen_date": "2026-11-07",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5703,6 +5703,86 @@
       "summary": {
         "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
         "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
+      }
+    },
+    "zed-industries/zed": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一款高性能、支持多人实时协作的代码编辑器，由 Atom 和 Tree-sitter 的创作者开发。",
+        "configuration": "需要 macOS 或 Linux 系统，基于 Rust 编写；编译/运行需要 Rust 工具链及支持 GPU 加速的图形驱动。"
+      }
+    },
+    "rails/rails": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一个基于 Ruby 语言的开源全栈 Web 应用开发框架，注重开发效率和约定优于配置。",
+        "configuration": "需要 Ruby 运行环境、Bundler 包管理器以及数据库系统（如 SQLite、PostgreSQL 或 MySQL）。"
+      }
+    },
+    "mpv-player/mpv": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一款基于命令行的轻量级、跨平台开源媒体播放器，支持丰富的音视频格式与硬件解码。",
+        "configuration": "支持主流操作系统（Linux、macOS、Windows）；运行需要 GPU 硬件加速支持及 FFmpeg 等音视频编解码依赖库。"
+      }
+    },
+    "react/react": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "用于构建 Web 和原生（Native）用户界面的 JavaScript 库，基于声明式和组件化的开发模式。",
+        "configuration": "需要 Node.js 运行环境及 npm/yarn/pnpm 包管理器；主要使用 JavaScript 或 TypeScript 开发，通常结合 Vite、Webpack 等构建工具。"
+      }
+    },
+    "symfony/symfony": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一个高性能的 PHP Web 应用开发框架，同时包含一系列可复用的 PHP 模块组件。",
+        "configuration": "需要 PHP 运行环境（建议 PHP 8.1 或更高版本）和 Composer 包管理工具；运行通常需要 Nginx 或 Apache 等 Web 服务器，以及 MySQL/PostgreSQL 等数据库。"
+      }
+    },
+    "prometheus/prometheus": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "开源的服务监控系统与时序数据库，主要用于采集、存储系统/应用的指标数据，并提供灵活的查询语言（PromQL）和告警功能。",
+        "configuration": "基于 Go 语言编写，可通过预编译二进制文件或 Docker 镜像直接运行；通过 YAML 格式的配置文件进行规则与目标设定；需根据监控数据量准备相应的 CPU、内存与磁盘存储空间。"
+      }
+    },
+    "nushell/nushell": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一种新型的现代 Shell 命令行工具，将各种命令的输出视作结构化数据（类似于表格），让命令行数据处理更加高效便利。",
+        "configuration": "跨平台支持 Windows、macOS 和 Linux；可通过各系统的包管理器（如 brew, winget, scoop）或预编译二进制文件直接安装，也可通过 Rust 工具链（cargo）从源码编译。"
+      }
+    },
+    "etcd-io/etcd": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一个分布式、高可用的强一致性键值存储系统，专门用于保存分布式系统中最关键的数据，广泛应用于配置共享和服务发现（如作为 Kubernetes 的核心存储）。",
+        "configuration": "基于 Go 语言开发。支持主流操作系统（Linux、macOS、Windows）；可直接运行预编译的二进制文件。生产环境建议部署由奇数个节点（如 3 或 5 个）组成的集群，并推荐使用高性能 SSD 磁盘以提供低延迟的 IOPS。"
+      }
+    },
+    "openssl/openssl": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一个通用的密码学工具包和 SSL/TLS 协议实现库，提供数据加密/解密、数字证书管理以及安全网络通信等核心功能。",
+        "configuration": "基于 C 语言编写。支持各类 Unix/Linux、macOS 和 Windows 平台；从源码编译需要 C 编译器（如 GCC、Clang、MSVC）、Perl 5 解释器以及 Make 构建工具。"
+      }
+    },
+    "astral-sh/ruff": {
+      "streak": 1,
+      "last_seen_date": "2026-11-07",
+      "summary": {
+        "what_it_does": "一个极速的 Python 代码检查（Linter）和代码格式化（Formatter）工具，旨在替代 Flake8、Black、isort 等多种传统 Python 校验工具。",
+        "configuration": "基于 Rust 语言编写，支持跨平台运行。需要 Python 环境（通常为 Python 3.7+）；可通过 pip、pipx、Homebrew 等包管理器直接安装，无需安装额外的依赖包或 Rust 编译工具链。"
       }
     }
   }
