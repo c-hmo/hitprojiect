@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-09",
+  "last_run_date": "2026-11-10",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -59,7 +59,7 @@
     },
     "ruvnet/RuView": {
       "streak": 1,
-      "last_seen_date": "2026-10-29",
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测系统，在不使用摄像头的前提下实现空间感知。",
         "configuration": "支持提取 CSI（信道状态信息）的兼容 WiFi 硬件，运行数据处理算法的计算机（通常需要 Python 或 C++ 环境及相关驱动支持）。"
@@ -258,16 +258,16 @@
       }
     },
     "anthropics/skills": {
-      "streak": 6,
-      "last_seen_date": "2026-11-09",
+      "streak": 7,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
       }
     },
     "D4Vinci/Scrapling": {
-      "streak": 2,
-      "last_seen_date": "2026-11-09",
+      "streak": 3,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个自适应网页爬虫框架，能够高效处理从单个 HTTP 请求到大规模并发网络爬取的各种数据抓取需求。",
         "configuration": "需要 Python 运行环境及相关的依赖库。大规模爬取时，需要稳定的网络连接、适当的带宽，以及可能需要的代理 IP 支持。"
@@ -1323,7 +1323,7 @@
     },
     "ZhuLinsen/daily_stock_analysis": {
       "streak": 1,
-      "last_seen_date": "2026-08-12",
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情获取、实时新闻分析、可视化决策看板以及自动化通知推送。",
         "configuration": "需要 Python 运行环境、LLM（大语言模型）API 密钥，以及用于接收推送的配置。支持利用 GitHub Actions 进行免服务器的零成本定时运行。"
@@ -2330,8 +2330,8 @@
       }
     },
     "pingdotgg/t3code": {
-      "streak": 10,
-      "last_seen_date": "2026-11-09",
+      "streak": 11,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "未提供官方描述。基于作者背景，这通常是一个与 T3 栈（TypeScript, Tailwind, tRPC, Next.js）相关的教学、演示或模板代码库。",
         "configuration": "需要 Node.js 运行环境，以及 pnpm、npm 或 yarn 等包管理器，依赖于 TypeScript 和 React 全栈开发生态。"
@@ -3922,8 +3922,8 @@
       }
     },
     "thedotmack/claude-mem": {
-      "streak": 11,
-      "last_seen_date": "2026-11-09",
+      "streak": 12,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "为各种 AI 智能体提供跨会话的持久化上下文记忆。它能捕获智能体在会话中的所有操作，通过 AI 压缩并在后续会话中注入相关上下文。",
         "configuration": "兼容 Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 等工具。配置需要相应的 AI 接口 API 密钥以及支持这些 Agent 的本地运行环境。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 7,
-      "last_seen_date": "2026-11-09",
+      "streak": 8,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 4,
-      "last_seen_date": "2026-11-09",
+      "streak": 5,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5498,8 +5498,8 @@
       }
     },
     "Donchitos/Claude-Code-Game-Studios": {
-      "streak": 3,
-      "last_seen_date": "2026-11-09",
+      "streak": 4,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "将 Claude Code 转化为全功能游戏开发工作室，包含 49 个 AI 智能体、72 种工作流技能，并具备模拟真实工作室组织架构的完整协调系统。",
         "configuration": "需要安装并配置 Claude Code CLI、Anthropic Claude API 密钥、Node.js/Python 运行环境以及目标游戏引擎（如 Godot、Unity 等）的开发工具链。"
@@ -5586,8 +5586,8 @@
       }
     },
     "vercel-labs/agent-desktop": {
-      "streak": 4,
-      "last_seen_date": "2026-11-06",
+      "streak": 1,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的计算机自动化操作命令行工具（CLI），允许 AI 代理通过终端控制和操作桌面电脑。",
         "configuration": "需要 Node.js 运行环境、相关的 AI 模型 API Key（如支持 Computer Use 功能的大模型 API），以及标准的命令行终端。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 1,
-      "last_seen_date": "2026-11-09",
+      "streak": 2,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5698,8 +5698,8 @@
       }
     },
     "vercel-labs/agent-browser": {
-      "streak": 2,
-      "last_seen_date": "2026-11-09",
+      "streak": 3,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
         "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
@@ -5786,16 +5786,16 @@
       }
     },
     "meta/astryx": {
-      "streak": 2,
-      "last_seen_date": "2026-11-09",
+      "streak": 3,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个开源的设计系统，具备完全可定制性，并针对 AI Agent（智能体）集成进行了优化。",
         "configuration": "需要 Node.js 运行环境、现代前端开发框架（如 React/Tailwind 等）及对应的 JavaScript/TypeScript 包管理器（如 npm, pnpm 或 yarn）。"
       }
     },
     "sherlock-project/sherlock": {
-      "streak": 2,
-      "last_seen_date": "2026-11-09",
+      "streak": 3,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一款社交媒体账号侦查工具，输入指定用户名即可在众多社交网络平台上搜索对应的注册账号。",
         "configuration": "需要 Python 3.6 或更高版本环境，并通过 pip 安装相关 Python 依赖库（如 requests 等），适用于 Linux、macOS 和 Windows 系统。"
@@ -5818,19 +5818,35 @@
       }
     },
     "anthropics/claude-quickstarts": {
-      "streak": 1,
-      "last_seen_date": "2026-11-09",
+      "streak": 2,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "旨在帮助开发者快速上手并构建可部署应用的 Claude API 示例项目集合。",
         "configuration": "需要 Python 或 Node.js/TypeScript 运行环境、Anthropic API Key，以及对应项目的依赖包（如 anthropic SDK 等）。"
       }
     },
     "google-deepmind/mujoco": {
-      "streak": 1,
-      "last_seen_date": "2026-11-09",
+      "streak": 2,
+      "last_seen_date": "2026-11-10",
       "summary": {
         "what_it_does": "一个通用的多关节接触动力学物理模拟器，常用于机器人学、生物力学和强化学习等领域的仿真。",
         "configuration": "需要支持 C/C++（C++17 编译器）或 Python 3 环境，支持 Linux、macOS 或 Windows 操作系统，如需图形渲染建议具备支持 OpenGL 的显卡/硬件。"
+      }
+    },
+    "garrytan/gbrain": {
+      "streak": 1,
+      "last_seen_date": "2026-11-10",
+      "summary": {
+        "what_it_does": "Garry Tan 个人定制的 AI Agent 决策与大脑系统，基于 OpenClaw/Hermes 框架构建，用于实现自动化任务处理、代理决策和上下文记忆管理。",
+        "configuration": "需要 Python 或 Node.js 运行环境、主流大模型 API 密钥（如 OpenAI、Anthropic 等），以及 OpenClaw/Hermes agent 框架依赖项。"
+      }
+    },
+    "homeassistant-ai/ha-mcp": {
+      "streak": 1,
+      "last_seen_date": "2026-11-10",
+      "summary": {
+        "what_it_does": "基于 MCP (Model Context Protocol) 协议的 Home Assistant 服务端，允许 Claude、ChatGPT 等 AI 助手直接交互、配置并自动化控制 Home Assistant 智能家居设备。",
+        "configuration": "需要运行中的 Home Assistant 实例及长期有效访问令牌（Long-Lived Access Token）、Python 运行环境，以及支持 MCP 协议的 AI 客户端（如 Claude Desktop）。"
       }
     }
   }
