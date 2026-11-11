@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-10",
+  "last_run_date": "2026-11-11",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 7,
-      "last_seen_date": "2026-11-10",
+      "streak": 8,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -771,7 +771,7 @@
     },
     "addyosmani/agent-skills": {
       "streak": 1,
-      "last_seen_date": "2026-10-10",
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 6,
-      "last_seen_date": "2026-11-08",
+      "streak": 1,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -2611,7 +2611,7 @@
     },
     "tokio-rs/topcoat": {
       "streak": 1,
-      "last_seen_date": "2026-07-21",
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个功能完备、开箱即用的 Rust Web 应用程序框架，基于 Tokio 异步生态系统构建，提供高效且现代的 Web 开发体验。",
         "configuration": "需要安装 Rust 编译器和 Cargo 包管理器（建议最新稳定版），以及项目所需的底层系统依赖（如 SSL 开发库、数据库驱动等）。"
@@ -4482,8 +4482,8 @@
       }
     },
     "max-sixty/worktrunk": {
-      "streak": 8,
-      "last_seen_date": "2026-11-10",
+      "streak": 9,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个用于管理 Git worktree（工作树）的命令行（CLI）工具，专为并行的 AI 代理（Agent）工作流设计，以优化并行开发任务。",
         "configuration": "Git 版本控制系统、终端命令行环境，以及该 CLI 工具所需的运行环境（如 Node.js 或 Rust 运行时）。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 2,
-      "last_seen_date": "2026-11-08",
+      "streak": 1,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -5234,8 +5234,8 @@
       }
     },
     "ranxianglei/billion-context": {
-      "streak": 2,
-      "last_seen_date": "2026-11-09",
+      "streak": 1,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个上下文压缩插件，用于在大模型交互中节省 Token（最高可省 5 倍），支持在较小的上下文窗口（如 100K）下实现数月级别的超长单会话（处理累计数十亿 Token）。",
         "configuration": "项目未列出具体配置要求，通常需要配合主流大语言模型 API 环境或 Agent 框架使用。"
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 5,
-      "last_seen_date": "2026-11-10",
+      "streak": 6,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5498,8 +5498,8 @@
       }
     },
     "Donchitos/Claude-Code-Game-Studios": {
-      "streak": 4,
-      "last_seen_date": "2026-11-10",
+      "streak": 5,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "将 Claude Code 转化为全功能游戏开发工作室，包含 49 个 AI 智能体、72 种工作流技能，并具备模拟真实工作室组织架构的完整协调系统。",
         "configuration": "需要安装并配置 Claude Code CLI、Anthropic Claude API 密钥、Node.js/Python 运行环境以及目标游戏引擎（如 Godot、Unity 等）的开发工具链。"
@@ -5586,8 +5586,8 @@
       }
     },
     "vercel-labs/agent-desktop": {
-      "streak": 1,
-      "last_seen_date": "2026-11-10",
+      "streak": 2,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的计算机自动化操作命令行工具（CLI），允许 AI 代理通过终端控制和操作桌面电脑。",
         "configuration": "需要 Node.js 运行环境、相关的 AI 模型 API Key（如支持 Computer Use 功能的大模型 API），以及标准的命令行终端。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 2,
-      "last_seen_date": "2026-11-10",
+      "streak": 3,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5643,7 +5643,7 @@
     },
     "The-PR-Agent/pr-agent": {
       "streak": 1,
-      "last_seen_date": "2026-11-05",
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "开源的 AI 自动化 PR（Pull Request）代码审查工具，可自动对代码合并请求进行分析、总结、提出修改建议及回答疑问。",
         "configuration": "需要 Python 环境，与代码托管平台（如 GitHub、GitLab、Bitbucket 等）的集成配置，以及配置大语言模型 API 密钥（如 OpenAI 等）。"
@@ -5698,8 +5698,8 @@
       }
     },
     "vercel-labs/agent-browser": {
-      "streak": 3,
-      "last_seen_date": "2026-11-10",
+      "streak": 4,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
         "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
@@ -5786,16 +5786,16 @@
       }
     },
     "meta/astryx": {
-      "streak": 3,
-      "last_seen_date": "2026-11-10",
+      "streak": 4,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个开源的设计系统，具备完全可定制性，并针对 AI Agent（智能体）集成进行了优化。",
         "configuration": "需要 Node.js 运行环境、现代前端开发框架（如 React/Tailwind 等）及对应的 JavaScript/TypeScript 包管理器（如 npm, pnpm 或 yarn）。"
       }
     },
     "sherlock-project/sherlock": {
-      "streak": 3,
-      "last_seen_date": "2026-11-10",
+      "streak": 4,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一款社交媒体账号侦查工具，输入指定用户名即可在众多社交网络平台上搜索对应的注册账号。",
         "configuration": "需要 Python 3.6 或更高版本环境，并通过 pip 安装相关 Python 依赖库（如 requests 等），适用于 Linux、macOS 和 Windows 系统。"
@@ -5818,16 +5818,16 @@
       }
     },
     "anthropics/claude-quickstarts": {
-      "streak": 2,
-      "last_seen_date": "2026-11-10",
+      "streak": 3,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "旨在帮助开发者快速上手并构建可部署应用的 Claude API 示例项目集合。",
         "configuration": "需要 Python 或 Node.js/TypeScript 运行环境、Anthropic API Key，以及对应项目的依赖包（如 anthropic SDK 等）。"
       }
     },
     "google-deepmind/mujoco": {
-      "streak": 2,
-      "last_seen_date": "2026-11-10",
+      "streak": 3,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "一个通用的多关节接触动力学物理模拟器，常用于机器人学、生物力学和强化学习等领域的仿真。",
         "configuration": "需要支持 C/C++（C++17 编译器）或 Python 3 环境，支持 Linux、macOS 或 Windows 操作系统，如需图形渲染建议具备支持 OpenGL 的显卡/硬件。"
@@ -5842,11 +5842,19 @@
       }
     },
     "homeassistant-ai/ha-mcp": {
-      "streak": 1,
-      "last_seen_date": "2026-11-10",
+      "streak": 2,
+      "last_seen_date": "2026-11-11",
       "summary": {
         "what_it_does": "基于 MCP (Model Context Protocol) 协议的 Home Assistant 服务端，允许 Claude、ChatGPT 等 AI 助手直接交互、配置并自动化控制 Home Assistant 智能家居设备。",
         "configuration": "需要运行中的 Home Assistant 实例及长期有效访问令牌（Long-Lived Access Token）、Python 运行环境，以及支持 MCP 协议的 AI 客户端（如 Claude Desktop）。"
+      }
+    },
+    "we-promise/sure": {
+      "streak": 1,
+      "last_seen_date": "2026-11-11",
+      "summary": {
+        "what_it_does": "一个开源的个人财务管理应用，旨在帮助用户轻松追踪和管理个人的收入、支出、净资产、预算以及各个财务账户。",
+        "configuration": "推荐使用 Docker 和 Docker Compose 进行部署；若手动安装则需要 Ruby on Rails 运行环境、PostgreSQL 数据库和 Redis。"
       }
     }
   }
