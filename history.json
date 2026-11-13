@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-12",
+  "last_run_date": "2026-11-13",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 9,
-      "last_seen_date": "2026-11-12",
+      "streak": 10,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -659,7 +659,7 @@
     },
     "ggml-org/llama.cpp": {
       "streak": 1,
-      "last_seen_date": "2026-06-08",
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "在 C/C++ 中实现的大语言模型（LLM）推理引擎，专门针对无 GPU 或弱 GPU 的本地硬件环境（如 Apple Silicon、普通 CPU）进行了极致的量化与性能优化。",
         "configuration": "需要支持 C++11 的编译器（如 GCC、Clang、MSVC）；支持 Linux、macOS（自带 Metal 优化）和 Windows 平台；支持纯 CPU 运行，也支持 CUDA/ROCm 等 GPU 加速；运行前需下载并转换成 GGUF 格式的模型文件。"
@@ -706,8 +706,8 @@
       }
     },
     "google/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-11-08",
+      "streak": 1,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "为 Google 产品和技术提供 AI 智能体（Agent）技能，帮助开发者构建能够与 Google 各种服务（如 Workspace、Cloud 等）进行交互和集成的智能体。",
         "configuration": "通常需要 Python 运行环境、Google Cloud 账号、相关服务的 API 启用与凭证（如 OAuth 2.0 凭证或 API 密钥），以及 AI Agent 框架（如 LangChain 等）的依赖。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 2,
-      "last_seen_date": "2026-11-12",
+      "streak": 3,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 2,
-      "last_seen_date": "2026-11-12",
+      "streak": 3,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -2867,7 +2867,7 @@
     },
     "nodejs/node": {
       "streak": 1,
-      "last_seen_date": "2026-10-24",
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个开源、跨平台的 JavaScript 运行时环境，允许在浏览器外部（主要是服务器端）执行 JavaScript 代码。",
         "configuration": "需要 C++ 编译器（如 GCC/Clang 或 MSVC）、Python 3（用于构建脚本）以及支持的操作系统（Windows、macOS、Linux 或 Unix 等）。"
@@ -3147,7 +3147,7 @@
     },
     "Alishahryar1/free-claude-code": {
       "streak": 1,
-      "last_seen_date": "2026-10-13",
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "允许用户在终端、应用、IDE 或手机上免费使用 Claude Code、Codex 和 Pi，并支持语音交互功能。",
         "configuration": "需要 Node.js 或 Python 运行环境，支持命令行终端或相关 IDE 插件，语音功能需要麦克风等音频硬件支持，以及稳定的网络连接。"
@@ -3387,7 +3387,7 @@
     },
     "nvm-sh/nvm": {
       "streak": 1,
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个用于管理多个 Node.js 版本的命令行工具，允许用户在同一台机器上轻松安装、切换和卸载不同版本的 Node.js。",
         "configuration": "需要兼容 POSIX 的 Shell（如 bash、zsh、sh 等）以及基本的命令行下载工具（如 curl 或 wget）。支持 macOS、Linux 和 Windows 的 WSL 运行环境。"
@@ -4578,8 +4578,8 @@
       }
     },
     "cloudflare/security-audit-skill": {
-      "streak": 2,
-      "last_seen_date": "2026-11-12",
+      "streak": 3,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一种用于多阶段安全审计的 AI 编码智能体（Coding Agent）技能，能够生成经过独立验证且机器可读的安全漏洞审计结果。",
         "configuration": "需要 Python 运行环境、兼容的 AI 智能体开发框架（如 LangChain 或类似工具）、大语言模型 API 密钥，以及用于安全分析的依赖工具链。"
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 7,
-      "last_seen_date": "2026-11-12",
+      "streak": 8,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5491,7 +5491,7 @@
     },
     "CopilotKit/OpenBot": {
       "streak": 1,
-      "last_seen_date": "2026-11-02",
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "开源 AI 协同工作者系统，为每个 AI 智能体配备独立的虚拟电脑环境（含浏览器、文件系统及工具），所有操作均先决策后记录，支持接入各类 AG-UI 智能体。",
         "configuration": "需要 Node.js/TypeScript 或 Python 运行环境、Docker/沙盒隔离环境、大语言模型 API 密钥（如 OpenAI/Anthropic）及相关 AG-UI 依赖库。"
@@ -5586,8 +5586,8 @@
       }
     },
     "vercel-labs/agent-desktop": {
-      "streak": 3,
-      "last_seen_date": "2026-11-12",
+      "streak": 4,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个专为 AI Agent 设计的计算机自动化操作命令行工具（CLI），允许 AI 代理通过终端控制和操作桌面电脑。",
         "configuration": "需要 Node.js 运行环境、相关的 AI 模型 API Key（如支持 Computer Use 功能的大模型 API），以及标准的命令行终端。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 4,
-      "last_seen_date": "2026-11-12",
+      "streak": 5,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5698,16 +5698,16 @@
       }
     },
     "vercel-labs/agent-browser": {
-      "streak": 5,
-      "last_seen_date": "2026-11-12",
+      "streak": 6,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
         "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
       }
     },
     "zed-industries/zed": {
-      "streak": 1,
-      "last_seen_date": "2026-11-12",
+      "streak": 2,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一款高性能、支持多人实时协作的代码编辑器，由 Atom 和 Tree-sitter 的创作者开发。",
         "configuration": "需要 macOS 或 Linux 系统，基于 Rust 编写；编译/运行需要 Rust 工具链及支持 GPU 加速的图形驱动。"
@@ -5786,8 +5786,8 @@
       }
     },
     "meta/astryx": {
-      "streak": 5,
-      "last_seen_date": "2026-11-12",
+      "streak": 6,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个开源的设计系统，具备完全可定制性，并针对 AI Agent（智能体）集成进行了优化。",
         "configuration": "需要 Node.js 运行环境、现代前端开发框架（如 React/Tailwind 等）及对应的 JavaScript/TypeScript 包管理器（如 npm, pnpm 或 yarn）。"
@@ -5826,8 +5826,8 @@
       }
     },
     "google-deepmind/mujoco": {
-      "streak": 3,
-      "last_seen_date": "2026-11-11",
+      "streak": 1,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个通用的多关节接触动力学物理模拟器，常用于机器人学、生物力学和强化学习等领域的仿真。",
         "configuration": "需要支持 C/C++（C++17 编译器）或 Python 3 环境，支持 Linux、macOS 或 Windows 操作系统，如需图形渲染建议具备支持 OpenGL 的显卡/硬件。"
@@ -5850,16 +5850,16 @@
       }
     },
     "we-promise/sure": {
-      "streak": 2,
-      "last_seen_date": "2026-11-12",
+      "streak": 3,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "一个开源的个人财务管理应用，旨在帮助用户轻松追踪和管理个人的收入、支出、净资产、预算以及各个财务账户。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行部署；若手动安装则需要 Ruby on Rails 运行环境、PostgreSQL 数据库和 Redis。"
       }
     },
     "GoogleChrome/modern-web-guidance-src": {
-      "streak": 1,
-      "last_seen_date": "2026-11-12",
+      "streak": 2,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "Google Chrome 团队提供的现代 Web 开发指南网站的源代码项目。",
         "configuration": "Node.js 运行环境以及前端包管理器（如 npm 或 yarn）。"
@@ -5874,8 +5874,8 @@
       }
     },
     "openai/codex-security": {
-      "streak": 1,
-      "last_seen_date": "2026-11-12",
+      "streak": 2,
+      "last_seen_date": "2026-11-13",
       "summary": {
         "what_it_does": "OpenAI 推出的安全 CLI 工具和 TypeScript SDK，用于自动检测、验证并修复代码中的安全漏洞。",
         "configuration": "Node.js 及 TypeScript 环境，通过 npm 安装 @openai/codex-security 包，并需配置 OpenAI API 密钥。"
@@ -5887,6 +5887,30 @@
       "summary": {
         "what_it_does": "包含了用 Java 语言实现的各种常见算法和数据结构的示例代码库。",
         "configuration": "Java 开发环境（JDK 8 或更高版本）以及可选的构建工具（如 Maven 或 Gradle）。"
+      }
+    },
+    "pookjw/HermesEnabler": {
+      "streak": 1,
+      "last_seen_date": "2026-11-13",
+      "summary": {
+        "what_it_does": "在任何 Apple Watch 设备上解锁并启用爱马仕（Hermès）专属表盘。",
+        "configuration": "需要 Apple Watch 设备及配套的 iPhone，通常需要特定的 iOS/watchOS 环境或开发调试工具进行配置。"
+      }
+    },
+    "QwenLM/qwen-code": {
+      "streak": 1,
+      "last_seen_date": "2026-11-13",
+      "summary": {
+        "what_it_does": "一个运行在终端（Terminal）中的开源 AI 代码 Agent，能够辅助开发者进行代码编写、重构与自动化任务。",
+        "configuration": "需要 Python 运行环境、命令行终端支持，以及 Qwen API 密钥或本地运行的大语言模型环境。"
+      }
+    },
+    "ashhart/TensorFold": {
+      "streak": 1,
+      "last_seen_date": "2026-11-13",
+      "summary": {
+        "what_it_does": "一个高效的大语言模型（LLM）推理引擎，支持 Metal、CUDA 和 Vulkan 等多种图形API硬件加速。",
+        "configuration": "需要支持 Metal（Apple Silicon）、CUDA（NVIDIA GPU）或 Vulkan 的 GPU 硬件及相应驱动/SDK，以及 C++ 或 Rust 等编译构建环境。"
       }
     }
   }
