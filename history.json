@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-13",
+  "last_run_date": "2026-11-14",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -258,8 +258,8 @@
       }
     },
     "anthropics/skills": {
-      "streak": 10,
-      "last_seen_date": "2026-11-13",
+      "streak": 11,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "Anthropic 官方提供的公共仓库，用于存放、定义和管理智能体（Agent）可以调用的各种实用技能与工具集。",
         "configuration": "Python 运行环境，通常需要配置 Anthropic API Key、Anthropic 官方 SDK，以及各具体技能依赖的第三方 Python 模块。"
@@ -770,8 +770,8 @@
       }
     },
     "addyosmani/agent-skills": {
-      "streak": 3,
-      "last_seen_date": "2026-11-13",
+      "streak": 4,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "为 AI 编程智能体（AI Coding Agents）提供生产级别的工程技能和工具集，帮助智能体更高效、安全地执行代码编写和软件工程任务。",
         "configuration": "需要 Node.js 或 Python 运行环境，相关的 AI 智能体开发框架，以及用于调用大语言模型（如 OpenAI, Anthropic）的 API 密钥。"
@@ -1130,8 +1130,8 @@
       }
     },
     "mattpocock/skills": {
-      "streak": 3,
-      "last_seen_date": "2026-11-13",
+      "streak": 4,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个工程技能和最佳实践知识库，收集了作者个人的 Claude AI 助手规则与上下文（.claude 目录），用于提升工程协作与 AI 辅助编程效率。",
         "configuration": "无需特殊的运行环境和硬件要求。该项目主要由 Markdown 文档和配置文件组成，直接阅读即可，或需要支持自定义上下文规则的 AI 工具（如 Claude）来加载这些配置。"
@@ -1323,7 +1323,7 @@
     },
     "ZhuLinsen/daily_stock_analysis": {
       "streak": 1,
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情获取、实时新闻分析、可视化决策看板以及自动化通知推送。",
         "configuration": "需要 Python 运行环境、LLM（大语言模型）API 密钥，以及用于接收推送的配置。支持利用 GitHub Actions 进行免服务器的零成本定时运行。"
@@ -1794,8 +1794,8 @@
       }
     },
     "ChromeDevTools/chrome-devtools-mcp": {
-      "streak": 2,
-      "last_seen_date": "2026-09-10",
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
@@ -2787,7 +2787,7 @@
     },
     "block/buzz": {
       "streak": 1,
-      "last_seen_date": "2026-09-27",
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个群智（hive mind）协作与通信平台，旨在促进集体智慧的沟通与协同。",
         "configuration": "通常需要网络连接与现代Web浏览器，具体配置取决于其服务端和客户端的部署环境。"
@@ -2803,7 +2803,7 @@
     },
     "alibaba/open-code-review": {
       "streak": 1,
-      "last_seen_date": "2026-10-10",
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3955,7 +3955,7 @@
     },
     "tailscale/tailcat": {
       "streak": 1,
-      "last_seen_date": "2026-09-06",
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个类似于 netcat 的网络工具，但它通过 Tailscale 的数据平面（基于 WireGuard）进行安全的数据传输，且无需依赖 Tailscale 的控制平面协调。",
         "configuration": "需要 Go 语言（Go 1.20+）编译和运行环境，支持 Linux、macOS、Windows 等主流操作系统，且需要网络权限以建立端到端的 WireGuard 安全连接。"
@@ -5482,8 +5482,8 @@
       }
     },
     "milind-soni/OpenMausBot": {
-      "streak": 8,
-      "last_seen_date": "2026-11-13",
+      "streak": 9,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "开源的 Grok Bot 替代方案，为 Bot 提供可调用的虚拟机环境，实现自动化操作与交互。",
         "configuration": "需要支持虚拟化或容器化（如 Docker / 虚拟机）的硬件与操作系统环境、Python/Node.js 运行环境以及相关的 API 密钥。"
@@ -5634,8 +5634,8 @@
       }
     },
     "NVIDIA/auto-ontology": {
-      "streak": 5,
-      "last_seen_date": "2026-11-13",
+      "streak": 6,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个基于 Python 的语义图推理框架，用于在数据之上构建推理层，提高大语言模型（LLM）和 Agent 工作流的确定性查询生成、上下文检索与 AI 可解释性。",
         "configuration": "需要 Python 运行环境、相关的 Python 数据处理依赖，以及大语言模型（LLM）或 Agent 交互环境。"
@@ -5698,8 +5698,8 @@
       }
     },
     "vercel-labs/agent-browser": {
-      "streak": 6,
-      "last_seen_date": "2026-11-13",
+      "streak": 7,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "专为 AI Agent 设计的浏览器自动化命令行工具（CLI），允许 AI 代理通过指令直接控制和交互 Web 浏览器。",
         "configuration": "基于 Node.js/TypeScript 开发，需要 Node.js 运行环境，并需要安装 Playwright 或无头浏览器相关驱动。"
@@ -5794,8 +5794,8 @@
       }
     },
     "sherlock-project/sherlock": {
-      "streak": 4,
-      "last_seen_date": "2026-11-11",
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一款社交媒体账号侦查工具，输入指定用户名即可在众多社交网络平台上搜索对应的注册账号。",
         "configuration": "需要 Python 3.6 或更高版本环境，并通过 pip 安装相关 Python 依赖库（如 requests 等），适用于 Linux、macOS 和 Windows 系统。"
@@ -5826,8 +5826,8 @@
       }
     },
     "google-deepmind/mujoco": {
-      "streak": 1,
-      "last_seen_date": "2026-11-13",
+      "streak": 2,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个通用的多关节接触动力学物理模拟器，常用于机器人学、生物力学和强化学习等领域的仿真。",
         "configuration": "需要支持 C/C++（C++17 编译器）或 Python 3 环境，支持 Linux、macOS 或 Windows 操作系统，如需图形渲染建议具备支持 OpenGL 的显卡/硬件。"
@@ -5850,16 +5850,16 @@
       }
     },
     "we-promise/sure": {
-      "streak": 3,
-      "last_seen_date": "2026-11-13",
+      "streak": 4,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "一个开源的个人财务管理应用，旨在帮助用户轻松追踪和管理个人的收入、支出、净资产、预算以及各个财务账户。",
         "configuration": "推荐使用 Docker 和 Docker Compose 进行部署；若手动安装则需要 Ruby on Rails 运行环境、PostgreSQL 数据库和 Redis。"
       }
     },
     "GoogleChrome/modern-web-guidance-src": {
-      "streak": 2,
-      "last_seen_date": "2026-11-13",
+      "streak": 3,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "Google Chrome 团队提供的现代 Web 开发指南网站的源代码项目。",
         "configuration": "Node.js 运行环境以及前端包管理器（如 npm 或 yarn）。"
@@ -5874,8 +5874,8 @@
       }
     },
     "openai/codex-security": {
-      "streak": 2,
-      "last_seen_date": "2026-11-13",
+      "streak": 3,
+      "last_seen_date": "2026-11-14",
       "summary": {
         "what_it_does": "OpenAI 推出的安全 CLI 工具和 TypeScript SDK，用于自动检测、验证并修复代码中的安全漏洞。",
         "configuration": "Node.js 及 TypeScript 环境，通过 npm 安装 @openai/codex-security 包，并需配置 OpenAI API 密钥。"
@@ -5911,6 +5911,46 @@
       "summary": {
         "what_it_does": "一个高效的大语言模型（LLM）推理引擎，支持 Metal、CUDA 和 Vulkan 等多种图形API硬件加速。",
         "configuration": "需要支持 Metal（Apple Silicon）、CUDA（NVIDIA GPU）或 Vulkan 的 GPU 硬件及相应驱动/SDK，以及 C++ 或 Rust 等编译构建环境。"
+      }
+    },
+    "google/elephant-goldfish-model": {
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
+      "summary": {
+        "what_it_does": "用于借助 AI Agent 进行软件设计与代码审查的开源插件系统。",
+        "configuration": "需要 Python/Node.js 运行环境、相关大语言模型（LLM）API 密钥以及 Agent 框架支持。"
+      }
+    },
+    "backnotprop/plannotator": {
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
+      "summary": {
+        "what_it_does": "专为人类与 AI Agent 协作打造的工作空间，支持需求塑造、决策规划、代码审查批注、团队共享以及一键将反馈发送给 Agent。",
+        "configuration": "需要 Node.js 或 Docker 部署环境、Web 浏览器终端支持以及连接底层 Agent/LLM 服务的配置。"
+      }
+    },
+    "louislam/uptime-kuma": {
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
+      "summary": {
+        "what_it_does": "一款功能丰富、界面美观的自托管服务监控工具，支持多种协议（如 HTTP、Ping、DNS 等）的状态检测与告警通知。",
+        "configuration": "需要 Node.js (v18+) 运行环境或 Docker / Docker Compose 容器环境，硬件资源消耗极低。"
+      }
+    },
+    "tradermonty/claude-trading-skills": {
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
+      "summary": {
+        "what_it_does": "面向股票投资者和交易员的 Claude Code 技能扩展包，提供市场分析、技术分析图表、经济日历、股票筛选和交易策略开发等功能。",
+        "configuration": "需要安装 Claude Code CLI 工具、Python/Node.js 环境以及相关金融数据源（如相关 API 密钥）的配置。"
+      }
+    },
+    "Likely7/Veyra-NRVideo": {
+      "streak": 1,
+      "last_seen_date": "2026-11-14",
+      "summary": {
+        "what_it_does": "一款高级 Windows 视频播放与采集增强工具，支持对视频、图像及采集卡源进行实时预览。它结合了 AI 超分辨率、DLSS5 图像增强和帧生成（Frame Generation）技术，旨在大幅提升画质与帧率体验（例如宣称可将 PS5 上的 GTA6 提升至 120FPS）。",
+        "configuration": "运行环境需要 Windows 操作系统；硬件方面通常需要支持 DLSS 5 和 AI 帧生成技术的现代 NVIDIA 显卡（如 RTX 系列），以及可选的视频采集卡等设备。"
       }
     }
   }
