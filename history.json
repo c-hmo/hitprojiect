@@ -1,5 +1,5 @@
 {
-  "last_run_date": "2026-11-25",
+  "last_run_date": "2026-11-26",
   "repos": {
     "Lum1104/Understand-Anything": {
       "streak": 8,
@@ -114,8 +114,8 @@
       }
     },
     "obra/superpowers": {
-      "streak": 8,
-      "last_seen_date": "2026-11-25",
+      "streak": 9,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个智能体（Agentic）技能框架与软件开发方法论，旨在帮助开发者更高效地构建、组织和运行 AI Agent 的能力与工作流。",
         "configuration": "通常需要 Python 运行环境，安装相关的依赖库，并需要配置相应的大语言模型（LLM）API 密钥（如 OpenAI 等）。"
@@ -170,8 +170,8 @@
       }
     },
     "cursor/plugins": {
-      "streak": 8,
-      "last_seen_date": "2026-11-25",
+      "streak": 9,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "Cursor 编辑器的插件规范定义及官方核心插件合集，用于扩展 Cursor 的 AI 辅助功能。",
         "configuration": "需要 Cursor 编辑器环境以及用于开发/调试插件的 Node.js/TypeScript 编译环境。"
@@ -506,8 +506,8 @@
       }
     },
     "mvanhorn/last30days-skill": {
-      "streak": 9,
-      "last_seen_date": "2026-11-25",
+      "streak": 10,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个 AI 智能体（Agent）技能，能够自动检索并研究 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 及全网关于特定主题的最新信息，并生成一份有据可依的综合提炼报告。",
         "configuration": "需要 AI Agent 框架运行环境（如 Dify、LangChain 或相关 Agent 平台），以及各大社交媒体平台、搜索引擎的 API 密钥（如 Reddit API, YouTube API 等）和大语言模型（LLM）的 API 访问权限。"
@@ -578,8 +578,8 @@
       }
     },
     "nginx/nginx": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一款高性能、高并发的开源 HTTP 服务器、反向代理服务器、负载均衡器以及邮件代理服务器。",
         "configuration": "可运行于 Linux、macOS、Windows 等主流操作系统。从源码编译通常需要 C 编译器（如 GCC/Clang）、PCRE 库（支持正则表达式）、OpenSSL（支持 HTTPS）和 zlib（支持压缩）。"
@@ -1386,8 +1386,8 @@
       }
     },
     "firecrawl/firecrawl": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个功能强大的 API，专门用于大规模的网络搜索、网页抓取和交互，能将任意网页内容转换为适合大语言模型（LLM）使用的干净 Markdown 或结构化数据。",
         "configuration": "可以直接使用其托管的云端 API（需要 API 密钥）。如果选择本地私有化部署，则需要 Docker、Docker Compose，以及 Redis（作为任务队列）和 PostgreSQL（用于数据存储）。"
@@ -1794,8 +1794,8 @@
       }
     },
     "ChromeDevTools/chrome-devtools-mcp": {
-      "streak": 12,
-      "last_seen_date": "2026-11-25",
+      "streak": 13,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "为 AI 编码助手提供 Chrome 开发者工具的 MCP（模型上下文协议）连接器，使 AI 能够控制、检查和调试 Chrome 浏览器，进行前端网页的交互与调试工作。",
         "configuration": "需要 Node.js 运行环境、Chrome 浏览器，以及兼容 MCP 协议的 AI 客户端（如 Claude Desktop ）。"
@@ -2234,8 +2234,8 @@
       }
     },
     "google-labs-code/stitch-skills": {
-      "streak": 10,
-      "last_seen_date": "2026-11-25",
+      "streak": 11,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "专为 Stitch MCP（模型上下文协议）服务器设计的 Agent 技能库，遵循 Agent Skills 开放标准，用于增强 Cursor、Claude Code、Gemini CLI 等 AI 编程助手的工具调用能力。",
         "configuration": "需要 Stitch MCP 运行环境，兼容的 AI 编程 Agent（如 Cursor），以及 Node.js/TypeScript 或 Python 的基础开发与运行环境。"
@@ -2802,8 +2802,8 @@
       }
     },
     "alibaba/open-code-review": {
-      "streak": 12,
-      "last_seen_date": "2026-11-25",
+      "streak": 13,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "阿里巴巴开源的混合架构代码评审工具。采用“确定性流水线 + LLM Agent”架构，提供精准的行级审查注释，内置 NPE、线程安全、XSS 和 SQL 注入等安全规则，并兼容 OpenAI 和 Anthropic 等主流大模型。",
         "configuration": "需要代码托管平台（如 GitHub、GitLab）的集成权限，支持 Docker 部署，并需配置兼容的大语言模型（LLM）API 密钥及运行后端服务的相关服务器环境。"
@@ -3434,8 +3434,8 @@
       }
     },
     "cathrynlavery/diagram-design": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "专为 Claude Code 提供的 29 种编辑图表类型，采用独立的 HTML + SVG 格式，不依赖复杂的第三方渲染库。",
         "configuration": "无需复杂的配置，任何支持 HTML 和 SVG 的现代浏览器或 AI 终端环境均可直接使用。"
@@ -3586,8 +3586,8 @@
       }
     },
     "HKUDS/CLI-Anything": {
-      "streak": 7,
-      "last_seen_date": "2026-11-25",
+      "streak": 8,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "旨在将各种传统软件转化为适用于 AI Agent（智能体）的原生应用。通过 CLI-Hub 提供的统一命令行交互通道，使大语言模型（LLM）智能体能够无缝操控和调度各类软件系统。",
         "configuration": "通常需要 Python 3.8+ 运行环境，安装项目所需的依赖库，配置大语言模型（如 OpenAI 等）的 API 密钥，并在支持标准命令行操作的操作系统（如 Linux, macOS, Windows）下运行。"
@@ -4090,8 +4090,8 @@
       }
     },
     "jingyaogong/minimind": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "该项目旨在帮助用户在短时间（约2小时）内从零开始训练一个6400万（64M）参数的超轻量级大语言模型（LLM），非常适合用于大模型原理的教学、学习与实验。",
         "configuration": "需要 Python 开发环境及 PyTorch 深度学习框架。由于模型体积极小，硬件门槛极低，普通的消费级显卡（如 RTX 3090 或更低端显卡）即可在数小时内完成模型的训练与推理。"
@@ -4746,8 +4746,8 @@
       }
     },
     "zhouxiaoka/autoclip": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一款基于 AI 驱动的智能视频高光提取与自动剪辑的二创工具，能够自动识别并切分视频中的精彩瞬间。",
         "configuration": "通常需要 Python 运行环境，用于视频处理的 FFmpeg 工具。由于涉及 AI 模型推理，建议配置具有 GPU 算力的硬件设备，并安装相关的深度学习框架和依赖库。"
@@ -5786,8 +5786,8 @@
       }
     },
     "meta/astryx": {
-      "streak": 11,
-      "last_seen_date": "2026-11-25",
+      "streak": 12,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个开源的设计系统，具备完全可定制性，并针对 AI Agent（智能体）集成进行了优化。",
         "configuration": "需要 Node.js 运行环境、现代前端开发框架（如 React/Tailwind 等）及对应的 JavaScript/TypeScript 包管理器（如 npm, pnpm 或 yarn）。"
@@ -5858,8 +5858,8 @@
       }
     },
     "GoogleChrome/modern-web-guidance-src": {
-      "streak": 14,
-      "last_seen_date": "2026-11-25",
+      "streak": 15,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "Google Chrome 团队提供的现代 Web 开发指南网站的源代码项目。",
         "configuration": "Node.js 运行环境以及前端包管理器（如 npm 或 yarn）。"
@@ -5922,8 +5922,8 @@
       }
     },
     "backnotprop/plannotator": {
-      "streak": 12,
-      "last_seen_date": "2026-11-25",
+      "streak": 13,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "专为人类与 AI Agent 协作打造的工作空间，支持需求塑造、决策规划、代码审查批注、团队共享以及一键将反馈发送给 Agent。",
         "configuration": "需要 Node.js 或 Docker 部署环境、Web 浏览器终端支持以及连接底层 Agent/LLM 服务的配置。"
@@ -5938,8 +5938,8 @@
       }
     },
     "tradermonty/claude-trading-skills": {
-      "streak": 7,
-      "last_seen_date": "2026-11-25",
+      "streak": 8,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "面向股票投资者和交易员的 Claude Code 技能扩展包，提供市场分析、技术分析图表、经济日历、股票筛选和交易策略开发等功能。",
         "configuration": "需要安装 Claude Code CLI 工具、Python/Node.js 环境以及相关金融数据源（如相关 API 密钥）的配置。"
@@ -5954,8 +5954,8 @@
       }
     },
     "ag-ui-protocol/ag-ui": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个 Agent 与用户交互（AG-UI）协议，旨在简化并标准化将 AI Agent（智能体）集成到前端应用中的过程。",
         "configuration": "需要 JavaScript/TypeScript 前端开发环境（如 Node.js），并结合对应的前端框架（如 React、Vue 等）使用。"
@@ -5986,8 +5986,8 @@
       }
     },
     "elementalsouls/Claude-BugHunter": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "专为 Claude Code 设计的漏洞挖掘与外部红队渗透测试技能包，集成 82 项技能、15 个斜杠命令、681 种已披露报告模式，覆盖 24 类核心漏洞及企业身份/基础设施攻击矩阵。",
         "configuration": "需要运行 Claude Code 工具环境，依赖 Python/Node.js 环境以及常规的 Web 与网络安全测试命令行工具。"
@@ -6058,8 +6058,8 @@
       }
     },
     "openvinotoolkit/openvino": {
-      "streak": 7,
-      "last_seen_date": "2026-11-25",
+      "streak": 8,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一个开源的 AI 推理优化与部署工具包，旨在加速深度学习模型在各种硬件设备上的推理性能。",
         "configuration": "支持 C++ 和 Python 开发环境；运行在 Linux、Windows 或 macOS 系统上；通常需要 Intel CPU、集成/独立 GPU、NPU 或相关硬件加速驱动。"
@@ -6074,35 +6074,43 @@
       }
     },
     "mjmirza/app-store-compliance": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "提供避免 App Store 和 Google Play 审核被拒的指南与预提交检查工具，包含 117 种拒绝模式修复方案、隐私清单检查及合规时间线追踪。",
         "configuration": "主要是文档、规则清单与检查脚本；无需特殊硬件，可作为 Skill 插件集成到各类 AI 编程 Agent（如 Cursor、Claude 等）中使用。"
       }
     },
     "Tracer-Cloud/opensre": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "专为 CI/CD 流水线可靠性设计的开源 SRE（站点可靠性工程）Agent，用于自动诊断和优化持续集成/部署过程中的故障。",
         "configuration": "需要 Docker 或 Kubernetes 部署环境；需集成现有的 CI/CD 平台（如 GitHub Actions、GitLab CI 等）并提供相应的 API 密钥与访问权限。"
       }
     },
     "toeverything/AFFiNE": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "融合了 Notion（文档）和 Miro（白板）特性的下一代开源知识库工具，支持划、整理与创作，主打隐私优先与自托管。",
         "configuration": "支持使用 Docker 一键部署服务端；源码构建需 Node.js、Yarn 及 Rust 编译环境；客户端支持主流 Web 浏览器及 Windows/macOS/Linux 操作系统。"
       }
     },
     "XiaoYouChR/Ghost-Downloader-3": {
-      "streak": 6,
-      "last_seen_date": "2026-11-25",
+      "streak": 7,
+      "last_seen_date": "2026-11-26",
       "summary": {
         "what_it_does": "一款集大成的全能下载工具，支持 HTTP/HTTPS、BT种子、磁力链接等多协议的高速多线程下载与资源管理。",
         "configuration": "适用于 Windows/macOS 等桌面操作系统，通常需要 Node.js/Electron 运行环境，以及内置或外部的下载引擎（如 Aria2）。"
+      }
+    },
+    "n8n-io/nod": {
+      "streak": 1,
+      "last_seen_date": "2026-11-26",
+      "summary": {
+        "what_it_does": "这是一个开源的个人 AI 代理，拥有操作电脑的能力。它可以在真实网站上自动催收发票、准备会议资料、取消服务试用等，并在执行关键操作前向用户确认。由 n8n 开发。",
+        "configuration": "需运行在本地计算机上，支持自定义并配置用户选择的 AI 模型。"
       }
     }
   }
